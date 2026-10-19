@@ -11278,10 +11278,7 @@
 	rite = manichean
 	holding = castle_holding
 	954.2.22 = {
-		rite = sarvastivada
-	}
-	1001.1.1 = {
-		rite = yogacara
+		rite = vajrayana
 	}
 	1066.1.1 = {
 		buildings = {
@@ -11307,10 +11304,7 @@
 	rite = manichean
 	holding = castle_holding
 	954.2.22 = {
-		rite = sarvastivada
-	}
-	1001.1.1 = {
-		rite = yogacara
+		rite = vajrayana
 	}
 }
 7460 = {	#Fukang
@@ -11340,10 +11334,7 @@
 	rite = manichean
 	holding = castle_holding
 	954.2.22 = {
-		rite = sarvastivada
-	}
-	1001.1.1 = {
-		rite = yogacara
+		rite = vajrayana
 	}
 }
 1449 = {	#Bugur	AKA Luntai
@@ -11351,10 +11342,7 @@
 	rite = manichean
 	holding = castle_holding
 	954.2.22 = {
-		rite = sarvastivada
-	}
-	1001.1.1 = {
-		rite = yogacara
+		rite = vajrayana
 	}
 }
 7466 = {	#Manas
@@ -11396,10 +11384,7 @@
 	rite = manichean
 	holding = castle_holding
 	954.2.22 = {
-		rite = sarvastivada
-	}
-	1001.1.1 = {
-		rite = yogacara
+		rite = vajrayana
 	}
 }
 9617 = {	#Minggam
@@ -11420,10 +11405,7 @@
 	rite = manichean
 	holding = castle_holding
 	954.2.22 = {
-		rite = sarvastivada
-	}
-	1001.1.1 = {
-		rite = yogacara
+		rite = vajrayana
 	}
 }
 
@@ -11636,14 +11618,11 @@
 	
 	# Misc
 	culture = uyghur
-	rite = sarvastivada
+	rite = vajrayana
 	
 	holding = castle_holding
 	
 	# History
-	1001.1.1 = {
-		rite = yogacara
-	}
 }
 7500 = {	#Sulugu
 	#On map AAA, south of lake Ulungur
@@ -13709,7 +13688,7 @@ rite = magyar_pagan
 	culture = polyan
 	867.1.1 = { culture = ulich }
 	1030.1.1 = { culture = russian }
-	rite = slavic_east
+	rite = slavic_pagan
 	
 	# History
 	1055.1.1 = {rite = byzantine_rite}
@@ -13734,7 +13713,7 @@ rite = magyar_pagan
 	culture = polyan
 	867.1.1 = { culture = ulich }
 	1030.1.1 = { culture = russian }
-	rite = slavic_east
+	rite = slavic_pagan
 	
 	# History
 	1055.1.1 = {rite = byzantine_rite}
@@ -13772,7 +13751,7 @@ rite = magyar_pagan
 # Misc
 culture = polyan
 1000.1.1 = { culture = russian }
-rite = slavic_east
+rite = slavic_pagan
 
 # History
 988.1.1 = {rite = byzantine_rite }
@@ -16005,11 +15984,8 @@ rite = tengri_pagan
     rite = tengri_pagan
 
     900.1.1 = {
-        rite = sarvastivada
+        rite = vajrayana
     }
-	1001.1.1 = {
-		rite = yogacara
-	}
 	
 	#holding = castle_holding
 	
@@ -16084,14 +16060,11 @@ rite = tengri_pagan
 	
 	# Misc
 	culture = yagma
-	rite = sarvastivada
+	rite = vajrayana
 	
 	#holding = castle_holding
 	
 	# History
-	1001.1.1 = {
-		rite = yogacara
-	}
 	1080.1.1 = {
 		rite = hanafi
 	}
@@ -16131,15 +16104,12 @@ rite = tengri_pagan
 	
 	# Misc
 	culture = yagma
-	rite = sarvastivada
+	rite = vajrayana
 	
 	#holding = castle_holding
 	
 	# History
 
-	1001.1.1 = {
-		rite = yogacara
-	}
 }
 
 7205 = {	#Iren-Chabirga
@@ -43949,16 +43919,13 @@ rite = tengri_pagan
 	
 	# Misc
 	culture = khitan
-	rite = sarvastivada
+	rite = vajrayana
 	
 	holding = castle_holding
 	
 	# History
 	848.1.1 = {		#Gansu Yughur Kingdom
 		culture = uyghur
-	}
-	1001.1.1 = {
-		rite = yogacara
 	}
 	
 	effect = {
@@ -44577,16 +44544,13 @@ rite = tengri_pagan
 	
 	# Misc
 	culture = khitan
-	rite = sarvastivada
+	rite = vajrayana
 	
 	holding = castle_holding
 	
 	# History
 	848.1.1 = {		#Gansu Yughur Kingdom
 		culture = uyghur
-	}
-	1001.1.1 = {
-		rite = yogacara
 	}
 }
 
@@ -44595,16 +44559,13 @@ rite = tengri_pagan
 	
 	# Misc
 	culture = khitan
-	rite = sarvastivada
+	rite = vajrayana
 	
 	holding = castle_holding
 	
 	# History
 	848.1.1 = {		#Gansu Yughur Kingdom
 		culture = uyghur
-	}
-	1001.1.1 = {
-		rite = yogacara
 	}
 }
 
@@ -44628,16 +44589,13 @@ rite = tengri_pagan
 	
 	# Misc
 	culture = khitan
-	rite = sarvastivada
+	rite = vajrayana
 	
 	holding = none
 	
 	# History
 	848.1.1 = {		#Gansu Yughur Kingdom
 		culture = uyghur
-	}
-	1001.1.1 = {
-		rite = yogacara
 	}
 }
 
@@ -44676,16 +44634,13 @@ rite = tengri_pagan
 	
 	# Misc
 	culture = khitan
-	rite = sarvastivada
+	rite = vajrayana
 	
 	holding = castle_holding
 	
 	# History
 	848.1.1 = {		#Gansu Yughur Kingdom
 		culture = uyghur
-	}
-	1001.1.1 = {
-		rite = yogacara
 	}
 }
 
@@ -44694,16 +44649,13 @@ rite = tengri_pagan
 	
 	# Misc
 	culture = khitan
-	rite = sarvastivada
+	rite = vajrayana
 	
 	holding = castle_holding
 	
 	# History
 	848.1.1 = {		#Gansu Yughur Kingdom
 		culture = uyghur
-	}
-	1001.1.1 = {
-		rite = yogacara
 	}
 }
 
@@ -66151,7 +66103,7 @@ rite = antiochian_rite
 ###c_esztergom
 3808 = {	#Esztergom
 	culture = nitravan
-	rite = slavic_west
+	rite = slavic_pagan
 	holding = tribal_holding
 
 	990.1.1 = { rite = roman_rite }
@@ -66398,7 +66350,7 @@ rite = antiochian_rite
 ###c_nyitra
 3831 = {	#Nyitra
 	culture = nitravan
-	rite = slavic_west
+	rite = slavic_pagan
 
 	940.1.1 = { rite = roman_rite }
 
@@ -66457,7 +66409,7 @@ rite = antiochian_rite
 ###c_orava
 525 = {		#Orava
 	culture = nitravan
-	rite = slavic_west
+	rite = slavic_pagan
 	holding = castle_holding
 	
 	900.1.1 = {
@@ -66472,7 +66424,7 @@ rite = antiochian_rite
 ###c_trenscen
 3811 = {	#Trenscen
 	culture = nitravan
-	rite = slavic_west
+	rite = slavic_pagan
 
 	940.1.1 = { rite = roman_rite }
 
@@ -66506,7 +66458,7 @@ rite = antiochian_rite
 ###c_lipto
 3854 = {	#Liptoujvar
 	culture = nitravan
-	rite = slavic_west
+	rite = slavic_pagan
 
 	940.1.1 = { rite = roman_rite }
 
@@ -66524,7 +66476,7 @@ rite = antiochian_rite
 ###c_zolyom
 3856 = {	#Zolyom
 	culture = nitravan
-	rite = slavic_west
+	rite = slavic_pagan
 	holding = castle_holding
 	
 	926.1.1 = { culture = mogyer
@@ -66543,7 +66495,7 @@ rite = antiochian_rite
 ###c_bars
 3846 = {	#Bars
 	culture = nitravan
-	rite = slavic_west
+	rite = slavic_pagan
 
 	940.1.1 = { rite = roman_rite }
 
@@ -66561,7 +66513,7 @@ rite = antiochian_rite
 ###c_hont
 3848 = {	#Hont
 	culture = nitravan
-	rite = slavic_west
+	rite = slavic_pagan
 	holding = castle_holding
 
 	#926.1.1 = { culture = mogyer
@@ -66620,7 +66572,7 @@ rite = antiochian_rite
 3897 = {	#Ungvar
 	# Misc
 	culture = belocroat
-	rite = slavic_east
+	rite = slavic_pagan
 
 	holding = tribal_holding
 	
@@ -66640,7 +66592,7 @@ rite = antiochian_rite
 3885 = {	#Zemplen
 	# Misc
 	culture = belocroat
-	rite = slavic_east
+	rite = slavic_pagan
 
 	holding = tribal_holding
 	
@@ -66680,7 +66632,7 @@ rite = antiochian_rite
 ###c_borsod
 3870 = {	#Borsod
 	culture = nitravan
-	rite = slavic_west
+	rite = slavic_pagan
 	holding = castle_holding
 
 	#926.1.1 = { 
@@ -66704,7 +66656,7 @@ rite = antiochian_rite
 533 = {		#Saris
 	# Misc
 	culture = belocroat
-	rite = slavic_east
+	rite = slavic_pagan
 
 
 	holding = tribal_holding
@@ -66724,7 +66676,7 @@ rite = antiochian_rite
 3862 = {	#Locse
 	# Misc
 	culture = belocroat
-	rite = slavic_east
+	rite = slavic_pagan
 
 	holding = tribal_holding
 	
@@ -66744,7 +66696,7 @@ rite = antiochian_rite
 538 = {		#Abauj
 	# Misc
 	culture = belocroat
-	rite = slavic_east
+	rite = slavic_pagan
 
 	holding = tribal_holding
 
@@ -66816,7 +66768,7 @@ rite = antiochian_rite
 537 = {		#Bereg
 	# Misc
 	culture = belocroat
-	rite = slavic_east
+	rite = slavic_pagan
 
 	holding = tribal_holding
 	
@@ -66852,7 +66804,7 @@ rite = antiochian_rite
 ###c_feher
 519 = {		#Feher
 	culture = vlach
-	rite = slavic_south
+	rite = slavic_pagan
 	800.1.1 = { rite = byzantine_rite }
 	
 	holding = tribal_holding
@@ -66862,11 +66814,10 @@ rite = antiochian_rite
 		#Date used to switch ti feudal_government in title history
 	}
 	1211.1.1 = {
+		rite = vlach_rite
 		culture = ardelean
 	}
-	1246.1.1 = {
-		rite = vlach_rite
-	}
+	
 }
 3935 = {	#Kukullovar
 	holding = none
@@ -66905,7 +66856,7 @@ rite = antiochian_rite
 ###c_szekelyfold
 540 = {		#Szekelyföld
 	culture = vlach
-	rite = slavic_south
+	rite = slavic_pagan
 	800.1.1 = { rite = byzantine_rite }
 	
 	holding = tribal_holding
@@ -66947,7 +66898,7 @@ rite = antiochian_rite
 ###c_barcasag
 3942 = {	#Brasso
 	culture = vlach
-	rite = slavic_south
+	rite = slavic_pagan
 	800.1.1 = { rite = byzantine_rite }
 	
 	holding = tribal_holding
@@ -66957,7 +66908,7 @@ rite = antiochian_rite
 		#Date used to switch ti feudal_government in title history
 	}
 	1190.1.1 = { culture = szasz } 
-	1246.1.1 = {
+	1211.1.1 = {
 		rite = vlach_rite
 	}
 }
@@ -66986,7 +66937,7 @@ rite = antiochian_rite
 3940 = {	#Fogaras
 	# Misc
 	culture = vlach
-	rite = slavic_south
+	rite = slavic_pagan
 	800.1.1 = { rite = byzantine_rite }
 	
 	holding = tribal_holding
@@ -66996,10 +66947,8 @@ rite = antiochian_rite
 		#Date used to switch ti feudal_government in title history
 	}
 	1211.1.1 = {
-		culture = ardelean
-	}
-	1246.1.1 = {
 		rite = vlach_rite
+		culture = ardelean
 	}
 	
 }
@@ -67011,7 +66960,7 @@ rite = antiochian_rite
 ###c_torda
 3924 = {	#Torda
 	culture = vlach
-	rite = slavic_south
+	rite = slavic_pagan
 
 	800.1.1 = { rite = byzantine_rite }
 	
@@ -67113,7 +67062,7 @@ rite = antiochian_rite
 ###c_hunyad
 3931 = {	#Vajdahunyad
 	culture = vlach
-	rite = slavic_south
+	rite = slavic_pagan
 	800.1.1 = { rite = byzantine_rite }
 	
 	holding = tribal_holding
@@ -67123,10 +67072,8 @@ rite = antiochian_rite
 		#Date used to switch ti feudal_government in title history
 	}
 	1211.1.1 = {
-		culture = ardelean
-	}
-	1246.1.1 = {
 		rite = vlach_rite
+		culture = ardelean
 	}
 }
 3932 = {	#Harszoc
@@ -67381,7 +67328,7 @@ rite = antiochian_rite
 ###c_krasso
 3882 = {	#Kraso
 	culture = vlach
-	rite = slavic_south
+	rite = slavic_pagan
 	800.1.1 = { rite = byzantine_rite }
 	
 	holding = tribal_holding
@@ -67391,7 +67338,7 @@ rite = antiochian_rite
 		holding = castle_holding
 		#Date used to switch ti feudal_government in title history
 	}
-	1246.1.1 = {
+	1211.1.1 = {
 		rite = vlach_rite
 	}
 	
@@ -67707,7 +67654,7 @@ rite = antiochian_rite
 ###c_dessau
 3023 = {	#DESSAU
 	culture = sorbian
-	rite = slavic_west
+	rite = slavic_pagan
 	holding = tribal_holding
 	867.1.1 = { rite = roman_rite }	
 	867.1.1 = {
@@ -67755,7 +67702,7 @@ rite = antiochian_rite
 ###c_magdeburg
 2906 = {	#MAGDEBURG
 	culture = lutici
-	rite = slavic_west
+	rite = slavic_pagan
 	867.1.1 = { rite = roman_rite }
 	
 						 
@@ -67814,7 +67761,7 @@ rite = antiochian_rite
 ###c_mansfeld
 2936 = {	#MANSFELD
 	culture = sorbian
-	rite = slavic_west
+	rite = slavic_pagan
 	holding = tribal_holding
 	997.1.1 = {
 		holding = castle_holding
@@ -67834,7 +67781,7 @@ rite = antiochian_rite
 ###c_mersenburg
 2935 = {	#MERSENBURG
 	culture = sorbian
-	rite = slavic_west
+	rite = slavic_pagan
 	holding = tribal_holding
 	937.1.1 = { rite = carolingian_christianity }
 	997.1.1 = {
@@ -68350,7 +68297,7 @@ rite = antiochian_rite
 ###c_meissen
 3027 = {	#MEISSEN
 	culture = sorbian
-	rite = slavic_west
+	rite = slavic_pagan
 	holding = tribal_holding
 	952.1.1 = { rite = carolingian_christianity }
 	968.1.1 = {
@@ -68374,7 +68321,7 @@ rite = antiochian_rite
 ###c_dresden
 3030 = {	#DRESDEN
 	culture = sorbian
-	rite = slavic_west
+	rite = slavic_pagan
 	holding = tribal_holding
 	952.1.1 = { rite = carolingian_christianity }
 	990.1.1 = {
@@ -68403,7 +68350,7 @@ rite = antiochian_rite
 ###c_wolkenstein
 3012 = {	#WOLKENSTEIN
 	culture = sorbian
-	rite = slavic_west
+	rite = slavic_pagan
 	holding = tribal_holding
 	
 	990.1.1 = {
@@ -68425,7 +68372,7 @@ rite = antiochian_rite
 ###c_osterland
 3021 = {	#EILENBURG
 	culture = sorbian
-	rite = slavic_west
+	rite = slavic_pagan
 	holding = tribal_holding
 	937.1.1 = { rite = carolingian_christianity }
 	960.1.1 = {
@@ -68438,7 +68385,7 @@ rite = antiochian_rite
 }
 3015 = {	#COLDITZ
 	culture = sorbian
-	rite = slavic_west
+	rite = slavic_pagan
 	holding = tribal_holding
 	997.1.1 = {
 		holding = castle_holding #First mentioned in 1046 but name likely has a slavic origin so there was probably a settlement already here
@@ -68460,7 +68407,7 @@ rite = antiochian_rite
 ###c_naumburg
 3020 = {	#NAUMBURG
 	culture = sorbian
-	rite = slavic_west
+	rite = slavic_pagan
 	holding = tribal_holding
 	1000.1.1 = { culture = thuringian }
 	1054.7.16 = {
@@ -68482,7 +68429,7 @@ rite = antiochian_rite
 ###c_vogtland
 3039 = {	#REICHENBACH
 	culture = sorbian
-	rite = slavic_west
+	rite = slavic_pagan
 	holding = tribal_holding
 	883.1.1 = { rite = carolingian_christianity }
 	1000.1.1 = { culture = thuringian }
@@ -68519,7 +68466,7 @@ rite = antiochian_rite
 ###c_cottbus
 3181 = {	#COTTBUS
 	culture = sorbian
-	rite = slavic_west
+	rite = slavic_pagan
 	holding = tribal_holding
 	937.1.1 = { rite = carolingian_christianity }
 	950.1.1 = {
@@ -68546,7 +68493,7 @@ rite = antiochian_rite
 ###c_gorlitz
 2980 = {	#GORLITZ
 	culture = sorbian
-	rite = slavic_west
+	rite = slavic_pagan
 	holding = tribal_holding
 	937.1.1 = { rite = carolingian_christianity }
 	990.1.1 = {
@@ -68570,7 +68517,7 @@ rite = antiochian_rite
 ###c_juterbog
 3180 = {	#JUTERBOG
 	culture = sorbian
-	rite = slavic_west
+	rite = slavic_pagan
 	holding = tribal_holding
 	937.1.1 = { rite = carolingian_christianity }
 	990.1.1 = {
@@ -68590,7 +68537,7 @@ rite = antiochian_rite
 ###c_wittenberg
 3173 = {	#WITTENBERG
 	culture = sorbian
-	rite = slavic_west
+	rite = slavic_pagan
 	holding = tribal_holding
 	975.1.1 = {
 		holding = castle_holding
@@ -68608,7 +68555,7 @@ rite = antiochian_rite
 ###c_brene
 3175 = {	#BRENE
 	culture = polabian
-	rite = slavic_west
+	rite = slavic_pagan
 	holding = none
 	
 	1000.1.1 = {
@@ -68617,12 +68564,12 @@ rite = antiochian_rite
 }
 3024 = {	#DUBEN
 	culture = polabian
-	rite = slavic_west
+	rite = slavic_pagan
 	holding = none
 }
 3025 = {	#TORGAU
 	culture = sorbian
-	rite = slavic_west
+	rite = slavic_pagan
 	holding = none
 	883.1.1 = { rite = roman_rite } #reducing slavic paganism as it goes way too far in 1066
 	950.1.1 = {
@@ -68637,7 +68584,7 @@ rite = antiochian_rite
 ###c_spreewald
 3140 = {	#SPREEWALD
 	culture = sorbian
-	rite = slavic_west
+	rite = slavic_pagan
 	holding = tribal_holding
 	937.1.1 = { rite = carolingian_christianity }
 	990.1.1 = {
@@ -68656,7 +68603,7 @@ rite = antiochian_rite
 ###c_naumberg/Lubsko
 3143 = {	#NAUMBERG = LUBSKO
 	culture = sorbian
-	rite = slavic_west
+	rite = slavic_pagan
 	holding = tribal_holding
 	937.1.1 = { rite = carolingian_christianity }
 	1000.1.1 = {
@@ -68677,7 +68624,7 @@ rite = antiochian_rite
 ###c_lubeck
 2804 = {	#LÜBECK
 	culture = obotrite
-	rite = slavic_west
+	rite = slavic_pagan
 	holding = tribal_holding
 	# Christianity only arrived with the Danish king Valdemar I
 	950.1.1 = {
@@ -68701,7 +68648,7 @@ rite = antiochian_rite
 
 9666 = {	#LÜBECK
 	culture = polabian
-	rite = slavic_west
+	rite = slavic_pagan
 	holding = none
 	# Christianity only arrived with the Danish king Valdemar I
 
@@ -68718,7 +68665,7 @@ rite = antiochian_rite
 }
 2801 = {	#KIEL
 	culture = obotrite
-	rite = slavic_west
+	rite = slavic_pagan
 	holding = tribal_holding
 	# Christianity only arrived with the Danish king Valdemar I
 	1172.1.1 = {
@@ -69690,7 +69637,7 @@ rite = antiochian_rite
 	# Misc
 	culture = polyan
 	990.1.1 = { culture = russian }
-	rite = slavic_east
+	rite = slavic_pagan
 	
 	holding = tribal_holding
 	
@@ -69715,7 +69662,7 @@ rite = antiochian_rite
 	culture = polyan
 	867.1.1 = { culture = svear } #So the Norse don't decide to convert their culture which prevents the formation of Russian
 	990.1.1 = { culture = russian }
-	rite = slavic_east
+	rite = slavic_pagan
 	
 	holding = tribal_holding
 	
@@ -69757,7 +69704,7 @@ rite = antiochian_rite
 	culture = drevlian
 	867.1.1 = { culture = dregovich }
 	990.1.1 = { culture = russian }
-	rite = slavic_east
+	rite = slavic_pagan
 	
 	#holding = castle_holding
 	
@@ -69787,7 +69734,7 @@ rite = antiochian_rite
 	
 	# Misc
 	culture = russian
-	rite = slavic_east
+	rite = slavic_pagan
 	
 	#holding = castle_holding
 	
@@ -69803,7 +69750,7 @@ rite = antiochian_rite
 	# Misc
 	culture = severian
 	1030.1.1 = { culture = russian }
-	rite = slavic_east
+	rite = slavic_pagan
 	
 	holding = tribal_holding
 	988.1.2 = {
@@ -69828,7 +69775,7 @@ rite = antiochian_rite
 	
 	# Misc
 	culture = alan
-	rite = slavic_east
+	rite = slavic_pagan
 	
 	#holding = castle_holding
 	holding = tribal_holding
@@ -69857,7 +69804,7 @@ rite = antiochian_rite
 	# Misc
 	culture = severian
 	1030.1.1 = { culture = russian }
-	rite = slavic_east
+	rite = slavic_pagan
 	
 	#holding = castle_holding
 	
@@ -69875,7 +69822,7 @@ rite = antiochian_rite
 	
 	# Misc
 	culture = russian
-	rite = slavic_east
+	rite = slavic_pagan
 	
 	holding = none
 	
@@ -69893,7 +69840,7 @@ rite = antiochian_rite
 	
 	# Misc
 	culture = russian
-	rite = slavic_east
+	rite = slavic_pagan
 	
 	holding = none
 	935.1.1 = {
@@ -69907,7 +69854,7 @@ rite = antiochian_rite
 	
 	# Misc
 	culture = russian
-	rite = slavic_east
+	rite = slavic_pagan
 	
 	holding = none
 	
@@ -69915,7 +69862,7 @@ rite = antiochian_rite
 	
 	# History
 	980.1.1 = {
-		holding = castle_holding
+		#holding = castle_holding
 	}
 	989.9.15 = {
 		rite = slavic_rite
@@ -69928,7 +69875,7 @@ rite = antiochian_rite
 	
 	# Misc
 	culture = russian
-	rite = slavic_east
+	rite = slavic_pagan
 	
 	holding = none
 	
@@ -69948,7 +69895,7 @@ rite = antiochian_rite
 	
 	# Misc
 	culture = russian
-	rite = slavic_east
+	rite = slavic_pagan
 	
 	holding = none
 	
@@ -69969,7 +69916,7 @@ rite = antiochian_rite
 	
 	# Misc
 	culture = russian
-	rite = slavic_east
+	rite = slavic_pagan
 	
 	holding = none
 	
@@ -69989,7 +69936,7 @@ rite = antiochian_rite
 	culture = polyan
 	867.1.1 = { culture = drevlian }
 	990.1.1 = { culture = russian }
-	rite = slavic_east
+	rite = slavic_pagan
 	
 	holding = tribal_holding
 	
@@ -70012,7 +69959,7 @@ rite = antiochian_rite
 	
 	# Misc
 	culture = russian
-	rite = slavic_east
+	rite = slavic_pagan
 	
 	holding = none
 	
@@ -70032,7 +69979,7 @@ rite = antiochian_rite
 	
 	# Misc
 	culture = russian
-	rite = slavic_east
+	rite = slavic_pagan
 	
 	holding = none
 	
@@ -70050,7 +69997,7 @@ rite = antiochian_rite
 	
 	# Misc
 	culture = russian
-	rite = slavic_east
+	rite = slavic_pagan
 	
 	holding = none
 	
@@ -70070,7 +70017,7 @@ rite = antiochian_rite
 	culture = polyan
 	867.1.1 = { culture = drevlian }
 	990.1.1 = { culture = russian }
-	rite = slavic_east
+	rite = slavic_pagan
 	
 	holding = tribal_holding
 	
@@ -70093,7 +70040,7 @@ rite = antiochian_rite
 	
 	# Misc
 	culture = russian
-	rite = slavic_east
+	rite = slavic_pagan
 	
 	holding = none
 	
@@ -70113,7 +70060,7 @@ rite = antiochian_rite
 	
 	# Misc
 	culture = russian
-	rite = slavic_east
+	rite = slavic_pagan
 	
 	holding = none
 	
@@ -70134,7 +70081,7 @@ rite = antiochian_rite
 	
 	# Misc
 	culture = russian
-	rite = slavic_east
+	rite = slavic_pagan
 	
 	holding = none
 	
@@ -70154,7 +70101,7 @@ rite = antiochian_rite
 	culture = polyan
 	867.1.1 = { culture = drevlian }
 	990.1.1 = { culture = russian }
-	rite = slavic_east
+	rite = slavic_pagan
 	
 	holding = tribal_holding
 	
@@ -70177,7 +70124,7 @@ rite = antiochian_rite
 	
 	# Misc
 	culture = russian
-	rite = slavic_east
+	rite = slavic_pagan
 	
 	holding = none
 	
@@ -70195,7 +70142,7 @@ rite = antiochian_rite
 	
 	# Misc
 	culture = russian
-	rite = slavic_east
+	rite = slavic_pagan
 	
 	holding = none
 	
@@ -70215,7 +70162,7 @@ rite = antiochian_rite
 	culture = polyan
 	867.1.1 = { culture = ulich }
 	1030.1.1 = { culture = russian }
-	rite = slavic_east
+	rite = slavic_pagan
 	
 	holding = tribal_holding
 	
@@ -70238,7 +70185,7 @@ rite = antiochian_rite
 	
 	# Misc
 	culture = russian
-	rite = slavic_east
+	rite = slavic_pagan
 	
 	holding = none
 	
@@ -70256,7 +70203,7 @@ rite = antiochian_rite
 	
 	# Misc
 	culture = russian
-	rite = slavic_east
+	rite = slavic_pagan
 	
 	holding = none
 	
@@ -70274,7 +70221,7 @@ rite = antiochian_rite
 	
 	# Misc
 	culture = russian
-	rite = slavic_east
+	rite = slavic_pagan
 	
 	holding = none
 	
@@ -70292,7 +70239,7 @@ rite = antiochian_rite
 	
 	# Misc
 	culture = russian
-	rite = slavic_east
+	rite = slavic_pagan
 	
 	holding = none
 	
@@ -70310,7 +70257,7 @@ rite = antiochian_rite
 	
 	# Misc
 	culture = russian
-	rite = slavic_east
+	rite = slavic_pagan
 	
 	holding = none
 	
@@ -70330,7 +70277,7 @@ rite = antiochian_rite
 	culture = drevlian
 	867.1.1 = { culture = drevlian }
 	990.1.1 = { culture = russian }
-	rite = slavic_east
+	rite = slavic_pagan
 	
 	#holding = castle_holding
 	
@@ -70350,7 +70297,7 @@ rite = antiochian_rite
 	
 	# Misc
 	culture = russian
-	rite = slavic_east
+	rite = slavic_pagan
 	
 	holding = none
 	
@@ -70371,7 +70318,7 @@ rite = antiochian_rite
 	
 	# Misc
 	culture = russian
-	rite = slavic_east
+	rite = slavic_pagan
 	
 	holding = none
 	
@@ -70392,7 +70339,7 @@ rite = antiochian_rite
 	
 	# Misc
 	culture = russian
-	rite = slavic_east
+	rite = slavic_pagan
 	
 	holding = none
 	
@@ -70410,7 +70357,7 @@ rite = antiochian_rite
 	
 	# Misc
 	culture = russian
-	rite = slavic_east
+	rite = slavic_pagan
 	
 	holding = none
 	
@@ -70430,7 +70377,7 @@ rite = antiochian_rite
 	culture = drevlian
 	867.1.1 = { culture = dregovich }
 	990.1.1 = { culture = russian }
-	rite = slavic_east
+	rite = slavic_pagan
 	
 	#holding = castle_holding
 	
@@ -70450,7 +70397,7 @@ rite = antiochian_rite
 	
 	# Misc
 	culture = russian
-	rite = slavic_east
+	rite = slavic_pagan
 	
 	holding = none
 	
@@ -70468,7 +70415,7 @@ rite = antiochian_rite
 	
 	# Misc
 	culture = russian
-	rite = slavic_east
+	rite = slavic_pagan
 	
 	holding = none
 	
@@ -70486,7 +70433,7 @@ rite = antiochian_rite
 	
 	# Misc
 	culture = russian
-	rite = slavic_east
+	rite = slavic_pagan
 	
 	holding = none
 	
@@ -70504,7 +70451,7 @@ rite = antiochian_rite
 	
 	# Misc
 	culture = russian
-	rite = slavic_east
+	rite = slavic_pagan
 	
 	holding = none
 	
@@ -70522,7 +70469,7 @@ rite = antiochian_rite
 	
 	# Misc
 	culture = russian
-	rite = slavic_east
+	rite = slavic_pagan
 	
 	holding = none
 	
@@ -70541,7 +70488,7 @@ rite = antiochian_rite
 	867.1.1 = { culture = mogyer }
 	936.1.1 = { culture = severian }
 	1030.1.1 = { culture = russian }
-	rite = slavic_east
+	rite = slavic_pagan
 	
 	#holding = castle_holding
 	
@@ -70559,7 +70506,7 @@ rite = antiochian_rite
 	
 	# Misc
 	culture = russian
-	rite = slavic_east
+	rite = slavic_pagan
 	
 	holding = none
 	
@@ -70577,7 +70524,7 @@ rite = antiochian_rite
 	
 	# Misc
 	culture = russian
-	rite = slavic_east
+	rite = slavic_pagan
 	
 	holding = none
 	
@@ -70595,7 +70542,7 @@ rite = antiochian_rite
 	
 	# Misc
 	culture = russian
-	rite = slavic_east
+	rite = slavic_pagan
 	
 	holding = none
 	
@@ -70615,7 +70562,7 @@ rite = antiochian_rite
 	culture = alan
 	867.1.1 = { culture = severian }
 	1030.1.1 = { culture = russian }
-	rite = slavic_east
+	rite = slavic_pagan
 	
 	#holding = castle_holding
 	
@@ -70633,7 +70580,7 @@ rite = antiochian_rite
 	
 	# Misc
 	culture = russian
-	rite = slavic_east
+	rite = slavic_pagan
 	
 	holding = none
 	
@@ -70648,7 +70595,7 @@ rite = antiochian_rite
 	
 	# Misc
 	culture = russian
-	rite = slavic_east
+	rite = slavic_pagan
 	
 	holding = none
 	
@@ -70663,7 +70610,7 @@ rite = antiochian_rite
 	
 	# Misc
 	culture = russian
-	rite = slavic_east
+	rite = slavic_pagan
 	
 	holding = none
 	
@@ -70680,7 +70627,7 @@ rite = antiochian_rite
 	culture = alan
 	867.1.1 = { culture = polyan }
 	990.1.1 = { culture = russian }
-	rite = slavic_east
+	rite = slavic_pagan
 	
 	#holding = castle_holding
 	
@@ -70698,7 +70645,7 @@ rite = antiochian_rite
 	
 	# Misc
 	culture = russian
-	rite = slavic_east
+	rite = slavic_pagan
 	
 	holding = none
 	
@@ -70717,7 +70664,7 @@ rite = antiochian_rite
 	
 	# Misc
 	culture = russian
-	rite = slavic_east
+	rite = slavic_pagan
 	
 	holding = none
 	
@@ -70735,7 +70682,7 @@ rite = antiochian_rite
 	
 	# Misc
 	culture = russian
-	rite = slavic_east
+	rite = slavic_pagan
 	
 	holding = none
 	
@@ -70755,7 +70702,7 @@ rite = antiochian_rite
 	culture = alan
 	867.1.1 = { culture = severian }
 	1030.1.1 = { culture = russian }
-	rite = slavic_east
+	rite = slavic_pagan
 	
 	#holding = castle_holding
 	
@@ -70772,7 +70719,7 @@ rite = antiochian_rite
 	
 	# Misc
 	culture = russian
-	rite = slavic_east
+	rite = slavic_pagan
 	
 	holding = none
 	
@@ -70790,7 +70737,7 @@ rite = antiochian_rite
 	
 	# Misc
 	culture = russian
-	rite = slavic_east
+	rite = slavic_pagan
 	
 	holding = none
 	
@@ -70807,7 +70754,7 @@ rite = antiochian_rite
 	culture = alan
 	867.1.1 = { culture = severian }
 	1030.1.1 = { culture = russian }
-	rite = slavic_east
+	rite = slavic_pagan
 	
 	#holding = castle_holding
 	
@@ -70826,7 +70773,7 @@ rite = antiochian_rite
 	culture = alan
 	867.1.1 = { culture = severian }
 	1030.1.1 = { culture = russian }
-	rite = slavic_east
+	rite = slavic_pagan
 	
 	holding = tribal_holding
 	
@@ -70847,7 +70794,7 @@ rite = antiochian_rite
 	
 	# Misc
 	culture = russian
-	rite = slavic_east
+	rite = slavic_pagan
 	
 	holding = none
 	
@@ -70865,7 +70812,7 @@ rite = antiochian_rite
 	
 	# Misc
 	culture = russian
-	rite = slavic_east
+	rite = slavic_pagan
 	
 	holding = none
 	
@@ -70881,7 +70828,7 @@ rite = antiochian_rite
 	# Misc
 	culture = severian
 	990.1.1 = { culture = russian }
-	rite = slavic_east
+	rite = slavic_pagan
 	
 	holding = tribal_holding
 	
@@ -70902,7 +70849,7 @@ rite = antiochian_rite
 	
 	# Misc
 	culture = russian
-	rite = slavic_east
+	rite = slavic_pagan
 	
 	holding = none
 	
@@ -70920,7 +70867,7 @@ rite = antiochian_rite
 	
 	# Misc
 	culture = russian
-	rite = slavic_east
+	rite = slavic_pagan
 	
 	holding = none
 	
@@ -70939,7 +70886,7 @@ rite = antiochian_rite
 	# Misc
 	culture = severian
 	1030.1.1 = { culture = russian }
-	rite = slavic_east
+	rite = slavic_pagan
 	
 	#holding = castle_holding
 	
@@ -70957,7 +70904,7 @@ rite = antiochian_rite
 	
 	# Misc
 	culture = russian
-	rite = slavic_east
+	rite = slavic_pagan
 	
 	holding = none
 	
@@ -70975,7 +70922,7 @@ rite = antiochian_rite
 	
 	# Misc
 	culture = russian
-	rite = slavic_east
+	rite = slavic_pagan
 	
 	holding = none
 	
@@ -70992,7 +70939,7 @@ rite = antiochian_rite
 	culture = alan
 	867.1.1 = { culture = severian }
 	1030.1.1 = { culture = russian }
-	rite = slavic_east
+	rite = slavic_pagan
 	
 	#holding = castle_holding
 	
@@ -71009,7 +70956,7 @@ rite = antiochian_rite
 	
 	# Misc
 	culture = russian
-	rite = slavic_east
+	rite = slavic_pagan
 	
 	holding = none
 	
@@ -71024,7 +70971,7 @@ rite = antiochian_rite
 	
 	# Misc
 	culture = russian
-	rite = slavic_east
+	rite = slavic_pagan
 	
 	holding = none
 	
@@ -71041,7 +70988,7 @@ rite = antiochian_rite
 	culture = alan
 	867.1.1 = { culture = severian }
 	1030.1.1 = { culture = russian }
-	rite = slavic_east
+	rite = slavic_pagan
 	
 	#holding = castle_holding
 	
@@ -71058,7 +71005,7 @@ rite = antiochian_rite
 	
 	# Misc
 	culture = russian
-	rite = slavic_east
+	rite = slavic_pagan
 	
 	holding = none
 	
@@ -71076,7 +71023,7 @@ rite = antiochian_rite
 	
 	# Misc
 	culture = russian
-	rite = slavic_east
+	rite = slavic_pagan
 	
 	holding = none
 	
@@ -71096,7 +71043,7 @@ rite = antiochian_rite
 	culture = radimichi
 	867.1.1 = { culture = vyatichi }
 	990.1.1 = { culture = russian }
-	rite = slavic_east
+	rite = slavic_pagan
 	
 	#holding = castle_holding
 	
@@ -71113,7 +71060,7 @@ rite = antiochian_rite
 	
 	# Misc
 	culture = russian
-	rite = slavic_east
+	rite = slavic_pagan
 	
 	holding = none
 	
@@ -71131,7 +71078,7 @@ rite = antiochian_rite
 	
 	# Misc
 	culture = russian
-	rite = slavic_east
+	rite = slavic_pagan
 	
 	holding = none
 	
@@ -73761,7 +73708,7 @@ rite = antiochian_rite
 ###c_krakowska
 527 = {		#Krakow
 	culture = vistulan
-	rite = slavic_west
+	rite = slavic_pagan
 	holding = tribal_holding
 	966.4.14 = {
 		rite = roman_rite
@@ -73808,7 +73755,7 @@ rite = antiochian_rite
 ###c_sacz
 532 = {		#Sacz
 	culture = vistulan
-	rite = slavic_west
+	rite = slavic_pagan
 	holding = tribal_holding
 	1050.4.14 = {
 		rite = roman_rite
@@ -73849,7 +73796,7 @@ rite = antiochian_rite
 ###c_sandomierska
 531 = {		#Sandomierz
 	culture = vistulan
-	rite = slavic_west
+	rite = slavic_pagan
 	holding = tribal_holding
 	1000.4.14 = {
 		rite = roman_rite
@@ -73889,7 +73836,7 @@ rite = antiochian_rite
 ###c_stezycka
 4951 = {	#Stezyca
 	culture = masovian
-	rite = slavic_west
+	rite = slavic_pagan
 	holding = tribal_holding
 	1050.4.14 = {
 		rite = roman_rite
@@ -73904,7 +73851,7 @@ rite = antiochian_rite
 ###c_radomska
 4953 = {	#Radom
 	culture = vistulan
-	rite = slavic_west
+	rite = slavic_pagan
 	holding = tribal_holding
 	1050.4.14 = {
 		rite = roman_rite
@@ -73929,7 +73876,7 @@ rite = antiochian_rite
 ###c_lubelska
 4957 = {	#Lublin
 	culture = lendian
-	rite = slavic_west
+	rite = slavic_pagan
 	holding = tribal_holding
 	1050.4.14 = {
 		rite = roman_rite
@@ -73953,7 +73900,7 @@ rite = antiochian_rite
 ###c_tarnowska
 4965 = {	#Tarnow
 	culture = vistulan
-	rite = slavic_west
+	rite = slavic_pagan
 	holding = tribal_holding
 	1050.4.14 = {
 		rite = roman_rite
@@ -73975,7 +73922,7 @@ rite = antiochian_rite
 ###c_poznanska
 4900 = {	#Poznan
 	culture = polans
-	rite = slavic_west
+	rite = slavic_pagan
 	holding = tribal_holding
 	990.1.1 = { culture = polish }
 	1050.4.14 = {
@@ -74015,7 +73962,7 @@ rite = antiochian_rite
 ###c_gnieznienska
 4905 = {	#Gniezno
 	culture = polans
-	rite = slavic_west
+	rite = slavic_pagan
 	holding = tribal_holding
 	867.1.1 = {
 		buildings = {
@@ -74047,7 +73994,7 @@ rite = antiochian_rite
 ###c_kaliska
 4909 = {	#Kalisz
 	culture = polans
-	rite = slavic_west
+	rite = slavic_pagan
 	holding = tribal_holding
 	966.4.14 = {
 		rite = roman_rite
@@ -74068,7 +74015,7 @@ rite = antiochian_rite
 ###c_wschowska
 4912 = {	#Wschowa
 	culture = polans
-	rite = slavic_west
+	rite = slavic_pagan
 	holding = tribal_holding
 	966.4.14 = {
 		rite = roman_rite
@@ -74092,7 +74039,7 @@ rite = antiochian_rite
 ###c_krajna
 4915 = {	#Naklo
 	culture = polans
-	rite = slavic_west
+	rite = slavic_pagan
 	holding = tribal_holding
 	966.4.14 = {
 		rite = roman_rite
@@ -74113,7 +74060,7 @@ rite = antiochian_rite
 ###c_lubusz
 3149 = {	#Lebus (Lubusz)
 	culture = silesian
-	rite = slavic_west
+	rite = slavic_pagan
 	holding = tribal_holding
 	867.1.1 = { culture = polabian }
 	966.4.14 = {
@@ -74142,7 +74089,7 @@ rite = antiochian_rite
 ###c_plocka
 529 = {		#Plock
 	culture = masovian
-	rite = slavic_west
+	rite = slavic_pagan
 	holding = tribal_holding
 	1000.4.14 = {
 		rite = roman_rite
@@ -74174,7 +74121,7 @@ rite = antiochian_rite
 ###c_czerska
 530 = {		#Czersk
 	culture = masovian
-	rite = slavic_west
+	rite = slavic_pagan
 	holding = tribal_holding
 	1000.4.14 = {
 		rite = roman_rite
@@ -74205,7 +74152,7 @@ rite = antiochian_rite
 ###c_gostyninska
 4940 = {	#Gostynin
 	culture = masovian
-	rite = slavic_west	
+	rite = slavic_pagan	
 	holding = tribal_holding
 	1050.4.14 = {
 		rite = roman_rite
@@ -74232,7 +74179,7 @@ rite = antiochian_rite
 ###c_lomzynska
 4943 = {	#Lomza
 	culture = masovian
-	rite = slavic_west
+	rite = slavic_pagan
 	holding = tribal_holding
 	990.1.1 = { culture = masovian_kingdom }
 	1050.4.14 = {
@@ -74253,7 +74200,7 @@ rite = antiochian_rite
 ###c_zakroczymska
 4946 = {	#Zakroczym
 	culture = masovian
-	rite = slavic_west
+	rite = slavic_pagan
 	holding = tribal_holding
 	1050.4.14 = {
 		rite = roman_rite
@@ -74281,7 +74228,7 @@ rite = antiochian_rite
 ###c_opole
 3052 = {	#Opole
 	culture = opolan
-	rite = slavic_west
+	rite = slavic_pagan
 	holding = tribal_holding
 	966.4.14 = {
 		rite = roman_rite
@@ -74305,7 +74252,7 @@ rite = antiochian_rite
 ###c_brzeg
 3049 = {	#Brzeg
 	culture = opolan
-	rite = slavic_west
+	rite = slavic_pagan
 	holding = tribal_holding
 	990.4.14 = {
 		rite = roman_rite
@@ -74329,7 +74276,7 @@ rite = antiochian_rite
 ###c_nysa
 3048 = {	#Nysa
 	culture = opolan
-	rite = slavic_west
+	rite = slavic_pagan
 	holding = tribal_holding
 	990.4.14 = {
 		rite = roman_rite
@@ -74353,7 +74300,7 @@ rite = antiochian_rite
 ###c_cieszyn
 3040 = {	#Cieszyn
 	culture = golensizi
-	rite = slavic_west
+	rite = slavic_pagan
 	holding = tribal_holding
 	966.4.14 = {
 		rite = roman_rite
@@ -74371,7 +74318,7 @@ rite = antiochian_rite
 ###c_ratibor
 3042 = {	#Ratibor / Raciborz
 	culture = golensizi
-	rite = slavic_west
+	rite = slavic_pagan
 	holding = tribal_holding
 	990.1.1 = {
 		rite = roman_rite
@@ -74389,7 +74336,7 @@ rite = antiochian_rite
 ###c_bethen
 3044 = {	#Bethen / Bytom
 	culture = opolan
-	rite = slavic_west
+	rite = slavic_pagan
 	holding = tribal_holding
 	966.4.14 = {
 		rite = roman_rite
@@ -74408,7 +74355,7 @@ rite = antiochian_rite
 ###c_breslau
 3045 = {	#Breslau / Wroclaw
 	culture = silesian
-	rite = slavic_west
+	rite = slavic_pagan
 	holding = tribal_holding
 	990.4.14 = {
 		rite = roman_rite
@@ -74435,7 +74382,7 @@ rite = antiochian_rite
 ###c_miliez
 3061 = {	#Miliez
 	culture = silesian
-	rite = slavic_west
+	rite = slavic_pagan
 	holding = tribal_holding
 	966.4.14 = {
 		rite = roman_rite
@@ -74453,7 +74400,7 @@ rite = antiochian_rite
 ###c_schweibus
 3145 = {	#Schweibus / Swiebodzin
 	culture = silesian
-	rite = slavic_west
+	rite = slavic_pagan
 	holding = tribal_holding
 	966.4.14 = {
 		rite = roman_rite
@@ -74479,7 +74426,7 @@ rite = antiochian_rite
 ###c_grunberg
 3064 = {	#Grunberg / Zielona Gora
 	culture = silesian
-	rite = slavic_west
+	rite = slavic_pagan
 	holding = tribal_holding
 	990.1.1 = {
 		rite = roman_rite
@@ -74505,7 +74452,7 @@ rite = antiochian_rite
 ###c_sprottau
 3067 = {	#Sprottau / szprotawa
 	culture = silesian
-	rite = slavic_west
+	rite = slavic_pagan
 	holding = tribal_holding
 	990.4.14 = {
 		rite = roman_rite
@@ -74530,7 +74477,7 @@ rite = antiochian_rite
 ###c_przemkow
 3068 = {	#Przemkow
 	culture = silesian
-	rite = slavic_west
+	rite = slavic_pagan
 	holding = tribal_holding
 	990.4.14 = {
 		rite = roman_rite
@@ -74556,7 +74503,7 @@ rite = antiochian_rite
 ###c_legnica
 3058 = {	#Legnica
 	culture = silesian
-	rite = slavic_west
+	rite = slavic_pagan
 	holding = tribal_holding
 	1050.4.14 = {
 		rite = roman_rite
@@ -74582,7 +74529,7 @@ rite = antiochian_rite
 ###c_kujawy
 4918 = {	#Kruszwica
 	culture = polans
-	rite = slavic_west
+	rite = slavic_pagan
 	holding = tribal_holding
 	997.4.14 = {
 		rite = roman_rite
@@ -74612,7 +74559,7 @@ rite = antiochian_rite
 ###c_dobrzynska
 4922 = {	#Dobrzyn
 	culture = masovian
-	rite = slavic_west
+	rite = slavic_pagan
 	holding = tribal_holding
 	1050.4.14 = {
 		rite = roman_rite
@@ -74629,7 +74576,7 @@ rite = antiochian_rite
 ###c_leczycka
 4924 = {	#Leczyca
 	culture = polans
-	rite = slavic_west
+	rite = slavic_pagan
 	holding = tribal_holding
 	966.4.14 = {
 		rite = roman_rite
@@ -74647,7 +74594,7 @@ rite = antiochian_rite
 ###c_sieradzka
 528 = {		#Sieradz
 	culture = polans
-	rite = slavic_west
+	rite = slavic_pagan
 	holding = tribal_holding
 	966.4.14 = {
 		rite = roman_rite
@@ -74680,7 +74627,7 @@ rite = antiochian_rite
 ###c_wielunska
 4931 = {	#Wielun
 	culture = polans
-	rite = slavic_west
+	rite = slavic_pagan
 	holding = tribal_holding
 	966.4.14 = {
 		rite = roman_rite
@@ -78174,7 +78121,7 @@ rite = antiochian_rite #no syriac in CK3
 501 = {	# 501 - Naissus
 	# Misc
 culture = bulgarian
-rite = slavic_south
+rite = slavic_pagan
 	
 	# History
 	
@@ -78194,7 +78141,7 @@ rite = slavic_south
 # 506 - Vidin
 506 = {	# 506 - Vidin
 culture = bulgarian
-rite = slavic_south
+rite = slavic_pagan
 
 	
 	# History
@@ -78608,7 +78555,7 @@ rite = slavic_south
 # 3664 - Branicevo
 3664 = {	# 3664 - Branicevo
 	culture = branichian
-	rite = slavic_south
+	rite = slavic_pagan
 
 	
 	# History
@@ -80079,7 +80026,7 @@ holding = none
 ###c_graz
 3117 = {	#GRAZ
 	culture = carantanian
-	rite = slavic_west
+	rite = slavic_pagan
 	800.1.1 = { rite = carolingian_christianity }
 
 	holding = tribal_holding
@@ -80121,7 +80068,7 @@ holding = none
 ###c_pitten
 3092 = {	#PITTEN
 	culture = carantanian
-	rite = slavic_west
+	rite = slavic_pagan
 	800.1.1 = { rite = carolingian_christianity }
 
 	holding = tribal_holding
@@ -80144,7 +80091,7 @@ holding = none
 ###c_liebnitz
 3109 = {	#LIEBNITZ
 	culture = carantanian
-	rite = slavic_west
+	rite = slavic_pagan
 	800.1.1 = { rite = carolingian_christianity }
 
 	holding = tribal_holding
@@ -80168,7 +80115,7 @@ holding = none
 ###c_murzzuschlag
 3121 = {	#MURZZUSCHLAG
 	culture = carantanian
-	rite = slavic_west
+	rite = slavic_pagan
 	800.1.1 = { rite = carolingian_christianity }
 
 	holding = tribal_holding
@@ -80190,7 +80137,7 @@ holding = none
 ###c_vienna
 3086 = {	#VIENNA
 	culture = carantanian
-	rite = slavic_west
+	rite = slavic_pagan
 	800.1.1 = { rite = carolingian_christianity }
 	955.1.1 = { culture = bavarian }
 	1054.7.16 = {
@@ -80224,7 +80171,7 @@ holding = none
 ###c_hohenau
 3081 = {	#HOHENAU
 	culture = carantanian
-	rite = slavic_west
+	rite = slavic_pagan
 	800.1.1 = { rite = carolingian_christianity }
 	955.1.1 = { culture = bavarian }
 	1054.7.16 = {
@@ -80311,7 +80258,7 @@ holding = none
 ###c_krems
 3088 = {	#KREMS
 	culture = carantanian
-	rite = slavic_west
+	rite = slavic_pagan
 	800.1.1 = { rite = carolingian_christianity }
 	955.1.1 = { culture = bavarian }
 	1054.7.16 = {
@@ -80399,7 +80346,7 @@ holding = none
 ###c_karnten
 3105 = {	#KLAGENFURT
 	culture = carantanian
-	rite = slavic_west
+	rite = slavic_pagan
 	800.1.1 = { rite = carolingian_christianity }
 
 	holding = tribal_holding
@@ -80506,7 +80453,7 @@ holding = none
 ###c_kranj
 3100 = {	#KRANJ
 	culture = carantanian
-	rite = slavic_west
+	rite = slavic_pagan
 	800.1.1 = { rite = carolingian_christianity }
 
 	holding = tribal_holding
@@ -80533,7 +80480,7 @@ holding = none
 ###c_ljubljana
 3096 = {	#LJUBLJANA
 	culture = carantanian
-	rite = slavic_west
+	rite = slavic_pagan
 	800.1.1 = { rite = aquileian_church }
 
 	holding = tribal_holding
@@ -81386,7 +81333,7 @@ holding = none
 ###c_knin
 3548 = {	#Knin
 	culture = croatian
-	rite = slavic_south
+	rite = slavic_pagan
 	800.1.1 = { rite = roman_rite }
 	holding = tribal_holding
 	867.1.1 = {
@@ -81458,7 +81405,7 @@ holding = none
 ###c_lika
 3543 = {	#Kaseg
 	culture = croatian
-	rite = slavic_south
+	rite = slavic_pagan
 	800.1.1 = { rite = roman_rite }
 
 	holding = tribal_holding
@@ -81497,7 +81444,7 @@ holding = none
 ###c_modrus
 3539 = {	#Modruš
 	culture = croatian
-	rite = slavic_south
+	rite = slavic_pagan
 	800.1.1 = { rite = roman_rite }
 
 	holding = tribal_holding
@@ -81508,7 +81455,7 @@ holding = none
 # 3537 - Okic
 3537 = {	# 3537 - Okic
 	culture = croatian
-	rite = slavic_south
+	rite = slavic_pagan
 	800.1.1 = { rite = roman_rite }
 
 	holding = tribal_holding
@@ -81534,7 +81481,7 @@ holding = none
 ###c_zagreb
 461 = {		#Zagreb
 	culture = slavonian
-	rite = slavic_south
+	rite = slavic_pagan
 	800.1.1 = { rite = roman_rite }
 
 	holding = tribal_holding
@@ -81567,7 +81514,7 @@ holding = none
 ###c_zagorje
 458 = {		#Istria / Krapina
 	culture = slavonian
-	rite = slavic_south
+	rite = slavic_pagan
 	800.1.1 = { rite = roman_rite }
 
 	holding = tribal_holding
@@ -81603,7 +81550,7 @@ holding = none
 ###c_pozega
 3529 = {	#Požega
 	culture = slavonian
-	rite = slavic_south
+	rite = slavic_pagan
 	800.1.1 = { rite = roman_rite }
 
 	holding = tribal_holding
@@ -81628,7 +81575,7 @@ holding = none
 ###c_vukovar
 3610 = {	#Vakovo
 	culture = slavonian
-	rite = slavic_south
+	rite = slavic_pagan
 	950.1.1 = { rite = roman_rite }
 
 	holding = tribal_holding
@@ -81654,7 +81601,7 @@ holding = none
 ###c_rama
 3527 = {	#Visoki
 	culture = serbian
-	rite = slavic_south
+	rite = slavic_pagan
 	950.1.1 = { rite = bosnian_church }
 
 	holding = tribal_holding
@@ -81692,7 +81639,7 @@ holding = none
 ###c_donjikraji
 3507 = {	#Jajce
 	culture = croatian
-	rite = slavic_south
+	rite = slavic_pagan
 	800.1.1 = { rite = bosnian_church }
 
 	holding = tribal_holding
@@ -81719,7 +81666,7 @@ holding = none
 ###c_vhrbosna
 3567 = {	#Vhrbosna
 	culture = serbian
-	rite = slavic_south
+	rite = slavic_pagan
 	950.1.1 = { rite = bosnian_church }
 
 	holding = tribal_holding
@@ -81751,7 +81698,7 @@ holding = none
 # 3568 - Rogatica
 3568 = {	# 3568 - Rogatica
 	culture = serbian
-	rite = slavic_south
+	rite = slavic_pagan
 	950.1.1 = { rite = bosnian_church }
 
 	holding = tribal_holding
@@ -81763,7 +81710,7 @@ holding = none
 ###c_pset
 3522 = {	#Bihac
 	culture = croatian
-	rite = slavic_south
+	rite = slavic_pagan
 	800.1.1 = { rite = bosnian_church }
 
 	holding = tribal_holding
@@ -81786,7 +81733,7 @@ holding = none
 ###c_vodica / krajina
 3519 = {	#Vodicevo
 	culture = slavonian
-	rite = slavic_south
+	rite = slavic_pagan
 	800.1.1 = { rite = bosnian_church }
 
 	holding = tribal_holding
@@ -81804,7 +81751,7 @@ holding = none
 ###c_vrbas
 3516 = {	#Vrbaški Grad / b_banjaluka
 	culture = slavonian
-	rite = slavic_south
+	rite = slavic_pagan
 	800.1.1 = { rite = bosnian_church }
 
 	holding = tribal_holding
@@ -81828,7 +81775,7 @@ holding = none
 3513 = {	#Srebrenik
 	#culture = croatian
 	culture = serbian
-	rite = slavic_south
+	rite = slavic_pagan
 	holding = tribal_holding
 	867.1.1 = {
 		holding = castle_holding
@@ -81869,7 +81816,7 @@ holding = none
 3510 = {	#Soli
 	#culture = croatian
 	culture = serbian
-	rite = slavic_south
+	rite = slavic_pagan
 	holding = tribal_holding
 	867.1.1 = {
 		holding = castle_holding
@@ -81906,7 +81853,7 @@ holding = none
 	#culture = bosnian
 	#rite = bosnian_church
 	culture = zachlumian
-	rite = slavic_south
+	rite = slavic_pagan
 	holding = tribal_holding
 	867.1.1 = {
 		holding = castle_holding
@@ -81951,7 +81898,7 @@ holding = none
 ###c_zelengora
 3560 = {	#Gacko
 	culture = serbian
-	rite = slavic_south
+	rite = slavic_pagan
 	holding = none
 	867.1.1 = {
 		holding = castle_holding
@@ -81976,7 +81923,7 @@ holding = none
 ###c_zavrsje
 3501 = {	#Hlivno
 	culture = croatian
-	rite = slavic_south
+	rite = slavic_pagan
 	800.1.1 = { rite = bosnian_church }
 
 	holding = tribal_holding
@@ -82009,7 +81956,7 @@ holding = none
 ###c_pagania
 3555 = {	#Mokro
 	culture = neretljanian
-	rite = slavic_south
+	rite = slavic_pagan
 	holding = tribal_holding
 	867.1.1 = {
 		holding = castle_holding
@@ -85404,7 +85351,7 @@ rite = armenian_rite
 	# Misc
 	culture = poloch
 	990.1.1 = { culture = russian }
-	rite = slavic_east
+	rite = slavic_pagan
 	
 	#holding = castle_holding
 	
@@ -85421,7 +85368,7 @@ rite = armenian_rite
 	
 	# Misc
 	culture = russian
-	rite = slavic_east
+	rite = slavic_pagan
 	
 	#holding = castle_holding
 	
@@ -88093,8 +88040,10 @@ rite = armenian_rite
 	1244.3.16 = { rite = roman_rite}
 }
 2219 = {	#LODEVE
-	#Updated to have monastery throughout all start dates
-	holding = church_holding
+	holding = none
+	1337.1.1 = {
+		holding = city_holding
+	}
 }
 2014 = {	#AGDE
 	culture = visigothic
@@ -89306,7 +89255,7 @@ culture = gallo_roman
 ###c_stettin (c_szczecin)
 2823 = {	#SZCZECZIN
 	culture = pommeranian
-	rite = slavic_west
+	rite = slavic_pagan
 	holding = tribal_holding
 	1140.1.1 = {
 		holding = castle_holding
@@ -89330,7 +89279,7 @@ culture = gallo_roman
 ###c_kolobrzeg (c_wolin)
 2818 = {	#b_swinoujscie WOLIN
 	culture = pommeranian
-	rite = slavic_west
+	rite = slavic_pagan
 	holding = tribal_holding
 	1128.1.1 = {
 		holding = castle_holding
@@ -89369,7 +89318,7 @@ culture = gallo_roman
 ###c_soldin (c_cedynia)
 3154 = {	#b_soldin CEDYNIA
 	culture = polabian
-	rite = slavic_west
+	rite = slavic_pagan
 	holding = tribal_holding
 	1173.1.1 = {
 		holding = castle_holding
@@ -89385,7 +89334,7 @@ culture = gallo_roman
 ###c_cammin (c_kolobrzeg)
 2826 = {	#b_cammin KOLOBRZEG
 	culture = pommeranian
-	rite = slavic_west
+	rite = slavic_pagan
 	holding = tribal_holding
 	1124.1.1 = {
 		holding = castle_holding
@@ -89409,7 +89358,7 @@ culture = gallo_roman
 ###c_pila (c_walcz)
 3187 = {	#WALCZ
 	culture = pommeranian
-	rite = slavic_west
+	rite = slavic_pagan
 	holding = tribal_holding
 	1124.1.1 = {
 		holding = castle_holding
@@ -89430,7 +89379,7 @@ culture = gallo_roman
 ###c_landsberg (c_santok)
 3152 = {	#b_landsberg SANTOK
 	culture = pommeranian
-	rite = slavic_west
+	rite = slavic_pagan
 	holding = tribal_holding
 	1124.1.1 = {
 		holding = castle_holding
@@ -89460,7 +89409,7 @@ culture = gallo_roman
 ###c_danzig (c_gdansk)
 2830 = {	#GDANSK
 	culture = pommeranian
-	rite = slavic_west
+	rite = slavic_pagan
 	holding = tribal_holding
 	997.1.1 = {
 		holding = castle_holding
@@ -89495,7 +89444,7 @@ culture = gallo_roman
 ###c_slupsk
 2827 = {	#SLUPSK
 	culture = pommeranian
-	rite = slavic_west
+	rite = slavic_pagan
 	holding = tribal_holding
 	1124.1.1 = {
 		holding = castle_holding
@@ -89524,7 +89473,7 @@ culture = gallo_roman
 ###c_miastko (c_szczytno_POM)
 3190 = {	#b_hammerstein SZCZYTNO
 	culture = pommeranian
-	rite = slavic_west
+	rite = slavic_pagan
 	holding = tribal_holding
 	1124.1.1 = {
 		holding = castle_holding
@@ -89541,7 +89490,7 @@ culture = gallo_roman
 ###c_berent (c_swiecie)
 3196 = {	#b_schwetz SWIECIE
 	culture = pommeranian
-	rite = slavic_west
+	rite = slavic_pagan
 	holding = tribal_holding
 	1000.1.1 = {
 		holding = castle_holding
@@ -89572,7 +89521,7 @@ culture = gallo_roman
 ###c_mecklenburg
 2807 = {	#WISMAR
 	culture = obotrite
-	rite = slavic_west
+	rite = slavic_pagan
 	holding = tribal_holding
 	1160.1.1 = {
 		holding = castle_holding
@@ -89583,7 +89532,7 @@ culture = gallo_roman
 }
 9669 = {	#WISMAR
 	culture = polabian
-	rite = slavic_west
+	rite = slavic_pagan
 	holding = none
 	1248.1.1 = {
 		holding = church_holding
@@ -89594,7 +89543,7 @@ culture = gallo_roman
 }
 9668 = {	#WISMAR
 	culture = polabian
-	rite = slavic_west
+	rite = slavic_pagan
 	holding = none
 	1200.1.1 = {
 		holding = church_holding
@@ -89605,7 +89554,7 @@ culture = gallo_roman
 }
 2806 = {	#RATZEBURG
 	culture = obotrite
-	rite = slavic_west
+	rite = slavic_pagan
 	holding = tribal_holding
 	1100.1.1 = { rite = roman_rite }
 	1160.1.1 = {
@@ -89616,7 +89565,7 @@ culture = gallo_roman
 }
 9667 = {	#RATZEBURG
 	culture = polabian
-	rite = slavic_west
+	rite = slavic_pagan
 	holding = none
 	1182.1.1 = {
 		holding = city_holding
@@ -89627,7 +89576,7 @@ culture = gallo_roman
 }
 2808 = {	#SCHWERIN
 	culture = obotrite
-	rite = slavic_west
+	rite = slavic_pagan
 	holding = tribal_holding
 	1160.1.1 = {
 		holding = castle_holding
@@ -89642,7 +89591,7 @@ culture = gallo_roman
 ###c_wolgast
 2817 = {	#WOLGAST
 	culture = pommeranian
-	rite = slavic_west
+	rite = slavic_pagan
 	holding = tribal_holding
 	1128.1.1 = {
 		holding = castle_holding
@@ -89662,7 +89611,7 @@ culture = gallo_roman
 ###c_rugen
 2811 = {	#RUGEN
 	culture = ranian
-	rite = slavic_west
+	rite = slavic_pagan
 	holding = tribal_holding
 	1168.1.1 = {
 		holding = castle_holding
@@ -89677,7 +89626,7 @@ culture = gallo_roman
 ###c_rostock
 2809 = {	#ROSTOCK
 	culture = lutici
-	rite = slavic_west
+	rite = slavic_pagan
 	holding = tribal_holding
 	1167.1.1 = {
 		holding = castle_holding
@@ -89694,7 +89643,7 @@ culture = gallo_roman
 ###c_werle
 2812 = {	#WERLE
 	culture = lutici
-	rite = slavic_west
+	rite = slavic_pagan
 	holding = tribal_holding
 	1165.1.1 = {
 		holding = castle_holding
@@ -89722,7 +89671,7 @@ culture = gallo_roman
 # 3166 - BRANDENBURG
 3166 = {	#BRANDENBURG
 	culture = lutici
-	rite = slavic_west
+	rite = slavic_pagan
 	holding = tribal_holding
 	1124.1.1 = {
 		holding = castle_holding
@@ -89750,7 +89699,7 @@ culture = gallo_roman
 ###c_ruppin
 3168 = {	#RUPPIN
 	culture = lutici
-	rite = slavic_west
+	rite = slavic_pagan
 	holding = tribal_holding
 	1129.1.1 = { rite = roman_rite }
 	1160.1.1 = { culture = saxon } 
@@ -89770,7 +89719,7 @@ culture = gallo_roman
 ###c_berlin
 3158 = {	#BERLIN
 	culture = lutici
-	rite = slavic_west
+	rite = slavic_pagan
 	holding = tribal_holding
 	1124.1.1 = {
 		holding = castle_holding
@@ -89788,7 +89737,7 @@ culture = gallo_roman
 ###c_havelberg
 2814 = {	#HAVELBERG
 	culture = obotrite
-	rite = slavic_west
+	rite = slavic_pagan
 	holding = tribal_holding
 	1124.1.1 = {
 		holding = castle_holding
@@ -89805,7 +89754,7 @@ culture = gallo_roman
 ###c_prenzlau
 3160 = {	#PRENZLAU
 	culture = lutici
-	rite = slavic_west
+	rite = slavic_pagan
 	holding = tribal_holding
 	1124.1.1 = {
 		holding = castle_holding
@@ -89857,7 +89806,7 @@ culture = gallo_roman
 	culture = drevlian
 	867.1.1 = { culture = sudovian }
 	990.1.1 = { culture = russian }
-	rite = slavic_east
+	rite = slavic_pagan
 	holding = tribal_holding
 	1000.9.15 = {
 		rite = slavic_rite
@@ -89881,7 +89830,7 @@ culture = gallo_roman
 	culture = drevlian
 	867.1.1 = { culture = volhynian }
 	990.1.1 = { culture = russian }
-	rite = slavic_east
+	rite = slavic_pagan
 	holding = tribal_holding
 	1000.9.15 = {
 		rite = slavic_rite
@@ -89904,7 +89853,7 @@ culture = gallo_roman
 	culture = drevlian
 	867.1.1 = { culture = dregovich }
 	990.1.1 = { culture = russian }
-	rite = slavic_east
+	rite = slavic_pagan
 	holding = tribal_holding
 	1000.9.15 = {
 		rite = slavic_rite
@@ -89924,7 +89873,7 @@ culture = gallo_roman
 5114 = {	#Slutsk
 	culture = dregovich
 	990.1.1 = { culture = russian }
-	rite = slavic_east
+	rite = slavic_pagan
 	holding = tribal_holding
 	989.9.15 = {
 		rite = slavic_rite
@@ -89944,7 +89893,7 @@ culture = gallo_roman
 5117 = {	#Kletsk
 	culture = dregovich
 	990.1.1 = { culture = russian holding = castle_holding }
-	rite = slavic_east
+	rite = slavic_pagan
 	#holding = castle_holding
 	1000.9.15 = {
 		rite = slavic_rite
@@ -89960,7 +89909,7 @@ culture = gallo_roman
 5119 = {	#Babruysk
 	culture = dregovich
 	990.1.1 = { culture = russian }
-	rite = slavic_east
+	rite = slavic_pagan
 	holding = tribal_holding
 	1000.9.15 = {
 		rite = slavic_rite
@@ -89987,7 +89936,7 @@ culture = gallo_roman
 550 = {		#Minsk
 	culture = dregovich
 	990.1.1 = { culture = russian }
-	rite = slavic_east
+	rite = slavic_pagan
 	holding = tribal_holding
 	935.1.1 = {
 		holding = castle_holding
@@ -90004,7 +89953,7 @@ culture = gallo_roman
 	# Misc
 	culture = krivich
 	990.1.1 = { culture = russian }
-	rite = slavic_east
+	rite = slavic_pagan
 	
 	holding = tribal_holding
 	
@@ -90027,7 +89976,7 @@ culture = gallo_roman
 	# Misc
 	culture = krivich
 	990.1.1 = { culture = russian }
-	rite = slavic_east
+	rite = slavic_pagan
 	
 	holding = tribal_holding
 	
@@ -90048,7 +89997,7 @@ culture = gallo_roman
 	
 	# Misc
 	culture = russian
-	rite = slavic_east
+	rite = slavic_pagan
 	
 	holding = none
 	
@@ -90062,7 +90011,7 @@ culture = gallo_roman
 	
 	# Misc
 	culture = russian
-	rite = slavic_east
+	rite = slavic_pagan
 	
 	holding = none
 	
@@ -90087,7 +90036,7 @@ culture = gallo_roman
 5127 = {	#Orsha
 	culture = krivich
 	990.1.1 = { culture = russian }
-	rite = slavic_east
+	rite = slavic_pagan
 	holding = tribal_holding
 	1000.9.15 = {
 		rite = slavic_rite
@@ -90108,7 +90057,7 @@ culture = gallo_roman
 5129 = {	#Polotsk
 	culture = poloch
 	990.1.1 = { culture = russian }
-	rite = slavic_east
+	rite = slavic_pagan
 	holding = tribal_holding
 	985.1.1 = {
 		holding = castle_holding
@@ -90137,7 +90086,7 @@ culture = gallo_roman
 934 = {		#Lukoml
 	culture = krivich
 	990.1.1 = { culture = russian }
-	rite = slavic_east
+	rite = slavic_pagan
 	holding = tribal_holding
 	985.1.1 = {
 		holding = castle_holding
@@ -90159,7 +90108,7 @@ culture = gallo_roman
 5134 = {	#Vitebsk
 	culture = krivich
 	990.1.1 = { culture = russian }
-	rite = slavic_east
+	rite = slavic_pagan
 	holding = tribal_holding
 	985.1.1 = {
 		holding = castle_holding
@@ -90182,7 +90131,7 @@ culture = gallo_roman
 568 = {		#Smolensk
 	culture = radimichi
 	990.1.1 = { culture = russian }
-	rite = slavic_east
+	rite = slavic_pagan
 	holding = tribal_holding
 	989.9.15 = {
 		rite = slavic_rite
@@ -90203,7 +90152,7 @@ culture = gallo_roman
 	# Misc
 	culture = radimichi
 	990.1.1 = { culture = russian }
-	rite = slavic_east
+	rite = slavic_pagan
 	
 	holding = tribal_holding
 	
@@ -90230,7 +90179,7 @@ culture = gallo_roman
 	culture = radimichi
 	867.1.1 = { culture = vyatichi }
 	990.1.1 = { culture = russian }
-	rite = slavic_east
+	rite = slavic_pagan
 	
 	holding = tribal_holding
 	
@@ -90246,7 +90195,7 @@ culture = gallo_roman
 ###c_gnezdovo
 5221 = {	#Gnezdovo
 	culture = russian
-	rite = slavic_east
+	rite = slavic_pagan
 	holding = none
 	989.9.15 = {
 		rite = slavic_rite
@@ -90261,7 +90210,7 @@ culture = gallo_roman
 5223 = {	#Dukhovshchina
 	culture = vyatichi
 	990.1.1 = { culture = russian }
-	rite = slavic_east
+	rite = slavic_pagan
 	holding = tribal_holding
 	1000.9.15 = {
 		rite = slavic_rite
@@ -90275,7 +90224,7 @@ culture = gallo_roman
 933 = {		#Roslavl
 	culture = radimichi
 	990.1.1 = { culture = russian }
-	rite = slavic_east
+	rite = slavic_pagan
 	holding = tribal_holding
 	1000.9.15 = {
 		rite = slavic_rite
@@ -90313,7 +90262,7 @@ culture = gallo_roman
 ###c_toropets
 5170 = {	#Toropets
 	culture = vyatichi
-	rite = slavic_east
+	rite = slavic_pagan
 	holding = tribal_holding
 	867.1.1 = { culture = ilmenian }
 	1000.9.15 = {
@@ -92074,13 +92023,13 @@ culture = gallo_roman
 545 = {	# 545 - Suceava
 	
 	culture = tiverian
-	rite = slavic_east
+	rite = slavic_pagan
 	
 	holding = tribal_holding
 	1060.1.1 = {rite = byzantine_rite }
 	970.1.1 = {culture = bolokhovens }
 	1150.1.1 = {culture = vlach }
-	1246.1.1 = {
+	1211.1.1 = {
 		rite = vlach_rite
 	}
 	1320.1.1 = {
@@ -92112,11 +92061,11 @@ culture = gallo_roman
 # 5031 - Piatra Neamnt
 5031 = {	# 5031 - Piatra Neamnt
 	culture = bolokhovens
-	rite = slavic_east
+	rite = slavic_pagan
 	800.1.1 = { rite = byzantine_rite }
 	
 	holding = tribal_holding
-	1246.1.1 = {
+	1211.1.1 = {
 		rite = vlach_rite
 	}
 	1320.1.1 = {
@@ -92137,14 +92086,14 @@ culture = gallo_roman
 ###c_dorohoi
 5038 = {	#Dorohoi
 	culture = tiverian
-	rite = slavic_east
+	rite = slavic_pagan
 	
 	holding = tribal_holding
 	
 	950.1.1 = { culture = bolokhovens }
 	1060.1.1 = {rite = byzantine_rite }
 	1150.1.1 = {culture = vlach }
-	1246.1.1 = {
+	1211.1.1 = {
 		rite = vlach_rite
 	}
 	1320.1.1 = {
@@ -92162,7 +92111,7 @@ culture = gallo_roman
 5040 = {	# 5040 - Hotin
 	
 	culture = tiverian
-	rite = slavic_east
+	rite = slavic_pagan
 	
 	holding = tribal_holding
 	
@@ -92204,7 +92153,7 @@ culture = gallo_roman
 	
 	culture = tiverian
 	1030.1.1 = { culture = russian }
-	rite = slavic_east
+	rite = slavic_pagan
 	
 	holding = tribal_holding
 	
@@ -92217,7 +92166,7 @@ culture = gallo_roman
 	1060.1.1 = { culture = torkil }
 	1150.1.1 = {rite = byzantine_rite }
 	1150.1.1 = {culture = vlach }
-	1246.1.1 = {
+	1211.1.1 = {
 		rite = vlach_rite
 	}
 	1320.1.1 = {
@@ -92238,7 +92187,7 @@ culture = gallo_roman
 	
 	culture = tiverian
 	1030.1.1 = { culture = russian }
-	rite = slavic_east
+	rite = slavic_pagan
 	
 	holding = tribal_holding
 	
@@ -92251,7 +92200,7 @@ culture = gallo_roman
 	1060.1.1 = { culture = torkil }
 	1150.1.1 = {rite = byzantine_rite }
 	1150.1.1 = {culture = vlach }
-	1246.1.1 = {
+	1211.1.1 = {
 		rite = vlach_rite
 	}
 	1320.1.1 = {
@@ -92271,7 +92220,7 @@ culture = gallo_roman
 	
 	culture = tiverian
 	1030.1.1 = { culture = russian }
-	rite = slavic_east
+	rite = slavic_pagan
 	
 	#holding = castle_holding
 	
@@ -92283,7 +92232,7 @@ culture = gallo_roman
 	1060.1.1 = { culture = torkil }
 	1150.1.1 = {rite = byzantine_rite }
 	1150.1.1 = {culture = vlach }
-	1246.1.1 = {
+	1211.1.1 = {
 		rite = vlach_rite
 	}
 }
@@ -92298,7 +92247,7 @@ culture = gallo_roman
 	
 	holding = tribal_holding
 	culture = vlach
-	rite = slavic_south
+	rite = slavic_pagan
 	800.1.1 = { rite = byzantine_rite }
 	
 	927.1.1 = {
@@ -92309,7 +92258,7 @@ culture = gallo_roman
 		culture = vlach
 		rite = byzantine_rite
 	}
-	1246.1.1 = {
+	1211.1.1 = {
 		rite = vlach_rite
 	}
 	1280.1.1 = {
@@ -92333,7 +92282,7 @@ culture = gallo_roman
 	
 	holding = tribal_holding
 	culture = vlach
-	rite = slavic_south
+	rite = slavic_pagan
 	800.1.1 = { rite = byzantine_rite }
 	
 	927.1.1 = {
@@ -92344,7 +92293,7 @@ culture = gallo_roman
 		culture = vlach
 		rite = byzantine_rite
 	}
-	1246.1.1 = {
+	1211.1.1 = {
 		rite = vlach_rite
 	}
 	1280.1.1 = {
@@ -92378,11 +92327,11 @@ culture = gallo_roman
 5029 = {	# 5029 - Stoenesti
 	
 	culture = bolokhovens
-	rite = slavic_east
+	rite = slavic_pagan
 	800.1.1 = { rite = byzantine_rite }
 	
 	holding = tribal_holding
-	1246.1.1 = {
+	1211.1.1 = {
 		rite = vlach_rite
 	}
 	1320.1.1 = {
@@ -92409,7 +92358,7 @@ culture = gallo_roman
 		culture = vlach
 		rite = byzantine_rite
 	}
-	1246.1.1 = {
+	1211.1.1 = {
 		rite = vlach_rite
 	}
 	1280.1.1 = {
@@ -92436,7 +92385,7 @@ culture = gallo_roman
 		culture = vlach
 		rite = byzantine_rite
 	}
-	1246.1.1 = {
+	1211.1.1 = {
 		rite = vlach_rite
 	}
 	1280.1.1 = {
@@ -92463,7 +92412,7 @@ culture = gallo_roman
 		culture = vlach
 		rite = byzantine_rite
 	}
-	1246.1.1 = {
+	1211.1.1 = {
 		rite = vlach_rite
 	}
 	1280.1.1 = {
@@ -92497,7 +92446,7 @@ culture = gallo_roman
 		culture = vlach
 		rite = byzantine_rite
 	}
-	1246.1.1 = {
+	1211.1.1 = {
 		rite = vlach_rite
 	}
 	1280.1.1 = {
@@ -93059,7 +93008,7 @@ culture = gallo_roman
 	}
 	995.1.1 = {
 		culture = russian
-		rite = slavic_east
+		rite = slavic_pagan
 	}
 	1025.1.1 = {rite = slavic_rite }
 	1100.1.1 = { culture = vladimirian }
@@ -93091,7 +93040,7 @@ culture = gallo_roman
 	}
 	990.1.1 = {
 		culture = russian
-		rite = slavic_east
+		rite = slavic_pagan
 	}
 	1025.1.1 = {rite = slavic_rite }
 	1066.1.1 = {
@@ -93127,7 +93076,7 @@ culture = gallo_roman
 5173 = {	#Tver
 	culture = vyatichi
 	990.1.1 = { culture = russian }
-	rite = slavic_east
+	rite = slavic_pagan
 
 	holding = tribal_holding
 	1040.1.1 = {rite = slavic_rite }
@@ -93163,7 +93112,7 @@ culture = gallo_roman
 	}
 	1015.1.1 = {
 		culture = russian
-		rite = slavic_east	
+		rite = slavic_pagan	
 	}
 	1025.1.1 = { rite = slavic_rite }
 	1100.1.1 = { culture = vladimirian }								 
@@ -95612,7 +95561,7 @@ rite = roman_rite
 ###c_rashka
 502 = {		#Rashka / b_novotrgoviste
 	culture = serbian
-	rite = slavic_south
+	rite = slavic_pagan
 	holding = tribal_holding
 	867.1.1 = {
 		holding = castle_holding
@@ -95644,7 +95593,7 @@ rite = roman_rite
 ###c_zlatibor
 3591 = {	#Sjenica
 	culture = serbian
-	rite = slavic_south
+	rite = slavic_pagan
 	holding = none
 	867.1.1 = {
 		holding = castle_holding
@@ -95672,7 +95621,7 @@ rite = roman_rite
 ###c_sumadija
 3598 = {	#Kruševac
 	culture = bulgarian
-	rite = slavic_south
+	rite = slavic_pagan
 	holding = tribal_holding
 	867.1.1 = {
 		holding = castle_holding
@@ -95704,7 +95653,7 @@ rite = roman_rite
 ###c_podrinje
 3583 = {	# Hotca
 	culture = serbian
-	rite = slavic_south
+	rite = slavic_pagan
 	holding = tribal_holding
 	867.1.1 = {
 		holding = castle_holding
@@ -95741,7 +95690,7 @@ rite = roman_rite
 ###c_durmitor
 3584 = {	#Prijepolje
 	culture = serbian
-	rite = slavic_south
+	rite = slavic_pagan
 	holding = none
 	867.1.1 = {
 		holding = castle_holding
@@ -95803,7 +95752,7 @@ rite = roman_rite
 ###c_macva
 3604 = {	#Macva
 	culture = serbian
-	rite = slavic_south
+	rite = slavic_pagan
 	holding = tribal_holding
 	867.1.1 = {
 		holding = castle_holding
@@ -95836,7 +95785,7 @@ rite = roman_rite
 ###c_beograd
 505 = {		#Belgrade / b_beograd
 	culture = branichian
-	rite = slavic_south
+	rite = slavic_pagan
 	holding = tribal_holding
 	867.1.1 = {
 		holding = castle_holding
@@ -95877,7 +95826,7 @@ rite = roman_rite
 ###c_duklja
 469 = {		#Zeta / b_ribnicapodgorica / Ribnica / Podgorica
 	culture = doclean
-	rite = slavic_south
+	rite = slavic_pagan
 	holding = tribal_holding
 	867.1.1 = {
 		holding = castle_holding
@@ -95929,7 +95878,7 @@ rite = roman_rite
 ###c_pomorje
 3575 = {	#Bar / Antivari
 	culture = doclean
-	rite = slavic_south
+	rite = slavic_pagan
 	holding = tribal_holding
 	867.1.1 = {
 		holding = castle_holding
@@ -95958,7 +95907,7 @@ rite = roman_rite
 ###c_travunia
 3572 = {	#Trebinje
 	culture = travunian
-	rite = slavic_south
+	rite = slavic_pagan
 	holding = tribal_holding
 	867.1.1 = {
 		holding = castle_holding
@@ -96751,11 +96700,11 @@ rite = tengri_pagan
 ###c_campulung
 5009 = {	#Campulung
 	culture = vlach
-	rite = slavic_south
+	rite = slavic_pagan
 	800.1.1 = { rite = byzantine_rite }
 	
 	holding = tribal_holding
-	1246.1.1 = {
+	1211.1.1 = {
 		rite = vlach_rite
 	}
 	1211.1.1 = {
@@ -96779,10 +96728,10 @@ rite = tengri_pagan
 ###c_polovragi
 5005 = {	#Polovragi
 	culture = vlach
-	rite = slavic_south
+	rite = slavic_pagan
 	800.1.1 = { rite = byzantine_rite }
 	holding = tribal_holding
-	1246.1.1 = {
+	1211.1.1 = {
 		rite = vlach_rite
 	}
 	1240.1.1 = {
@@ -96801,11 +96750,11 @@ rite = tengri_pagan
 4989 = {	# 4989 - Tabla Butii
 	
 	culture = vlach
-	rite = slavic_south
+	rite = slavic_pagan
 	800.1.1 = { rite = byzantine_rite }
 	
 	holding = tribal_holding
-	1246.1.1 = {
+	1211.1.1 = {
 		rite = vlach_rite
 	}
 	1299.1.1 = {
@@ -96836,7 +96785,7 @@ rite = tengri_pagan
 	927.1.1 = { rite = manichean }
 	1123.1.1 = { culture = vlach }
 	1123.1.1 = { rite = byzantine_rite }
-	1246.1.1 = {
+	1211.1.1 = {
 		rite = vlach_rite
 	}
 	1299.1.1 = {
@@ -96878,9 +96827,7 @@ rite = tengri_pagan
 	927.1.1 = { culture = pecheneg }
 	927.1.1 = { rite = manichean }
 	1123.1.1 = { culture = vlach }
-	1246.1.1 = {
-		rite = vlach_rite
-	}
+	1123.1.1 = { rite = vlach_rite }
 	1299.1.1 = {
 		holding = castle_holding
 		#Date used to switch ti feudal_government in title history
@@ -96911,7 +96858,7 @@ rite = tengri_pagan
 	927.1.1 = { rite = manichean }
 	1125.1.1 = { culture = vlach }
 	1125.1.1 = { rite = byzantine_rite }
-	1246.1.1 = {
+	1211.1.1 = {
 		rite = vlach_rite
 	}
 
@@ -96939,7 +96886,7 @@ rite = tengri_pagan
 	927.1.1 = { rite = manichean }
 	1125.1.1 = { culture = vlach }
 	1125.1.1 = { rite = byzantine_rite }
-	1246.1.1 = {
+	1211.1.1 = {
 		rite = vlach_rite
 	}
 	1299.1.1 = {
@@ -96972,7 +96919,7 @@ rite = tengri_pagan
 	927.1.1 = { rite = manichean }
 	1125.1.1 = { culture = vlach }
 	1125.1.1 = { rite = byzantine_rite }
-	1246.1.1 = {
+	1211.1.1 = {
 		rite = vlach_rite
 	}
 }
@@ -96984,15 +96931,15 @@ rite = tengri_pagan
 ###c_targu_jiu
 4978 = {	#Targu Jiu
 	culture = vlach
-	rite = slavic_south
+	rite = slavic_pagan
 	800.1.1 = { rite = byzantine_rite }
 	
 	holding = tribal_holding
+	1211.1.1 = {
+		rite = vlach_rite
+	}
 	1220.1.1 = {
 		holding = castle_holding
-	}
-	1246.1.1 = {
-		rite = vlach_rite
 	}
 	
 }
@@ -97006,7 +96953,7 @@ rite = tengri_pagan
 ###c_severin
 516 = {		#Severin
 	culture = vlach
-	rite = slavic_south
+	rite = slavic_pagan
 	800.1.1 = { rite = byzantine_rite }
 	
 	holding = tribal_holding
@@ -97014,11 +96961,11 @@ rite = tengri_pagan
 	1046.1.1 = { rite = tengri_pagan }
 	1125.1.1 = { culture = vlach }
 	1125.1.1 = { rite = byzantine_rite }
+	1211.1.1 = {
+		rite = vlach_rite
+	}
 	1220.1.1 = {
 		holding = castle_holding
-	}
-	1246.1.1 = {
-		rite = vlach_rite
 	}
 
 
@@ -97039,7 +96986,7 @@ rite = tengri_pagan
 ###c_calafat
 4981 = {	#Calafat
 	culture = vlach
-	rite = slavic_south
+	rite = slavic_pagan
 	800.1.1 = { rite = byzantine_rite }
 	
 	holding = tribal_holding
@@ -97047,11 +96994,11 @@ rite = tengri_pagan
 	1046.1.1 = { rite = tengri_pagan }
 	1125.1.1 = { culture = vlach }
 	1125.1.1 = { rite = byzantine_rite }
+	1211.1.1 = {
+		rite = vlach_rite
+	}
 	1220.1.1 = {
 		holding = castle_holding
-	}
-	1246.1.1 = {
-		rite = vlach_rite
 	}
 
 
@@ -97071,7 +97018,7 @@ rite = tengri_pagan
 ###c_craiova
 4985 = {	#Craiova
 	culture = vlach
-	rite = slavic_south
+	rite = slavic_pagan
 	800.1.1 = { rite = byzantine_rite }
 	
 	holding = tribal_holding
@@ -97079,11 +97026,11 @@ rite = tengri_pagan
 	1046.1.1 = { rite = tengri_pagan }
 	1125.1.1 = { culture = vlach }
 	1125.1.1 = { rite = byzantine_rite }
+	1211.1.1 = {
+		rite = vlach_rite
+	}
 	1220.1.1 = {
 		holding = castle_holding
-	}
-	1246.1.1 = {
-		rite = vlach_rite
 	}
 
 }
@@ -97104,7 +97051,7 @@ rite = tengri_pagan
 535 = {		#Volodymyr
 	culture = volhynian
 	990.1.1 = { culture = russian }
-	rite = slavic_east
+	rite = slavic_pagan
 	holding = tribal_holding
 	935.1.1 = {
 		holding = castle_holding
@@ -97139,7 +97086,7 @@ rite = tengri_pagan
 	culture = volhynian
 	867.1.1 = { culture = drevlian }
 	990.1.1 = { culture = russian }
-	rite = slavic_east
+	rite = slavic_pagan
 	holding = tribal_holding
 	935.1.1 = {
 		holding = castle_holding
@@ -97165,7 +97112,7 @@ rite = tengri_pagan
 	culture = drevlian
 	867.1.1 = { culture = volhynian }
 	990.1.1 = { culture = russian }
-	rite = slavic_east
+	rite = slavic_pagan
 	holding = tribal_holding
 	985.1.1 = {
 		holding = castle_holding
@@ -97200,7 +97147,7 @@ rite = tengri_pagan
 	culture = drevlian
 	867.1.1 = { culture = volhynian }
 	990.1.1 = { culture = russian }
-	rite = slavic_east
+	rite = slavic_pagan
 	holding = tribal_holding
 	985.1.1 = {
 		holding = castle_holding
@@ -97225,7 +97172,7 @@ rite = tengri_pagan
 ###c_halych
 536 = {		#Halych
 	culture = belocroat
-	rite = slavic_east
+	rite = slavic_pagan
 	867.1.1 = { culture = buzans }
 	1050.1.1 = { culture = russian }
 	
@@ -97263,7 +97210,7 @@ rite = tengri_pagan
 	culture = volhynian
 	867.1.1 = { culture = buzans }
 	1000.1.1 = { culture = russian }
-	rite = slavic_east
+	rite = slavic_pagan
 	holding = tribal_holding
 	1000.1.1 = {
 		holding = castle_holding
@@ -97302,7 +97249,7 @@ rite = tengri_pagan
 	culture = polyan
 	867.1.1 = { culture = buzans }
 	1030.1.1 = { culture = russian }
-	rite = slavic_east
+	rite = slavic_pagan
 	holding = tribal_holding
 	1030.1.1 = {
 		holding = castle_holding
@@ -97325,7 +97272,7 @@ rite = tengri_pagan
 	culture = volhynian
 	867.1.1 = { culture = drevlian }
 	990.1.1 = { culture = russian }
-	rite = slavic_east
+	rite = slavic_pagan
 	holding = tribal_holding
 	935.1.1 = {
 		holding = castle_holding
@@ -97354,7 +97301,7 @@ rite = tengri_pagan
 5073 = {	#Cherven
 	culture = lendian
 	990.1.1 = { culture = russian }
-	rite = slavic_west
+	rite = slavic_pagan
 	holding = tribal_holding
 	935.1.1 = {
 		holding = castle_holding
@@ -97387,7 +97334,7 @@ rite = tengri_pagan
 5077 = {	#Belz
 	culture = lendian
 	990.1.1 = { culture = russian }
-	rite = slavic_west
+	rite = slavic_pagan
 	holding = tribal_holding
 	935.1.1 = {
 		holding = castle_holding
@@ -97406,7 +97353,7 @@ rite = tengri_pagan
 534 = {		#Peremyshl	
 	culture = lendian
 	990.1.1 = { culture = russian }
-	rite = slavic_west
+	rite = slavic_pagan
 	holding = tribal_holding
 	935.1.1 = {
 		holding = castle_holding
@@ -97828,7 +97775,7 @@ rite = tengri_pagan
 ###c_praha
 4125 = {	#PRAHA
 	culture = czech
-	rite = slavic_west
+	rite = slavic_pagan
 	holding = castle_holding
 	867.1.1 = {
 		buildings = {
@@ -97878,7 +97825,7 @@ rite = tengri_pagan
 ###c_litomerice
 4129 = {	#LITOMERICE
 	culture = czech
-	rite = slavic_west
+	rite = slavic_pagan
 	holding = tribal_holding
 	883.1.1 = {
 		rite = carolingian_christianity
@@ -97910,7 +97857,7 @@ rite = tengri_pagan
 ###c_zatec
 4147 = {	#ZATEC
 	culture = czech
-	rite = slavic_west
+	rite = slavic_pagan
 	holding = tribal_holding
 	883.1.1 = {
 		rite = carolingian_christianity
@@ -97942,7 +97889,7 @@ rite = tengri_pagan
 ###c_plzen
 4145 = {	#PLZEN
 	culture = czech
-	rite = slavic_west
+	rite = slavic_pagan
 	holding = tribal_holding
 	883.1.1 = {
 		rite = carolingian_christianity
@@ -97980,7 +97927,7 @@ rite = tengri_pagan
 ###c_doudleby
 4154 = {	#DOUDLEBY
 	culture = czech
-	rite = slavic_west
+	rite = slavic_pagan
 	holding = tribal_holding
 	883.1.1 = {
 		rite = carolingian_christianity
@@ -98015,7 +97962,7 @@ rite = tengri_pagan
 ###c_boleslav
 4136 = {	#BOLESLAV
 	culture = czech
-	rite = slavic_west
+	rite = slavic_pagan
 	holding = castle_holding
 	883.1.1 = {
 		rite = carolingian_christianity
@@ -98031,7 +97978,7 @@ rite = tengri_pagan
 ###c_hradec
 4138 = {	#HRADEC
 	culture = czech
-	rite = slavic_west
+	rite = slavic_pagan
 	holding = tribal_holding
 	883.1.1 = {
 		rite = carolingian_christianity
@@ -98063,7 +98010,7 @@ rite = tengri_pagan
 ###c_caslav
 4161 = {	#CASLAV
 	culture = czech
-	rite = slavic_west
+	rite = slavic_pagan
 	769.1.1 = {
 		#holding = castle_holding
 		special_building_slot = kutna_hora_mines_01
@@ -98090,7 +98037,7 @@ rite = tengri_pagan
 ###c_olomouc
 4165 = {	#OLOMOUC
 	culture = slovien
-	rite = slavic_west
+	rite = slavic_pagan
 	holding = castle_holding
 
 	940.1.1 = { rite = carolingian_christianity }
@@ -98119,7 +98066,7 @@ rite = tengri_pagan
 ###c_opava
 4184 = {	#OAPVA
 	culture = golensizi
-	rite = slavic_west
+	rite = slavic_pagan
 	holding = castle_holding
 
 	940.1.1 = { rite = carolingian_christianity }
@@ -98137,7 +98084,7 @@ rite = tengri_pagan
 ###c_prerov
 4182 = {	#PREROV
 	culture = slovien
-	rite = slavic_west
+	rite = slavic_pagan
 	holding = castle_holding
 
 	940.1.1 = { rite = carolingian_christianity }
@@ -98162,7 +98109,7 @@ rite = tengri_pagan
 ###c_brno
 4168 = {	#BRNO
 	culture = slovien
-	rite = slavic_west
+	rite = slavic_pagan
 	holding = castle_holding
 	831.1.1 = { rite = roman_rite }
 	940.1.1 = { rite = carolingian_christianity }
@@ -98184,7 +98131,7 @@ rite = tengri_pagan
 ###c_jihlava
 4162 = {	#JIHLAVA
 	culture = slovien
-	rite = slavic_west
+	rite = slavic_pagan
 	holding = castle_holding
 	831.1.1 = { rite = roman_rite }
 	940.1.1 = { rite = carolingian_christianity }
@@ -98203,7 +98150,7 @@ rite = tengri_pagan
 ###c_znojmo
 4166 = {	#ZNOJMO
 	culture = slovien
-	rite = slavic_west
+	rite = slavic_pagan
 	holding = castle_holding
 	831.1.1 = { rite = roman_rite }
 	940.1.1 = { rite = carolingian_christianity }
@@ -99634,7 +99581,7 @@ rite = tengri_pagan
 	867.1.1 = { culture = norse } #So the Norse don't decide to convert their culture which prevents the formation of Russian
 	990.1.1 = { culture = russian }
 	1000.1.1 = { culture = novgorodian }
-	rite = slavic_east
+	rite = slavic_pagan
 	holding = tribal_holding
 	867.1.1 = {
 		buildings = {
@@ -99686,7 +99633,7 @@ rite = tengri_pagan
 	culture = ilmenian
 	990.1.1 = { culture = russian }
 	1000.1.1 = { culture = novgorodian }
-	rite = slavic_east
+	rite = slavic_pagan
 	holding = tribal_holding
 	935.1.1 = {
 		holding = castle_holding
@@ -99716,7 +99663,7 @@ rite = tengri_pagan
 	culture = ilmenian
 	990.1.1 = { culture = russian }
 	1000.1.1 = { culture = novgorodian }
-	rite = slavic_east
+	rite = slavic_pagan
 	holding = tribal_holding
 	935.1.1 = {
 		holding = castle_holding
@@ -99743,7 +99690,7 @@ rite = tengri_pagan
 	culture = ilmenian
 	990.1.1 = { culture = russian }
 	1000.1.1 = { culture = novgorodian }
-	rite = slavic_east
+	rite = slavic_pagan
 	holding = tribal_holding
 	935.1.1 = {
 		holding = castle_holding
@@ -99863,7 +99810,7 @@ rite = tengri_pagan
 	culture = ilmenian
 	990.1.1 = { culture = russian }
 	1000.1.1 = { culture = novgorodian }
-	rite = slavic_east
+	rite = slavic_pagan
 	holding = tribal_holding
 	1005.1.1 = {rite = slavic_rite }
 	1005.1.1 = {

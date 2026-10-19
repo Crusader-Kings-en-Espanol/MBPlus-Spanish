@@ -4116,7 +4116,7 @@ types BookmarkPortraits
 
 		portrait_button = {
 			parentanchor = center
-			size = { 120% 80% } #Was 100%
+			size = { 100% 100% } #Was 120% 80% (restored vanilla framing)
 			using = portrait_base
 			name = "culture_head_portrait"
 			portrait_texture = "[BookmarkCharacter.GetPortrait( 'environment_bookmarks_map', 'camera_head', PdxGetWidgetScreenSize(PdxGuiWidget.Self) )]"

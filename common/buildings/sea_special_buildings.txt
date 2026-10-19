@@ -2153,9 +2153,7 @@ girnar_jain_temples_02 = {# Neminath Temple
 
 	can_construct = {# This should be built by a jain ruler.
 		OR = {
-			scope:holder = {
-				faith = { religion_tag = jainism_religion }
-			}
+			scope:holder.faith.religion = faith:jainism_religion.religion
 			custom_description = {
 				text = holy_site_building_trigger
 				barony = {
@@ -2373,9 +2371,7 @@ po_nagar_01 = {# po nagar
 	is_enabled = {
 		custom_description = {
 			text = sanchi_trigger
-			scope:holder = {
-				faith = { religion_tag = hinduism_religion }
-			}
+			scope:holder.faith.religion = faith:hinduism_religion.religion
 		}
 	}
 
