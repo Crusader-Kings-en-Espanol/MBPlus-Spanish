@@ -53,7 +53,7 @@
  dval_history_loc: "Se hibridó a partir de [CULTURE.GetName] y [TARGET_CULTURE.GetName] en la antigüedad"
  east_anglian_history_loc: "Formado por los [CULTURE.GetName] [mercenaries|E] en [GetTitleByKey('d_norfolk').GetNameNoTier] alrededor del año [DATE.GetYear]"
  east_saxon_history_loc: "Formado a partir de [romanobrit|E] y [CULTURE.GetName] alrededor del año [DATE.GetYear]"
- egyptian_history_loc: "La cultura helenizada de los antiguos [egyptians|E]"
+ egyptian_history_loc: "Evolucionó a partir de [TARGET_CULTURE.GetName] [Glossary('y otros pueblos egipcios arabizados', 'EGPYTIAN_GLOSS')] alrededor del año [DATE.GetYear]"
  gallo_roman_history_loc: "Formado a partir de [CULTURE.GetName] y [TARGET_CULTURE.GetName] en el año 58 a. C."
  georgian_history_loc: "Divergió de otros pueblos cartvelios en la antigüedad"
  german_pommeranian_history_loc: "Formado a partir de [CULTURE.GetName] [Glossary('y otros colonos germánicos del Ostsiedlung', 'SILESIAN_GLOSS')] alrededor del año [DATE.GetYear]"
@@ -73,7 +73,7 @@
  kurdish_history_loc: "Evolucionó de los [iranian|E] de Zagros alrededor del año [DATE.GetYear]"
  levantine_history_loc: "Evolucionó a partir de [TARGET_CULTURE.GetName] y [Glossary('otros pueblos levantinos arabizados', 'LEVANTINE_GLOSS')] alrededor del año [DATE.GetYear]"
  lezgin_history_loc: "Divergió de otros samurios en la antigüedad"
- lombard_history_loc: "Formado a partir de los [CULTURE.GetName]s [Glossary('al mezclarse con los pueblos itálicos nativos', 'LOMBARD_GLOSS')] alrededor del año [DATE.GetYear]"
+ lombard_history_loc: "Se formó a partir de [CULTURE.GetName] [Glossary('mezclados con los pueblos itálicos autóctonos', 'LOMBARD_GLOSS')] alrededor del año [DATE.GetYear]"
  mandaic_history_loc: "Se diversificó de [chaldean|E] alrededor del año [DATE.GetYear]"
  mazanderani_history_loc: "La cultura de los [iranians|E] en [GetTitleByKey('c_mazandaran').GetNameNoTier]"
  megrel_history_loc: "Divergió de [CULTURE.GetName] en el año 736" #original was too long
@@ -112,7 +112,7 @@
  south_saxon_history_loc: "Formado a partir de [romanobrit|E] y [CULTURE.GetName] alrededor del año [DATE.GetYear]"
  syriac_history_loc: "Formado a partir de [aramean|E] bajo la influencia de [CULTURE.GetName] alrededor del año [DATE.GetYear]"
  syromesopotamian_history_loc: "Evolucionó a partir de [TARGET_CULTURE.GetName] y [Glossary('otros pueblos mesopotámicos arabizados', 'SYROMESOP_GLOSS')] alrededor del año [DATE.GetYear]"
- szasz_history_loc: "Formado a partir de [CULTURE.GetName]s que se asentaron en Transilvania alrededor del año [DATE.GetYear]"
+ szasz_history_loc: "Se formó a partir de colonos de [CULTURE.GetName] establecidos en Transilvania alrededor del año [DATE.GetYear]"
  tajik_history_loc: "Evolucionó a partir de [iranian|E] oriental alrededor del año [DATE.GetYear]"
  taleshi_history_loc: "Formado a partir de [iranianized|E] [cadusi|E] y el antiguo azerí"
  tawlu_history_loc: "Divergió de tribus túrquicas que se asentaron en tierras [CULTURE.GetName] en el siglo XI"
@@ -120,7 +120,7 @@
  tsanar_history_loc: "Se hibridó a partir de [CULTURE.GetName] y [TARGET_CULTURE.GetName] en la antigüedad"
  tunisian_history_loc: "Evolucionó a partir de pueblos [Glossary('de las migraciones árabes y bereberes arabizados', 'MAGHREBI_GLOSS')] alrededor del año [DATE.GetYear]"
  tuyuhun_history_loc: "Divergió de [CULTURE.GetName] que se asentaron en el lago Qinghai en el año [DATE.GetYear]"
- visigothic_history_loc: "Formado a partir de los [CULTURE.GetName]s [Glossary('del reino visigodo', 'VISIGOTHIC_GLOSS')] y los [TARGET_CULTURE.GetName]s alrededor del año [DATE.GetYear]"
+ visigothic_history_loc: "Se formó a partir de [CULTURE.GetName] [Glossary('del reino visigodo', 'VISIGOTHIC_GLOSS')] y [TARGET_CULTURE.GetName] alrededor del año [DATE.GetYear]"
  vladimirian_history_loc: "Formado como resultado del distanciamiento político de [GetTitleByKey('d_kiev').GetNameNoTier] alrededor del año [DATE.GetYear]"
  volyn_history_loc: "Formado por los príncipes [rus|E] que vivían en [GetTitleByKey('d_volhynia').GetNameNoTier] y [GetTitleByKey('d_halych').GetNameNoTier] alrededor del año [DATE.GetYear]"
  west_saxon_history_loc: "Formado a partir de [romanobrit|E] y [CULTURE.GetName] alrededor del año [DATE.GetYear]"
@@ -146,7 +146,7 @@
  
  RYUKYU_GLOSS: "La cultura ryukyuense tiene sus orígenes en migrantes de lengua japónica que se asentaron en la cadena de islas durante el período Kofun, separándose de la población continental en un momento tan temprano que su lengua divergió hasta formar una familia distinta, ininteligible para los japoneses de siglos posteriores. Protegidas por las rutas marítimas del mar de China Oriental, las islas Ryukyu se desarrollaron en relativo aislamiento de las convulsiones políticas y culturales que remodelaban la corte Yamato en Honshu. Las comunidades insulares mantuvieron sus propias estructuras de caudillaje, conocidas como aji, y cultivaron redes comerciales tanto con el Japón continental como con el Asia continental, lo que dio a su cultura un carácter marcadamente marítimo e independiente, muy alejado de las tradiciones cortesanas de Kinai o de los conflictos fronterizos del norte."
  
- goryeo_history_loc: "Formado a partir de [CULTURE.GetName] y [Glossary('kingdoms uniting with', 'GORYEO_GLOSS')] y [Glossary('reinos unificados bajo Wang Geon', 'GORYEO_GLOSS')] en el año [DATE.GetYear]"
+ goryeo_history_loc: "Se formó a partir de [CULTURE.GetName] y [Glossary('reinos unificados con', 'GORYEO_GLOSS')] [TARGET_CULTURE.GetName] bajo Wang Geon en el año [DATE.GetYear]"
  
  GORYEO_GLOSS: "La península de Corea había estado durante mucho tiempo dividida entre reinos rivales enraizados en las antiguas confederaciones tribales de Fuyo y Han, del norte y del sur respectivamente. El período de los Tres Reinos vio a Goguryeo, Baekje y Silla dominar la península durante siglos, hasta que Silla unificó gran parte de Corea en el año 668 con apoyo de la dinastía Tang china, empujando a los remanentes de Goguryeo hacia el norte, donde con el tiempo formaron Balhae. El dominio de Silla se debilitó a lo largo del siglo IX, a medida que la aristocracia fragmentaba el poder y los caudillos regionales se repartían los Posteriores Tres Reinos de Posterior Goguryeo, Posterior Baekje y un Silla en declive. De este caos surgió Wang Geon, un general de Posterior Goguryeo, quien fundó Goryeo en el año 918 y completó la unificación de la península en el año 936, absorbiendo los restos de Silla y Posterior Baekje. El nuevo estado de Goryeo se posicionó deliberadamente como heredero de todas las tradiciones coreanas anteriores, y su propio nombre evocaba a Goguryeo, mientras que sus instituciones sintetizaban la cultura aristocrática de Silla, la herencia marcial norteña de los pueblos descendientes de Fuyo y las tradiciones comerciales y marítimas de las antiguas costas de Baekje."
  
@@ -166,69 +166,69 @@
  
  NANAI_GLOSS: "Los nanai, conocidos por los rusos posteriores como goldi, representan una de las culturas más antiguas y continuas de la cuenca del río Amur, con raíces que se remontan a comunidades pesqueras neolíticas cuya huella genética se ha rastreado en yacimientos de más de siete mil años de antigüedad a lo largo del bajo Amur. Divergiendo del mundo tungúsico mohe más amplio, los nanai desarrollaron una cultura orientada casi por completo en torno al gran río y sus corridas estacionales de salmón, con su cultura material, sus prácticas espirituales y su organización social moldeadas por los ritmos del Amur. Sus tradiciones chamánicas, su distintiva vestimenta de piel de pescado y sus elaboradas creencias cosmológicas en torno al río los distinguen de las ramas más pastoriles o forestales de sus parientes tungúsicos, y sus comunidades clánicas autónomas nunca llegaron a consolidarse en formaciones políticas mayores, dejándolos como uno de los pueblos más marcadamente ribereños del Lejano Oriente."
  
- satsumon_history_loc: "Formado a partir de [CULTURE.GetName] y [Glossary('pueblos mezclados con', 'SATSUMON_GLOSS')] y [Glossary('pueblos de Hokkaido y el norte de Honshū', 'SATSUMON_GLOSS')] en el año [DATE.GetYear]"
+ satsumon_history_loc: "Se formó a partir de [CULTURE.GetName] y [Glossary('pueblos de Hokkaido y el norte de Honshū', 'SATSUMON_GLOSS')] en el año [DATE.GetYear]"
  
  SATSUMON_GLOSS: "La cultura satsumon surgió hacia el siglo VII en el norte de Honshu y el sur de Hokkaido, desarrollándose a partir de las tradiciones epijomon de los emishi y sus antepasados, que habían habitado las islas del norte desde la retirada del mundo jomon. A medida que la presión Yamato empujaba a las poblaciones emishi hacia el norte, su cultura se mezcló con la tradición marítima de Okhotsk —un pueblo navegante emparentado con los nivjos, de las costas del mar de Ojotsk y Sajalín— cuando ambas culturas se encontraron en el norte de Hokkaido. Esta síntesis, caracterizada por aldeas pesqueras de salmón en los estuarios de los ríos, ceremonias del oso heredadas del mundo de Okhotsk y las herramientas de hierro y la agricultura limitada traídas desde Honshu, formó la cultura transicional que con el tiempo se cristalizaría en los ainu hacia el siglo XIII."
  
 
- emishi_history_loc: "Se separó de [Glossary('Jōmon peoples of northern Honshū', 'EMISHI_GLOSS')] en la antigüedad"
+ emishi_history_loc: "Se separó de [Glossary('pueblos jōmon del norte de Honshū', 'EMISHI_GLOSS')] en la antigüedad"
  
- EMISHI_GLOSS: "Los Emishi fueron los descendientes de Epi-Jōmon de la población indígena Jōmon del norte de Honshū, las personas que habían habitado el archipiélago japonés durante milenios antes de la llegada de los migrantes Yayoi de la península coreana. A medida que la expansión de Yayoi avanzaba hacia el norte, los Jōmon fueron desplazados o absorbidos en gran parte por Honshū, pero en la región de Tōhoku persistieron y desarrollaron su propia cultura distinta que el tribunal de Yamato designó 'Emishi', un término político y cultural para aquellos fuera de la autoridad imperial. Se cree que su lenguaje, del cual no sobrevive ningún registro escrito, está estrechamente relacionado con el proto-Ainu basado en nombres de lugares a través de Tōhoku que sólo pueden ser interpretados a través de la lengua Ainu. Caballos y arqueros hábiles que resistieron la expansión de Yamato durante siglos, los Emishi nunca fueron conquistados por completo, sino que fueron absorbidos gradualmente en la población fronteriza que se convirtió en Ōshū."
+ EMISHI_GLOSS: "Los emishi descendían de poblaciones epijōmon del norte de Honshū, cuyos antepasados habían habitado el archipiélago japonés durante milenios antes de la llegada de los migrantes yayoi desde la península coreana. A medida que la expansión yayoi avanzó hacia el norte, las comunidades jōmon fueron desplazadas o asimiladas en gran parte de Honshū, pero perduraron en Tōhoku y desarrollaron una cultura propia. La corte de Yamato las denominó «emishi», un término político y cultural aplicado a quienes quedaban fuera de la autoridad imperial. Se ha propuesto que su lengua, de la que no quedan testimonios escritos, estaba emparentada con el protoainu, a partir de topónimos de Tōhoku interpretables mediante el ainu. Expertos jinetes y arqueros, resistieron durante siglos la expansión de Yamato y terminaron integrándose gradualmente en las poblaciones fronterizas de Ōshū."
 
 
  khitan_history_loc: "Se separó de [CULTURE.GetName] [Glossary('tribus de la estepa de Mongolia oriental', 'KHITAN_GLOSS')] en el año [DATE.GetYear]"
 
- KHITAN_GLOSS: "El Khitan surgió como un pueblo distinto de la rama oriental de la confederación Xianbei después de su fragmentación en el siglo III, asentándose a lo largo de la cuenca del río Liao y sus afluentes en lo que ahora es Mongolia Interna. Durante varios siglos siguieron siendo un poder secundario de estepa, allanando las zonas fronterizas chinas y rindiendo homenaje a los sucesivos khaganates turcos mientras sus tribus pastorales desarrollaron su propio vestido, guión y estructura de clanes distintos del mundo más amplio de habla mongol alrededor de ellos. Mientras el Khitan se convirtió en un pueblo unificado bajo Yelü Abaoji a principios del siglo X, su población se expandió mucho más allá de su núcleo tribal original, absorbiendo comunidades enteras de pastores chiítas, Balhae granjeros, y los colonos chinos de Han en un solo mundo de Khitan que se extendió de Corea al Yenisei, cada población conquistada gobernó e imponía según sus propias costumbres en lugar de forzarse en un solo molde. Este parche de pueblos absorbidos bajo la regla de Khitan sufrió hasta que la dinastía Jurchen Jin finalmente rompió su poder en 1125."
+ KHITAN_GLOSS: "Los kitán surgieron como pueblo diferenciado de la rama oriental de la confederación xianbei tras su fragmentación en el siglo III. Se asentaron en la cuenca del río Liao y sus afluentes, en la actual Mongolia Interior. Durante siglos fueron una potencia secundaria de la estepa: realizaban incursiones en las fronteras chinas y rendían tributo a sucesivos kanatos túrquicos, mientras sus tribus pastoriles desarrollaban vestimentas, escritura y estructuras de clan propias. Bajo Yelü Abaoji, a comienzos del siglo X, los kitán se unificaron y extendieron su dominio sobre poblaciones muy diversas, entre ellas pastores shiwei, agricultores de Balhae y colonos chinos han. Gobernaron estos grupos según sus respectivas costumbres en lugar de imponerles una única organización. Este mosaico de pueblos perduró bajo la dinastía Liao hasta que los yurchen acabaron con su poder en 1125."
  
 
- shiwei_history_loc: "Se formó a partir de [CULTURE.GetName] y [TARGET_CULTURE.GetName] [Glossary('tribus de la frontera de la estepa forestal Amur', 'SHIWEI_GLOSS')] en el año [DATE.GetYear]"
+ shiwei_history_loc: "Se formó a partir de [CULTURE.GetName] y [TARGET_CULTURE.GetName] [Glossary('tribus de la frontera entre la taiga y la estepa del Amur', 'SHIWEI_GLOSS')] en el año [DATE.GetYear]"
  
- SHIWEI_GLOSS: "Los Shiwei formaron de las ramas nororientales de la confederación Xianbei, ya que fragmentó después del siglo III, en estrecha proximidad con el Khitan emergente que ocupó territorios a su suroeste. Los registros dinásticos chinos señalan que su idioma era casi idéntico a los jeques, situándolos firmemente dentro del continuum para-Mongolic, mientras que sus territorios nororientales los llevaron a un contacto sostenido con los pueblos tungusicos de Mohe, cuya influencia dio a algunas tribus chiítas un carácter más adaptado a los bosques. El grupo Shiwei más históricamente significativo fue el Mengwu Shiwei de la cuenca del río Erguna, el linaje mismo del que Bodonchar Munkhag descendió, ancestro del clan Borjigin, cuyo bisabuelo grande-grande se convertiría en Genghis Khan."
- 
-
- shatuo_history_loc: "Se formó a partir de [CULTURE.GetName] y [TARGET_CULTURE.GetName] [Glossary('colonos turcos en la frontera con Tang', 'SHATUO_GLOSS')] en el año [DATE.GetYear]"
- 
- SHATUO_GLOSS: "El Shatuo era un pueblo turco de la tribu Chuyue de Khaganate Occidental que tomó su nombre del desierto de Shatuo de la cuenca de Junggar en lo que ahora es el norte de Xinjiang. Conducido hacia el este por la expansión tibetana a principios del siglo IX, buscaron protección bajo la dinastía Tang y fueron reasentados en la región de Daibei del norte de Shanxi, donde generaciones de servicio militar fronterizo e intermarriaje con la población local de Han Chino produjeron una cultura turca claramente sinicizada pero marcial, una que mantuvo vivas sus propias tradiciones tribales de caballería, incluso cuando su discurso y sus costumbres cotidianas absorbieron una fuerte influencia china. La reputación de guerrero de esta población fronteriza la llevó a alturas notables en el caos tras el colapso del Tang, y los restos de Shatuo que nunca participaron en esa aventura china del norte finalmente establecieron la estepa mongol interior como los antepasados del pueblo Ongud."
+ SHIWEI_GLOSS: "Los shiwei procedían de las ramas nororientales de la confederación xianbei, fragmentada después del siglo III, y vivían cerca de los kitán, asentados más al suroeste. Las crónicas dinásticas chinas describen su lengua como muy semejante a la de los kitán, lo que los sitúa en el ámbito paramongólico. Sus territorios septentrionales favorecieron el contacto con los pueblos tunguses mohe, cuya influencia dio a algunas tribus un carácter más forestal. Entre los shiwei destacó el grupo mengwu de la cuenca del río Argún, vinculado por la tradición genealógica a Bodonchar Munkhag, antepasado del linaje borjigin del que surgiría Gengis Kan."
  
 
- onggud_history_loc: "Se separó de [CULTURE.GetName] [Glossary('remanentes que conforman las montañas de Yin estepa', 'ONGGUD_GLOSS')] en el año [DATE.GetYear]"
+ shatuo_history_loc: "Se formó a partir de [CULTURE.GetName] y [TARGET_CULTURE.GetName] [Glossary('colonos túrquicos de la frontera Tang', 'SHATUO_GLOSS')] en el año [DATE.GetYear]"
  
- ONGGUD_GLOSS: "El Öngüd surgió de los turcos de Shatuo que permanecieron en la estepa mongol interna después de que las dinastías de Shatuo del norte de China fueron extinguidas por la canción en 979, asentándose a lo largo de las montañas de Yin como guardianes fronterizos vigilando la frontera contra las redadas de estepa. Convertirse en Cristianismo Nestoriano, cuyas cruces han sido encontradas dispersas a través de su antiguo territorio por los mil, el Öngüd desarrolló una identidad fronteriza distinta de sus antepasados Shatuo y los pueblos mongoles que presionaban a su alrededor. Las generaciones de matrimonios entre la casa gobernante Öngüd y la familia de Genghis Khan tejieron a esta población fronteriza cristiana en el tejido del mundo más amplio de Mongol, y el Öngüd se absorbieron gradualmente en él en los siglos que siguieron."
+ SHATUO_GLOSS: "Los shatuo eran un pueblo túrquico procedente de la tribu chuyue del Kanato Túrquico Occidental. Tomaron su nombre del desierto de Shatuo, en la cuenca de Zungaria, al norte del actual Sinkiang. Empujados hacia el este por la expansión tibetana a comienzos del siglo IX, buscaron protección bajo la dinastía Tang y fueron reasentados en Daibei, al norte de Shanxi. Generaciones de servicio militar fronterizo y matrimonios con la población china han dieron lugar a una cultura túrquica profundamente influida por China, pero que conservó sus tradiciones ecuestres y guerreras. Tras la caída de los Tang, algunos dirigentes shatuo alcanzaron un notable poder en el norte de China, mientras que grupos que permanecieron en la estepa mongola contribuyeron al origen de los öngüd."
+ 
+
+ onggud_history_loc: "Se separó de [CULTURE.GetName] [Glossary('pueblos de la estepa junto a los montes Yin', 'ONGGUD_GLOSS')] en el año [DATE.GetYear]"
+ 
+ ONGGUD_GLOSS: "Los öngüd descendían de grupos túrquicos shatuo que permanecieron en la estepa de Mongolia Interior después de que la dinastía Song acabara con los regímenes shatuo del norte de China en 979. Se asentaron junto a los montes Yin y actuaron como guardianes de la frontera frente a las incursiones de la estepa. Adoptaron el cristianismo nestoriano, como atestiguan las cruces halladas en su antiguo territorio, y desarrollaron una identidad distinta tanto de sus antepasados shatuo como de los pueblos mongoles vecinos. Los matrimonios entre la casa gobernante öngüd y la familia de Gengis Kan vincularon estrechamente a esta población cristiana con el mundo mongol, en el que terminó integrándose durante los siglos posteriores."
  
 
  kerait_history_loc: "Se formó a partir de [CULTURE.GetName] y [TARGET_CULTURE.GetName] [Glossary('tribus de la meseta mongola central', 'KERAIT_GLOSS')] en el año [DATE.GetYear]"
  
- KERAIT_GLOSS: "Los Kerait fueron una de las confederaciones dominantes de la meseta mongola en los siglos XI y XII, sus orígenes debatieron entre la ascendencia turco-mongolica, sus gobernantes que llevaban títulos turcos mientras su gente era contada entre los mongoles por fuentes de dinastía yuanas. Se elevaron a la prominencia después del colapso de los pueblos Uyghur Khaganate esparcidos a través de la meseta, absorbiendo varios restos tribales en su confederación de Zubu en la estepa central hasta que el Kerait numeraba entre las poblaciones más grandes de los pastizales de Mongolia. En 1009 su gente sufrió el bautismo masivo en el Cristianismo Nestoriano, un sorprendente cambio religioso que hizo que el Kerait sea una de las mayores poblaciones cristianas en cualquier lugar de Asia medieval, sus iglesias y clero una fijación de la vida estepa por generaciones. El poder de Kerait finalmente se rompió en 1203, y los sobrevivientes dispersos de esta población de estepas cristianas una vez dominantes fueron absorbidos en la creciente confederación mongol en los años que siguieron."
+ KERAIT_GLOSS: "Los kerait fueron una de las principales confederaciones de la meseta mongola durante los siglos XI y XII. Sus orígenes, túrquicos o mongólicos, son objeto de debate: sus gobernantes utilizaban títulos túrquicos, aunque las fuentes de la dinastía Yuan los incluían entre los mongoles. Tras la caída del Kanato Uigur, absorbieron diversos grupos tribales y adquirieron un papel destacado en la confederación zubu de la estepa central. En 1009, gran parte de su población adoptó el cristianismo nestoriano, convirtiéndose en una de las mayores comunidades cristianas de la Asia medieval. Su poder fue quebrantado en 1203 y los supervivientes acabaron integrándose en la confederación mongola en expansión."
  
 
  naiman_history_loc: "Se formó a partir de [CULTURE.GetName] y [TARGET_CULTURE.GetName] [Glossary('tribus del Altai de Mongolia occidental', 'NAIMAN_GLOSS')] en el año [DATE.GetYear]"
  
- NAIMAN_GLOSS: "El Naiman, su nombre que significa 'ocho' en Mongolia, reflejando una confederación de ocho tribus constitutivas, ocupó la meseta de Mongolia occidental y la región de la Montaña Altai, sus orígenes arraigados en el Basmyl y pueblos turcos relacionados que llenaron el vacío de poder dejado por el colapso de Uyghur Khaganate en 840. Debatido patrimonio turco o mixto de Turco-Mongol, el Naiman adoptó el Cristianismo Nestoriano y mantuvo una población alfabetizada que utilizó el guión Uyghur para la administración cotidiana, dándoles un prestigio cultural entre los pueblos estepa que superan su reputación militar. A su altura, Naiman superó a los propios mongols, y tras su derrota en 1204 muchas familias y nobles naimanes dispersados hasta Asia Central, donde sus descendientes continuaron sirviendo a los Kara-Khitai y llevando la identidad naiman a nuevas tierras lejos de su tierra natal Altai."
+ NAIMAN_GLOSS: "Los naimanos, cuyo nombre significa «ocho» en mongol y alude tradicionalmente a una confederación de ocho tribus, ocuparon la meseta occidental de Mongolia y los montes Altái. Sus orígenes se relacionan con los basmilos y otros pueblos túrquicos que ocuparon el vacío político dejado por la caída del Kanato Uigur en 840. De ascendencia túrquica o turcomongola discutida, adoptaron el cristianismo nestoriano y utilizaron la escritura uigur en su administración, lo que les otorgó un considerable prestigio cultural entre los pueblos de la estepa. En su apogeo rivalizaron con los mongoles; tras su derrota en 1204, muchas familias y nobles naimanos se dispersaron por Asia Central y algunos sirvieron a los karajitáis."
  
 
  uyghur_history_loc: "Se formó a partir de [CULTURE.GetName] y [TARGET_CULTURE.GetName] [Glossary('de los pueblos del Tarim y la estepa de Mongolia', 'UYGHUR_GLOSS')] en el año [DATE.GetYear]"
  
- UYGHUR_GLOSS: "El Uyghur se levantó de una confederación de tribus turcas Tiele para derrocar al Segundo Khaganado turco en 742, fundando un caganado que dominaba la estepa mongol hasta su destrucción por el Yenisei Kyrgyz en 840. Su población adoptó ampliamente el Manichaeism, dando a la sociedad Uyghur un carácter claramente cosmopolita y resuelto inusual entre los pueblos estepados, mientras que su adopción de un guión dirigido por Sogdian difundió la alfabetización a través de sus comunidades y más tarde se convirtió en la base administrativa para el propio sistema de escritura del Imperio Mongol. Después de 840 la diáspora Uyghur se dividió hacia el oeste en los oasis de la cuenca del Tarim de Turfan y Ganzhou, donde la población migratoria se asentaba entre las antiguas ciudades de Tocharian y se entremezclaban allí, produciendo un comercio, cultura literaria que preservaba la identidad Uyghur mucho después de la caída del caganado estepa."
+ UYGHUR_GLOSS: "Los uigures surgieron de una confederación de tribus túrquicas tiele que contribuyó al derrocamiento del Segundo Kanato Túrquico en 742. Fundaron un kanato que dominó la estepa mongola hasta su destrucción por los kirguises del Yeniséi en 840. La difusión del maniqueísmo y la adopción de una escritura derivada del sogdiano favorecieron una cultura urbana y letrada poco habitual entre los pueblos esteparios; esa escritura serviría después de base para la administración del Imperio mongol. Tras 840, grupos uigures emigraron hacia los oasis de Turfán y Ganzhou, donde se mezclaron con las poblaciones locales de la cuenca del Tarim y desarrollaron una cultura comercial y literaria que conservó su identidad mucho después de la caída del kanato."
  
 
  mongol_history_loc: "Se separó de [CULTURE.GetName] [Glossary('tribus de la estepa de Mongolia oriental', 'MONGOL_GLOSS')] en el año [DATE.GetYear]"
  
- MONGOL_GLOSS: "Los mongols trazan sus primeras tradiciones al legendario Ergüne-qun, un valle oculto en las fronteras de Xianbei donde, según su propio mito de origen, una pequeña banda de sobrevivientes refugiada después de una gran derrota antes de multiplicarse y empujar hacia la estepa. Fuentes chinas del período Tang registran una pequeña tribu forestal llamada Mengwu Shiwei cuyo nombre es fonéticamente cercano a 'Mongol' y cuyo antepasado Bodonchar Munkhag, por leyenda, encontró la línea Borjigin que produjo generaciones Genghis Khan más tarde. Durante siglos las tribus proto-Mongol siguieron siendo un grupo menor entre muchos en la estepa oriental, sobrevalorado por los jeitan, los uigures y los tártaros, antes de su consolidación gradual en la confederación que eventualmente los eclipsaría a todos."
+ MONGOL_GLOSS: "Las tradiciones mongolas sitúan sus orígenes en el legendario Ergüne Qun, un valle oculto donde, según su mito fundacional, un pequeño grupo de supervivientes se refugió tras una gran derrota antes de multiplicarse y regresar a la estepa. Las fuentes chinas de época Tang mencionan a los mengwu shiwei, un grupo forestal cuyo nombre se ha relacionado con el de los mongoles. La tradición genealógica atribuye a Bodonchar Munkhag el origen del linaje borjigin, del que siglos después surgiría Gengis Kan. Durante mucho tiempo, los grupos protomongoles fueron una fuerza menor de la estepa oriental, dominada por kitán, uigures y tártaros, hasta su progresiva unificación en una confederación que acabaría superándolos."
  
 
  oirat_history_loc: "Se separó de [CULTURE.GetName] [Glossary('pueblos forestales de la estepa occidental', 'OIRAT_GLOSS')] en el año [DATE.GetYear]"
  
- OIRAT_GLOSS: "Los Oirats surgieron entre los pueblos que habitaban en el bosque al oeste de Mongolia propiamente dicho, su nombre posiblemente derivado de una frase que significa 'los bosques' o 'los parientes cercanos' dependiendo de la tradición consultada. Distintos de los mongoles de Khamag en dialecto y camino de vida, los Oirats aparecen primero claramente en la historia como un vecino y rival periódico de la creciente confederación de mongol, su principal Quduqa Beki aliado contra Temüjin antes de la eventual sumisión e integración de los Oirats en el Imperio Mongol."
+ OIRAT_GLOSS: "Los oirates surgieron entre los pueblos de los bosques situados al oeste de Mongolia. Su nombre se ha relacionado, según distintas tradiciones, con expresiones que significan «gentes del bosque» o «parientes cercanos». Diferenciados de los mongoles khamag por su dialecto y modo de vida, aparecen en las fuentes como vecinos y rivales ocasionales de la creciente confederación mongola. Su dirigente Quduqa Beki se alió inicialmente contra Temuyín, pero los oirates terminaron sometiéndose e integrándose en el Imperio mongol."
  
 
  tataric_history_loc: "Se separó de [CULTURE.GetName] [Glossary('tribus de la región del Lago Buir', 'TATARIC_GLOSS')] en el año [DATE.GetYear]"
  
- TATARIC_GLOSS: "Los tártaros formaron una de las grandes confederaciones tribales de la estepa del este de Mongolia, se establecieron alrededor del lago Buir y contaron durante mucho tiempo como una de las cinco potencias dominantes de la meseta junto al Kerait, Naiman, Merkit y los mongoles Khamag. Su nombre sería, a través de los accidentes de la geografía medieval y de los cronistas persas y europeos que conflaron a todos los pueblos estepas bajo ella, eventualmente se adhieren a los conquistadores mongol y más tarde a los pueblos turcos de la Horda Dorada, Aunque los tártaros históricos eran un pueblo distinto, rivales amargos de los mongols que finalmente fueron aplastados y absorbidos por Temüjin en 1202."
+ TATARIC_GLOSS: "Los tártaros constituyeron una de las grandes confederaciones tribales de la estepa oriental de Mongolia. Establecidos alrededor del lago Buir, figuraban entre las principales potencias de la meseta junto con kerait, naimanos, merkitas y mongoles khamag. Con el tiempo, cronistas persas y europeos extendieron el nombre «tártaro» a los conquistadores mongoles y, posteriormente, a diversos pueblos túrquicos de la Horda de Oro. Sin embargo, los tártaros originales eran un pueblo distinto y un encarnizado rival de los mongoles, hasta que Temuyín los derrotó y absorbió en 1202."
  
 
  onggirad_history_loc: "Se separó de [CULTURE.GetName] [Glossary('tribus de la cuenca del lago Hulun', 'ONGGIRAD_GLOSS')] en el año [DATE.GetYear]"
  
- ONGGIRAD_GLOSS: "El Onggirad estableció los pastizales alrededor del lago Hulun en el este de Mongolia, una tribu Darligin contada entre los pueblos mongoles centrales, sin embargo rastrear ningún descenso de la línea de Bodonchar. Nunca unido bajo un único jefe supremo y por lo tanto nunca un gran poder militar en su propio derecho, el Onggirad en cambio construyó su importancia histórica a través del matrimonio: la madre de Genghis Khan, su principal esposa Börte, y generaciones de subsiguientes emperatrizos mongol y princesas fueron extraídas de las filas de Onggirad, haciendo de la tribu el clan hereditario de la casa dominante."
+ ONGGIRAD_GLOSS: "Los onggirad se asentaron en los pastizales que rodean el lago Hulun, en el este de Mongolia. Eran una tribu darligin, incluida entre los pueblos mongoles centrales, aunque no descendían del linaje de Bodonchar. Nunca constituyeron una gran potencia militar unificada, pero adquirieron enorme importancia mediante alianzas matrimoniales. La madre de Gengis Kan, su esposa principal Börte y numerosas emperatrices y princesas mongolas posteriores procedían de este grupo, que se convirtió en uno de los principales aliados matrimoniales de la dinastía gobernante."
  
 
  tajiuud_history_loc: "Se separó de [CULTURE.GetName] [Glossary('descendientes de Bodonchar', 'TAJIUUD_GLOSS')] en el año [DATE.GetYear]"
@@ -243,12 +243,12 @@
 
  qay_history_loc: "Se separó de [CULTURE.GetName] [Glossary('Kumo Xi pueblos de la estepa oriental', 'QAY_GLOSS')] en el año [DATE.GetYear]"
  
- QAY_GLOSS: "El Qay, conocido por los cronistas chinos como el Kumo Xi, se dividió de la misma acción Xianbei que produjo el Khitan, asentando como vecinos cercanos y rivales frecuentes de esa gente a lo largo de la frontera del río Liao. Aunque nunca alcanzaron las alturas imperiales de sus primos jeitan, el Qay mantuvo una identidad tribal distinta durante siglos, alternando entre sumisión a dinastías chinas, alianza con el Khitan, y rebelión abierta, antes de ser absorbido en la estructura administrativa de la dinastía Liao."
+ QAY_GLOSS: "El Qay, conocido por los cronistas chinos como el Kumo Xi, se dividió de la misma acción xianbei que produjo el kitán, asentando como vecinos cercanos y rivales frecuentes de esa gente a lo largo de la frontera del río Liao. Aunque nunca alcanzaron las alturas imperiales de sus primos jeitan, el Qay mantuvo una identidad tribal distinta durante siglos, alternando entre sumisión a dinastías chinas, alianza con el kitán, y rebelión abierta, antes de ser absorbido en la estructura administrativa de la dinastía Liao."
  
 
  merkit_history_loc: "Se separó de [CULTURE.GetName] [Glossary('tribus de la cuenca del río Selenga', 'MERKIT_GLOSS')] en el año [DATE.GetYear]"
  
- MERKIT_GLOSS: "El Merkit estableció la cuenca del Selenga y los ríos inferiores de Orkhon, sus orígenes étnicos exactos debatidos por los cronistas incluso en su propio tiempo, algunas fuentes los llaman Mongol, otros turcos, sus títulos y nombres tribales que llevan trazas de ambas tradiciones. Sea cual sea su raíz más profunda, el Merkit surgió como una de las cinco confederaciones dominantes de la meseta mongol, enemigos amargos del estado creciente de Mongol después de que un partido de asalto Merkit secuestró a la esposa de Temüjin Börte, un acto de venganza y humillación que alimentaba décadas de guerra antes de su derrota final y dispersión alrededor de 1200."
+ MERKIT_GLOSS: "El Merkit estableció la cuenca del Selenga y los ríos inferiores de Orkhon, sus orígenes étnicos exactos debatidos por los cronistas incluso en su propio tiempo, algunas fuentes los llaman mongol, otros turcos, sus títulos y nombres tribales que llevan trazas de ambas tradiciones. Sea cual sea su raíz más profunda, el Merkit surgió como una de las cinco confederaciones dominantes de la meseta mongol, enemigos amargos del estado creciente de mongol después de que un partido de asalto Merkit secuestró a la esposa de Temüjin Börte, un acto de venganza y humillación que alimentaba décadas de guerra antes de su derrota final y dispersión alrededor de 1200."
  
 
  ekhirit_history_loc: "Se separó de [CULTURE.GetName] [Glossary('pueblos antiguos de los bosques de Baikal', 'EKHIRIT_GLOSS')] en el año [DATE.GetYear]"
@@ -263,97 +263,97 @@
 
  basmyl_history_loc: "Se separó de [CULTURE.GetName] [Glossary('tribus de la confederación Toquz Oghuz', 'BASMYL_GLOSS')] en el año [DATE.GetYear]"
  
- BASMYL_GLOSS: "El Basmyl fue contado entre el Toquz Oghuz, los Nueve Clanes de la confederación de Tiele que dominaron la estepa mongol bajo sucesivos caganados turcos. Junto a los Uyghurs y Karluks, el Basmyl jugó un papel central en el derrocamiento del último Göktürk khagan en 744, sosteniendo brevemente autoridad suprema en la estepa antes de que los Uyghurs los desmanecieron para el propio khaganate, después de lo cual el Basmyl continuó como un poder tribal significativo pero subordinado."
+ BASMYL_GLOSS: "El Basmyl fue contado entre el Toquz Oghuz, los Nueve Clanes de la confederación de tiele que dominaron la estepa mongol bajo sucesivos caganados turcos. Junto a los Uyghurs y Karluks, el Basmyl jugó un papel central en el derrocamiento del último Göktürk khagan en 744, sosteniendo brevemente autoridad suprema en la estepa antes de que los Uyghurs los desmanecieron para el propio kanato, después de lo cual el Basmyl continuó como un poder tribal significativo pero subordinado."
  
 
- ograk_history_loc: "Se separó de [CULTURE.GetName] [Glossary('a branch of the Basmyl', 'OGRAK_GLOSS')] en el año [DATE.GetYear]"
+ ograk_history_loc: "Se separó de [CULTURE.GetName] [Glossary('una rama de los basmilos', 'OGRAK_GLOSS')] en el año [DATE.GetYear]"
  
  OGRAK_GLOSS: "El Ograk se formó como una rama estrechamente relacionada del Basmyl, compartiendo su idioma y gran parte de su estructura tribal dentro del mundo Toquz Oghuz más amplio. Al igual que su tribu matriz, los Ograk fueron barridos en los grandes realineamientos de la estepa tras el colapso del caganato de Göktürk en 744, su historia mal distinguida en fuentes chinas y turcas de la confederación de Basmyl más amplia de la que brotaron."
  
 
  bayirku_history_loc: "Divergida de la [CULTURE.GetName] en [DATE.GetYear]"
  
- BAYIRKU_GLOSS: "El Bayirku, registrado en los anales chinos como el Bayegu, fue uno de los Nueve Clanes de la confederación Toquz Oghuz, establecido en los extremos norteños del territorio de Tiele cerca del lago Baikal. Su nombre se hace eco más tarde en el etnónimo de los Mongols de Barga de la misma región, lo que sugiere una larga continuidad de la población, incluso a medida que las identidades políticas se desplazan a lo largo de los siglos."
+ BAYIRKU_GLOSS: "El Bayirku, registrado en los anales chinos como el Bayegu, fue uno de los Nueve Clanes de la confederación Toquz Oghuz, establecido en los extremos norteños del territorio de tiele cerca del lago Baikal. Su nombre se hace eco más tarde en el etnónimo de los mongoles de Barga de la misma región, lo que sugiere una larga continuidad de la población, incluso a medida que las identidades políticas se desplazan a lo largo de los siglos."
  
 
  turgesh_history_loc: "Divergida de la [CULTURE.GetName] en [DATE.GetYear]"
  
- TURGESH_GLOSS: "El Turgesh surgió como una de las tribus de Ten Arrow de la confederación On Oq del turco occidental Khaganate, un pueblo pastoral del valle del río Ili y de la región de Zhetysu cuyos rebaños pastaron el mismo rico corredor de pastizales que generaciones de pueblos de estepa antes que ellos habían dependido. Internamente los Turgesh se dividieron entre dos grandes agrupaciones de clanes, el Turgesh Amarillo y el Turgesh Negro, una división que moldeó alianzas matrimoniales y derechos de pastoreo mucho antes de que se hiciera una cuestión de política. A medida que la autoridad turca occidental se derrumbó al final del siglo VII, esta misma población de pastoreo se encontró sumida en la prominencia no acostumbrada, sus guerreros y pastizales repentinamente en el centro de un concurso para el control del valle de Ili que ocuparía el Turgesh para la mejor parte de un siglo."
+ TURGESH_GLOSS: "El Turgesh surgió como una de las tribus de Ten Arrow de la confederación On Oq del turco occidental Kanato, un pueblo pastoral del valle del río Ili y de la región de Zhetysu cuyos rebaños pastaron el mismo rico corredor de pastizales que generaciones de pueblos de estepa antes que ellos habían dependido. Internamente los Turgesh se dividieron entre dos grandes agrupaciones de clanes, el Turgesh Amarillo y el Turgesh Negro, una división que moldeó alianzas matrimoniales y derechos de pastoreo mucho antes de que se hiciera una cuestión de política. A medida que la autoridad turca occidental se derrumbó al final del siglo VII, esta misma población de pastoreo se encontró sumida en la prominencia no acostumbrada, sus guerreros y pastizales repentinamente en el centro de un concurso para el control del valle de Ili que ocuparía el Turgesh para la mejor parte de un siglo."
  
 
  qun_history_loc: "Divergida de la [CULTURE.GetName] en [DATE.GetYear]"
  
- QUN_GLOSS: "El Qun, registrado en fuentes chinas como la tribu Hun, fue uno de los Nueve Clanes de la confederación Toquz Oghuz nombrado en las inscripciones de Orkhon de principios del siglo VIII. Los enviados que llevan el nombre tribal Qun aparecen en la inscripción de Tonyukuk entre los enviados por el Toquz Oghuz khagan para tratar con China y el Khitan, atestiguando la posición de la tribu dentro de la confederación de Tiele más amplia, incluso cuando su historia independiente permanece escasamente registrada."
+ QUN_GLOSS: "El Qun, registrado en fuentes chinas como la tribu Hun, fue uno de los Nueve Clanes de la confederación Toquz Oghuz nombrado en las inscripciones de Orkhon de principios del siglo VIII. Los enviados que llevan el nombre tribal Qun aparecen en la inscripción de Tonyukuk entre los enviados por el Toquz Oghuz khagan para tratar con China y el kitán, atestiguando la posición de la tribu dentro de la confederación de tiele más amplia, incluso cuando su historia independiente permanece escasamente registrada."
  
 
  siqar_history_loc: "Divergida de la [CULTURE.GetName] en [DATE.GetYear]"
  
- SIQAR_GLOSS: "El Siqar era una tribu constituyente de la confederación de Tiele en la estepa mongol, su historia ligada a la fortuna más amplia del Toquz Oghuz. Más tarde, los linajes Siqar contribuirían a la formación de nuevos poderes de estepa a medida que las confederaciones tribales se removían tras el colapso del Uyghur Khaganate en 840, su nombre sobreviviendo como una raíz entre los muchos que se introdujeron en la confederación Naiman de la estepa occidental."
+ SIQAR_GLOSS: "El Siqar era una tribu constituyente de la confederación de tiele en la estepa mongol, su historia ligada a la fortuna más amplia del Toquz Oghuz. Más tarde, los linajes Siqar contribuirían a la formación de nuevos poderes de estepa a medida que las confederaciones tribales se removían tras el colapso del uigures Kanato en 840, su nombre sobreviviendo como una raíz entre los muchos que se introdujeron en la confederación naimanos de la estepa occidental."
  
 
  tongra_history_loc: "Se separó de [CULTURE.GetName] [Glossary('tribus de la confederación Toquz Oghuz', 'TONGRA_GLOSS')] en el año [DATE.GetYear]"
  
- TONGRA_GLOSS: "Grabado en fuentes chinas como el Tongluo, los Tongra estaban entre las más fuertes de las tribus Tiele, prominente dentro de la confederación Toquz Oghuz por su reputación marcial y su estrecha alianza con la tribu Pugu igualmente arraigada. Generaciones de servicio militar fronterizo contra y junto a la dinastía Tang endurecieron la sociedad Tongra en uno construido alrededor de la guerra montada y la vida móvil del campamento incluso más que la mayoría de sus parientes Tiele, un carácter marcial que hizo que los guerreros Tongra buscaran como auxiliares por cualquier poder que actualmente se mantiene en el estepa, de la propia corte Tang a los generales de fronteras rebeldes que buscan la caballería propia."
+ TONGRA_GLOSS: "Grabado en fuentes chinas como el Tongluo, los Tongra estaban entre las más fuertes de las tribus tiele, prominente dentro de la confederación Toquz Oghuz por su reputación marcial y su estrecha alianza con la tribu Pugu igualmente arraigada. Generaciones de servicio militar fronterizo contra y junto a la dinastía Tang endurecieron la sociedad Tongra en uno construido alrededor de la guerra montada y la vida móvil del campamento incluso más que la mayoría de sus parientes tiele, un carácter marcial que hizo que los guerreros Tongra buscaran como auxiliares por cualquier poder que actualmente se mantiene en el estepa, de la propia corte Tang a los generales de fronteras rebeldes que buscan la caballería propia."
  
 
  barsil_history_loc: "Divergida de la [CULTURE.GetName] en [DATE.GetYear]"
 
- BARSIL_GLOSS: "El Barsil pertenecía al mundo turco de habla Oghur del Cáucaso Norte y la estepa Pontic-Caspiano, apareciendo en fuentes bizantinas del siglo VI junto a los Sabirs y Onogurs como uno de los pueblos descendidos de los restos de la confederación huniana. Al norte del Cáucaso en la era antes de la ascendencia de Khazar, los Barsil son considerados por varios eruditos para haber formado uno de los elementos fundadores más tarde absorbidos en el estado naciente de Khazar, su nombre y población doblando en el más amplio Khazar khaganate mientras se levantó para dominar la región en el siglo VII."
+ BARSIL_GLOSS: "El Barsil pertenecía al mundo turco de habla Oghur del Cáucaso Norte y la estepa Pontic-Caspiano, apareciendo en fuentes bizantinas del siglo VI junto a los Sabirs y Onogurs como uno de los pueblos descendidos de los restos de la confederación huniana. Al norte del Cáucaso en la era antes de la ascendencia de Khazar, los Barsil son considerados por varios eruditos para haber formado uno de los elementos fundadores más tarde absorbidos en el estado naciente de Khazar, su nombre y población doblando en el más amplio Khazar kanato mientras se levantó para dominar la región en el siglo VII."
  
 
  karluk_history_loc: "Se separó de [CULTURE.GetName] [Glossary('tribus de la confederación Toquz Oghuz', 'KARLUK_GLOSS')] en el año [DATE.GetYear]"
  
- KARLUK_GLOSS: "El Karluk se originó entre la confederación tribal de Khaganate turco occidental en la región de Altai, una población pastoral organizada bajo el sistema On Oq junto con varios otros pueblos turcos antes de que la fragmentación del khaganate los dispersara. Después del colapso del Uyghur Khaganate en 840 abrió nuevos terrenos de pastoreo y rutas comerciales hacia su sur, Karluk herding communities pressed steadily into the Zhetysu region, y a lo largo de las generaciones siguientes, esta población migratoria se apartó gradualmente del nomadismo de paso abierto hacia las ciudades de Asia Central que se dedican al comercio de oasis, establecerse entre las poblaciones existentes de Sogdian y Tocharian, y casarse entre ellas. Esta lenta transformación de los pastores de estepa a los comerciantes de oasis y los pueblos Folk sentaron las bases de la población desde las que el Khanate Kara-Khanid, y la más amplia turcoicización e islamización de las cuencas Tarim y Ferghana, eventualmente crecería."
+ KARLUK_GLOSS: "Los carlucos procedían de la confederación tribal del kanato turco occidental, en la región del Altái, donde formaban parte de las poblaciones pastoriles organizadas bajo el sistema On Oq. Tras la fragmentación del kanato, se dispersaron por la estepa. La caída del kanato uigur en 840 abrió nuevas tierras de pastoreo y rutas comerciales hacia el sur, lo que favoreció su migración hacia la región de Zhetysu. Durante las generaciones siguientes, algunas comunidades carlucas abandonaron gradualmente el nomadismo y se asentaron en ciudades y oasis de Asia Central, donde convivieron y se mezclaron con poblaciones sogdianas y tocarias. Esta transformación sentó las bases de la población de la que surgiría el kanato qarajánida y contribuyó a la turquificación y la islamización de las cuencas del Tarim y Ferganá."
  
 
  laktan_history_loc: "Se separó de [CULTURE.GetName] [Glossary('tribus fundadoras de la confederación de Kimek', 'LAKTAN_GLOSS')] en el año [DATE.GetYear]"
  
- LAKTAN_GLOSS: "El Laktan, grabado por geógrafos persas como el Lanikaz, fue una de las siete tribus fundadoras de la confederación de Kimek que emergieron en la región de Altai y Irtysh superior tras el colapso del Khaganate turco occidental. Su nombre puede derivarse de una frase que significa 'Khazar Alans', insinuando una red de conexiones de estepa que se extienden lejos al oeste, aunque como varias de las tribus constitutivas de Kimek su historia independiente sólo se vislumbra a través de las observaciones externas de los cronistas árabes y persas como Gardizi."
+ LAKTAN_GLOSS: "El Laktan, grabado por geógrafos persas como el Lanikaz, fue una de las siete tribus fundadoras de la confederación de Kimek que emergieron en la región de Altái y Irtysh superior tras el colapso del Kanato turco occidental. Su nombre puede derivarse de una frase que significa 'Khazar Alans', insinuando una red de conexiones de estepa que se extienden lejos al oeste, aunque como varias de las tribus constitutivas de Kimek su historia independiente sólo se vislumbra a través de las observaciones externas de los cronistas árabes y persas como Gardizi."
  
 
  bashkir_history_loc: "Se separó de [CULTURE.GetName] [Glossary('pueblos de la estepa de Ural meridional', 'BASHKIR_GLOSS')] en el año [DATE.GetYear]"
  
- BASHKIR_GLOSS: "El Bashkir estableció las tierras fronterizas de los bosques de las montañas del sur de Ural, una población encrucijada entre las tierras de Volga Bulgar al oeste, la estepa de Kimek y Kipchak al este, y el cinturón forestal del norte más allá. Los criadores y cazadores de caballos hábiles, los Bashkir mantuvieron su propia identidad tribal y costumbres, incluso como sucesivas olas de Oghuz, Kimek, y más tarde los colonos de Kipchak se mudaron a través y alrededor de su patria, absorbiendo influencia externa en los bordes de su sociedad, preservando un lenguaje y forma de vida distintos en la era de la Horda Dorada."
+ BASHKIR_GLOSS: "Los baskires se asentaron en la región de transición entre bosques y estepas de los Urales meridionales, entre las tierras de los búlgaros del Volga al oeste, las estepas de los kimeks y kipchaks al este y los bosques septentrionales. Eran hábiles criadores de caballos y cazadores, y conservaron sus costumbres e identidad tribal pese al paso de sucesivas oleadas de pueblos oguzes, kimeks y, posteriormente, kipchaks. Aunque incorporaron influencias de sus vecinos, mantuvieron una lengua y una forma de vida propias hasta la época de la Horda de Oro."
  
 
  kipchak_history_loc: "Se separó de [CULTURE.GetName] [Glossary('remanentes de los Altai e Irtysh', 'KIPCHAK_GLOSS')] en el año [DATE.GetYear]"
  
- KIPCHAK_GLOSS: "El Kipchak aparece por primera vez en el siglo VIII como parte del Segundo Khaganato turco, probablemente habitando la región de Altai, antes de que el colapso del khaganate doblara a su población a la confederación Kimek emergente a lo largo del río Irtysh. Las comunidades de pastoreo de Kipchak crecieron cada vez más numerosas dentro de esta confederación durante los siglos siguientes, y para el siglo XI habían superado por completo a sus antiguos vecinos Kimek, difundiendo explosivamente hacia el oeste a través de la estepa Pontic-Caspian en una migración tan profunda que el vasto pastizal que llegaron a habitar, el Desht-i-Qipchak, simplemente tomó su nombre. Esta esterape espeluznante Kipchak-settled se convertiría en el corazón de la Horda Dorada."
+ KIPCHAK_GLOSS: "Los kipchaks aparecen por primera vez en las fuentes del siglo VIII como parte del segundo kanato turco, probablemente en la región del Altái. Tras la caída de aquel kanato, se integraron en la naciente confederación kimek a orillas del río Irtish. Sus comunidades pastoriles crecieron durante los siglos siguientes y, hacia el siglo XI, llegaron a superar en importancia a sus antiguos aliados kimeks. Desde allí se expandieron hacia el oeste por la estepa póntico-caspia, hasta el punto de que aquel vasto territorio pasó a conocerse como Desht-i Qipchaq, la estepa de los kipchaks. Más tarde, estas tierras se convertirían en el núcleo de la Horda de Oro."
  
 
  dukha_history_loc: "Se separó de [CULTURE.GetName] [Glossary('renos herederos de la taiga Sayan', 'DUKHA_GLOSS')] en el año [DATE.GetYear]"
  
- DUKHA_GLOSS: "El Dukha habitaba las franjas taiga de las montañas Sayan, su identidad moldeada menos por los grandes caganados de la estepa abierta que por el bosque profundo y sus renos, una vía de vida que los apartó de sus vecinos madrastras, incluso cuando compartieron el discurso y la ascendencia turcos Sayan-Altaic con el mundo más amplio de Yenisei Kirghiz."
+ DUKHA_GLOSS: "El Dukha habitaba las franjas taiga de las montañas Sayan, su identidad moldeada menos por los grandes caganados de la estepa abierta que por el bosque profundo y sus renos, una vía de vida que los apartó de sus vecinos madrastras, incluso cuando compartieron el discurso y la ascendencia turcos Sayan-Altaic con el mundo más amplio de Yeniséi Kirghiz."
  
 
  todzh_history_loc: "Se separó de [CULTURE.GetName] [Glossary('los pueblos forestales del Yenisei superior', 'TODZH_GLOSS')] en el año [DATE.GetYear]"
  
- TODZH_GLOSS: "El Todzh estableció la cuenca boscosa del Yenisei superior dentro de la esfera de la influencia de Kirghiz, su remota tierra montañosa y forestal preservando una identidad tribal distinta a través de los siglos, incluso mientras el ancho Yenisei Kirghiz khaganate se levantó y cayó alrededor de ellos."
+ TODZH_GLOSS: "El Todzh estableció la cuenca boscosa del Yeniséi superior dentro de la esfera de la influencia de Kirghiz, su remota tierra montañosa y forestal preservando una identidad tribal distinta a través de los siglos, incluso mientras el ancho Yeniséi Kirghiz kanato se levantó y cayó alrededor de ellos."
  
 
  cik_history_loc: "Se separó de [CULTURE.GetName] [Glossary('pueblos absorbidos por el Yenisei Kirghiz', 'CIK_GLOSS')] en el año [DATE.GetYear]"
  
- CIK_GLOSS: "El Cik está atestiguado en las primeras fuentes turcas y chinas como un pueblo distinto de la cuenca superior de Yenisei, sometido y absorbido en la esfera de Yenisei Kirghiz en expansión, ya que esa confederación creció para dominar la región de Sayan-Altai. Su nombre persistió como un marcador tribal y territorial incluso después de la absorción política, parte de la parchería de pueblos que conformaron el mundo más amplio de Kirghiz."
+ CIK_GLOSS: "El Cik está atestiguado en las primeras fuentes turcas y chinas como un pueblo distinto de la cuenca superior de Yeniséi, sometido y absorbido en la esfera de Yeniséi Kirghiz en expansión, ya que esa confederación creció para dominar la región de Sayan-Altái. Su nombre persistió como un marcador tribal y territorial incluso después de la absorción política, parte de la parchería de pueblos que conformaron el mundo más amplio de Kirghiz."
  
 
  az_history_loc: "Se separó de [CULTURE.GetName] [Glossary('pueblos de las montañas de Sayan', 'AZ_GLOSS')] en el año [DATE.GetYear]"
  
- AZ_GLOSS: "Los Az se registran entre los pueblos tribales de la región montañosa de Sayan cerca de Tuva, su tierra montañosa colocandolos dentro de la órbita del poder de Yenisei Kirghiz, incluso cuando su lejanía preservaba una medida de autonomía local e identidad distinta a través de los siglos de Kirghiz, y más tarde Mongol, soberanía."
+ AZ_GLOSS: "Los Az se registran entre los pueblos tribales de la región montañosa de Sayan cerca de Tuva, su tierra montañosa colocandolos dentro de la órbita del poder de Yeniséi Kirghiz, incluso cuando su lejanía preservaba una medida de autonomía local e identidad distinta a través de los siglos de Kirghiz, y más tarde mongol, soberanía."
  
 
  shor_history_loc: "Se separó de [CULTURE.GetName] [Glossary('pueblos irlandeses del Kuznetsk Altai', 'SHOR_GLOSS')] en el año [DATE.GetYear]"
  
- SHOR_GLOSS: "El Shor habitaba la región boscosa Kuznetsk Altai, sus tradiciones de ironía y caza conformadas por el taiga de montaña en lugar de la estepa abierta. Vinculado por la ascendencia y el lenguaje al Yenisei Kirghiz y al mundo más ancho de Khakas, el Shor mantuvo una identidad distinta de morada forestal incluso como imperios de estepa al sur se levantó y cayó."
+ SHOR_GLOSS: "El Shor habitaba la región boscosa Kuznetsk Altái, sus tradiciones de ironía y caza conformadas por el taiga de montaña en lugar de la estepa abierta. Vinculado por la ascendencia y el lenguaje al Yeniséi Kirghiz y al mundo más ancho de Khakas, el Shor mantuvo una identidad distinta de morada forestal incluso como imperios de estepa al sur se levantó y cayó."
  
 
  telengit_history_loc: "Se separó de [CULTURE.GetName] [Glossary('pueblos del Alto Altai', 'TELENGIT_GLOSS')] en el año [DATE.GetYear]"
  
- TELENGIT_GLOSS: "El Telengit estableció las altas montañas de Altai, su identidad forjada en la intersección de la expansión de Yenisei Kirghiz y las poblaciones montañosas más antiguas de la región. Cazadores y jinetes esquiados adaptados a las duras tierras altas de Altai, el Telengit conserva su propia estructura tribal a través de sucesivas olas de Kirghiz, turco y eventualmente Mongol sobrelordship."
+ TELENGIT_GLOSS: "El Telengit estableció las altas montañas de Altái, su identidad forjada en la intersección de la expansión de Yeniséi Kirghiz y las poblaciones montañosas más antiguas de la región. Cazadores y jinetes esquiados adaptados a las duras tierras altas de Altái, el Telengit conserva su propia estructura tribal a través de sucesivas olas de Kirghiz, turco y eventualmente mongol sobrelordship."
  
 
  kirghiz_history_loc: "Se separó de [CULTURE.GetName] [Glossary('Kirghiz migrando hacia el Tian Shan', 'KIRGHIZ_GLOSS')] en el año [DATE.GetYear]"
  
- KIRGHIZ_GLOSS: "Tras la conquista mongol de la tierra natal de Yenisei Kirghiz a principios del siglo XIII, las sucesivas olas de clanes Kirghiz comenzaron a emigrar al suroeste hacia las montañas Tian Shan, distinguiéndose gradualmente de sus parientes de Yenisei-basin que permanecieron en el sur de Siberia. Esta rama de emigración hacia el sur, a lo largo de los siglos posteriores, se convertiría en los antepasados de la moderna kirguisa de Asia Central, su lenguaje e identidad que se divergían de los pueblos de habla kakas dejados atrás en los yenisei."
+ KIRGHIZ_GLOSS: "Tras la conquista mongol de la tierra natal de Yeniséi Kirghiz a principios del siglo XIII, las sucesivas olas de clanes Kirghiz comenzaron a emigrar al suroeste hacia las montañas Tian Shan, distinguiéndose gradualmente de sus parientes de Yeniséi-basin que permanecieron en el sur de Siberia. Esta rama de emigración hacia el sur, a lo largo de los siglos posteriores, se convertiría en los antepasados de la moderna kirguisa de Asia Central, su lenguaje e identidad que se divergían de los pueblos de habla kakas dejados atrás en los yenisei."
  
 
  sakha_history_loc: "Se separó de [CULTURE.GetName] [Glossary('Kurykans migrando a la cuenca del Lena', 'SAKHA_GLOSS')] en el año [DATE.GetYear]"
@@ -363,52 +363,52 @@
 
  uriankhai_history_loc: "Se separó de [CULTURE.GetName] [Glossary('pueblos bajo la regla del mongol', 'URIANKHAI_GLOSS')] en el año [DATE.GetYear]"
  
- URIANKHAI_GLOSS: "Tras la conquista mongol de los dominios de Yenisei Kirghiz, los pueblos turcos del bosque de Sayan-Altai y el país montañoso fueron sometidos a una influencia política y cultural mongol sostenida, y los conquistadores aplicaron el término Uriankhai, que originalmente denotó a los pueblos forestales en general, a estas poblaciones relacionadas con Khakas y Tuvan. Durante las generaciones siguientes, el contacto sostenido con los jefes mongol, el matrimonio y la incorporación administrativa en las estructuras mongoles llevó a estos pueblos turcos Sayan hacia el discurso y la identidad mongoles, produciendo una cultura híbrida que retenía sus raíces tiránicas de Sayan al adoptar la lengua mongolica de sus nuevos gobernantes."
+ URIANKHAI_GLOSS: "Tras la conquista mongola de los territorios de los kirguises del Yeniséi, los pueblos túrquicos de los bosques y montañas de Sayán-Altái quedaron sometidos a una prolongada influencia política y cultural mongola. Los conquistadores aplicaron el nombre uriankhai, empleado originalmente para designar a diversos pueblos forestales, a comunidades relacionadas con los antepasados de los jakasios y tuvanos. Durante generaciones, el contacto con los jefes mongoles, los matrimonios mixtos y la incorporación a la administración imperial favorecieron la adopción de elementos de la lengua y la identidad mongolas, sin que desaparecieran sus raíces túrquicas."
  
 
  pecheneg_history_loc: "Se separó de [CULTURE.GetName] [Glossary('tribus de la región de Syr Darya', 'PECHENEG_GLOSS')] en el año [DATE.GetYear]"
  
- PECHENEG_GLOSS: "El Pecheneg emergió entre los pueblos turcos del medio Syr Darya cerca de Tashkent, más tarde cronistas como Rashid al-Din y Mahmud Kashgari ambos cuentan entre las ramas del Oghuz. Presionado hacia el oeste por confederaciones rivales incluyendo el Oghuz, Kimek, y Karluk, el Pecheneg cruzó el Volga a principios del siglo IX y para el fin del siglo se había asentado a través de la estepa pontica del Caspio al Danubio, sus comunidades convirtiéndose en una presencia duradera a lo largo del Bizantino, Rus, y las fronteras húngaras durante los próximos dos siglos."
+ PECHENEG_GLOSS: "Los pechenegos surgieron entre los pueblos túrquicos de la región del curso medio del Sir Daria, cerca de Taskent. Cronistas posteriores, como Rashid al-Din y Mahmud de Kashgar, los incluyeron entre las ramas de los oguzes. Presionados por confederaciones rivales, entre ellas las de los oguzes, kimeks y carlucos, emigraron hacia el oeste y cruzaron el Volga a comienzos del siglo IX. A finales de ese siglo ocupaban amplias zonas de la estepa póntico-caspia, desde el Caspio hasta el Danubio, y durante los dos siglos siguientes desempeñaron un papel destacado en las fronteras bizantinas, rusas y húngaras."
  
 
- salar_history_loc: "Se separó de [CULTURE.GetName] [Glossary('Salur tribe of the Oghuz confederation', 'SALAR_GLOSS')] en el año [DATE.GetYear]"
+ salar_history_loc: "Se separó de [CULTURE.GetName] [Glossary('tribu salur de la confederación oguz', 'SALAR_GLOSS')] en el año [DATE.GetYear]"
  
- SALAR_GLOSS: "El Salar traza su descendencia hacia el Salur, una de las tribus Oghuz del Khaganate turco occidental cuyo nombre se conserva entre los veinticuatro clanes tradicionales de los Oghuz registrados por los genealogistas medievales. La tradición sostiene que los hermanos Salur huyeron de la persecución religiosa en Samarcanda con una pequeña banda de seguidores, llevando un Corán en un camello blanco hacia el este por el Tian Shan pasa hasta que se establecieron a lo largo del río Amarillo superior en las fronteras de Qinghai-Gansu, donde siglos de matrimonio con tibetano, Hui, y los vecinos chinos forjarían la identidad Salar distinta."
- 
-
- khazar_history_loc: "Se separó de [CULTURE.GetName] [Glossary('Oghur-Hunnic peoples of the Pontic steppe', 'KHAZAR_GLOSS')] en el año [DATE.GetYear]"
- 
- KHAZAR_GLOSS: "Los Khazars emergieron entre los pueblos turcos de habla Oghur del Cáucaso del Norte y la estepa Pontic-Caspiano, una población ampliamente vinculada por los cronistas y los eruditos modernos por igual a los restos de la confederación huniana que había barrido a través de la región siglos antes. Creciendo a la dominación en el siglo VII, los Khazars construyeron un notable tolerante y multiétnico khaganate que se extiende desde el Cáucaso hasta el Volga, su propia población que vive junto a los eslavos y absorbe elementos, Alans, y Bulgars gobernaron, y son famosos recordados por la conversión de su élite gobernante al judaísmo en algún momento en el siglo VIII o IX."
+ SALAR_GLOSS: "Los salares remontan sus orígenes a los salur, una de las tribus oguzes cuyo nombre figura entre los veinticuatro clanes tradicionales recogidos por los genealogistas medievales. Según su tradición, varios hermanos salur huyeron de la persecución religiosa en Samarcanda junto con un pequeño grupo de seguidores y llevaron un Corán sobre un camello blanco hacia el este, atravesando los pasos del Tian Shan. Finalmente se establecieron en el curso alto del río Amarillo, en la región de Qinghai-Gansu. Allí, siglos de convivencia y matrimonios con tibetanos, hui y chinos contribuyeron a la formación de una identidad salar diferenciada."
  
 
- bolghar_history_loc: "Se separó de [CULTURE.GetName] [Glossary('Oghur-Hunnic peoples of the Pontic steppe', 'BOLGHAR_GLOSS')] en el año [DATE.GetYear]"
+ khazar_history_loc: "Se separó de [CULTURE.GetName] [Glossary('pueblos ogúricos y hunos de la estepa póntica', 'KHAZAR_GLOSS')] en el año [DATE.GetYear]"
  
- BOLGHAR_GLOSS: "Los bolghars descienden de los pueblos turcos de habla Oghur de la estepa Pontic-Caspian, una tradición poblacional se conecta a los restos de la confederación hunnica y sus sindicatos tribales sucesores como los Onogurs. Tras el colapso de la vieja Gran Bulgaria a mediados del siglo VII bajo la presión de Khazar, las comunidades bolghar se dispersaron en varias direcciones, una rama migrando a los Balcanes y asentándose entre la población eslava local allí, otra moviéndose hacia el norte a lo largo del Volga para encontrar Volga Bulgaria, una próspera población comercial que perduraría hasta las conquistas mongol del siglo XIII."
+ KHAZAR_GLOSS: "Los jázaros surgieron entre los pueblos túrquicos de habla ogúrica del Cáucaso septentrional y la estepa póntico-caspia, vinculados por diversas fuentes a los restos de la antigua confederación huna. En el siglo VII alcanzaron una posición dominante y establecieron un kanato multiétnico que se extendía desde el Cáucaso hasta el Volga. En sus dominios convivían eslavos, alanos, búlgaros y otros pueblos. Los jázaros son especialmente conocidos por la conversión de parte de su élite gobernante al judaísmo, probablemente entre los siglos VIII y IX."
+ 
+
+ bolghar_history_loc: "Se separó de [CULTURE.GetName] [Glossary('pueblos ogúricos y hunos de la estepa póntica', 'BOLGHAR_GLOSS')] en el año [DATE.GetYear]"
+ 
+ BOLGHAR_GLOSS: "Los búlgaros descendían de los pueblos túrquicos de habla ogúrica de la estepa póntico-caspia, relacionados con los restos de la confederación huna y agrupaciones tribales posteriores, como los onoguros. Tras la desintegración de la Antigua Gran Bulgaria a mediados del siglo VII, bajo la presión de los jázaros, distintas comunidades búlgaras emigraron en varias direcciones. Una rama se estableció en los Balcanes y se mezcló con las poblaciones eslavas locales; otra avanzó hacia el norte siguiendo el Volga y fundó la Bulgaria del Volga, un próspero estado comercial que perduró hasta las conquistas mongolas del siglo XIII."
  
 
  avar_history_loc: "Se separó de [CULTURE.GetName] [Glossary('Rouran refugees fleeing to Europe', 'AVAR_GLOSS')] en el año [DATE.GetYear]"
  
- AVAR_GLOSS: "Tras la destrucción del kaganato de Rouran por los vasallos turcos rebeldes en 552, los restos de la población de Rouran huyeron al oeste a lo largo de la estepa eurasiática, llegando a la región de Pontic dentro de unos pocos años llevando el nombre de Ávar. Asentamiento en la cuenca carpatiana en 567, esta población migratoria gobernó y gradualmente absorbió un parche de Oghur-Bulgar, Esclavo, y comunidades alemanas bajo ellas, tejiendo a estos pueblos variados en un solo mundo dominado por Ávar que duró más de dos siglos antes de disolver finalmente bajo la presión franco sostenida a finales del siglo VIII."
+ AVAR_GLOSS: "Tras la destrucción del kanato de los rouran por sus antiguos vasallos túrquicos en 552, grupos de refugiados emigraron hacia el oeste por la estepa euroasiática y llegaron a la región póntica, donde aparecieron bajo el nombre de ávaros. En 567 se establecieron en la cuenca de los Cárpatos y sometieron a una población diversa de búlgaros ogúricos, eslavos y pueblos germánicos. Con el tiempo, estas comunidades quedaron integradas en un mundo político dominado por los ávaros, que perduró durante más de dos siglos hasta su desintegración ante la presión franca a finales del siglo VIII."
  
 
- tumed_history_loc: "Se separó de [CULTURE.GetName] [Glossary('Tumat forest peoples of the Sayan taiga', 'TUMED_GLOSS')] en el año [DATE.GetYear]"
+ tumed_history_loc: "Se separó de [CULTURE.GetName] [Glossary('pueblos tumat de los bosques de la taiga de Sayán', 'TUMED_GLOSS')] en el año [DATE.GetYear]"
  
- TUMED_GLOSS: "Grabado en la Historia Secreta de los Mongols como el Tumat, este pueblo de bosque Baikal-Sayan vivía por la caza y la cría de renos en el fondo de la taiga en lugar de el patoralismo de caballo de la estepa abierta, al igual que sus vecinos Buryat y Barga que compartían su ascendencia kurykan. Fiercely protection of their forest homeland, the Tumat rose in open rebel against Mongol authority in the early 13th century before finally being subdued and folded into the wider Mongol imperial structure, their forest lifeway persisting even as their political independence came to an end."
+ TUMED_GLOSS: "Los tumed, mencionados como tumat en la Historia secreta de los mongoles, eran un pueblo de los bosques de la región del Baikal y los montes Sayán. Vivían de la caza y la cría de renos en la taiga, en lugar del pastoreo ecuestre característico de las estepas abiertas, al igual que sus vecinos buriatos y bargutos, con quienes compartían raíces kurykan. Defendieron con firmeza sus territorios forestales y se rebelaron contra la autoridad mongola a comienzos del siglo XIII. Finalmente fueron sometidos e incorporados al imperio mongol, aunque conservaron buena parte de su modo de vida."
  
 
  barqut_history_loc: "Se separó de [CULTURE.GetName] [Glossary('pueblos del valle de Barguzin', 'BARQUT_GLOSS')] en el año [DATE.GetYear]"
  
- BARQUT_GLOSS: "El Barga toma su nombre del valle del río Barguzin al este del lago Baikal, una tierra natal de bosque-paso compartida con los pueblos Buryat y Tumat estrechamente relacionados que todos rastrean su más profunda ascendencia a los antiguos kurykans de la región de Baikal. Atravesando el límite entre la caza de taiga y el pastoreo de estepa, el Barga mantuvo su propia identidad tribal propia a través de la era del ascenso del Imperio Mongol, siendo finalmente absorbido en la confederación más amplia de mongol mientras continuaba habitando su patria ancestral Barguzin en siglos posteriores."
+ BARQUT_GLOSS: "El Barga toma su nombre del valle del río Barguzin al este del lago Baikal, una tierra natal de bosque-paso compartida con los pueblos Buryat y Tumat estrechamente relacionados que todos rastrean su más profunda ascendencia a los antiguos kurykans de la región de Baikal. Atravesando el límite entre la caza de taiga y el pastoreo de estepa, el Barga mantuvo su propia identidad tribal propia a través de la era del ascenso del Imperio mongol, siendo finalmente absorbido en la confederación más amplia de mongol mientras continuaba habitando su patria ancestral Barguzin en siglos posteriores."
  
 
  kimek_history_loc: "Se separó de [CULTURE.GetName] [Glossary('Remanentes del Khaganate turco occidental', 'KIMEK_GLOSS')] en el año [DATE.GetYear]"
  
- KIMEK_GLOSS: "La confederación de Kimek se formó en la región del río Irtysh-Ob tras el colapso del Khaganate turco occidental en 656, reuniendo a siete poblaciones tribales constituyentes, Yemek, Kipchak, Tatar, Bayandur, Lanikaz, Ajlad, y Imur, bajo una sola estructura política floja, mientras cada una conserva sus propios terrenos y costumbres distintos. Su posición entre las montañas de Altai y la estepa Ural los situó en astridas rutas comerciales vitales, y la población de la confederación creció considerablemente después del colapso de Uyghur Khaganate en 840 empujó a nuevos grupos tribales hacia su territorio a establecerse. Para el siglo XI la población Kipchak dentro de esta confederación había crecido tan numerosa que eclipsaron completamente a sus antiguos vecinos Kimek, absorbiendo el territorio de la confederación y la gente en la vasta estepa Kipchak que siguió."
+ KIMEK_GLOSS: "La confederación de Kimek se formó en la región del río Irtysh-Ob tras el colapso del Kanato turco occidental en 656, reuniendo a siete poblaciones tribales constituyentes, Yemek, Kipchak, Tatar, Bayandur, Lanikaz, Ajlad, y Imur, bajo una sola estructura política floja, mientras cada una conserva sus propios terrenos y costumbres distintos. Su posición entre las montañas de Altái y la estepa Ural los situó en astridas rutas comerciales vitales, y la población de la confederación creció considerablemente después del colapso de uigures Kanato en 840 empujó a nuevos grupos tribales hacia su territorio a establecerse. Para el siglo XI la población Kipchak dentro de esta confederación había crecido tan numerosa que eclipsaron completamente a sus antiguos vecinos Kimek, absorbiendo el territorio de la confederación y la gente en la vasta estepa Kipchak que siguió."
  
 
  turkish_history_loc: "Se separó de [CULTURE.GetName] [Glossary('tribus de la región de Jetysu', 'OGHUZ_GLOSS')] en el año [DATE.GetYear]"
  
- OGHUZ_GLOSS: "El Oghuz se coaleszó como una confederación distinta dentro del mundo Toquz Oghuz más amplio tras el colapso del Segundo Göktürk Khaganate en 744, y después de más presión de los Karluks los empujó fuera de la región de Jetysu, Las comunidades de pastoreo Oghuz emigraron hacia el oeste y se establecieron a lo largo del Syr Darya alrededor de 750, reuniéndose alrededor de la ciudad de Yengikent. Esta población migratoria se organizó en unas dos docenas de tribus, cada una registrada por los genealogistas posteriores como Mahmud al-Kashgari, y las tradiciones de pastoreo y guerrero de Tengrist que se llevaron al oeste con ellos desde la estepa Jetysu se arraigaron nuevamente a lo largo de su nueva patria Syr Darya, mezclando con las comunidades establecidas y comerciales que ya viven en la región."
+ OGHUZ_GLOSS: "El Oghuz se coaleszó como una confederación distinta dentro del mundo Toquz Oghuz más amplio tras el colapso del Segundo Göktürk Kanato en 744, y después de más presión de los Karluks los empujó fuera de la región de Jetysu, Las comunidades de pastoreo Oghuz emigraron hacia el oeste y se establecieron a lo largo del Syr Darya alrededor de 750, reuniéndose alrededor de la ciudad de Yengikent. Esta población migratoria se organizó en unas dos docenas de tribus, cada una registrada por los genealogistas posteriores como Mahmud al-Kashgari, y las tradiciones de pastoreo y guerrero de Tengrist que se llevaron al oeste con ellos desde la estepa Jetysu se arraigaron nuevamente a lo largo de su nueva patria Syr Darya, mezclando con las comunidades establecidas y comerciales que ya viven en la región."
  
 
  cuman_history_loc: "Se formó a partir de [CULTURE.GetName] y [TARGET_CULTURE.GetName] [Glossary('refugiados que huyen de las conquistas mongol', 'CUMAN_GLOSS')] en el año [DATE.GetYear]"
@@ -423,12 +423,12 @@
 
  chigil_history_loc: "Se separó de [CULTURE.GetName] [Glossary('pueblos de la región de Semirechye', 'CHIGIL_GLOSS')] en el año [DATE.GetYear]"
  
- CHIGIL_GLOSS: "El Chigil estableció la región de Semirechye y el país alrededor de Kashgar, surgiendo de la misma población remanente de On Oq/Western Turkic Khaganate que produjo las confederaciones Kimek y otras estepas. El diwan lughat al-Turk del siglo XI de Mahmud al-Kashgari cuenta el Chigil entre las poblaciones turcos más prominentes de su día, sus comunidades asentadas que se entremezclan con los vecinos Yagma y otros pueblos oasiáticos de las tierras fronterizas de Tarim, una fusión de colonos que abastecían gran parte de la base poblacional de la cual el estado Qarakhanid temprano sacaría su fuerza."
+ CHIGIL_GLOSS: "El Chigil estableció la región de Semirechye y el país alrededor de Kashgar, surgiendo de la misma población remanente de On Oq/Western Turkic Kanato que produjo las confederaciones Kimek y otras estepas. El diwan lughat al-Turk del siglo XI de Mahmud al-Kashgari cuenta el Chigil entre las poblaciones turcos más prominentes de su día, sus comunidades asentadas que se entremezclan con los vecinos Yagma y otros pueblos oasiáticos de las tierras fronterizas de Tarim, una fusión de colonos que abastecían gran parte de la base poblacional de la cual el estado Qarakhanid temprano sacaría su fuerza."
  
 
  yagma_history_loc: "Se formó a partir de [CULTURE.GetName] y [TARGET_CULTURE.GetName] [Glossary('tribus de la región de Kashgar e Issyk-Kul', 'YAGMA_GLOSS')] en el año [DATE.GetYear]"
  
- YAGMA_GLOSS: "El Yagma surgió de la interrelación de los colonos tribales Uyghur con la población vecina de Chigil alrededor del oasis de Kashgar y las costas de Issyk-Kul, una fusión de dos pueblos que produjo una de las comunidades turcos más influyentes de las fronteras de Tarim. Esta poblaciÃ3n mezclada de Yagma, aprovechando tanto su herencia literaria de Uyghur como su tradición de pastoreo de Chigil, formaron parte de la tierra tribal de la que el estado Qarakhanid atrajo gran parte de su temprana poblaciÃ3n y fuerza a medida que se extendÃ3 por la cuenca del Tarim y Transoxiana."
+ YAGMA_GLOSS: "El Yagma surgió de la interrelación de los colonos tribales uigures con la población vecina de Chigil alrededor del oasis de Kashgar y las costas de Issyk-Kul, una fusión de dos pueblos que produjo una de las comunidades turcos más influyentes de las fronteras de Tarim. Esta poblaciÃ3n mezclada de Yagma, aprovechando tanto su herencia literaria de uigures como su tradición de pastoreo de Chigil, formaron parte de la tierra tribal de la que el estado Qarakhanid atrajo gran parte de su temprana poblaciÃ3n y fuerza a medida que se extendÃ3 por la cuenca del Tarim y Transoxiana."
  
 
  tsangpa_history_loc: "Se separó de [CULTURE.GetName] [Glossary('pueblos del corazón de Ü-Tsang', 'TSANGPA_GLOSS')] en el año [DATE.GetYear]"
@@ -446,7 +446,7 @@
  LADAKHI_GLOSS: "Cuando el Imperio Tibetano colapsó en la guerra civil y la fragmentación a mediados del siglo IX, la nobleza yarlung y sus seguidores huyeron hacia el oeste hacia los altos valles de Ladakh, asentándose entre una población ya configurada por ondas anteriores de expansión tibetana en la región. Estos exiliados de Yarlung trajeron sus propias costumbres judiciales, hábitos administrativos y devoción budista en este mundo Ladakhi existente, y generaciones de vida compartida entre los recién llegados y la población del valle establecido forjaron una identidad Ladakhi distinta, una que llevaba adelante la herencia tibetana mientras permanecía firmemente arraigada en su propia tierra natal de alta altitud lejos de la meseta propia."
  
 
- nakhi_history_loc: "Se separó de [CULTURE.GetName] [Glossary('Qiangic migrants settling around Lijiang', 'NAKHI_GLOSS')] en el año [DATE.GetYear]"
+ nakhi_history_loc: "Se separó de [CULTURE.GetName] [Glossary('migrantes qiánguicos establecidos en torno a Lijiang', 'NAKHI_GLOSS')] en el año [DATE.GetYear]"
  
  NAKHI_GLOSS: "Los Nakhi rastrean sus orígenes a los pueblos de habla Qiangic que emigraron hacia el sur desde la meseta tibetana oriental hasta la fértil cuenca de Lijiang del norte de Yunnan, un movimiento que recogió el ritmo como Tang China y el creciente reino de Nanzhao extendieron la presión hacia la región. Asentando un importante corredor comercial que une el Tíbet, Yunnan y Sichuan, el Nakhi desarrolló una sociedad distinta reconocida en siglos posteriores por su escritura pictográfica de Dongba y las tradiciones del clan matrilineal, permaneciendo un poder regional persistente en las tierras fronterizas montañosas entre los estados más grandes."
  
@@ -508,12 +508,12 @@
 
  yughur_history_loc: "Se formó a partir de [CULTURE.GetName] y [TARGET_CULTURE.GetName] [Glossary('refugiados que se asientan en el Corredor Hexi', 'YUGHUR_GLOSS')] en el año [DATE.GetYear]"
  
- YUGHUR_GLOSS: "Tras el catastrófico colapso del Uyghur Khaganate a una invasión de Yenisei Kirghiz en 840, bandas dispersas de refugiados de Uyghur huyeron en varias direcciones, un grupo significativo que hace su camino al sur hacia el Corredor Hexi de Gansu, asentamiento entre la población turco Shatuo ya establecido allí. Generaciones de vida compartida, entre matrimonios, y contacto diario entre estos exiliados Uyghur y sus vecinos Shatuo gradualmente mezclaron las dos poblaciones juntas, y fue esta comunidad de Yughur fusionada, entre tibetano, Tangut, y los poderes chinos a lo largo de una arteria vital de Silk Road, que conservaba elementos de Uyghur y Shatuo patrimonio mucho después de que la patria original de ambos grupos se hubiera convertido en un recuerdo distante."
+ YUGHUR_GLOSS: "Tras el catastrófico colapso del uigures Kanato a una invasión de Yeniséi Kirghiz en 840, bandas dispersas de refugiados de uigures huyeron en varias direcciones, un grupo significativo que hace su camino al sur hacia el Corredor Hexi de Gansu, asentamiento entre la población turco shatuo ya establecido allí. Generaciones de vida compartida, entre matrimonios, y contacto diario entre estos exiliados uigures y sus vecinos shatuo gradualmente mezclaron las dos poblaciones juntas, y fue esta comunidad de Yughur fusionada, entre tibetano, Tangut, y los poderes chinos a lo largo de una arteria vital de Silk Road, que conservaba elementos de uigures y shatuo patrimonio mucho después de que la patria original de ambos grupos se hubiera convertido en un recuerdo distante."
  
 
  tangut_history_loc: "Se separó de [CULTURE.GetName] [Glossary('Tribus de Dangxiang huyendo a la frontera de Ordos', 'TANGUT_GLOSS')] en el año [DATE.GetYear]"
  
- TANGUT_GLOSS: "El Tangut desciende del Dangxiang, uno de los muchos grupos tribales del mundo Qiang más amplio de las tierras fronterizas Sino-Tibetan, que originalmente se establecieron en la región de Qinghai al sur de la frontera Tang. La expansión imperial tibetana bajo el Gampo Songtsen a mediados del siglo VII condujo al Dangxiang desde su patria, y el tribunal de Tang reasentó a las tribus migratorias en la región de Ordos como una población de amortiguación, otorgando a sus jefes el prestigioso apellido Tuoba, el mismo nombre del clan una vez llevado por los gobernantes de Xianbei del norte de Wei, a reclamado pedigree la mayoría de los eruditos modernos consideran un prestigio inventado en lugar de un auténtico descenso. Retirada del mundo Qiangic más amplio y endurecida por generaciones de vida fronteriza en el margen estepe-deserto, esta población trasplantada de Dangxiang desarrolló un carácter militar y pastoral distinto todo el suyo, llevando adelante una identidad tribal formada tanto por la dura frontera de Ordos como por sus raíces Qiangic originales."
+ TANGUT_GLOSS: "El Tangut desciende del Dangxiang, uno de los muchos grupos tribales del mundo Qiang más amplio de las tierras fronterizas Sino-Tibetan, que originalmente se establecieron en la región de Qinghai al sur de la frontera Tang. La expansión imperial tibetana bajo el Gampo Songtsen a mediados del siglo VII condujo al Dangxiang desde su patria, y el tribunal de Tang reasentó a las tribus migratorias en la región de Ordos como una población de amortiguación, otorgando a sus jefes el prestigioso apellido Tuoba, el mismo nombre del clan una vez llevado por los gobernantes de xianbei del norte de Wei, a reclamado pedigree la mayoría de los eruditos modernos consideran un prestigio inventado en lugar de un auténtico descenso. Retirada del mundo Qiangic más amplio y endurecida por generaciones de vida fronteriza en el margen estepe-deserto, esta población trasplantada de Dangxiang desarrolló un carácter militar y pastoral distinto todo el suyo, llevando adelante una identidad tribal formada tanto por la dura frontera de Ordos como por sus raíces Qiangic originales."
  
 
  sheren_history_loc: "Se separó de [CULTURE.GetName] [Glossary('pueblos montañosos del linaje Pan Hu', 'SHEREN_GLOSS')] en el año [DATE.GetYear]"
@@ -578,12 +578,12 @@
 
  siamese_history_loc: "Se formó a partir de [CULTURE.GetName] [Glossary('colonizadores que absorben', 'SIAMESE_GLOSS')] [TARGET_CULTURE.GetName] pueblos de la cuenca del Chao Phraya [DATE.GetYear]"
  
- SIAMESE_GLOSS: "A medida que los pueblos de habla Tai emigraron al suroeste a través de la dispersión Kam-Tai de varios siglos, una corriente aprisionó en la fértil cuenca del río Chao Phraya, una zona dominada por la civilización Mon de Dvaravati, cuyas tradiciones administrativas, religiosas y artísticas los colonos del Tai entrante absorbieron incluso cuando establecieron su propia dominación política. Generaciones de intermarriaje y intercambio cultural entre los guerreras-elites Tai y la población Mon existente wove Mon Buddhism, statecraft, y sensibilidad artística profundamente en el tejido de la identidad siamesa emergente, produciendo una síntesis que seguiría dominando el continente central sudeste asiático."
+ SIAMESE_GLOSS: "A medida que los pueblos de habla Tai emigraron al suroeste a través de la dispersión Kam-Tai de varios siglos, una corriente aprisionó en la fértil cuenca del río Chao Phraya, una zona dominada por la civilización Mon de Dvaravati, cuyas tradiciones administrativas, religiosas y artísticas los colonos del Tai entrante absorbieron incluso cuando establecieron su propia dominación política. Generaciones de matrimonios mixtos y intercambio cultural entre los guerreras-elites Tai y la población Mon existente wove Mon Buddhism, statecraft, y sensibilidad artística profundamente en el tejido de la identidad siamesa emergente, produciendo una síntesis que seguiría dominando el continente central sudeste asiático."
  
 
  lanna_history_loc: "Se formó a partir de [CULTURE.GetName] [Glossary('colonizadores que absorben', 'LANNA_GLOSS')] [TARGET_CULTURE.GetName] del valle superior de Mae Ping [DATE.GetYear]"
  
- LANNA_GLOSS: "Los migrantes Tai que establecieron los valles montañosos de los ríos Mae Ping y Kok en lo que ahora es el norte de Tailandia encontraron la tierra ya formada por el reino Mon de Hariphunchai, una civilización budista centrada en Lamphun cuyos monasterios, guiones y tradiciones cortesanas el Tai entrando absorbió al por mayor en lugar de desplazados. Esta fusión corrió profundamente: la población Mon de Hariphunchai fue absorbida gradualmente en la nueva policia de Lanna a través de generaciones de asentamiento e intermarriage, dejando el arte budista, la arquitectura y las tradiciones manuscritas de Lanna marcadas permanentemente por su herencia Mon, incluso cuando las estructuras políticas y sociales de Tai llegaron a dominar los valles del norte."
+ LANNA_GLOSS: "Los migrantes Tai que establecieron los valles montañosos de los ríos Mae Ping y Kok en lo que ahora es el norte de Tailandia encontraron la tierra ya formada por el reino Mon de Hariphunchai, una civilización budista centrada en Lamphun cuyos monasterios, guiones y tradiciones cortesanas el Tai entrando absorbió al por mayor en lugar de desplazados. Esta fusión corrió profundamente: la población Mon de Hariphunchai fue absorbida gradualmente en la nueva policia de Lanna a través de generaciones de asentamiento e matrimonios mixtos, dejando el arte budista, la arquitectura y las tradiciones manuscritas de Lanna marcadas permanentemente por su herencia Mon, incluso cuando las estructuras políticas y sociales de Tai llegaron a dominar los valles del norte."
  
 
  lao_history_loc: "Se formó a partir de [CULTURE.GetName] [Glossary('colonizadores que absorben', 'LAO_GLOSS')] [TARGET_CULTURE.GetName] del valle medio de Mekong alrededor [DATE.GetYear]"
@@ -613,7 +613,7 @@
 
  muong_history_loc: "Se separó de [CULTURE.GetName] [Glossary('los parientes de los vietnamitas', 'MUONG_GLOSS')] en el año [DATE.GetYear]"
  
- MUONG_GLOSS: "El Muong y los vietnamitas descienden de una sola población ancestral de Viet-Muong, su eventual separación impulsada menos por la geografía que por la divergencia de fortunas políticas. A medida que el Delta del Río Rojo de las Tierras Bajas llegaba bajo siglos de administración china directa, su población absorbía profundas capas de vocabulario, guión y cultura cortesana, mientras que las comunidades de tierras altas que vivían más allá del alcance de las guarnición chinas conservaban una forma más arcaica del discurso ancestral compartido. Cuando la victoria de Ngô Quy curn en 938 finalmente rompió un milenio de gobierno chino y el estado independiente vietnamita comenzó a forjar su propia identidad corte sinicizada fuertemente, el golfo cultural entre los recién definidos calumnias Kinh y sus más conservadores parientes muong de tierra alta se habían convertido en una brecha inconfundible y duradera."
+ MUONG_GLOSS: "El Muong y los vietnamitas descienden de una sola población ancestral de Viet-Muong, su eventual separación impulsada menos por la geografía que por la divergencia de fortunas políticas. A medida que el Delta del Río Rojo de las Tierras Bajas llegaba bajo siglos de administración china directa, su población absorbía profundas capas de vocabulario, escritura y cultura cortesana, mientras que las comunidades de tierras altas que vivían más allá del alcance de las guarnición chinas conservaban una forma más arcaica del discurso ancestral compartido. Cuando la victoria de Ngô Quy curn en 938 finalmente rompió un milenio de gobierno chino y el estado independiente vietnamita comenzó a forjar su propia identidad corte sinicizada fuertemente, el golfo cultural entre los recién definidos calumnias Kinh y sus más conservadores parientes muong de tierra alta se habían convertido en una brecha inconfundible y duradera."
  
 
  wa_history_loc: "Se separó de [CULTURE.GetName] [Glossary('pueblos de la frontera entre China y Myanmar', 'WA_GLOSS')] en el año [DATE.GetYear]"
@@ -656,7 +656,7 @@
  SENOI_GLOSS: "Se asentada en la columna montañosa que atraviesa el centro de la Península Malaya, el Senoi combinó la agricultura swidden con caza y recolección de bosques, ocupando un nicho entre la vida forestal totalmente móvil del Semang y el mundo montado de tierras bajas que eventualmente se elevaría por las costas. Lejos de las rutas y cortes comerciales que conforman la historia política de las costas de la península, las comunidades de Senoi desarrollaron sus propias costumbres en gran medida en sus propios términos, incluyendo una tradición inusualmente rica de interpretación de sueños tejida en la vida cotidiana y comunitaria."
  
 
- acehnese_history_loc: "Se separó de [CULTURE.GetName] [Glossary('migrantes asttling the northern tip of Sumatra', 'ACEHNESE_GLOSS')] en el año [DATE.GetYear]"
+ acehnese_history_loc: "Se separó de [CULTURE.GetName] [Glossary('migrantes asentados en el extremo norte de Sumatra', 'ACEHNESE_GLOSS')] en el año [DATE.GetYear]"
  
  ACEHNESE_GLOSS: "El lenguaje acnésico destaca como un sorprendente auge en el mundo Austronesiano: a pesar de ser hablado en la punta norte de Sumatra, pertenece a la rama cámica, la misma familia que el lenguaje cham de la costa vietnamita y camboyana, a miles de kilómetros de distancia a través del Mar del Sur de China. Los lingüistas rastrean esta conexión a una antigua migración marítima de hablantes chamicos desde el continente hasta el norte de Sumatra, probablemente llevaron a cabo las mismas rutas comerciales marítimas que más tarde convertirían a Aceh en una puerta crucial de la especia del Océano Índico y el comercio de pimienta. Centurias de contacto posterior con los comerciantes vecinos malayos, indios y árabes estrataron prestatarios pesados encima de este núcleo lingüístico chamico, pero los huesos gramaticales profundos de Acehnese todavía traicionan su origen continental sudeste asiático."
  
@@ -944,7 +944,7 @@
 
  hejazi_history_loc: "Se formó a partir de [CULTURE.GetName] [Glossary('las tribus descendieron de los antiguos', 'HEJAZI_GLOSS')] [TARGET_CULTURE.GetName] reino alrededor del año [DATE.GetYear]"
  
- HEJAZI_GLOSS: "El reino de Nabataean, centrado en Petra pero llegando al sur a través de Hegra profundamente en el Hejaz mismo, era un reino árabe en todos, pero su escritura: las inscripciones nabataicas conservan una lengua árabe hablada grabada en un script arameo adaptado, una fusión que hizo a los Nabataeans tanto los antepasados de la identidad árabe Hejazi posterior como cualquier linaje puramente beduino. La anexión romana en 106 terminó la independencia política de Nabataean, pero su escritura cursiva distintiva continuó evolucionando durante siglos después, sus cartas simplificando y conectando gradualmente hasta que, para el tiempo del Islam, este mismo guión había madurado en el guión de Ḥijāzī utilizado para grabar las primeras copias del propio Corán. El Hejaz que dio a luz al Islam ya era una tierra completamente árabe en el habla y la sangre, su pueblo que llevaba adelante una herencia nabataean mucho más antigua que la nueva fe que haría su patria sagrada al mundo musulmán más amplio."
+ HEJAZI_GLOSS: "El reino de Nabataean, centrado en Petra pero llegando al sur a través de Hegra profundamente en el Hejaz mismo, era un reino árabe en todos, pero su escritura: las inscripciones nabataicas conservan una lengua árabe hablada grabada en un script arameo adaptado, una fusión que hizo a los Nabataeans tanto los antepasados de la identidad árabe Hejazi posterior como cualquier linaje puramente beduino. La anexión romana en 106 terminó la independencia política de Nabataean, pero su escritura cursiva distintiva continuó evolucionando durante siglos después, sus cartas simplificando y conectando gradualmente hasta que, para el tiempo del Islam, este mismo escritura había madurado en el escritura de Ḥijāzī utilizado para grabar las primeras copias del propio Corán. El Hejaz que dio a luz al Islam ya era una tierra completamente árabe en el habla y la sangre, su pueblo que llevaba adelante una herencia nabataean mucho más antigua que la nueva fe que haría su patria sagrada al mundo musulmán más amplio."
  
 
  saidi_history_loc: "Se separó de [CULTURE.GetName] [Glossary('pueblos del Alto Egipto', 'SAIDI_GLOSS')] alrededor del año [DATE.GetYear]"
@@ -973,7 +973,7 @@
 
  turco_hephthalite_history_loc: "Se formó a partir de [CULTURE.GetName] [Glossary('remanentes absorbidos por los restos llegados', 'TURCO_HEPHTHALITE_GLOSS')] [TARGET_CULTURE.GetName] alrededor del año [DATE.GetYear]"
  
- TURCO_HEPHTHALITE_GLOSS: "El poder del Imperio Hephthalite en Asia Central fue roto en los 560s por un asalto conjunto de los persas sánidas y el recién resucitado primer Khaganate turco, cuyos ejércitos se arrastraron desde la estepa oriental para reclamar los antiguos dominios hephthalite como propios. En lugar de ser desplazados, gran parte de la población heftalita existente se mantuvo en la tierra, y como colonos y administradores turcos establecieron su propia regla en los antiguos territorios hephthalite, generaciones de matrimonios y intercambio cultural fusionaron a los dos pueblos, Llevar adelante la tradición regional de Hephthalite y el discurso influenciado por Bactrian bajo una nueva identidad política turcomana dominante."
+ TURCO_HEPHTHALITE_GLOSS: "El poder del Imperio Hephthalite en Asia Central fue roto en los 560s por un asalto conjunto de los persas sánidas y el recién resucitado primer Kanato turco, cuyos ejércitos se arrastraron desde la estepa oriental para reclamar los antiguos dominios hephthalite como propios. En lugar de ser desplazados, gran parte de la población heftalita existente se mantuvo en la tierra, y como colonos y administradores turcos establecieron su propia regla en los antiguos territorios hephthalite, generaciones de matrimonios y intercambio cultural fusionaron a los dos pueblos, Llevar adelante la tradición regional de Hephthalite y el discurso influenciado por Bactrian bajo una nueva identidad política turcomana dominante."
  
 
  semnani_history_loc: "Se separó de [CULTURE.GetName] [Glossary('pueblos del Alborz', 'SEMNANI_GLOSS')] alrededor del año [DATE.GetYear]"
@@ -1094,7 +1094,7 @@
 
  nogai_history_loc: "Se formó a partir de [CULTURE.GetName] [Glossary('guerreros que se fusionan en el', 'NOGAI_GLOSS')] [TARGET_CULTURE.GetName] alrededor del año [DATE.GetYear]"
  
- NOGAI_GLOSS: "Los guerreros Kipchak-Mongol de la estepa de la Horda Dorada occidental se reunieron durante décadas bajo la bandera de Nogai, un general genghisid cuyo seguimiento personal creció tan grande que funcionó como su propia población tribal distinta de la autoridad central de la Horda. Cuando Nogai cayó en batalla alrededor de 1299, derrotado por el propio khan Toqta de Golden Horde, su muerte no dispersó a nadie, los guerreros y las familias que lo habían seguido por una generación o más simplemente llevaban su nombre hacia adelante como su propio, formando un pueblo distinto de Nogai cuyo caballo nació, la tradición pastoral de la estepa perduraba durante siglos como una de las poblaciones más duramente nómadas para emerger de la fragmentación de la Horda Dorada."
+ NOGAI_GLOSS: "Los guerreros Kipchak-mongol de la estepa de la Horda Dorada occidental se reunieron durante décadas bajo la bandera de Nogai, un general genghisid cuyo seguimiento personal creció tan grande que funcionó como su propia población tribal distinta de la autoridad central de la Horda. Cuando Nogai cayó en batalla alrededor de 1299, derrotado por el propio khan Toqta de Golden Horde, su muerte no dispersó a nadie, los guerreros y las familias que lo habían seguido por una generación o más simplemente llevaban su nombre hacia adelante como su propio, formando un pueblo distinto de Nogai cuyo caballo nació, la tradición pastoral de la estepa perduraba durante siglos como una de las poblaciones más duramente nómadas para emerger de la fragmentación de la Horda Dorada."
  
 
  crimean_history_loc: "Se formó a partir de [CULTURE.GetName] [Glossary('conquistadores que se fusionan en', 'CRIMEAN_GLOSS')] [TARGET_CULTURE.GetName] alrededor del año [DATE.GetYear]"
@@ -1119,7 +1119,7 @@
 
  turkmeni_history_loc: "Se formó a partir de [CULTURE.GetName] [Glossary('guerreros que se fusionan en el', 'TURKMENI_GLOSS')] [TARGET_CULTURE.GetName] alrededor del año [DATE.GetYear]"
  
- TURKMENI_GLOSS: "Las conquistas mongoles del siglo XIII dispersaron las tribus turcas de Oghuz de Khorasan y Transoxiana en diferentes direcciones, y mientras muchos huyeron al oeste hacia Anatolia para convertirse en los antepasados de los turcos otomanos posteriores, otros fueron empujados a los desiertos remotos y a las franjas estepas de Turkmenistán, donde elementos de la guarnición mongol y la administración se establecieron entre ellos en lugar de desplazarlos directamente. Este desierto y aislamiento de estepa, lejos de las grandes ciudades perianates, los mongols gobernaban más directamente, dejaba que una clara identidad turcomana cristalizara de la poblada población de Oghuz y Mongol, una que retenía las antiguas tradiciones pastorales nómadas del mundo más amplio de Oghuz, incluso a medida que llevaba adelante su propia herencia política genghisida."
+ TURKMENI_GLOSS: "Las conquistas mongoles del siglo XIII dispersaron las tribus turcas de Oghuz de Khorasan y Transoxiana en diferentes direcciones, y mientras muchos huyeron al oeste hacia Anatolia para convertirse en los antepasados de los turcos otomanos posteriores, otros fueron empujados a los desiertos remotos y a las franjas estepas de Turkmenistán, donde elementos de la guarnición mongol y la administración se establecieron entre ellos en lugar de desplazarlos directamente. Este desierto y aislamiento de estepa, lejos de las grandes ciudades perianates, los mongoles gobernaban más directamente, dejaba que una clara identidad turcomana cristalizara de la poblada población de Oghuz y mongol, una que retenía las antiguas tradiciones pastorales nómadas del mundo más amplio de Oghuz, incluso a medida que llevaba adelante su propia herencia política genghisida."
  
 
  illyro_roman_history_loc: "Se formó a partir de [CULTURE.GetName] [Glossary('colonos provinciales fusionados con los', 'ILLYRO_ROMAN_GLOSS')] [TARGET_CULTURE.GetName] alrededor del año [DATE.GetYear]"
@@ -1249,12 +1249,12 @@
 
  galician_history_loc: "Se formó a partir de [CULTURE.GetName] [Glossary('refugiados que se mezclan con los', 'GALICIAN_GLOSS')] [TARGET_CULTURE.GetName] alrededor del año [DATE.GetYear]"
  
- GALICIAN_GLOSS: "Los refugiados visigodosos que huían de la conquista omeya de Iberia encontraron refugio en el noroeste montañoso y costero, una región ya hogar de una población descendida de la antigua Gallaeci cuyo nombre Galicia en sí sigue llevando. Esta fusión de una población cristiana visigotica con la antigua herencia galaeciana produjo una identidad gallego muy bien aliada con la vecina Asturias en los primeros años de resistencia cristiana, su orientación costera y su antigua ruta romaní hacia Compostela dando a la región un carácter propio dentro del mundo ibérico cristiano más amplio."
+ GALICIAN_GLOSS: "Los refugiados visigodos que huían de la conquista omeya de la península ibérica encontraron refugio en las tierras montañosas y costeras del noroeste, habitadas desde antiguo por los descendientes de los galaicos, cuyo nombre pervive en el de Galicia. La integración de estas poblaciones cristianas y la herencia galaicorromana contribuyeron a formar una identidad gallega estrechamente vinculada a la vecina Asturias durante los primeros siglos de resistencia cristiana. Su orientación atlántica y las antiguas rutas romanas hacia Compostela otorgaron a la región un carácter propio dentro de la Iberia cristiana."
  
 
  portuguese_history_loc: "Se separó de [CULTURE.GetName] [Glossary('colonos de la frontera sur del Minho', 'PORTUGUESE_GLOSS')] en el año [DATE.GetYear]"
  
- PORTUGUESE_GLOSS: "El condado al sur del río Minho, ganó de al-Ándalus a través de generaciones de guerras de frontera duras, fue reasentada por una población mixta de gallego, Leonese, and Mozarab Christian migrants drawn south by the promise of open farmland along this newly secured borderland, sus comunidades creciendo junto a caballeros y colonos de Borgoña que llegaron al tren de Henry de Borgoña después de recibir el condado en 1096. Esta población fronteriza, diferenciado de la más asentada y homogénea tierra gallega al norte, tanto en sus orígenes mixtos como en la constante vigilia su posición expuesta exigida, creció constantemente aparte de su padre gallego en la siguiente generación, y era esta misma comunidad fronteriza, ni un solo conde ni un rey, que dio a Afonso Henriques la población y la lealtad que necesitaba cuando se declaró rey de Portugal y cortó los últimos lazos con Galicia y León."
+ PORTUGUESE_GLOSS: "Las tierras situadas al sur del río Miño, conquistadas a al-Ándalus tras generaciones de guerras fronterizas, fueron repobladas por comunidades de gallegos, leoneses y cristianos mozárabes atraídos por las tierras de cultivo de esta frontera. A ellos se sumaron caballeros y colonos borgoñones llegados con Enrique de Borgoña, que recibió el condado en 1096. Esta población, diversa en sus orígenes y habituada a defender un territorio fronterizo, desarrolló gradualmente una identidad diferenciada de la gallega. Fue el apoyo de estas comunidades el que permitió a Alfonso Enríquez proclamarse rey de Portugal y romper sus vínculos políticos con Galicia y León."
  
 
  french_history_loc: "Se formó a partir de [CULTURE.GetName] [Glossary('gobernantes que gobiernan sobre', 'FRENCH_GLOSS')] [TARGET_CULTURE.GetName] alrededor del año [DATE.GetYear]"
@@ -1287,7 +1287,7 @@
  PICARD_GLOSS: "Las ciudades de lana y tela de Picardy, jefe de Amiens entre ellos, se convirtieron en algunas de las comunas más ricas y ferozmente autogobernantes del gran avivamiento comercial medieval, sus cartas y milicias cívicas ganaron a través de la negociación dura y la revuelta abierta ocasional contra sus señores nominales. Esta concentración de la riqueza comercial urbana y la independencia comunal le dio a Picardy un orgullo y dialecto regionales distintos de los franceses de la corte real y el campo más al sur, uno arraigado tanto en la sala de gremios y plaza de mercado como en cualquier lealtad feudal."
  
 
- arpitan_history_loc: "Se separó de [CULTURE.GetName] [Glossary('pueblos de las tierras fronterizas de Alpine y Rhône', 'ARPITAN_GLOSS')] en el año [DATE.GetYear]"
+ arpitan_history_loc: "Se separó de [CULTURE.GetName] [Glossary('pueblos de las tierras fronterizas de los Alpes y el Ródano', 'ARPITAN_GLOSS')] en el año [DATE.GetYear]"
  
  ARPITAN_GLOSS: "El país montañoso donde el valle del Ródano se encuentra con los Alpes occidentales, que abarcan a Saboya y las tierras alrededor del lago de Ginebra, se sentó en una auténtica encrucijada entre los mundos lingüísticos franceses y occitanos emergentes sin caer claramente en ninguno de los dos. Esta posición fronteriza, reforzada por el difícil terreno alpino de la región, deja que arraigue un discurso e identidad franco-Provençal distinto, que conservaba su propio carácter precisamente porque no pertenecía plenamente al norte ni al sur."
  
@@ -1297,7 +1297,7 @@
  OUTREMER_GLOSS: "Cuando los ejércitos de la Primera Cruzada atravesaron los muros de Jerusalén en 1099, abrieron el camino para una ola de asentamiento francófono a través de los recién conquistados estados cruzados del Levante, los colonos llegaron a llamar simplemente a Outremer, 'extrañas'. Caballeros franceses, comerciantes, y clero que hizo sus casas en Jerusalén, Antioquía, Trípoli, Edessa construyó una sociedad francesa trasplantada en medio de una población levantina abrumadora, produciendo una cultura francesa Outremer distinta tanto por su entorno Levantine y contacto constante con bizantino, Armenia, y vecinos musulmanes como por sus orígenes franceses."
  
 
- occitan_history_loc: "Se separó de [CULTURE.GetName] [Glossary('pueblos del mundo sur galo-romano', 'OCCITAN_GLOSS')] en el año [DATE.GetYear]"
+ occitan_history_loc: "Se separó de [CULTURE.GetName] [Glossary('pueblos del mundo galorromano meridional', 'OCCITAN_GLOSS')] en el año [DATE.GetYear]"
  
  OCCITAN_GLOSS: "El continuum lingüístico galo-romano que una vez se extendió a través de toda la Galia romana comenzó a dividirse a lo largo de una línea áspera que separaba al norte del sur antes de que cualquier reino franco dividiera formalmente el territorio, la zona sur de habla ocular que se desarrolla a lo largo de su propio camino distinto del norte de habla oïl que eventualmente daría lugar al francés. Esta divergencia sur, que abarca Aquitania, Languedoc, y el mundo más amplio de Occitan, produjo un lenguaje romaní y una cultura literaria de trovadores que florecería como una de las tradiciones cortesanas más sofisticadas de Europa medieval."
  
@@ -1307,7 +1307,7 @@
  GASCON_GLOSS: "Los antiguos Vascones de habla vasca mantenían las estribaciones occidentales de los Pirineos mucho antes de que el discurso de Occitán se extendiera a la región desde el mundo más ancho de galorromano hasta el norte y el este, y en lugar de desplazarse esta población vasca usaba sus propias características lingüísticas profundas en la lengua occitana entrante. Esta fusión produjo Gascón, un dialecto cuyo sustrato vasco lo caracteriza como inconfundible incluso entre la variada familia del discurso de Occitán, sus hablantes llevando adelante una identidad pirenaica formada tanto por sus antepasados vascos como por sus vecinos de habla occitana."
  
 
- provencal_history_loc: "Se separó de [CULTURE.GetName] [Glossary('pueblos del valle del Bajo Rhône', 'PROVENCAL_GLOSS')] en el año [DATE.GetYear]"
+ provencal_history_loc: "Se separó de [CULTURE.GetName] [Glossary('pueblos del valle del bajo Ródano', 'PROVENCAL_GLOSS')] en el año [DATE.GetYear]"
  
  PROVENCAL_GLOSS: "A medida que el Condado de Provenza surgió como una entidad política distinta a lo largo de la costa baja del Ródano y del Mediterráneo, rompiendo el Reino fracturado de Borgoña para trazar su propio rumbo, su población de habla occitana desarrolló cada vez más una identidad regional para igualar. Esta creciente distintividad provenzal, anclada por el comercio mediterráneo del condado y su posterior cercanía con el condado de Barcelona, produjo un dialecto y una cultura orgullosos de su carácter costero y cosmopolita, incluso mientras permanecía firmemente arraigada en el mundo lingüístico occitano más amplio."
  
@@ -1327,15 +1327,15 @@
  SWABIAN_GLOSS: "Los suebios estaban entre los más poderosos y ampliamente dispersos de las antiguas confederaciones germánicas, tan dominantes en la etnografía de la era romana que Tacitus usaba su nombre casi como una palabra para el mundo alemán más amplio que el Rin. Como el poder romano en la provincia fronteriza que se convertiría en Swabia finalmente dio lugar en el siglo V, los colonos descompuestos por Suebian se establecieron a través de la región en una ola de asentamiento distinto de, aunque relacionado con, la migración marcomano que produciría la vecina Baviera, llevando el antiguo nombre suebio hacia adelante en el Ducado medieval de Swabia."
  
 
- ripuarian_history_loc: "Se separó de [CULTURE.GetName] [Glossary('entre los pueblos del Rin medio', 'RIPUARIAN_GLOSS')] en el año [DATE.GetYear]"
+ ripuarian_history_loc: "Se separó de [CULTURE.GetName] [Glossary('pueblos del Rin medio', 'RIPUARIAN_GLOSS')] en el año [DATE.GetYear]"
 
- RIPUARIAN_GLOSS: "Los francos ripuarios se establecieron a lo largo del Rin medio, en torno a Colonia, y constituyeron una rama diferenciada del mundo franco, distinta de los francos salios, que se habían expandido hacia el oeste, adentrándose en la Galia. Con el tiempo, sus propias leyes quedaron recogidas en la Lex Ripuaria, junto a la más conocida Ley Sálica. Esta rama oriental de los francos, asentada a orillas del Rin, desarrolló una identidad marcada por su posición en la frontera fluvial y por su proximidad a los pueblos sajones y frisones del norte, que aún no habían sido conquistados. Estas circunstancias los distinguieron de los francos salios occidentales, mucho más romanizados."
+ RIPUARIAN_GLOSS: "Los francos ripuarios se asentaron a lo largo del Rin medio, en torno a Colonia. Constituían una rama diferenciada del mundo franco, distinta de los francos salios, que se habían extendido hacia el oeste, por la Galia. Su derecho consuetudinario quedó recogido en la Lex Ripuaria, paralela a la más conocida Ley Sálica. Su posición en la frontera del Rin y la proximidad de sajones y frisones aún no sometidos contribuyeron a forjar una identidad propia, diferente de la de los francos salios occidentales, más romanizados."
 
- franconian_history_loc: "Se separó de [CULTURE.GetName] [Glossary('entre los pueblos del valle del Meno', 'FRANCONIAN_GLOSS')] en el año [DATE.GetYear]"
+ franconian_history_loc: "Se separó de [CULTURE.GetName] [Glossary('pueblos del valle del Meno', 'FRANCONIAN_GLOSS')] en el año [DATE.GetYear]"
 
- FRANCONIAN_GLOSS: "Los asentamientos francos se extendieron hacia el este y el sur siguiendo el valle del río Meno, hasta alcanzar las tierras que acabarían recibiendo el nombre de Franconia. Esta región fronteriza, situada junto a los territorios de turingios y bávaros, recibió un flujo constante de colonos francos tras las conquistas merovingias de comienzos del siglo VI. Esta expansión oriental del mundo franco, vinculada al Meno más que al Rin, dio lugar a una identidad regional y a un dialecto propios, aunque sus habitantes conservaron estrechos vínculos con las tradiciones políticas y jurídicas de los francos."
+ FRANCONIAN_GLOSS: "Los asentamientos francos se extendieron hacia el este y el sur siguiendo el valle del río Meno, hasta las tierras que acabarían recibiendo el nombre de Franconia. Esta región fronteriza, próxima a los territorios de turingios y bávaros, recibió sucesivas oleadas de colonos francos tras las conquistas merovingias de comienzos del siglo VI. La expansión oriental del mundo franco, vinculada al Meno más que al Rin, favoreció el desarrollo de una identidad regional y un dialecto propios, sin romper sus vínculos con las tradiciones políticas y jurídicas francas."
 
- low_frankish_history_loc: "Se separó de [CULTURE.GetName] [Glossary('entre los pueblos del delta del Rin y el Mosa', 'LOW_FRANKISH_GLOSS')] en el año [DATE.GetYear]"
+ low_frankish_history_loc: "Se separó de [CULTURE.GetName] [Glossary('pueblos del delta del Rin y el Mosa', 'LOW_FRANKISH_GLOSS')] en el año [DATE.GetYear]"
  
  LOW_FRANKISH_GLOSS: "Los asentamientos francos en las tierras bajas del delta del Rin y el Mosa siguieron una evolución distinta de la de los territorios francos situados más al sur. El paisaje pantanoso, frecuentemente inundado, y la cercanía de los frisones contribuyeron a formar una cultura y un dialecto regionales cada vez más diferenciados de las hablas francas altas de Renania y del resto del reino franco. Este ámbito bajofrancón, orientado tanto hacia la costa y sus vecinos frisones como hacia el interior, desarrolló rasgos propios que perduraron en las comunidades del delta."
  
@@ -1380,7 +1380,7 @@
  OLD_ANGLIAN_GLOSS: "Los anglos continentales procedían de la península de Anglia, en el actual Schleswig-Holstein. Su emigración a Britania fue tan intensa que, según algunas fuentes, su tierra de origen quedó despoblada durante generaciones. A diferencia de los sajones, concentrados principalmente en el sur, los anglos se establecieron en la costa oriental de Britania y fundaron reinos como Northumbria, Anglia Oriental y Mercia. La propia lengua inglesa conserva su nombre y buena parte de su herencia, vinculados a estos pobladores anglos."
  
 
- northumbrian_history_loc: "Se formó a partir de [CULTURE.GetName] [Glossary('kingdoms uniting with', 'NORTHUMBRIAN_GLOSS')] [TARGET_CULTURE.GetName] alrededor del año [DATE.GetYear]"
+ northumbrian_history_loc: "Se formó a partir de [CULTURE.GetName] y [Glossary('reinos unidos con', 'NORTHUMBRIAN_GLOSS')] [TARGET_CULTURE.GetName] alrededor del año [DATE.GetYear]"
  
  NORTHUMBRIAN_GLOSS: "Los colonos angloses de Bernicia y Deira compartieron un origen común en la misma migración de Angeln, sin embargo las dos comunidades se separaron a través de generaciones de asentamientos separados en ambos lados de los Tees, desarrollando sus propias costumbres y lealtades regionales, incluso cuando su discurso permanecía mutuamente inteligible. Centurias del cambio de la guerra fronteriza entre las dos poblaciones anglianas, marcadas por la conquista reiterada y la reunificación, condujeron oleadas de matrimonio y reasentamiento de una y otra vez a través de su antigua frontera como nobles y comunes por igual se encontraron absorbidos en cualquier reino que actualmente tenía la mano superior. Esta repetida parte de la población entre Bernicia y Deira agotó gradualmente cualquier distintividad regional que alguna vez había separado a las dos comunidades anglosianas, y era esta población completamente intermiada, no ninguna línea real, que dio lugar a un solo pueblo de Northumbrian duradero, uno cuyos monasterios en Lindisfarne y Jarrow pronto lo convertiría en un centro líder del aprendizaje y el arte manuscrito en la Cristiandad medieval temprana."
  
@@ -1523,7 +1523,7 @@
  CARANTANIAN_GLOSS: "Los colonos eslavos que se trasladan a los Alpes orientales a finales del siglo VI encontraron que la antigua provincia romana de Noricum sólo vaciaba parcialmente, su población celta romanizada que se había retirado a refugios fortificados como Ajdna en los Karawanks en lugar de abandonar la región de manera directa. Sujeto al principio a la sobreslordía de Avar después de la salida Lombard de la región, estos eslavos alpinos absorbieron la población Noric sobreviviente durante las generaciones que siguieron, una fusión todavía rastreable en los nombres de lugares de Noricum-derived dispersos en Carinthia hoy. Cuando la autoridad Anavar se debilitó después de 610, la marcha eslava de Carantania surgió como un principado independiente bajo sus propios duques elegidos, llevando adelante esta herencia eslava-norica mezclada como el antepasado directo de la identidad eslovena posterior."
  
 
- czech_history_loc: "Se separó de [CULTURE.GetName] [Glossary('pueblos de la antigua tierra de Marcomannic', 'CZECH_GLOSS')] en el año [DATE.GetYear]"
+ czech_history_loc: "Se separó de [CULTURE.GetName] [Glossary('pueblos de las antiguas tierras marcomanas', 'CZECH_GLOSS')] en el año [DATE.GetYear]"
  
  CZECH_GLOSS: "Bohemia había sido una vez el corazón mismo del reino marcomano bajo Marbod, siglos antes de los levantamientos del período de las migraciones dispersó y adelgazó a la antigua población suebia, dejando la tierra vaciada sustancialmente por el tiempo que los colonos eslavos comenzaron a llegar a finales del quinto y sexto siglos. Estas tribus eslavas entrantes, absorbiendo lo que quedaba de la antigua base de población marcomano, unidas brevemente bajo la confederación tribal del comerciante franco Samo de los 620 hasta su muerte en 658, la primera unión política eslava para resistir exitosamente tanto la presión de Avar como de franco. Cuando la confederación de Samo se disolvió, fue la tribu Čech específicamente quien se levantó a la prominencia entre los pueblos eslavos de Bohemia, su nombre dando identidad duradera a la tierra y gente que coalescería en el estado checo medieval bajo la dinastía Přemyslid nativa."
  
@@ -1553,7 +1553,7 @@
 
  belarusian_history_loc: "Se separó de [CULTURE.GetName] [Glossary('pueblos de los principados occidentales', 'BELARUSIAN_GLOSS')] en el año [DATE.GetYear]"
  
- BELARUSIAN_GLOSS: "La conquista mongol de Rus, que culminó en el saco catastrófico de Kiev en 1240, dispersó a la población del viejo mundo de Kiev en diferentes direcciones dependiendo de qué poder exterior ahora se cierne más grande sobre su rincón particular de las tierras de Rus. La población de las tierras occidentales de Rus centradas en Polotsk, rehusó lo peor de la sobresordencia directa de Mongol por distancia y por proximidad al Gran Ducado de Lituania, cada vez más se encontró atraída en contacto más estrecho y eventual asentamiento junto a las comunidades lituanas en lugar de hacia las poblaciones monogol-tributarias más al este. Esta población de Rus orientada hacia el oeste, que absorbe la influencia política y social lituana a través de generaciones de vida compartida, llevó adelante una identidad bielorrusa distinta arraigada en el patrimonio de Rus, pero formada por sus vecinos lituanos."
+ BELARUSIAN_GLOSS: "La conquista mongol de Rus, que culminó en el saco catastrófico de Kiev en 1240, dispersó a la población del viejo mundo de Kiev en diferentes direcciones dependiendo de qué poder exterior ahora se cierne más grande sobre su rincón particular de las tierras de Rus. La población de las tierras occidentales de Rus centradas en Polotsk, rehusó lo peor de la sobresordencia directa de mongol por distancia y por proximidad al Gran Ducado de Lituania, cada vez más se encontró atraída en contacto más estrecho y eventual asentamiento junto a las comunidades lituanas en lugar de hacia las poblaciones monogol-tributarias más al este. Esta población de Rus orientada hacia el oeste, que absorbe la influencia política y social lituana a través de generaciones de vida compartida, llevó adelante una identidad bielorrusa distinta arraigada en el patrimonio de Rus, pero formada por sus vecinos lituanos."
  
 
  savonian_history_loc: "Se formó a partir de [CULTURE.GetName] [Glossary('colonizadores', 'SAVONIAN_GLOSS')] [TARGET_CULTURE.GetName] alrededor del año [DATE.GetYear]"
@@ -1591,7 +1591,7 @@
  CHUVASH_GLOSS: "Como Volga Bulgaria consolidó su poder comercial a lo largo del medio Volga a través del siglo IX, no todas las comunidades desplegadas por Bulgar se establecieron en el núcleo urbano e influencia islámica del reino. Las comunidades más al norte, a lo largo de la franja forestal donde la estepa dio paso a la taiga, mantuvieron una forma de vida más rural y, durante siglos, más decididamente pagana, distinta de las ciudades de tráfico de ríos cada vez más musulmanas más al sur. Esta población de estiércol seguiría preservando el discurso turco Oghur como una lengua viva más larga que cualquier otra gente en la tierra, llevando la antigua herencia lingüística Bulgar hacia adelante siglos después de que cada otra comunidad de habla Oghur hubiera sido absorbida en mundos eslavos, húngaros u otros mundos de habla turco común."
  
 
- dehwar_history_loc: "Se separó de [CULTURE.GetName] [Glossary('dihqans settling Ghaznavid Qusdar', 'DEHWAR_GLOSS')] alrededor del año [DATE.GetYear]"
+ dehwar_history_loc: "Se separó de [CULTURE.GetName] [Glossary('terratenientes iranios asentados en Qusdar bajo los gaznávidas', 'DEHWAR_GLOSS')] alrededor del año [DATE.GetYear]"
  
  DEHWAR_GLOSS: "El nombre Dehwar desciende de la dihwar persa, un primo de Dihqan, la clase de señores de la aldea y los propietarios de tierras que recolectaban impuestos que habían administrado la campiña sasaniana y continuaron haciéndolo bajo el Califato primitivo. Cuando Sabuktigin de Ghazni incautó la fortaleza-ciudad de Qusdar en 978, la región de las tierras altas se adentró firmemente en el mundo administrativo perso-islámico su hijo Mahmud pronto se expandiría a través de la frontera, y los dihqans de habla persa que manejaron sus aldeas e ingresos se arraigó allí como un resuelto, comunidad de tierra separada de los nómadas Baloch y Brahui que llegaron a dominar el país circundante. Centuries más tarde, cuando Qusdar se convirtió en el corazón del Khanate de Kalat, sus descendientes continuarían con el personal de su burocracia, su identidad como agricultores y registradores como centrales a quienes eran como el dialecto de Persa que todavía hablaban."
 
@@ -2690,7 +2690,7 @@
  gascon: "Gascona"
  gascon_collective_noun: "Gascones"
  gascon_prefix: "Gascon"
- gaul: "Gallic"
+ gaul: "Gala"
  gaul_collective_noun: "Galos"
  gaul_prefix: "Gallo"
  gayo: "Gayo"
@@ -3736,7 +3736,7 @@
  sheren_collective_noun: "Shēs"
  sheren_prefix: "Shē"
  shina_name: "Shina"
- shiwei: "Shiwei"
+ shiwei: "shiwei"
  shiwei_collective_noun: "Shiweis"
  shiwei_prefix: "Shiweio"
  shor: "Shor"
@@ -3842,7 +3842,7 @@
  syromesopotamian_collective_noun: "Moslawi"
  syromesopotamian_prefix: "Moslawi"
  szasz: "Szász"
- szasz_collective_noun: "Saxon"
+ szasz_collective_noun: "sajón"
  szasz_prefix: "Saxo"
  szekely: "Szekely"
  tagalog: "Tagala"
@@ -3907,8 +3907,8 @@
  thracio_roman_collective_noun: "tracorromanos"
  thracio_roman_prefix: "tracorromano"
 
- tiele: "Tiele"
- tiele_collective_noun: "Tiele"
+ tiele: "tiele"
+ tiele_collective_noun: "tiele"
  tiele_prefix: "Tielo"
  tigray: "Habasha"
  tigray_collective_noun: "Habashas"
@@ -4049,9 +4049,9 @@
  wylish: "Wyliana"
  wylish_collective_noun: "Wylianos"
  wylish_prefix: "Wylo"
- xianbei: "Xianbei"
- xianbei_collective_noun: "Xianbei"
- xianbei_prefix: "Xianbei"
+ xianbei: "xianbei"
+ xianbei_collective_noun: "xianbei"
+ xianbei_prefix: "xianbei"
  xiang: "Qiāng"
  xiang_collective_noun: "Qiāngs"
  xiang_prefix: "Qiāng"
@@ -4088,7 +4088,7 @@
  yemenite_collective_noun: "yemeníes"
 
  yemenite_prefix: "yemení"
- yenisei_kirghiz: "Yenisei Kyrgyz"
+ yenisei_kirghiz: "Yeniséi kirguises"
  yenisei_kirghiz_collective_noun: "Qirgiz"
  yenisei_kirghiz_prefix: "Qirgizo"
 
@@ -4569,7 +4569,7 @@
  mon_prefix: "Mon"
  mongol: "Mongola"
  mongol_collective_noun: "Mongoles"
- mongol_prefix: "Mongol"
+ mongol_prefix: "mongol"
  mongolic_group: "Mongólico"
  mongolic_group_collective_noun: "Mongólicos"
  mordvin: "Mordvina"
@@ -4706,9 +4706,9 @@
  severian: "Severiana"
  severian_collective_noun: "Severianos"
  severian_prefix: "Severo"
- shatuo: "Shatuo"
+ shatuo: "shatuo"
  shatuo_collective_noun: "Shatuos"
- shatuo_prefix: "Shatuo"
+ shatuo_prefix: "shatuo"
  sicilian: "Siciliana"
  sicilian_collective_noun: "Sicilianos"
  sicilian_prefix: "Siculo"
