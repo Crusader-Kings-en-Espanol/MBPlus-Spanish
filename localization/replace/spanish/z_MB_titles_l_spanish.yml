@@ -1,0 +1,393 @@
+﻿l_spanish:
+
+########################################################################################################################Vanilla
+ 
+ 
+ 
+
+ 
+ # Custom (changed from default) title names:
+ ##
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ #Confederations
+ 
+ 
+ 
+ 
+ 
+
+
+ # B_ titles
+
+ # C_ titles
+ 
+ 
+
+
+ # D_ titles
+ 
+ 
+
+ # K_ titles
+
+ # E_ titles
+ #e_japan_article: "the "
+ 
+ #Need organized
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+    
+ 
+
+ 
+ 
+ 
+ #Noble Families
+ 
+ 
+ 
+ 
+ #Landless Titles
+ 
+ d_knights_of_montesa: "Order of Montesa"
+ d_knights_of_montesa_adj: "Montesan"
+ holy_order_order_of_montesa: "Orden de Montesa"
+ d_knights_of_christ: "Order of Christ"
+ d_knights_of_christ_adj: "Cristo"
+ holy_order_order_of_christ: "Orden de Cristo"
+ d_knights_of_alfama: "Order of Sant Jordi d'Alfama"
+ d_knights_of_alfama_adj: "Alfaman"
+ holy_order_order_of_alfama: "Orden de Sant Jordi d'Alfama"
+ d_ghazis_of_rum: "Ghazis of Rum"
+ d_ghazis_of_rum_adj: "Ghazi"
+ holy_order_ghazis_of_rum: "Ghazis of Rum"
+ d_ghazis_of_aydin: "Ghazis of Aydin"
+ d_ghazis_of_aydin_adj: "Aydinid"
+ holy_order_ghazis_of_aydin: "Ghazis of Aydin"
+ d_ghazis_of_hind: "Ghazis of Hind"
+ d_ghazis_of_hind_adj: "Ghazi"
+ holy_order_ghazis_of_hind: "Ghazis of Hind"
+ d_ghazis_of_transoxiana: "Ghazis of Transoxiana"
+ d_ghazis_of_transoxiana_adj: "Ghazi"
+ holy_order_ghazis_of_transoxiana: "Ghazis of Transoxiana"
+ d_ahi_brotherhood: "Ahi Brotherhood"
+ d_ahi_brotherhood_adj: "Ahi"
+ holy_order_ahi_brotherhood: "Ahi Brotherhood"
+ holy_order_hashshashin: "hashshashin"
+ d_assassins: "hashshashin"
+ d_assassins_article: "the "
+ d_futuwwa: "Futuwwa"
+ d_futuwwa_adj: "Futuwwa"
+ holy_order_futuwwa: "Futuwwa"
+ d_sarbadars: "Sarbadars"
+ d_sarbadars_adj: "Sarbadar"
+ holy_order_sarbadars: "Sarbadars"
+ d_enryakuji_sohei: "Sōhei of Enryaku-ji"
+ d_enryakuji_sohei_adj: "Enryaku-ji"
+ holy_order_enryakuji_sohei: "Sōhei of Enryaku-ji"
+ d_kofukuji_sohei: "Sōhei of Kōfuku-ji"
+ d_kofukuji_sohei_adj: "Kōfuku-ji"
+ holy_order_kofukuji_sohei: "Sōhei of Kōfuku-ji"
+ d_arkona_horsemen: "Horsemen of Svantevit"
+ d_arkona_horsemen_adj: "Arkonan"
+ holy_order_arkona_horsemen: "Horsemen of Svantevit"
+ d_gorziac_benedictines: "Gorze Reformers"
+ d_gorziac_benedictines_adj: "Gorzian"
+ d_cavensians: "Cavensians"
+ d_cavensians_adj: "Cavensian"
+ holy_order_cavensians: "Cavensians"
+ d_fructuarians: "Fructuarians"
+ d_fructuarians_adj: "Fructuarian"
+ holy_order_fructuarians: "Fructuarians"
+ d_verginians: "Verginians"
+ d_verginians_adj: "Verginian"
+ holy_order_verginians: "Verginians"
+ d_silvestrines: "Silvestrines"
+ d_silvestrines_adj: "Silvestrine"
+ holy_order_silvestrines: "Silvestrines"
+ d_celestines: "Celestines"
+ d_celestines_adj: "Celestine"
+ holy_order_celestines: "Celestines"
+ d_olivetans: "Olivetans"
+ d_olivetans_adj: "Olivetan"
+ holy_order_olivetans: "Olivetans"
+ d_pulsanese: "Pulsanese"
+ d_pulsanese_adj: "Pulsanese"
+ holy_order_pulsanese: "Pulsanese"
+ d_saint_victor: "Saint-Victor"
+ d_saint_victor_adj: "Victorine"
+ holy_order_saint_victor: "Congregación de San Víctor"
+ d_grandmontines: "Grandmontines"
+ d_grandmontines_adj: "Grandmontine"
+ holy_order_grandmontines: "Grandmontines"
+ d_savigniacs: "Savigniacs"
+ d_savigniacs_adj: "Savigniac"
+ holy_order_savigniacs: "Savigniacs"
+ d_gilbertines: "Gilbertines"
+ d_gilbertines_adj: "Gilbertine"
+ holy_order_gilbertines: "Gilbertines"
+ d_victorines: "Victorines"
+ d_victorines_adj: "Victorine"
+ holy_order_victorines: "Victorines"
+ d_celi_de: "Céli Dé"
+ d_celi_de_adj: "Céli Dé"
+ holy_order_celi_de: "Céli Dé"
+ d_santa_cruz: "Canons of Santa Cruz"
+ d_santa_cruz_adj: "Crúzio"
+ holy_order_santa_cruz: "Canones de Santa Cruz"
+ d_saint_ruf: "Canons of Saint-Ruf"
+ d_saint_ruf_adj: "Rufian"
+ holy_order_saint_ruf: "Canones de Saint-Ruf"
+ d_augustinian_hermits: "Augustinian Hermits"
+ d_augustinian_hermits_adj: "Augustinian"
+ holy_order_augustinian_hermits: "Augustinian Hermits"
+ d_trinitarians: "Trinitarians"
+ d_trinitarians_adj: "Trinitarian"
+ holy_order_trinitarians: "Trinitarians"
+ d_servites: "Servites"
+ d_servites_adj: "Servite"
+ holy_order_servites: "Siervos de María"
+ d_humiliati: "Humiliati"
+ d_humiliati_adj: "Humiliati"
+ holy_order_humiliati: "Humiliati"
+ d_antonines: "Antonines"
+ d_antonines_adj: "Antonine"
+ holy_order_antonines: "Hermanos del Hospital de San Antonio"
+ d_holy_spirit: "Order of the Holy Spirit"
+ d_holy_spirit_adj: "Holy Spirit"
+ holy_order_holy_spirit: "Hospitalarios del Espíritu Santo"
+ d_crosiers: "Crosiers"
+ d_crosiers_adj: "Báculo"
+ holy_order_crosiers: "Canones de la Santa Cruz"
+ d_paulines: "Paulines"
+ d_paulines_adj: "Pauline"
+ holy_order_paulines: "Hermits of St Paul"
+ d_beguines: "Beguines"
+ d_beguines_adj: "Beguine"
+ holy_order_beguines: "Beguines"
+ d_mercedarians: "Mercedarians"
+ d_mercedarians_adj: "Mercedarian"
+ holy_order_mercedarians: "Orden de Nuestra Señora de la Misericordia"
+ d_savaites: "Savaites"
+ d_savaites_adj: "Savaite"
+ holy_order_savaites: "Monjes de San Sava"
+ d_tekle_haymanot: "House of Tekle Haymanot"
+ d_tekle_haymanot_adj: "Tekle Haymanot"
+ holy_order_tekle_haymanot: "Monjes de Debre Asbo"
+ d_ewostatewos: "House of Ewostatewos"
+ d_ewostatewos_adj: "Ewostatean"
+ holy_order_ewostatewos: "Niños de Ewostatewos"
+ d_mor_mattai: "Mor Mattai"
+ d_mor_mattai_adj: "Mattaite"
+ holy_order_mor_mattai: "Monjes de Mor Mattai"
+ d_sabaites: "Sabaites"
+ d_sabaites_adj: "Sabaite"
+ holy_order_sabaites: "Gran Lavra de San Sabas"
+ d_patmians: "Patmians"
+ d_patmians_adj: "Patmian"
+ holy_order_patmians: "Monasterio de San Juan el Teólogo"
+ d_cypriot_monks: "Cypriot Monks"
+ d_cypriot_monks_adj: "Cypriot"
+ holy_order_cypriot_monks: "Monjes de los Troodos"
+ d_maronite_hermits: "Maronite Hermits"
+ d_maronite_hermits_adj: "Maronita"
+ holy_order_maronite_hermits: "Monjes del Valle Santo"
+ d_hayq_estifanos: "Hayq Estifanos"
+ d_hayq_estifanos_adj: "Hayq"
+ holy_order_hayq_estifanos: "Monjes de San Esteban de Hayq"
+ d_mor_barsauma: "Mor Barsauma"
+ d_mor_barsauma_adj: "Barsaumite"
+ holy_order_mor_barsauma: "Monks of Mor Barsauma"
+ d_cilician_monks: "Cilician Monks"
+ d_cilician_monks_adj: "Cilician"
+ holy_order_cilician_monks: "Monjes de Skevra y Drazark"
+ d_aghvank_monks: "Aghvank"
+ d_aghvank_monks_adj: "Aghvanian"
+ holy_order_aghvank_monks: "Monjes de Aghvank"
+ d_antonians: "St Antony"
+ d_antonians_adj: "Antonian"
+ holy_order_antonians: "Monjes de San Antonio"
+ d_beth_abe: "Beth Abe"
+ d_beth_abe_adj: "Beth Abe"
+ holy_order_beth_abe: "Monjes de Beth Abe"
+ d_haghpat_sanahin: "Haghpat and Sanahin"
+ d_haghpat_sanahin_adj: "Haghpatian"
+ holy_order_haghpat_sanahin: "Monjes de Haghpat y Sanahin"
+ d_florensians: "Fiore"
+ d_florensians_adj: "Florensian"
+ holy_order_florensians: "Florensians"
+ d_siegburg: "Siegburg"
+ d_siegburg_adj: "Siegburger"
+ holy_order_siegburg: "Siegburg Benedictines"
+ d_nea_moni: "Nea Moni"
+ d_nea_moni_adj: "Neamonite"
+ holy_order_nea_moni: "Monjes de Nea Moni"
+ d_mattamayura: "Mattamayura"
+ d_mattamayura_adj: "Mattamayura"
+ holy_order_mattamayura: "Mattamayuras"
+ d_kalamukha: "Kalamukha"
+ d_kalamukha_adj: "Kalamukha"
+ holy_order_kalamukha: "Kalamukhas"
+ d_golaki: "Golaki"
+ d_golaki_adj: "Golaki"
+ holy_order_golaki: "Golaki Matha"
+ d_sringeri: "Sringeri"
+ d_sringeri_adj: "Sringeri"
+ holy_order_sringeri: "Sringeri Sharada Peetham"
+ d_srirangam: "Srirangam"
+ d_srirangam_adj: "Srirangam"
+ holy_order_srirangam: "Sri Vaishnavas de Srirangam"
+ d_madhva: "Madhva"
+ d_madhva_adj: "Madhva"
+ holy_order_madhva: "Madhva Order"
+ d_panchastupa: "Panchastupa"
+ d_panchastupa_adj: "Panchastupa"
+ holy_order_panchastupa: "Panchastupa Line"
+ d_dravida_sangha: "Dravida Sangha"
+ d_dravida_sangha_adj: "Dravida Sangha"
+ holy_order_dravida_sangha: "Dravida Sangha"
+ d_desiya: "Desiya"
+ d_desiya_adj: "Desiya"
+ holy_order_desiya: "Desiya Gana"
+ d_kharatara: "Kharatara"
+ d_kharatara_adj: "Kharatara"
+ holy_order_kharatara: "Kharatara Gaccha"
+ d_tapa: "Tapa"
+ d_tapa_adj: "Tapa"
+ holy_order_tapa: "Tapa Gaccha"
+ d_nagendra: "Nagendra"
+ d_nagendra_adj: "Nagendra"
+ holy_order_nagendra: "Nagendra Gaccha"
+ d_vikramashila: "Vikramashila"
+ d_vikramashila_adj: "Vikramashila"
+ holy_order_vikramashila: "Vikramashila"
+ d_somapura: "Somapura"
+ d_somapura_adj: "Somapura"
+ holy_order_somapura: "Somapura Mahavihara"
+ d_nalanda: "Nalanda"
+ d_nalanda_adj: "Nalanda"
+ holy_order_nalanda: "Nalanda Mahavihara"
+ d_bodh_gaya: "Vajrasana"
+ d_bodh_gaya_adj: "Vajrasana"
+ holy_order_bodh_gaya: "Vajrasana Sangha"
+ d_lanka_sangha: "Lankan Sangha"
+ d_lanka_sangha_adj: "Lankan Sangha"
+ holy_order_lanka_sangha: "Sangha of Lanka"
+ d_abhayagiri: "Abhayagiri"
+ d_abhayagiri_adj: "Abhayagiri"
+ holy_order_abhayagiri: "Abhayagiri Fraternity"
+ d_et_sakya: "Sakya"
+ b_KUDA_MON: "Kuda Mon"
+ b_chengwei_china: "Chengwei"
+ b_dai_la: "Đại La"
+ b_huining_china: "Huining"
+ b_mahoyadapuram: "Mahoyadapuram"
+ b_shunhuadu_china: "Shunhuadu"
+ b_taishan_qianfeng_china: "Taishan"
+ b_xiaoguan_china: "Xiaoguan"
+ b_xuchang_china: "Xuchang"
+ b_yingzhou_china: "Yingzhou"
+ c_akita: "Akita"
+ c_bianzhou_china: "Bianzhou"
+ c_burune: "Burune"
+ c_changan_china: "Chang'an"
+ c_chengdu_china: "Chengdu"
+ c_jinling_china: "Jinling"
+ c_nanhai_china: "Nanhai"
+ c_ogachi: "Ogachi"
+ c_qumisha: "Qumisha"
+ c_rossello: "Rosellón"
+ c_shamir: "Shamir"
+ c_taga: "Taga"
+ d_biansong_china: "Biansong"
+ d_durazzo: "Durazzo"
+ d_hokuriku: "Hokuriku"
+ d_khirgiz: "Kirghiz"
+ d_kimek: "Kimek"
+ d_liuqiu_china: "Liuqiu"
+ d_luwu: "Luwu"
+ d_majin: "Majin"
+ d_minamiezo: "Minami Ezo"
+ d_nankai: "Nankai"
+ d_ooni_of_ife: "Ọọ̀niship de Ilè-Ifẹ̀"
+ d_palembang: "Palembang"
+ d_pariaman: "Pariaman"
+ d_sanin: "San'in"
+ d_sanyo: "San'yō"
+ d_siro_map_base: "$SIRO_TRADE_MAP_NAME$"
+ d_siro_map_bk_01: "$SIRO_TRADE_MAP_NAME$"
+ d_siro_map_bk_02: "$SIRO_TRADE_MAP_NAME$"
+ d_siro_map_bk_03: "$SIRO_TRADE_MAP_NAME$"
+ d_siro_map_bk_04: "$SIRO_TRADE_MAP_NAME$"
+ d_siro_map_bk_05: "$SIRO_TRADE_MAP_NAME$"
+ d_siro_map_bk_tp_01: "$SIRO_TRADE_MAP_NAME$"
+ d_siro_map_bk_tp_02: "$SIRO_TRADE_MAP_NAME$"
+ d_siro_map_bk_tp_03: "$SIRO_TRADE_MAP_NAME$"
+ d_siro_map_bk_tp_04: "$SIRO_TRADE_MAP_NAME$"
+ d_siro_map_bk_tp_05: "$SIRO_TRADE_MAP_NAME$"
+ d_siro_map_dynasty_01: "$SIRO_TRADE_MAP_NAME$"
+ d_siro_map_dynasty_02: "$SIRO_TRADE_MAP_NAME$"
+ d_siro_map_dynasty_barony_01: "$SIRO_TRADE_MAP_NAME$"
+ d_siro_map_dynasty_barony_02: "$SIRO_TRADE_MAP_NAME$"
+ d_siro_map_dynasty_independent_01: "$SIRO_TRADE_MAP_NAME$"
+ d_siro_map_dynasty_independent_02: "$SIRO_TRADE_MAP_NAME$"
+ d_siro_map_dynasty_realm_01: "$SIRO_TRADE_MAP_NAME$"
+ d_siro_map_dynasty_realm_02: "$SIRO_TRADE_MAP_NAME$"
+ d_siro_map_sh_tr_01: "$SIRO_TRADE_MAP_NAME$"
+ d_siro_map_special_slot: "$SIRO_TRADE_MAP_NAME$"
+ d_siro_map_special_slot_empty: "$SIRO_TRADE_MAP_NAME$"
+ d_siro_map_special_slot_holy_site: "$SIRO_TRADE_MAP_NAME$"
+ d_siro_map_special_slot_holy_site_empty: "$SIRO_TRADE_MAP_NAME$"
+ d_siro_map_sr_tr_01: "$SIRO_TRADE_MAP_NAME$"
+ d_siro_map_tp_01: "$SIRO_TRADE_MAP_NAME$"
+ d_siro_map_weather_winter_harsh: "$SIRO_TRADE_MAP_NAME$"
+ d_siro_map_weather_winter_mild: "$SIRO_TRADE_MAP_NAME$"
+ d_siro_map_weather_winter_normal: "$SIRO_TRADE_MAP_NAME$"
+ d_south_bungku: "Bungku Sur"
+ d_sunda: "Sunda"
+ d_taranto: "Taranto"
+ d_tokai: "Tōkai"
+ d_urbino: "Urbino"
+ d_yazidi: "Mîrate Yazidi"
+ e_longyou: "Longyou"
+ e_west_slavia: "Gran Venedia"
+ k_annam: "Annam"
+ k_huainan_china: "Huainan"
+ k_jawa: "Jawa"
+ k_ryukyu: "Rūchū"
+ k_tanjungpura: "Tanjungpura"
+ k_xia: "Hexi"
+ k_xia_china: "Xia"

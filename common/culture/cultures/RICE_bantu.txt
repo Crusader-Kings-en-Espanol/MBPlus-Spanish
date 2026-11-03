@@ -1,3 +1,0 @@
-﻿#Keep to prevent commented out culture. The below referenced cultures are in z_MB_00_africa_west
-
-#There's a bug I cannot figure out that occurs when RICE is used with my mod and CE and I've narrowed it down to this file. If all 3 cultures are here cultural acceptance just breaks and I just cannot figure out why as there is nothing in the error log and I do not have anything that deals with these cultures outside the languages in my base mod and they are properly compatched in my CE compatch and it works just fine if ANY of these cultures are commented out. I apparently cannot try anything like moving one of these cultures to another file too since just the very existence of all 3 of these cultures breaks cultural acceptance.

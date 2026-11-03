@@ -1,0 +1,872 @@
+﻿l_spanish:
+
+########################################################################################################################MB
+
+
+#UNITE THE GEORGIAN THRONES
+ unite_the_georgian_thrones_decision: "Unir los Tronos Georgianos"
+ unite_the_georgian_thrones_decision_desc: "En 1259 los mongoles establecieron deliberadamente dos reyes de Georgia, siendo nominalmente superior el rey de Kartli-Kakheti, pero en realidad ambos eran iguales. Con esto la unidad georgiana se hizo añicos hasta Jorge V el Brillante, aunque la destrucción causada por Timur destruyó de nuevo el Reino unificado. Si alguno de los dos Reinos consigue conquistar al otro es posible que una Georgia unificada vuelva a alzarse."
+ unite_the_georgian_thrones_decision_confirm: "Unir los Tronos"
+ unite_the_georgian_thrones_decision_tooltip: "Los tronos georgianos se unirán una vez más"
+ unite_the_georgian_thrones_decision_titles_tt: "Cada [title|E] [kingdom|E] georgiano que poseas (excepto tu [primary_title|E]) será destruido y sus territorios se convertirán en [de_jure|E] de tu título primario ([THIS.Char.GetPrimaryTitle.GetNameNoTier])"
+ unite_the_georgian_thrones_decision_primary: "Tu [primary_title|E] es un [kingdom|E] ibérico"
+
+ unite_the_georgian_thrones_decision_effects_de_jure_tt: "[title_d_imeretia.GetNameNoTier], [title_d_georgia.GetNameNoTier], [title_d_abkhazia.GetNameNoTier], [title_d_racha.GetNameNoTier], [title_d_mingrelia. GetNameNoTier], [title_d_meshketi.GetNameNoTier], [title_d_kartli.GetNameNoTier], [title_d_kakheti.GetNameNoTier], y [title_d_hereti.GetNameNoTier] pasan a formar parte [de_jure|E] del #V [title_k_georgia.GetName]# ."
+
+ mb_events.0001.t: "Una Georgia Unida"
+ mb_events.0001.desc: "Una vez más, los tronos de Georgia se han unido bajo un [ROOT.Char.GetTitleAsNameNoTooltip]. Los falsos monarcas han sido destronados, mientras que el orgulloso [ROOT.Char.GetPrimaryTitle.GetNameNoTier] se mantiene más fuerte que nunca."
+ mb_events.0001.a: "Este es el amanecer de una nueva era."
+ 
+ # Proto-Rus Tribes -> Rus
+ global_culture.5001.t: "$global_culture.5000.t$"
+ global_culture.5001.desc: "Estamos lejos de las tierras que nuestros antepasados nórdicos llamaban hogar, pero es la tierra de los Garðar la que consideramos nuestro país. Como líder de mi pueblo, es mi responsabilidad asegurar la prosperidad futura y si queremos prosperar, debemos adaptarnos a nuestro nuevo entorno. Debemos aprender de las personas cuyos antepasados hicieron uso de estas fértiles tierras.\n\nCon este decreto, cambiaremos nuestra forma de vida en beneficio de nuestros parientes. Forjaremos un nuevo camino como nuestro propio pueblo."
+ global_culture.5001.a: "¡Desde hoy, nos llamamos Rus!"
+ global_culture.5001.b: "No debemos dar la espalda a nuestras antiguas tribus."
+ 
+ global_culture.5002.t: "$global_culture.5001.t$"
+ global_culture.5002.desc: "Un grupo de colonos nórdicos procedentes de Escandinavia se ha asentado en las vastas tierras de Europa oriental, creando un nuevo hogar.\n\nSu líder, [russian_founder.GetTitledFirstName], ha decretado que [russian_founder.GetHerHis] gente debe adoptar varias costumbres y tradiciones locales para asegurarse de que prosperarán en esta nueva tierra."
+ global_culture.5002.a: "¿Qué significa esto para la región?"
+ 
+ # Rus -> Novgorodian
+ global_culture.5004.t: "Auge de Novgorod"
+ global_culture.5004.desc: "Gracias a la unificación política de la región, la clase dirigente comenzó a hablar una serie de dialectos estrechamente relacionados, pero la región de Novgorod pasó a hablar una lengua diferente a la Rus de Kiev, al sur."
+ global_culture.5004.a: "¡Somos novgorodianos, ahora y siempre!"
+ global_culture.5004.b: "No debemos dar la espalda a la Rus de Kiev."
+ 
+ global_culture.5005.t: "$global_culture.5004.t$"
+ global_culture.5005.desc: "Aunque comparten orígenes comunes con la Rus' de Kyiván, la región de Nóvgorod se separó de las tierras del sur y llegó a tener su propia cultura y lengua."
+ global_culture.5005.a: "¿Serán capaces de prosperar por sí mismos?"
+ 
+ # Russian Merge
+ global_culture.5000.t: "Auge de la Rus de Kyivan"
+ global_culture.5000.desc: "Las tierras de los Garðar han proporcionado a nuestro pueblo un terreno exuberante y fértil para asentarse y expandirse.\n\nAl adoptar algunas de las tradiciones de los lugareños, podremos aclimatarnos mejor a la región."
+ global_culture.5000.a: "¡Por los nuevos amigos y los nuevos comienzos!"
+ 
+ 
+ 
+ 
+ 
+ global_culture.5003.t: "Propagación de la cultura [russian.GetNameNoTooltip]"
+ global_culture.5003.desc: "El auge de la Rus de Kyiván ha provocado un cambio cultural en el este de Europa.\n\n¡Ahora está claro que los habitantes de [county_to_change.GetName] ya no se ven a sí mismos como [old_culture.GetName], sino como nativos de [russian.GetCollectiveNoun]!"
+ global_culture.5003.a: "Un desarrollo interesante..."
+ 
+ global_culture.5010.a: "¡Maravilloso!"
+ 
+ # Establish Russian Culture
+ establish_russian_culture_decision: "Establecer la cultura de Rus"
+ establish_russian_culture_decision_desc: "Nuestras viejas tradiciones no nos sirven en nuestro nuevo hogar. Deberíamos mirar a los lugareños y ver qué podemos aprender de ellos."
+ establish_russian_culture_decision_confirm: "¡La Rus de Kyivan se levanta!"
+ establish_russian_culture_decision_tooltip: "Fusionar nuestra cultura nórdica y la de la tribu Rus local"
+ establish_russian_culture_decision_effect.tt: "Muchos [old_culture_1.GetName] y otros condados y personajes eslavos del este dentro de Kyivan Rus' se convierten en [new_culture.GetName]"
+ establish_russian_culture_decision_effect.tt.2: "[normandy_title.GetName] pasa a llamarse $d_normandy$"
+
+ # Frankish -> French
+ global_culture.5007.t: "Los franceses"
+ global_culture.5007.desc: "Aunque compartimos orígenes comunes con los demás pueblos germánicos, nuestra gente que vive aquí, en las tierras de Francia, ha empezado a divergir cultural y lingüísticamente al mezclarse con los pueblos nativos de esta tierra.\n\nMuchos de nuestros pueblos claman ahora por una identidad cultural única que podamos llamar nuestra. Algo de lo que podamos estar orgullosos de ser..."
+ global_culture.5007.a: "¡Somos franceses, ahora y siempre!"
+ global_culture.5007.b: "No debemos dar la espalda a nuestro pasado."
+ 
+ global_culture.5008.t: "$global_culture.5007.t$"
+ global_culture.5008.desc: "Aunque comparten orígenes comunes con los demás pueblos germánicos, los francos de las tierras de Francia se han adaptado a la vida en su nueva tierra.\n\nDivergiendo cultural y lingüísticamente de sus antiguos compatriotas, estos [french.GetName] han abrazado con entusiasmo su nueva identidad cultural."
+ global_culture.5008.a: "¿Serán capaces de prosperar por sí mismos?"
+
+   
+ unite_angles_decision: "Unir a los Anglosajones"
+ unite_angles_decision_tooltip: "Unir a los pueblos de Ængland en una sola cultura"
+ unite_angles_decision_desc: "Inglaterra nunca ha estado verdaderamente unida, pero todos compartimos una herencia y una lengua comunes. Sean cuales sean las diferencias, las superaremos y forjaremos una identidad común entre todos los Anglecynn."
+ unite_angles.preview.tt: "Los diversos pueblos germánicos occidentales de las Islas Británicas se unirán y se convertirán en anglosajones."
+ unite_angles_confirm: "¡Por una próspera Ængland!"
+ 
+ mamluk_events.0001.t: "De la pobreza a la riqueza"
+ mamluk_events.0001.desc: "Los mamelucos fuimos traídos aquí desde nuestros hogares como guerreros esclavos, pero ahora hemos llegado a controlar las tierras de nuestros amos"
+ mamluk_events.0001.a: "Que Alá nos guíe"
+ rags_to_riches: "De la pobreza a la riqueza"
+ 
+ n_polan_c_noun: "Polaco"
+ 
+ reclaim_britannia_custom_decision1: "Todo su [powerful_vassals|E] tiene un [culture|E] con un Brythonic o Goidelic [heritage|E]"
+ 
+ 
+ form_the_kingdom_of_aragon_decision.tt.drift.d_zaragoza: "Si [completely_control|E] [d_zaragoza.GetDefinitiveName], se [de_jure_drift_drifted|E] en [k_aragon.GetDefinitiveName]."
+ form_the_kingdom_of_aragon_decision.tt.drift.d_teruel: "Si [completely_control|E] [d_teruel.GetDefinitiveName], será [de_jure_drift_drifted|E] en [k_aragon.GetDefinitiveName]."
+ form_the_kingdom_of_aragon_decision.tt.drift.d_catalunya_nova: "Si [completely_control|E] [d_catalunya_nova.GetDefinitiveName], será [de_jure_drift_drifted|E] en [k_aragon.GetDefinitiveName]."
+ form_the_kingdom_of_aragon_decision.tt.drift.d_urgell: "Si [completely_control|E] [d_urgell.GetDefinitiveName], será [de_jure_drift_drifted|E] en [k_aragon.GetDefinitiveName]."
+ 
+ #Unify Saxons
+ 
+ unify_saxons_decision: "Unificar la Heptarquía"
+ unify_saxons_decision_tooltip: "Unir los siete reinos en uno"
+ unify_saxons_decision_desc: "Las tierras de los siete reinos están ahora unificadas bajo el gobierno de un único monarca. Es hora de proclamar un nuevo Reino singular para gobernar la tierra."
+   
+ #Restore Byzatnine Empire
+ custom_nb_restore_byzantine_decision_desc: "Como el legítimo heredero del imperio, debemos restaurar el Imperio Romano Oriental y recuperar la gloria de los romanos."    
+ custom_nb_restore_byzantine_decision_tooltip: "Reconstruir el Imperio Romano Oriental que había colapsado."
+ custom_nb_restore_byzantine_decision_effect_tooltip: "Reconstruir el Imperio Romano Oriental que había colapsado."
+ custom_nb_restore_byzantine_decision_confirm: "¡Es hora de reconstruir el Imperio, compañeros romanos!" 
+ custom_nb_restore_byzantine_decision.0001.l: "El verdadero Imperio Romano perdurará para siempre."
+ custom_nb_restore_byzantine_decision.0001.l.tt: "El verdadero Imperio Romano perdurará para siempre."     
+ 
+ 
+ custom_nb_byzantine_decision_opinions_vassals: "Todos los vasallos del imperio restaurado"    
+ custom_nb_byzantine_decision_opinions: "Verdadero Emperador Romano"    
+
+
+########################################################################################################################RoA#
+ 
+ 
+ nonaggressionpact.001.opening: "[actor.Custom2('AppropriateGreeting', recipient )]"
+ nonaggressionpact.001.desc: "Le pido que cumpla nuestro acuerdo pendiente y firme este Pacto de No Agresión..."
+ nonaggressionpact.001.a: "Parece que tengo pocas opciones..."
+
+ nonaggressionpact.002.opening: "[recipient.Custom2('AppropriateGreetingPositive', actor )]"
+ nonaggressionpact.002.desc: "Me siento honrado por su petición, y estaría encantado de firmar un Pacto de No Agresión "
+ nonaggressionpact.002.tooltip: "[recipient.GetTitledFirstNameNoTooltip] entró en [truce|E] contigo a través de un Pacto de No Agresión"
+ nonaggressionpact.002.a: "¡Grandes noticias, amigo!"
+
+ nonaggressionpact.003.opening: "[recipient.Custom2('AppropriateGreeting', actor )]"
+ nonaggressionpact.003.desc: "Tras pensarlo mucho, me temo que he llegado a la conclusión de que debo rechazar tu oferta."
+ nonaggressionpact.003.a: "Preocupante..."
+
+ sea_gov_event.0002.opening: "[sender.Custom2('AppropriateGreetingNegative', ROOT.Char )]"
+ sea_gov_event.0002.desc: "El anterior gobernante no era apto para gobernar, y no hay razón para pensar que tú serás mejor. Ya no serviré como tu vasallo."
+ sea_gov_event.0002.a: "Lamentarás esta traición."
+ sea_gov_event.0002.b: "Muy bien. Puedes irte con mi bendición."
+ sea_gov_event.0002.c: "¡Espera! Quédate y te juro que valdrá la pena."
+
+ asdac_roman_restoration.1001.t: "Bizancio restaurado"
+ asdac_roman_restoration.1001.desc: "Una vez más, los grandes estandartes bizantinos de Constantinopla se han alzado. [scoped_emperor.GetTitledFirstName] ha restaurado las antiguas tierras de la corona de Bizancio, y el imperio griego se levanta de las cenizas de la derrota, para conquistar a sus antiguos enemigos tanto en el este como en el oeste.\n\nEl Imperio Romano de Oriente sufrió una derrota tras otra, cayendo finalmente ante la multitud de estados hostiles en sus fronteras. Pero, al igual que la Roma de antaño, sus enemigos no pudieron impedir que creciera en poder y volviera a ser un actor relevante.\n\nEl Imperio Bizantino es uno e indivisible, ¡salve [scoped_emperor.GetTitledFirstName] del Imperio Bizantino!"
+ asdac_roman_restoration.1001.a: "Todo nuevo comienzo viene del final de otro comienzo."
+ 
+ asdac_east_europe.9101.t: "Carantania restaurada"
+ asdac_east_europe.9101.desc: "Con mi gobierno extendiéndose por las zonas centrales del antiguo Principado de Carantania, he declarado que el principado ha renacido y que yo soy su príncipe.\n\nDurante demasiado tiempo los eslovenos hemos sido gobernados por los alemanes; ahora, podemos tomar nuestro destino en nuestras manos."
+ asdac_east_europe.9101.a: "¡Mi legado será recordado durante siglos!"
+ asdac_east_europe.9101.b: "[restaurador.GetFaith.HighGodName] nos bendice!"
+ asdac_east_europe.9101.c: "¡Sinceramente, mientras sea [restorer.GetTitleAsNameNoTooltip] de #EMP en alguna parte!..."
+ asdac_east_europe.9102.t: "$asdac_east_europe.9101.t$"
+ asdac_east_europe.9102.desc: "TEXTO"
+ asdac_east_europe.9102.a: "Un patético advenedizo, en el mejor de los casos."
+ asdac_east_europe.9102.b: "¡Salve [restorer.GetShortUINameNoTooltip]!"
+ asdac_east_europe.9102.c: "Veremos cuánto dura esto..."
+ 
+ LT.0003.t: "El traidor de Lorena"
+ LT.0003.desc: "El traidor duque Giselberto de Lorena dejó nuestro servicio tras la muerte de nuestro estimado padre el rey Enrique. Ahora ha recurrido a la protección de los Karlings en Francia Occidental, pidiéndoles ayuda contra nosotros.\n\nNo sólo han abandonado su antiguo servicio a nuestro gobierno, sino que nuestros espías nos dicen que Giselbert ha estado conspirando con señores traidores del reino. El insulto es demasiado para soportar en este momento, y ya es hora de que recuperemos lo que es legítimamente nuestro."
+ LT.0003.a: "Lorena no debe estar en manos de los Carolingios ni de sus vasallos."
+ LT.0003.b: "Cumpliremos nuestra parte del pacto."
+ LT.0003.b.tt: "Giselbert y Lorena serán dejados en paz."
+ LT.0004.t: "Ataque de los alemanes"
+ LT.0004.desc: "Los informes de nuestros exploradores en el este confirman nuestras sospechas, Otto está preparando un ataque a nuestras tierras. Durante mucho tiempo el rey de los germanos ha buscado una razón justificada para tratar de forzar a Lorena de nuevo bajo su soberanía, pero ahora parece que ha tirado la cautela al viento.\NEs hora de reunir a nuestros hombres y protegernos. Lorena es nuestra, y nos aseguraremos de que los alemanes paguen caro cada paso que den en ella."
+ LT.0004.a: "No pasarán a nuestras tierras sin oposición."
+ LT.0012.t: "El Reino de Italia"
+ LT.0012.desc: "Bajo el horrendo liderazgo de [italian_king.GetTitledFirstName], Italia se ha convertido en una sombra de lo que fue. El gran legado de los romanos y sus descendientes ha sido destrozado por las guerras civiles y el caos de las últimas décadas.\n\nAhora muchos de los señores menores italianos bajo su liderazgo nos han enviado emisarios pidiendo ayuda. Supuestamente echan de menos los días en que estaban bajo nuestro lejano dominio. Si queremos volver a enarbolar los estandartes de Carlomagno, el Reino de Italia será esencial para asegurar nuestro reconocimiento como verdaderos descendientes de su imperio."
+ LT.0012.a: "Preparad a nuestros hombres, Italia estará asegurada para el bien de todos."
+ LT.0012.b: "No tenemos ningún interés en esta región, dejadles con sus mezquinas luchas internas."
+ LT.0013.t: "Invasión de Otto"
+ LT.0013.desc: "El rey de los germanos de nuestro norte, Otto, nos ha declarado la guerra. Afirma a voz en grito que es por el bien del pueblo italiano, y pretende que está liberando a Italia del dominio de [italian_king.GetTitledFirstName].\n\nLos alemanes se preparan para atravesar los Alpes, y poner fin al caos que ha envuelto a Italia de una vez por todas. ¿Quién se opondrá a ellos y los tratará como invasores, y quién los abrazará como viejos vecinos y amigos?"
+ LT.0013.a: "¡Que vengan!"
+ LT.0013.b: "Interesante..."
+ 
+ 
+ # Rus' Split
+ global_culture.8002.t: "El destino de la Rus'"
+ global_culture.8002.desc: "La tierra de la Rus' ha cambiado a lo largo de los siglos. Aunque la identidad común de la Rus' no se ha desvanecido por completo de la memoria, no se puede negar que el pueblo de la Rus' se ha dividido en [great_russian.GetCollectiveNoun], [ukrainian.GetCollectiveNoun] y [belarusian.GetCollectiveNoun]."
+ global_culture.8002.a: "$global_culture.0002.a$" #placeholder
+ global_culture.8002.b: "$global_culture.0002.b$" #placeholder
+
+ global_culture.8005.t: "$global_culture.8002.t$"
+ global_culture.8005.desc: "$global_culture.8002.desc$" #placeholder
+ global_culture.8005.a: "$global_culture.3005.a$" #placeholder
+ global_culture.8005.desc_russian: "$global_culture.8002.desc$" #placeholder
+ global_culture.8005.b: "$global_culture.0015.b$" #placeholder
+
+ middle_europe_decisions.0001.desc: "Durante mucho tiempo, las ciudades de los Alpes centrales se han visto amenazadas por otros actores del Imperio. Unidas bajo una sola bandera, ahora han forjado alianzas mutuamente beneficiosas y han recibido el honor de la inmediatez imperial.\n\nEn honor a las contribuciones de mi dinastía a las ciudades-estado suizas, he sido elegido como jefe de esta unión, el que será el mascarón de proa de todos los cantones de nuestra nueva Confederación Suiza. Ya no seremos amenazados por extraños, sino que nos alzaremos como un fuerte actor independiente en el Imperio."
+ middle_europe_decisions.0002.desc.emperor: "Después de años de luchas e incómodos acuerdos diplomáticos, me he visto obligado a conceder a los cantones suizos la inmediatez imperial.\n\nEste conjunto de ciudades alpinas se ha unido en una gran Confederación para protegerse de las depredaciones de los borgoñones y los señores alemanes. Debo tener cuidado de mantenerlos a raya, no vaya a ser que sus logros siembren la disensión entre los burgueses vecinos."
+ middle_europe_decisions.0002.desc.vassals: "Una nueva entidad conocida como la Confederación Suiza se ha levantado en el Imperio. Son un conglomerado de ciudades con inmediatez imperial asentadas alrededor de los Alpes centrales, y han entrado en una alianza defensiva para protegerse de los otros electores que les rodean.\n\nUna fuerza independiente con la que hay que contar, se han liberado de cualquier reclamación anterior sobre sus tierras, ya sea de los antiguos borgoñones al oeste o de los señores alemanes al norte.\n\nDebería tener cuidado con esta nueva amenaza potencial en el Imperio."
+ 
+ adopt_chinese_government_decision: "Adoptar un gobierno $chinese_government$"
+ adopt_chinese_government_decision_desc: "Aunque gobierno sobre territorio en $e_celestia_china$ como rey, mi estilo de gobernar sigue siendo ajeno a China, lo que provoca cierta resistencia por parte de los nobles locales. Quizá reformando el estado y adoptando una forma de gobierno más acorde con las creencias locales, podría hacer más estable mi control del poder en la región."
+ adopt_chinese_government_decision_tooltip: "Cambiar el tipo de [gobierno|E] adoptando un gobierno [chino|E]."
+ adopt_chinese_government_decision_confirm: "Adopta la burocracia confuciana"
+ 
+ 
+########################################################################################################################CE
+ 
+ 
+ # Found the Kingdom of Oman
+ DE_decision_event.0001.t: "El Reino de Omán"
+ DE_decision_event.0001.desc: "El pueblo ibadí ha carecido durante siglos de un reino para los suyos, mientras los persas al norte y los califas al oeste sometían nuestras tierras a la influencia extranjera, a falsos líderes y las tierras lejanas se burlaban de nuestras tribus, pero ya no. Las tribus desunidas ahora se arrodillan juntas ante el sultán de Omán.Con mi coronación como [fundador.GetTitleAsNameNoTooltip], daré paso a una edad dorada de prosperidad para todos los fieles de nuestro reino."
+ DE_decision_event.0001.a: "¡Por fin!"
+
+ # Restore the Kingdom of Old Saxony
+ DE_decision_event.0002.t: "Los Viejos Sajones"
+ DE_decision_event.0002.desc: "El pueblo sajón fue una vez una poderosa fuerza que se enfrentó a las fuerzas de Carlomagno hasta que no pudimos doblegarnos más. Desde aquel fatídico momento, los sajones han estado sometidos al gobierno de otros, incapaces de determinar su propio destino. Ahora que mis enemigos han sido derrotados y se ha logrado la independencia, ¡es hora de proclamar la restauración del Reino de Sajonia! Como [fundador.GetTitleAsNameNoTooltip], ¡lideraré a mi pueblo hacia un futuro glorioso!"
+ DE_decision_event.0002.a: "¡Restaurado una vez más!"
+
+ #Form the Grand Duchy of Saxony
+ DE_decision_event.0003.t: "El Archiducado de Sajonia"
+ DE_decision_event.0003.desc: "Gracias a mis ilustres logros consolidando las tierras centrales sajonas, y a la tremenda influencia que mi dinastía ha adquirido sobre el Sacro Imperio Romano Germánico, [scoped_emperor.GetTitledFirstName] ha reconocido finalmente la supremacía tradicional de Sajonia sobre los muchos pequeños duques de Alemania. \n\nA partir de hoy, todos mis sucesores llevarán el distinguido título de #EMPGranDuque#, igual que cualquier rey, para diferenciarse de los príncipes y princesas menores del Imperio."
+ DE_decision_event.0003.a: "¡Sajonia erit in orbe ultima!"
+
+ # Form the Grand Duchy of Franconia
+ DE_decision_event.0004.t: "El Archiducado de Franconia"
+ DE_decision_event.0004.desc: "Gracias a mis ilustres logros consolidando las tierras de Franconia, y a la tremenda influencia que mi dinastía ha adquirido sobre el Sacro Imperio Romano Germánico, [scoped_emperor.GetTitledFirstName] ha reconocido finalmente a Franconia como la última sede del poder sobre los muchos pequeños duques de Alemania. \n\nA partir de hoy, todos mis sucesores llevarán el distinguido título de #EMPGranDuque#, igual que cualquier rey, para diferenciarse de los príncipes y princesas menores del Imperio."
+ DE_decision_event.0004.a: "¡Francon erit in orbe ultima!"
+
+ # Form the Grand Duchy of Swabia
+ DE_decision_event.0005.t: "El Archiducado de Suabia"
+ DE_decision_event.0005.desc: "Gracias a mis ilustres logros consolidando las tierras centrales de Suabia, y a la tremenda influencia que mi dinastía ha adquirido sobre el Sacro Imperio Romano Germánico, [scoped_emperor.GetTitledFirstName] ha reconocido finalmente las tierras tradicionales de Alemannia como superiores a los muchos pequeños duques de Alemania. \n\nA partir de hoy, todos mis sucesores llevarán el distinguido título de #EMPGranDuque#, igual al de cualquier rey, para diferenciarse de los príncipes y princesas menores del Imperio."
+ DE_decision_event.0005.a: "¡Swabia erit in orbe ultima!"
+
+ # Forming Bulgarian Empire
+ DE_decision_event.0006.t: "Surge una Nueva Roma"
+ DE_decision_event.0006.desc: "Desde los tiempos de Asparuh, nuestro pueblo ha intentado desafiar el poder del Imperio Romano de Oriente. Gracias a nuestro poderío, los griegos han perdido su influencia sobre los Balcanes y nuestro reino los ha reemplazado. Ahora, incluso en toda Europa, nos atrevemos a compararnos con el antiguo Imperio Romano, ya que el Emperador Romano de Oriente y el Patriarca de Constantinopla sólo pueden arrodillarse asombrados ante nuestro poderío. Mi familia y yo hemos surgido como la hegemonía indiscutible en la península de los Balcanes.\nEs el momento adecuado para que yo mismo sea reconocido como Zar de los Búlgaros y el verdadero Basileus de los Romanos con todo el honor y autoridad asociados. Nuestra capital será conocida como la Tercera Roma, y nuestro imperio será conocido como el verdadero Imperio Romano - ¡un Imperio sobre Búlgaros y Romanos!"
+ DE_decision_event.0006.a: "Me levanto ahora como Emperador sobre Búlgaros y Romanos."
+
+ # Reform the Avar Khaganate 
+ DE_decision_event.0007.t: "El Khaganato Avar"
+ DE_decision_event.0007.desc: "Los ávaros gobernaron una vez un vasto imperio que se extendía desde las estepas pónticas hasta las fronteras de los germanos. Incapaces de resistir las despiadadas fuerzas de los francos, nuestro imperio se desmoronó ante nosotros. Nuestra lucha por sobrevivir ha sido un viaje difícil, pero hoy ya no luchamos más. El Khaganato Avar está ahora restaurado y listo para traer una era de gloria y prosperidad a nuestros pueblos."
+ DE_decision_event.0007.a: "¡Por el nuevo Khaganate!"
+
+ # Integrate Aquitaine
+ DE_decision_event.0008.t: "Unidos como Uno"
+ DE_decision_event.0008.desc: "Desde la conquista carolingia de Aquitania en 769, las tierras de Aquitania han sido centro de confusión y conflicto entre la nobleza y sus soberanos. El Reino de Aquitania sólo ha servido para dividir a nuestro pueblo, pero ya no más. A partir de ahora todos los francos serán gobernados bajo la Corona de Francia Occidental."
+ DE_decision_event.0008.a: "No nos dividamos nunca más."
+
+ # Restore the Kingdom of Aquitaine
+ DE_decision_event.0009.t: "No Seamos más Serviles"
+ DE_decision_event.0009.desc: "Durante demasiado tiempo, el pueblo de Aquitania ha estado sometido al dominio de reyes ausentes del norte de Francia. Siglos de supervisión extranjera han hecho que la idea de un reino independiente parezca un sueño lejano. Pero ya no. Bajo mi liderazgo, una Aquitania libre e independiente ya no es un sueño. Nuestro pueblo es ahora libre y está listo para buscar su destino entre las otras grandes potencias de Europa."
+ DE_decision_event.0009.a: "Sólo nosotros determinaremos nuestro destino."
+
+ # Reform Samo's Empire
+ DE_decision_event.0010.t: "El Imperio de Samo"
+ DE_decision_event.0010.desc: "Nuestro pueblo estuvo una vez unido bajo el liderazgo de Samos, que poseía un imperio que unía a muchos de los eslavos occidentales. Es con orgullo y regocijo que puedo proclamar el renacimiento del Imperio de Samo, "La Colina de los Wends." Nuestro reino superará al imperio de antaño y nos conducirá a un futuro glorioso."
+ DE_decision_event.0010.a: "Nos uniremos una vez más"
+
+ # Restore the Frisian Kingdom
+ DE_decision_event.0011.t: "Un Reino Renacido"
+ DE_decision_event.0011.desc: "Los frisones de antaño lograron mantener su independencia del yugo franco hasta que no pudieron soportarlo más. Siglos de dominación extranjera han hecho que la idea de un reino independiente parezca un sueño lejano. Bajo mi liderazgo, el reino de Frisia ha dejado de ser un sueño. Nuestro pueblo es ahora libre y está preparado para buscar su destino entre las otras grandes potencias de Europa."
+ DE_decision_event.0011.a: "Seremos dueños de nuestro destino."
+ 
+ # Unifying Italy, by Flavio Verna (From Base Game)
+ DE_decision_event.0012.t: "El Imperio Italiano"
+ DE_decision_event.0012.desc: "Desde la caída del Imperio de Occidente, la península itálica ha estado fracturada entre ciudades-estado rebeldes, obispos codiciosos y conquistadores bárbaros.\n\nSin embargo, bajo el gobierno de mi dinastía, Italia ha dejado a un lado las mezquinas luchas internas y se ha recompuesto una vez más, resurgiendo como una potencia dominante en Occidente. Ya no seremos un premio a disputar entre francos y griegos, ni seremos maltratados por piratas y pretendientes bárbaros. A partir de hoy retomaremos nuestro lugar como verdaderos herederos del Imperio Romano."
+ DE_decision_event.0012.a: "¡Labor omnia vincit!"
+
+ # Restore Zoroastrianism 
+ DE_decision_event.0017.t: "Un Retorno a la Vieja Religión"
+ DE_decision_event.0017.desc.intro: "No es ningún secreto que he tenido... dudas sobre mi [old_faith.GetAdjective] fe."
+ DE_decision_event.0017.desc.excommunicated: "La excomunión ha sido difícil para mí, gravando mi alma injustamente y causando no pocas disputas con los otros [old_faith.GetAdherentNamePluralNoTooltip] de mi vida."
+ DE_decision_event.0017.desc.rivalry_with_hof: "Las constantes discusiones con [old_faith.GetReligiousHead.GetTitledFirstName], una mezquina disputa temporal de que [old_faith.GetReligiousHead.GetSheHe] #EMP debería#! estar por encima, me han dejado desilusionado."
+ DE_decision_event.0017.desc.negative_piety_level: "Mis actos me han marcado como un pecador, uno cuya fe parece contentarse con dejar caer por el camino espiritual, y no se puede negar lo aislante que ha sido."
+ DE_decision_event.0017.desc.lorgar: "A pesar de que el fuego de mi creencia arde tan brillantemente como el Sol, no puedo evitar la sensación de que debe haber algo #EMP más# en el universo que sólo [old_faith.HighGodName]. Alguna verdad más primordial."
+ DE_decision_event.0017.desc.sinful_traits: "Se siente como si cada uno de mis actos, cada uno de mis pensamientos, la forma en que vivo mi vida está marcada como inherentemente pecaminosa."
+ DE_decision_event.0017.desc.virtuous_basque_pagan_traits: "A veces me pregunto cómo es que alguna vez lo amé, cuando toda mi personalidad parece #EMP construida#¡para algo diferente."
+ DE_decision_event.0017.desc.naked_cynicism: "Me parece desinteresante, y lo que es peor, completamente cautivado por poderes sobre los que tengo poco o ningún control."
+ DE_decision_event.0017.desc.outro: "Por fin, sin embargo, creo que he encontrado consuelo con [mazdayasna.GetName]. Estos adherentes a la antigua fe de la Antigua Eran no tienen juicios para mí, sólo esperanza y anhelo ante la perspectiva de volver a un tiempo parecido al Imperio Sasánida."
+ DE_decision_event.0017.a: "¡[mazdayasna.GetNameNoTooltip] ya no será perseguido!"
+
+ # Fufill the Hadith
+ DE_decision_event.0018.t: "La Conquista de Constantinopla"
+ DE_decision_event.0018.desc: "Docenas de ejércitos han intentado tomar Constantinopla y han fracasado. Nuestros propios antepasados flaquearon ante estos muros, al igual que muchos otros que intentaron romper esta gran ciudad. Hoy, los hemos vengado. Allah lo ha querido.\n\nEl Profeta dijo: "Conquistarás Constantinopla. Qué maravilloso líder será su líder. Y qué maravilloso ejército será ese ejército." Ahora, debemos usar nuestras manos y mentes para forjar una nueva era de las cenizas. La Manzana Roja ha sido entregada a los fieles."
+ DE_decision_event.0018.a: "¡Allahu Akbar!"
+
+ # Establish Cairo
+ DE_decision_event.0020.t: "La Fundación de El Cairo"
+ DE_decision_event.0020.desc: "Desde tiempos inmemoriales, Egipto ha sido considerado cuna de la civilización. Sus tierras han sido testigo de algunos de los primeros desarrollos de la escritura, la agricultura, la urbanización y el gobierno central. Para inaugurar el nacimiento de una nueva era en la larga historia de Egipto, he encargado la construcción de una nueva capital en el corazón del país. Estoy seguro de que, con el tiempo, mi nueva capital eclipsará a la propia Alejandría."
+ DE_decision_event.0020.a: "Una nueva capital para una nueva era"
+ DE_decision_event.0020.b: "Este Acto será mi logro definitorio"
+
+ # Sicilian Muslim Event
+ DE_decision_event.0023.t: "¿Un Ducado por tus pensamientos?"
+ DE_decision_event.0023.desc: "Como centro del Mar Mediterráneo, Sicilia ha sido durante mucho tiempo una parte crítica en el comercio que gira en torno al gran mar. Y ahora parece que [rey_de_sicilia.GetTitledFirstName] ha decidido aprovechar este hecho para introducir una nueva forma de moneda.\NLlamada Ducado y modelada según la traquea bizantina, podría ser útil que aceptáramos esta moneda como emisión válida dentro de nuestro reino. Tal vez incluso podría servir de inspiración para una moneda propia..."
+ DE_decision_event.0023.a: "Esto sólo puede beneficiar a nuestros bolsillos"
+ DE_decision_event.0023.b: "Nuestra vieja moneda funciona igual de bien"
+
+ # Sicilian Muslim Event
+ DE_decision_event.0024.t: "Una cuestión de fe"
+ DE_decision_event.0024.desc: "Como centro del mar Mediterráneo y de su comercio, mi reino acoge a un gran número no sólo de cristianos, sino también de griegos, judíos y musulmanes. Aunque tal vez no sean la mayoría en sus comunidades, todavía hay muchos entre esos grupos que llaman a Sicilia su hogar.\nSin embargo, mi llegada al trono siciliano no ha traído la paz social y religiosa completa a Sicilia. Me han dicho que incluso ahora hay grupos que esperan restaurar el dominio del Islam en la isla.\NMuchos de mis consejeros me han presionado para que tome algún tipo de acción, pero me he resistido a hacerlo. Pero ahora, siento que debo actuar."
+ DE_decision_event.0024.a: "Pueden permanecer en mi reino, pero no en la propia Sicilia"
+ DE_decision_event.0024.b: "Todos somos creación de Dios, y como tal, los aceptaré como son"
+ DE_decision_event.0024.c: "El Islam no tiene cabida en mi reino"
+ DE_decision_event.0024.d: "¡El único musulmán bueno es un musulmán muerto!"
+ 
+ relocate_sicilian_muslims_decision_tooltip: "Reasientas a la población musulmana siciliana en la Italia continental. Dentro de este entorno controlado, no deberían poder desafiar la autoridad real mientras siguen beneficiando a la corona con impuestos y servicio militar"
+ protect_sicilian_muslims_decision_tooltip: "Cualquiera que sean tus razones, permites que los musulmanes sicilianos permanezcan en Sicilia sin ser molestados por la autoridad real, aunque aún está por ver si la población local acepta o condena su presencia."
+ exile_sicilian_muslims_decision_tooltip: "Ordenas que todos los musulmanes se conviertan o sean exiliados de Sicilia. Aunque esto permitirá una mayor cohesión religiosa (y lo que es más importante, el control real) en la isla, no se puede saber el impacto en su economía"
+ massacre_sicilian_muslims_decision_tooltip: "Como dice el buen Libro, "El Señor es vengativo contra sus enemigos; se ensaña con sus enemigos" y los musulmanes son, efectivamente, mi enemigo. Bueno, incluso si no lo son, es mejor simplemente masacrarlos a todos para estar seguros"
+
+ # Axum becomes Abyssinia
+ ce_title_event_abyssinia_name_change.title: "El Fin de Axum"
+ ce_title_event_abyssinia_name_change.desc: "¡El reinado de los reyes salomónidas ha llegado a su fin! [abyssinia_title.GetName] se ha escapado finalmente de sus manos. Con los Salomónidas eliminados, los últimos restos del antiguo Imperio Axumita ya no existen. Conmigo como futuro [ROOT.Char.GetTitleAsNameNoTooltip], tenemos un nuevo y brillante destino por delante. Por lo tanto, es justo eliminar #EMP todos y cada uno#! de los recordatorios de su influencia. Incluido el propio #EMP."
+ ce_title_event_abyssinia_name_change.a: "¡Una nueva era comienza!"
+ ce_title_event_abyssinia_name_change.a_tt_1: "El [abyssinia_title.GetName] cambia de nombre a #high $k_abyssinia$#!"
+ 
+ # Establish Transcaucasia
+ DE_decision_event.0025.t: "Un Imperio Propio"
+ DE_decision_event.0025.desc: "Durante siglos, nuestra patria ha sido escenario de rivalidades políticas, militares, religiosas y culturales, y de expansionismo por parte de cualquier potencia que considerara oportuno tratar de imponer su voluntad... pero ya no. Por mi mano, guiada por mis antepasados, las tierras de Transcaucasia se mantienen unificadas e independientes quizá por primera vez en la historia. Nunca más mi pueblo será ignorado y descontado; dejado a merced de poderes mayores que utilizan sus tierras como su campo de batalla personal. Dirigida por mí y mis descendientes, Transcaucasia se ganará su lugar entre los grandes imperios de la historia."
+ DE_decision_event.0025.a: "¡Estamos unidos!"
+ 
+ # Unite Heptarchy
+ DE_decision_event.0026.t: "Unidos como Uno"
+ DE_decision_event.0026.desc: "Inglaterra ha estado históricamente dividida en 7 reinos independientes, también conocidos como la Heptarquía. La Heptarquía sólo ha servido para dividir a nuestro pueblo y nos ha hecho vulnerables a los invasores, pero ya no más. A partir de ahora todos los sajones serán gobernados bajo la Corona de Inglaterra."
+ DE_decision_event.0026.a: "No nos dividamos nunca más."
+ unify_saxons_decision_confirm: "Unir los Reinos Sajones"
+ 
+ # Found the Kingdom of Oman
+ ce_host_a_bride_show.0001.t: "El Espectáculo de la Novia"
+ ce_host_a_bride_show.0001.desc: "Espero ansioso mientras las mujeres que pronto podrían ser mi esposa se filtran por las puertas hacia uno de los muchos espléndidos salones del palacio imperial. En los últimos días, los miembros más cercanos de mi familia y mis consejeros han hecho una selección de las jóvenes tras haber enviado funcionarios a reunir a las mujeres más bellas y bien nacidas de las provincias. Mi canciller, [canciller_imperial.GetTitledFirstName], anuncia a cada candidata con su nombre, familia, puesto y cualidades notables. Pero no importa lo que mis allegados piensen de las mujeres que tengo ante mí, la elección final depende de mí.\nEn mis manos descansa la acostumbrada manzana de oro. Al igual que Paris en su infame Juicio, ahora debo decidir a quién se le concederá la manzana y ascenderá a la posición de Emperatriz..."
+ ce_host_a_bride_show.0001.a: "[bride_1.GetTitledFirstName] será mi esposa"
+ ce_host_a_bride_show.0001.b: "[bride_2.GetTitledFirstName] es mi elección"
+ ce_host_a_bride_show.0001.c: "[bride_3.GetTitledFirstName] es mi elección"
+ ce_host_a_bride_show.0001.d: "¡Ninguna de estas candidatas es la adecuada!"
+ ce_refuse_to_marry_any_option_tt: "Te niegas a casarte con cualquiera de las opciones que tienes delante"
+
+ 
+ 
+ #Germania-Slavica Decisions
+ consolidate_polish_identity_txt: "Unir a los Lechitas del Este"
+ consolidate_polish_identity_tooltip: "Unir a los Lechitas de Polania y Vistulia en una sola cultura"
+ consolidate_polish_identity_desc: "Los Hijos de Lech se asentaron en toda la sección oriental de la Llanura del Norte de Europa, habitando una vasta zona que se extiende desde el río Elba hasta el Bug, con el Oder formando una línea divisoria entre ambos.\n\nDebemos asumir una posición preeminente entre los lechitas del Vístula para defendernos de los ataques del sur y el este. No nos dividiremos entre Polan o Lend, sino que nos reconoceremos mutuamente como herederos iguales de Lech."
+ consolidate_polish_identity.preview.tta: "Adoptarás una nueva [culture|E] basada en la anterior"
+ consolidate_polish_identity.preview.ttb: "El [title|E] [kingdom|E] de [GetTitleByKey('k_poland').GetNameNoTier] adoptará un nuevo nombre"
+ consolidate_polish_identity.preview.ttc: "El 40% de [counties|E] eslavos occidentales en [GetGeographicalRegion('ce_custom_poland').GetName] adoptarán la nueva [culture|E]"
+ consolidate_polish_identity_confirm: "¡Vivan los hijos de Lech!"
+ 
+ consolidate_polabian_identity_txt: "Unid a los Lechitas Occidentales"
+ consolidate_polabian_identity_tooltip: "Unir a los Lechitas de Polabia y Sorbia en una sola cultura"
+ consolidate_polabian_identity_desc: "Los Hijos de Lech se asentaron en toda la sección oriental de la Llanura del Norte de Europa, habitando una vasta zona que se extiende desde el río Elba hasta el Bug, con el Oder formando una línea divisoria entre ambos. \n\nTenemos que unir a los Lechitas a lo largo del Elba en un solo pueblo que pueda resistir la tormenta que se avecina de los reinos germánicos expansionistas al norte y al oeste. Ya no divididos entre Obotrite y Sorb, seremos conocidos como Wends, ¡los herederos de los Veneti y verdaderos gobernantes de estas tierras!"
+ consolidate_polabian_identity.preview.tta: "Adoptaréis una nueva [culture|E]"
+ consolidate_polabian_identity.preview.ttb: "Tu nueva [culture|E] se extenderá dinámicamente a [counties|E] eslavos occidentales en [GetGeographicalRegion('ce_custom_wendia').GetName] si son propiedad directa tuya o de tu [vassal|E]"
+ consolidate_polabian_identity_effect: "El 40% de los [county|E] eslavos occidentales en [GetGeographicalRegion('ce_custom_wendia').GetName] adoptarán la nueva [culture|E]"
+ consolidate_polabian_identity_confirm: "¡Viva Wendia!"
+ 
+ ce_custom_poland: "Lechia oriental"
+ ce_custom_wendia: "Wendia"
+ 
+ invite_german_settlers_txt: "Invitar colonos"
+ invite_german_settlers_tooltip: "Invita a nuevos colonos a tu reino"
+ invite_german_settlers_desc: "Las tierras de nuestro reino están escasamente pobladas y presentan una variedad de pantanos, bosques y colinas que dificultan su desarrollo. \n\nSi no queremos quedarnos gravemente rezagados respecto al resto de Europa, tenemos que promulgar medidas drásticas e invitar tanto a colonos como a ingenieros experimentados a reclamar estas tierras para cultivarlas de forma rentable."
+ invite_german_settlers.preview.tta: "Recibiremos un impulso a nuestro desarrollo en un [county|E] aleatorio"
+ invite_german_settlers.preview.ttb: "Cada [county|E] puede recibir un segundo impulso con sus modificadores reducidos a la mitad tras 10 años"
+ invite_german_settlers_confirm: "¡Envíen el mensaje!"
+ 
+ #Central Germany Decisions
+ embrace_upper_saxon_identity_txt: "Convertirse en Alta Sajonia"
+ embrace_upper_saxon_identity_tooltip: "Adopta un nuevo nombre para tu [culture|E]"
+ embrace_upper_saxon_identity_desc: "Al dejar de estar unida la región histórica de Sajonia, los diversos bajos sajones se separan cada vez más en nuevos grupos por las tierras bajas, mientras que simultáneamente, tanto los colonos sajones como los francos se desplazan constantemente hacia el este, a las tierras altas sorabas. Aunque muchos de ellos conservan o adoptan la identidad sajona, las diferencias culturales son cada vez más evidentes. \nEs hora de hacer oficial esta divergencia."
+ embrace_upper_saxon_identity.preview.tta: "La [culture|E] sajona pasará a llamarse baja sajona"
+ embrace_upper_saxon_identity.preview.ttb: "La [culture|E] milcénica pasará a ser conocida como alta sajona"
+ embrace_upper_saxon_identity_confirm: "Era inevitable"
+ 
+ 
+ #Form Illyria
+ found_kingdom_of_illyria_decision: "Formar el Reino de Iliria"
+ found_kingdom_of_illyria_decision_desc: "Hace muchos siglos, nos establecimos en estas tierras bajo la soberanía de los romanos. Mucho ha cambiado desde entonces.\n\nA medida que el dominio romano sobre Iliria desaparecía lentamente, establecimos muchas entidades tribales dispares como Raška, Croacia o Zachlumia. Pero divididos somos débiles: ¡ha llegado el momento de unir a nuestro pueblo bajo un único estandarte ilirio!."
+ found_kingdom_of_illyria_decision_tooltip: "Iliria se convierte en un [kingdom|E] [de_jure|E]"
+ found_kingdom_of_illyria_decision_confirm: "¡Hurra!"
+ 
+ illyrian_kingdom.preview.tta: "Tu antiguo [title|E] [kingdom|E] primario será destruido."
+ illyrian_kingdom.preview.ttb: "[GetTitleByKey('k_serbia').GetNameNoTier] y [GetTitleByKey('k_croatia').GetNameNoTier] serán destruidos y sus territorios originales pasarán a ser [de_jure|E] de [GetTitleByKey('k_illyria').GetNameNoTier]."
+ illyrian_kingdom.preview.ttc: "Si son propiedad, [GetTitleByKey('d_istria').GetNameNoTier] y [GetTitleByKey('d_vidin').GetNameNoTier] se convertirán cada uno en [de_jure|E] de [GetTitleByKey('k_illyria').GetNameNoTier]"
+ 
+ found_kingdom_of_illyria_with_bosnia_decision: "Formar el Reino de Iliria"
+ found_kingdom_of_illyria_with_bosnia_decision_desc: "Hace muchos siglos, nos establecimos en estas tierras bajo la soberanía de los romanos. Mucho ha cambiado desde entonces.\n\nA medida que el dominio romano sobre Iliria desaparecía lentamente, establecimos muchas entidades tribales dispares como Raška, Croacia o Zachlumia. Pero divididos somos débiles: ¡ha llegado el momento de unir a nuestro pueblo bajo un único estandarte ilirio!."
+ found_kingdom_of_illyria_with_bosnia_decision_tooltip: "Iliria se convierte en un [kingdom|E] [de_jure|E]"
+ found_kingdom_of_illyria_with_bosnia_decision_confirm: "¡Hurra!"
+ 
+ illyrian_kingdom_with_bosnia.preview.tta: "Tu antiguo [title|E] [kingdom|E] primario será destruido."
+ illyrian_kingdom_with_bosnia.preview.ttb: "[GetTitleByKey('k_serbia').GetNameNoTier], [GetTitleByKey('k_bosnia').GetNameNoTier] y [GetTitleByKey('k_croatia'). GetNameNoTier] serán destruidos y sus territorios originales pasarán a ser [de_jure|E] de [GetTitleByKey('k_illyria').GetNameNoTier]."
+ illyrian_kingdom_with_bosnia.preview.ttc: "Si se posee, [GetTitleByKey('d_istria').GetNameNoTier] y [GetTitleByKey('d_vidin').GetNameNoTier] se convertirán cada uno en [de_jure|E] de [GetTitleByKey('k_illyria').GetNameNoTier]"
+ 
+ unite_the_illyrians_decision: "Abrazar la herencia iliria"
+ unite_the_illyrians_decision_tooltip: "Unir a los [south_slavs|E] de Iliria en una sola cultura"
+ unite_the_illyrians_decision_desc: "A medida que pasa el tiempo, las muchas tribus dispares de Iliria se acostumbran cada vez más las unas a las otras, especialmente frente a los imperios extranjeros que buscan subyugarlas en cuanto surge la oportunidad.\n\nCon los incentivos adecuados, podemos fomentar este sentimiento y unir de verdad a nuestro pueblo no sólo políticamente, sino también culturalmente."
+ unite_the_illyrians.preview.tt: "Los eslavos del sur de Iliria se unirán en una sola cultura."
+ unite_the_illyrians_confirm: "¡Slava Iliriji!"
+ 
+ illyrian_slav.preview.tta: "Crea una nueva [culture|E] [culture|E] eslava del sur"
+ illyrian_slav.preview.ttb: "Todos los [counties|E] eslavos del sur en [GetGeographicalRegion('ce_custom_serbo_croatia').GetName], con la excepción del búlgaro, tienen un 40% de posibilidades de cambiar a la nueva cultura"
+ illyrian_slav.preview.ttc: "La nueva [culture|E] se extenderá dinámicamente en los condados eslavos del sur dentro de [GetGeographicalRegion('ce_custom_illyria').GetName]"
+ 
+ ce_custom_serbo_croatia: "Dinaria"
+ ce_custom_illyria: "Iliria"
+ 
+ 
+ #Pannonian Decisions
+ consolidate_danubian_frontier_decision: "Consolidar la frontera danubiana"
+ consolidate_danubian_frontier_decision_desc: "Muchos fuertes antiguos salpican las orillas del Danubio. Utilizado por los romanos como línea defensiva natural hace cientos de años, el río marca hoy la frontera entre búlgaros y francos. \n\nCon la inversión adecuada podemos reocupar estos fuertes y además establecer una nueva marcha para consolidar la frontera del Danubio."
+ consolidate_danubian_frontier_decision_tooltip: "Restaurar la antigua frontera romana"
+ consolidate_danubian_frontier_decision_confirm: "Reunir el reino"
+ 
+ danubian_frontier_duchy.preview.tta: "Crea el [duchy|E] de [GetTitleByKey('d_szekesfehervar').GetNameNoTier]"
+ danubian_frontier_duchy.preview.ttb: "Los [counties|E] de [GetTitleByKey('c_szekesfehervar').GetNameNoTier], [GetTitleByKey('c_esztergom'). GetNameNoTier], [GetTitleByKey('c_komarom').GetNameNoTier] y [GetTitleByKey('c_veszprem').GetNameNoTier] se convertirán en [de_jure|E] de [GetTitleByKey('d_szekesfehervar').GetNameNoTier]."
+ danubian_frontier_duchy.preview.ttc: "El [duchy|E] de [GetTitleByKey('d_szekesfehervar').GetNameNoTier] se disolverá si el [title|E] es destruido o usurpado por un gobernante que no sea ni eslavo ni romano y que también posea el [duchy|E] de [GetTitleByKey('d_visegrad').GetNameNoTier]."
+ 
+ ce_custom_transdanubia: "Transdanubio"
+ ce_custom_roman_pannonia: "Panonia eslava"
+ 
+ restore_roman_pannonia_decision: "Unir Panonia"
+ restore_roman_pannonia_decision_desc: "Los principados de Blatno y Savia solían estar unidos bajo una única administración provincial en la antigüedad. Sin embargo, tras las invasiones hunas, Panonia quedó permanentemente dividida, ya que godos, lombardos y ávaros ocuparon las tierras alrededor del lago Blatno, mientras que las tierras de Savia se convirtieron en una frontera salvaje entre los romanos y estos mismos ocupantes. \n\nPero con la desaparición de los ávaros y el debilitamiento gradual de la autoridad franca en la gran Panonia, ha llegado el momento de corregir este error. Desde los Alpes hasta el Danubio, Panonia volverá a alzarse triunfante."
+ restore_roman_pannonia_decision_tooltip: "Fundar el Reino de Panonia"
+ restore_roman_pannonia_decision_confirm: "Reunido el reino"
+ 
+ restore_roman_pannonia.preview.tta: "Evita que el [duchy|E] de [GetTitleByKey('d_szekesfehervar').GetNameNoTier] se disuelva"
+ restore_roman_pannonia.preview.ttb: "Si se posee, [GetTitleByKey('d_syrmia').GetNameNoTier] se convertirá en la capital [de_jure|E] de [GetTitleByKey('k_balaton').GetNameNoTier]"
+ restore_roman_pannonia.preview.ttc: "Surgirá una nueva cultura eslava"
+ 
+ #British Flavour Decisions
+ restore_hen_ogledd_decision_title: "Restaurar el Reino de Yr Hen Ogledd"
+ restore_hen_ogledd_decision_desc: "Yr Hen Ogledd, "el antiguo Norte", estuvo una vez unido bajo el próspero gobierno de reyes legendarios como Coel Hen o Urien Rheged. Sin embargo, con el paso del tiempo, Hen Ogledd se dividió en una serie de pequeños reinos de los que hoy sólo queda [GetTitleByKey('d_galloway')).GetNameNoTier]. \Por lo tanto, nos corresponde a nosotros restaurar Cumbria a su antigua gloria. Yma o Hyd!"
+ restore_hen_ogledd_decision_tooltip: "Restaurar el antiguo Reino del Norte"
+ restore_hen_ogledd_decision_confirm: "Paz y Prosperidad al fin"
+ 
+ restore_hen_ogledd_decision.preview.tta: "Obtendrás [GetTitleByKey('k_cumbria').GetName]"
+ restore_hen_ogledd_decision.preview.ttb: "Obtendrás [GetTitleByKey('d_cumbria').GetName]"
+ restore_hen_ogledd_decision.preview.ttc: "[GetTitleByKey('d_cumbria').GetNameNoTier] y [GetTitleByKey('d_galloway').GetNameNoTier] se convertirán en [de_jure|E] de [GetTitleByKey('k_cumbria').GetNameNoTier]"
+ restore_hen_ogledd_decision.preview.ttd: "Si son propiedad, los [title|E] de [GetTitleByKey('d_lothian').GetNameNoTier], [GetTitleByKey('d_lancaster'). GetNameNoTier], [GetTitleByKey('d_northumberland').GetNameNoTier] y [GetTitleByKey('d_york').GetNameNoTier] pasarán a ser [de_jure|E] de [GetTitleByKey('k_cumbria').GetNameNoTier]."
+ restore_pengwern_decision_title: "Restaurar las fronteras de Powys"
+ restore_pengwern_decision_desc: "El Reino de Pengwern fue un poderoso reino británico postromano y altomedieval situado en las Midlands occidentales. \n\nPengwern, antaño hegemón regional de Gran Bretaña, hace tiempo que fue absorbido por Mercia, y sus últimos vestigios se han convertido en los restos de Powys, así como en el ya desaparecido reino de Ergyng.\n\nRestaurar este Reino debería ser el primer paso hacia la reconquista de toda Gran Bretaña a los invasores sajones."
+ restore_pengwern_decision_tooltip: "Restaurar las fronteras de Pengwern"
+ restore_pengwern_decision_confirm: "Un Gran Reino Reforzado"
+ 
+ restore_pengwern_decision.preview.tta: "Obtendrás [GetTitleByKey('d_ergyng').GetName]"
+ restore_pengwern_decision.preview.ttb: "Las fronteras de [GetTitleByKey('d_powys').GetNameNoTier] y [GetTitleByKey('k_wales').GetNameNoTier] se ampliará hasta el río Severn"       
+ 
+ #Balkan Flavour Events
+ 
+ balkan_flavour.0001.t: "Las Tierras de Eslavonia"
+ balkan_flavour.0001.desc: "Ante la amenaza potencial de los magiares, el Principado de Savia se transforma lentamente en una mera región fronteriza."
+ balkan_flavour.0001.a: "Interesante."
+ 
+ balkan_flavour.0003.t: "La Llegada de los Magiares"
+ balkan_flavour.0003.desc: "En un giro inesperado de los acontecimientos, tras aplastar cualquier oposición a su migración, los magiares han logrado cruzar los montes Cárpatos y se han hecho con el control de la cuenca oriental. Gran parte de las tierras que han conquistado hasta ahora han sido pasto de las llamas y sus habitantes han huido o han sido esclavizados por estos recién llegados. \n\nEs sólo cuestión de tiempo que estos magiares intenten ampliar sus ganancias a nuestra costa."
+ balkan_flavour.0003.a: "¡Vamos a capear el temporal!"
+
+ balkan_flavour.0004.t: "Susurros de una Ciudad Antigua"
+ balkan_flavour.0004.desc: "Mientras mis exploradores recorrían las tierras de Panonia, se toparon con la ciudad fortificada de Castei, cuyos habitantes hablan una lengua extraña e ininteligible para los pueblos de los alrededores, e informaron a mi mayordomo al respecto. \nCuriosamente, los habitantes de la ciudad parecen diferir no sólo en su forma de hablar, sino también en su estilo de vida, ya que parecen ser artesanos de gran talento, fabricando artefactos únicos de todo tipo, nunca vistos en el resto de Panonia. \Del mismo modo, su ciudad es diferente a muchas otras de la zona, ya que cuenta con fortificaciones de piedra respetables y una arquitectura única que recuerda a tiempos pasados.\NMientras estaba allí, mis exploradores fueron abordados por un local que desea una audiencia conmigo."
+ balkan_flavour.0004.a: "Permíteles una audiencia. Deseo escuchar su historia."
+ balkan_flavour.0004.b: "No tengo tiempo para esto."
+ 
+ balkan_flavour.0005.t: "La Panonia"
+ balkan_flavour.0005.desc: "Un hombre se pone delante de mí y se presenta:\n\n'Salutio, dominu.\n\nMe llamo [ce_pannonian_romance_guest_spawn.GetTitledFirstName] y le agradezco humildemente que me haya concedido esta audiencia. Nosotros [ce_pannonian_romance_guest_spawn.GetCulture.GetNameNoTooltip]s hemos vivido en estas tierras entre los ávaros y los eslavos durante incontables generaciones. Pero últimamente, nuestras ciudades se han vuelto escasas y nuestros campos, estériles. Temo que nuestras costumbres [ce_pannonian_romance_guest_spawn.GetCulture.GetName] y lengua [ce_pannonian_romance_guest_spawn.GetCulture.GetLanguage.GetName] pronto se pierdan para siempre.\n\n¿Quizás podrías escuchar nuestras historias y permitirnos mezclarnos aquí en la corte para que otros puedan escuchar la historia de la vieja Panonia?"
+ balkan_flavour.0005.a: "¡Por favor, enséñame sobre tu gente!"
+ balkan_flavour.0005.b: "Entiendo tus preocupaciones, puedes quedarte aquí como invitado."
+ balkan_flavour.0005.c: "Esto no es de mi incumbencia."
+ 
+ #British Flavour Events
+ 
+ british_flavour.0001.t: "El Saqueo de Alt Clut"
+ british_flavour.0001.desc: "Reúno las pertenencias que puedo llevar antes de salir corriendo hacia la puerta. El campo de los alrededores ya ha sido saqueado y gran parte de la tierra ha sido pasto de las llamas. Tardaremos un rato en llegar a la explotación temporal de Gwovan, río arriba. Durante el viaje, reflexiono sobre lo sucedido.\n\nLa Fortaleza de [GetTitleByKey('c_lennox').GetNameNoTier] ha sido finalmente saqueada. Aquellos que no lograron escapar del asedio han sido asesinados o capturados por los invasores. Sólo puedo imaginar el horror de los que no lo lograron. \n\nA medida que llegamos a Gwovan, se hace cada vez más evidente que no volveremos a [GetTitleByKey('b_dumbarton')).GetNameNoTier] en un futuro próximo. El viejo castillo ya no es más que una ruina y una presa fácil para cualquier invasor exterior. Tendremos que conformarnos con lo que nos queda y, por tanto, el reino de [GetTitleByKey('d_galloway').GetNameNoTier], el último bastión de Hen Ogledd, ya no existe. En su lugar se alza Strathclyde, dispuesta a defender el [ROOT.Char.GetCulture.GetCollectiveNoun] en el futuro."
+ british_flavour.0001.a: "¡Venceremos!"
+ 
+ 
+ #Iranian Flavour Events
+ iranian_flavour.0001.t: "El ascenso de Adharestán"
+ iranian_flavour.0001.desc: "En la antigüedad, las tierras noroccidentales de Irán estaban habitadas por diversos pueblos, como los medos, los cadusios y los albanos, entre otros. Cuando cayó el Imperio aqueménida, Atropates, sátrapa de Media, siguió gobernando el norte de la antigua satrapía que pasaría a llamarse Atropatene.\n\nDesde entonces, los lugareños han sido fuertemente eranianizados y persianizados, dando lugar a las diversas tribus adhari que viven allí en la actualidad. Dividida durante mucho tiempo entre diversas políticas tribales, o gobernada por señores extranjeros sin lazos con la tierra, finalmente he conseguido poner la zona bajo mi dominio, consolidándola en una única entidad política.\n\nYa no estaremos sometidos a los extranjeros, sino que gobernaremos la tierra nosotros mismos. Al igual que Atropates antes que yo, yo también forjaré un Adharestán fuerte e independiente que resista el paso del tiempo."
+ iranian_flavour.0001.a: "Atropates estaría orgulloso."
+ iranian_flavour.0001.b: "¡Eran aún no está perdido!"
+ 
+ iranian_flavour.0002.t: "El Pueblo Talyshi"
+ iranian_flavour.0002.desc: "Talysh ha estado habitada por iraníes desde la antigüedad; conocida en su día como Cadusios, la tierra ha sido gobernada por varios imperios y dinastías que han influido de forma variable en la cultura local, dando lugar a Deilami, Adhari, Gilaki y otros.\n\nCon nuestra reciente política de solidificar la zona bajo una única entidad política, los lugareños han empezado a cambiar de nuevo su identidad hacia una nueva talyshi."
+ iranian_flavour.0002.a: "¡Deberíamos promover esta tendencia!"
+ iranian_flavour.0002.b: "Son las mismas personas que antes."
+ 
+ british_culture.0002.t: "El Auge de los Anglosajones"
+ british_culture.0002.desc: "Tras la caída del Imperio Romano de Occidente, varias tribus germánicas comenzaron a emigrar a las Islas Británicas, entre ellas los jutos, los anglos y los sajones, que llegarían a formar sus propios pequeños reinos en gran parte del territorio que colonizaron. Tras un largo periodo de expansión contra los nativos británicos y de consolidación de las tribus circundantes, reinos como los de Kent, Mercia y Northumbria empezaron a forjar nuevas culturas regionales únicas en la isla, con sus propios dialectos e identidades. Esto cambiaría poco a poco con la invasión vikinga, que vio caer muchos de estos antiguos reinos en rápida sucesión, mientras el resto era absorbido gradualmente por lo que más tarde se convertiría en Inglaterra. Como tal, una nueva cultura ha comenzado a surgir, una que se define por la fe compartida, el origen y la lengua de estos germanos nativos de Gran Bretaña, que se encuentra en un contraste con los del otro lado del mar. Por fin, estos pueblos han empezado a verse a sí mismos ya no como mercianos, sajones occidentales o reyes, sino como un pueblo inglés común."
+ british_culture.0002.a: "Esto cambiará el curso de la historia."
+ 
+ british_culture.0003.t: "La reforma de Pengwern"
+ british_culture.0003.desc: "Hace mucho tiempo, gran parte de las Tierras Medias estaban gobernadas por la Casa de Pengwern, hasta que la descentralización y las invasiones extranjeras pusieron al reino de rodillas. \n\nAunque la ubicación exacta de la Corte de Pengwern se ha perdido en el tiempo, sabemos que una vez gobernó una parte considerable del territorio que se extendía desde Powys hasta el Severn, posiblemente incluso hasta el sur del Canal de Bristol. Sin embargo, cuando las comunidades rurales de Powys comenzaron a afirmar su independencia y los mercios empezaron a invadir el territorio desde el este, el reino acabó siendo subsumido y olvidado.\n\nPero por fin, mi casa ha conseguido recuperar los territorios perdidos de Ergyng, Pengwern y Powys, empujando a los anglos más allá del Severn. \nCon Pengwern de nuevo en manos británicas, es sólo cuestión de tiempo que subyuguemos a los últimos ingleses rebeldes que una vez intentaron contenernos en las tierras montañosas de Cambria; ¡pronto toda Gran Bretaña jurará lealtad a mi casa!"
+ british_culture.0003.a: "¡Levantaos, Herederos de Pengwern!"
+ 
+ british_culture.0011.t: "La Divergencia de Brythonica"
+ british_culture.0011.desc: "Desde la Caída de Caergloui a manos de los anglosajones, los britanos de Britania y Bretaña han divergido entre sí lenta pero constantemente. Tras siglos de relativo aislamiento, han surgido dos variedades bretonas únicas a partir de los dialectos de Dumnonia y Cambria respectivamente: aunque ambos siguen identificándose como bretones, la variedad de cada zona se ha vuelto en gran medida ininteligible para la otra."
+ british_culture.0011.a: "¡Brythonwyr o hyd!"
+ 
+ balkan_culture.0002.t: "Un Pueblo Bosnio"
+ balkan_culture.0002.desc: "Cuando se estableció el Reino de Bosnia, no muchos podían imaginar el renacimiento que traería consigo; independiente tanto de Serbia como de Croacia, el pueblo de los Alpes Dináricos Centrales y a lo largo del río Bosna ha empezado a verse a sí mismo ni como serbio ni como croata, sino como un nuevo y distinto pueblo bosnio con su propia cultura y herencia, ambas fundadas en nuestro mismo reino. "
+ balkan_culture.0002.a: "¡Živjela slobodna Bosna!"
+ 
+ balkan_culture.0004.t: "El Pueblo Ilirio"
+ balkan_culture.0004.desc: "Cuando los eslavos emigraron por primera vez a los Balcanes en el siglo VI, estaban formados por muchas tribus dispares que simplemente huían de los invasores ávaros. \n\nPero desde que unimos las tierras de Iliria, las tribus se han acostumbrado unas a otras; poetas e intelectuales de todo el mundo conocido viajan a la corte iliria, contribuyendo a un emergente Renacimiento eslavo. Bajo la estabilidad de mi reino, el pueblo ilirio ha desarrollado por fin una identidad común que trasciende las antiguas fronteras tribales.\nPor lo tanto, es justo que fomentemos este incipiente sentimiento de unidad y lo desarrollemos hasta convertirlo en algo verdaderamente nuevo y duradero."
+ balkan_culture.0004.a: "¡Slava Iliriji!"
+ 
+ balkan_culture.0005.t: "El Pueblo Ilirio"
+ balkan_culture.0005.desc: "Cuando los eslavos emigraron por primera vez a los Balcanes en el siglo VI, estaban formados por muchas tribus dispares que simplemente huían de los invasores ávaros.\nPero desde la formación del Reino Ilirio, estas tribus se han acercado cada vez más unas a otras hasta el punto de que ahora se consideran un solo pueblo."
+ balkan_culture.0005.a: "Bien por ellos."
+ 
+ balkan_culture.0006.t: "Las Tierras de Panonia"
+ balkan_culture.0006.desc: "Hace muchos siglos, [GetTitleByKey('k_balaton')).GetNameNoTier] fue invadida por las viles hordas de los hunos, que saquearon y devastaron la tierra. Tras su desaparición, la tierra fue ocupada por pueblos como los godos, los lombardos, los ávaros y, por último, nosotros [pannonian_founder.GetCulture.GetNameNoTooltip]s.  \n\nPero ahora, después de incontables siglos, he conseguido reunir estas tierras bajo un solo estandarte. Mi autoridad se extiende desde las fortalezas vitales de [GetTitleByKey('b_sisak').GetNameNoTier] y [GetTitleByKey('b_vakovo').GetNameNoTier] en el río Sava hasta la antigua ciudad de [GetTitleByKey('b_gyor').GetNameNoTier] en el río Danubio. Por fin, Panonia está completa una vez más. \n¡Es hora de forjar un nuevo destino para estas tierras que resonará a través de los siglos!"
+ balkan_culture.0006.a: "¡Somos los verdaderos herederos de Panonia, ahora y siempre!"
+ balkan_culture.0006.b: "¡Ha llegado la hora de los Dulebov!"
+ balkan_culture.0006.c: "¡Dunavia resistirá triunfante la prueba del tiempo!"
+ 
+ balkan_culture.0007.t: "El Ascenso de un Nuevo Pueblo"
+ balkan_culture.0007.desc: "Enfrentados a la constante amenaza exterior de francos, búlgaros, magiares e incluso compañeros eslavos, los habitantes de mi reino han forjado cada vez más un nuevo vínculo que ha crecido más allá de las divisivas líneas tribales de antaño."
+ balkan_culture.0007.a: "Fascinante."
+ 
+ establish_pannonian_culture_effect.tta: "Adoptas la nueva cultura."
+ 
+ establish_pannonian_culture_decision_effect.tta: "Una nueva cultura eslava panónica surgirá después de un cierto tiempo"
+ establish_pannonian_culture_decision_effect.ttb: "Dulebov comenzará a extenderse en Transdanubia"
+ establish_pannonian_culture_decision_effect.ttc: "Dunavian surgirá después de un cierto tiempo"
+ establish_pannonian_culture_decision_effect.ttd: "[GetTitleByKey('k_balaton').GetNameNoTier] se conocerá como Panonia"
+ establish_pannonian_culture_decision_effect.tte: "[GetTitleByKey('k_balaton').GetNameNoTier] se conocerá como Dulebia"
+ establish_pannonian_culture_decision_effect.ttf: "[GetTitleByKey('k_balaton').GetNameNoTier] se conocerá como Dunavia"
+ 
+ ce_custom_kingdom_event.0001.t: "La Restauración de Iliria"
+ ce_custom_kingdom_event.0001.desc: "Hoy celebramos el resurgimiento del Reino de Iliria. Desde su caída ante la República Romana en el siglo II a.C., Iliria ha permanecido bajo el yugo del dominio extranjero, cambiando de manos entre varios usurpadores romanos, invasores germánicos y, finalmente, jefes y príncipes eslavos.\n\nPero, por fin, he conseguido lo que ni siquiera Pleuratus podría haber soñado: He unido Iliria bajo una sola corona, reunido a sus muchas tribus bajo un estandarte común. Esta antigua tierra ya no se doblegará ante tiranos extranjeros, ¡sino que prosperará como un reino unido bajo mi benévolo gobierno!."
+ ce_custom_kingdom_event.0001.a: "Los Batonianos han sido vengados"
+ 
+ rus_culture.0002.t: "El Pueblo de Rus"
+ rus_culture.0002.desc: "Han pasado muchas décadas desde que los nórdicos invadieron las tierras de los eslavos orientales. Pero a medida que ha pasado el tiempo, los nórdicos han ido adoptando cada vez más la lengua y las costumbres de los lugareños; simultáneamente, los nórdicos han prestado sus conocimientos en gobierno y guerra a los eslavos a los que gobiernan, creando una nueva identidad que trasciende la antigua."
+ rus_culture.0002.a: "¡Debemos abrazar estos cambios dentro de nuestro reino!"
+ rus_culture.0002.b: "Deberíamos seguir con las viejas costumbres..."
+ 
+ 
+########################################################################################################################BAP
+ 
+ 
+ #Kadu Mu'arik
+ first_kadu_muarik_event_troops: "Las Tribus Reunidas"
+ second_kadu_muarik_event_troops: "Los Mu'arikitas"
+ dynn_Al_Mawati: "al-Mawati"
+ house_al_mawati: "al-Mawati"
+ d_muarikism:1 "Califato Mu'arikite"
+ d_muarikism_adj: "Califal"
+ fervor_gain_muarikism: "El auge de los Mu'arikitas"
+ muarik_leader_modifier: "Líder Ha-Mimita"
+ rebuilding_kairwan_modifier: "Reconstruyendo Kairwan"
+ refused_to_rebuild_kairwan_modifier: "Rechazo a la Reconstrucción de Kairwan"
+ kadu_ibn_muarik: "Kadu ibn Mu'arik"
+ #Ha-mim
+ first_hamim_event_troops: "Las Tribus Reunidas"
+ Mann-Allah_ibn_Harir: "Mann-Allah ibn Harir"
+ second_hamim_event_troops: "Los Ha-Mimitas"
+ Tanqit: "Tanqit"
+ dynn_Majakas: "Mâjakas"
+ house_majkasa: "Mâjakas"
+ d_hamimism:1 "Califato Ha-Mimite"
+ d_hamimism_adj: "Califal"
+ Ha-Mim_ibn_Mann_Allah: "Ha-Mim ibn Mann Allah"
+ Daggu_bint_Mann-Allah: "Daggu bint Mann-Allah"
+ fervor_gain_hamimism: "El auge de los Ha-Mimitas"
+ rebuilding_ceuta_modifier: "Reconstruyendo Ceuta"
+ refused_to_rebuild_ceuta_modifier: "Rechazo a la Reconstrucción de Ceuta"
+ 
+ kadu_muarik.1001.t: "El auge del Mu'arikismo"
+ kadu_muarik.1001.desc: "Parece que una creencia fringe se está apoderando en el [kadu_muarik_county.GetName]. El movimiento religioso está dirigido por un niño profeta entre la tribu Kutāma. ¡Han declarado al chico qibla y rezan hacia él en lugar de la Ka Apuestabah! \n \n Los magistrados locales están preocupados, pero seguramente un grupo religioso fringe liderado por un simple profeta niño no es nada de lo que preocuparse?"
+ kadu_muarik.1001.a: "¿Por qué debería preocuparme?"
+ kadu_muarik.1001.a.flavor: "¿Cuándo un grupo religioso marginal de provincias ha causado problemas a alguien?"
+ kadu_muarik.1001.b: "Arranquemos esto de raíz antes de que se arraigue..."
+ kadu_muarik.1001.b.conversion_tt: "Si ya estás convirtiendo la fe en [kadu_muarik_county.GetName], ¡el progreso puede perderse si eliges esta opción!"
+ kadu_muarik.1001.player_warning: "@warning_icon! #X Fracaso en la conversión de [kadu_muarik_county.GetNameNoTier] del [kutama_pagan.GetName] lo suficientemente rápido conducirá a un levantamiento de los Mu'arikitas. Prepárate.#!"
+
+ kadu_muarik.1002.desc: "El levantamiento religioso mu'arikista encabezado por el niño-príncipe Kadu ibn Mu'arik se ha precipitado desde las montañas como una presa reventada, arrasando con todo lo que toca. Estos sectarios pretenden recuperar el Magreb de los árabes en nombre de su Mahdi.n\n\Su líder, [hamim.GetTitledFirstName], al que llaman profeta, se dice que tiene poderes oraculares, como los bereberes de antaño, pero también afirma haber creado un nuevo Libro Sagrado del Islam. Sea como fuere, [hamim.GetSheHe] ha encontrado ahora un fuerte núcleo de seguidores, que han declarado a [kadu_ibn_muarik.GetHerHim] nada menos que ¡el Madhi!"
+ kadu_muarik.1002.a: "¡Como si este humilde muchacho representara alguna amenaza!"
+ kadu_muarik.1002.a.target.tt: "¡Los mu'arikitas van a la guerra contra ti!"
+ kadu_muarik.1002.a.not_target.tt: "¡Los mu'arikitas van a la guerra contra tu señor!"
+ kadu_muarik.1002.b: "[kadu_ibn_muarik.GetSheHe|U] tiene algunos puntos muy buenos, en realidad."
+ kadu_muarik.1002.b.flavor: "Difícilmente puedo llamarme un fiel digno..."
+
+ #kadu_muarik.1003.desc: "The Mu'arikists' founder, [kadu_ibn_muarik.GetTitledFirstName], has passed, and with that one would hope that [kadu_ibn_muarik.GetHerHis] movement would be consigned to history. If only we were so lucky.\n\nInstead, a new leader has risen! [al_mumin.GetTitledFirstName] has not only held the tribes together, [al_mumin.GetSheHe] has gathered #EMP more#! people to [al_mumin.GetHerHis] banner!"
+ #kadu_muarik.1003.a: "These fanatics just keep coming!"
+ #kadu_muarik.1003.a.tt: "The Mu'arikists return, stronger than ever."
+
+ kadu_muarik.1004.t: "Control de Kairwan"
+ kadu_muarik.1004.desc: "Fundada en su día como capital imperial, la [kairwan.GetTitle] está ahora bajo mi control, como es debido. Sin embargo, lleva un sinfín de influencias [old_faith.GetAdjective], y mis [kutama_pagan.GetName] están ansiosos por verla rehecha a mi imagen.\n\nParece una pena destruir tantos palacios y templos en perfecto estado, pero podría ser necesario para hacer realidad mi ambición de llevar la iluminación al Magreb."
+ kadu_muarik.1004.a: "¡La convertiremos en nuestra nueva, [kutama_pagan.GetAdjective] capital!"
+ kadu_muarik.1004.b: "¡Construyamos una nueva ciudad aún más grande!"
+ kadu_muarik.1004.c: "Tal vez no sea el curso de acción más sabio..."
+ 
+ hamim.1001.t: "El ascenso de los Ha-Mimites"
+ hamim.1001.desc: "Parece que una creencia marginal se está imponiendo en el [hamim_county.GetName]. El movimiento religioso está encabezado por un autodenominado profeta de la tribu Ghomara. Este profeta afirma haber recibido una nueva revelación de Alá, en lengua bereber.\n\nLos magistrados locales están preocupados, pero seguramente un grupo religioso marginal liderado por un autodenominado profeta tribal no es nada de lo que preocuparse."
+ hamim.1001.a: "¿Por qué habría de preocuparme?"
+ hamim.1001.a.flavor: "¿Cuándo un grupo religioso marginal de provincias ha causado problemas a alguien?"
+ hamim.1001.b: "Vamos a erradicar esto antes de que se arraigue bien..."
+ hamim.1001.b.conversion_tt: "¡Si ya estás convirtiendo la fe en [hamim_county.GetName], el progreso puede perderse si eliges esta opción!"
+ hamim.1001.player_warning: "@warning_icon! #X No convertir [hamim_county.GetNameNoTier] lejos de [ghomara_pagan.GetName] lo suficientemente rápido llevará a un levantamiento de los Ha-Mimites. Prepárate.#!"
+
+ hamim.1002.desc: "El levantamiento de los Ha-Mim, encabezado por su autodenominado profeta Ha-Mim, que inicialmente echó raíces en las montañas del Rif, ha crecido rápidamente en apoyo entre las tribus Ghomara. Estos sectarios afirman que pretenden recuperar el Magreb de los árabes en nombre de su nuevo Mahdi. Su líder, [hamim.GetTitledFirstName], al que llaman profeta, cuenta también con el apoyo de un par de brujas. La primera es su tía, a la que llaman Sahira o Tanqit, y la segunda bruja es la hermana del profeta, una hermosa mujer llamada Daggu. Se dice que estas mujeres dominan los poderes de la adivinación, y Daggu especialmente se ha convertido en objeto de devoción e inspiración entre los hombres de Ha-Mim. Ha-Mim, por su parte, afirma haber recibido una revelación divina de Alá en lengua bereber, e incluso ha creado un Corán bereber basado en estas visiones. Sea como fuere, [hamim.GetSheHe] ha encontrado ahora un fuerte núcleo de seguidores, que han declarado a [hamim.GetHerHim] nada menos que el Madhi."
+ hamim.1002.a: "¡Como si este "profeta" trastornado supusiera alguna amenaza!"
+ hamim.1002.a.target.tt: "¡Los Ha-Mimitas van a la guerra contra ti!"
+ hamim.1002.a.not_target.tt: "¡Los Ha-Mimites van a la guerra contra tu señor!"
+ hamim.1002.b: "[hamim.GetSheHe|U] tiene algunos puntos muy buenos, en realidad."
+ hamim.1002.b.flavor: "Difícilmente puedo llamarme un fiel digno..."
+
+ hamim.1003.desc: "El fundador epónimo de los Ha-Mimites, [hamim.GetTitledFirstName], ha fallecido, y con ello uno esperaría que el movimiento [hamim.GetHerHis] pasara a la historia. Si tuviéramos tanta suerte. En cambio, ¡un nuevo líder ha surgido! [daggu.GetTitledFirstName], no sólo ha mantenido unidas a las tribus, ¡[daggu.GetSheHe] ha reunido a #EMP más#! personas a la bandera de [daggu.GetHerHis]!"
+ hamim.1003.a: "¡Estos fanáticos siguen llegando!"
+ hamim.1003.a.tt: "Los Ha-Mimitas vuelven, más fuertes que nunca."
+
+ hamim.1004.t: "Control de Ceuta"
+ hamim.1004.desc: "Fundada en su día como capital imperial, la [ceuta.GetTitle] está ahora bajo mi control, como es debido. Sin embargo, arrastra un sinfín de influencias [old_faith.GetAdjective], y mis [ghomara_pagan.GetName] están ansiosos por verla rehecha a mi imagen.\NParece una pena destruir tantos palacios y templos en perfecto estado, pero podría ser necesario para hacer realidad mi ambición de llevar la iluminación al Magreb."
+ hamim.1004.a: "¡La convertiremos en nuestra nueva, [ghomara_pagan.GetAdjective] capital!"
+ hamim.1004.b: "¡Construyamos una nueva ciudad aún más grande!"
+ hamim.1004.c: "Tal vez no sea el curso de acción más sabio..."
+ 
+ mz_faith_tenet_specific.1001.t: "El Precio de la Paz"
+ mz_faith_tenet_specific.1001.desc: "Hace demasiado tiempo que no veo la batalla... si quiero mantener mi estatus a los ojos de [ROOT.Char.GetFaith.WarGodName], pronto debo emprender el camino de la gloriosa conquista."
+ mz_faith_tenet_specific.1001.a: "Tengo un año."
+ mz_faith_tenet_specific.1001.if: "Si no declaras una guerra ofensiva ni participas personalmente en una batalla o incursión en el plazo de un año:"
+
+ mz_faith_tenet_specific.1002.t: "Desgracia"
+ mz_faith_tenet_specific.1002.desc: "Aunque conocía las consecuencias, he seguido soportando esta paz insufrible, y ahora debo pagar el precio."
+ mz_faith_tenet_specific.1002.a: "[ROOT.Char.GetFaith.WarGodName] está ciertamente disgustado."
+
+ mz_faith_tenet_specific.2001.t: "Ritos Funerarios: [ancestor.GetTitledFirstNameNoTooltip|U]"
+ mz_faith_tenet_specific.2001.desc: "Ha llegado el momento de dar sepultura a mi antepasado, [ancestor.GetTitledFirstName]. Debe construirse un gran edificio en honor de [ancestro.GetHerHis], y dentro [ancestro.GetTitledFirstNameNoTooltip|U] será enterrado con todas las riquezas y posesiones que [ancestro.GetSheHe] necesitará en la próxima vida. La obtención de los mismos me corresponde a mí, al igual que la elección del lugar."
+ mz_faith_tenet_specific.2001.tt: "Antepasado enterrado"
+ mz_faith_tenet_specific.2001.a: "[mz_location_a.GetNameNoTierNoTooltip|U] es la más apropiada."
+ mz_faith_tenet_specific.2001.a_pyramids: "Las pirámides de [mz_location_a.GetNameNoTierNoTooltip|U] son las más adecuadas."
+ mz_faith_tenet_specific.2001.b: "¿O quizás [mz_location_b.GetNameNoTierNoTooltip|U]?"
+ mz_faith_tenet_specific.2001.b_pyramids: "¿O quizás las pirámides en [mz_location_a.GetNameNoTierNoTooltip|U]?"
+ mz_faith_tenet_specific.2001.c: "No, [mz_location_c.GetNameNoTierNoTooltip|U] servirá."
+ mz_faith_tenet_specific.2001.c_pyramids: "Las pirámides de [mz_location_a.GetNameNoTierNoTooltip|U] servirán."
+
+ mz_faith_tenet_specific.2002.desc_pyramids: "Las pirámides están abiertas, listas para recibir a otra alma difunta. [ROOT.Char.GetFaith.HighGodName], sé testigo de este honor y guía a [ancestor.GetTitledFirstNameNoTooltip|U] en la próxima vida. He cumplido con mi deber de asegurar que todo lo que [ancestor.GetSheHe] requiere descansa con [ancestor.GetHerHim]."
+ mz_faith_tenet_specific.2002.desc_default: "La construcción del edificio adecuado ha comenzado, y [ancestor.GetTitledFirstNameNoTooltip|U] pronto descansará. [ROOT.Char.GetFaith.HighGodName], sé testigo de este honor y guía a [ancestor.GetTitledFirstNameNoTooltip|U] en la próxima vida. He cumplido con mi deber de asegurar que todo lo que [ancestor.GetSheHe] requiere descansa con [ancestor.GetHerHim]."
+ mz_faith_tenet_specific.2002.a: "Descansa en paz."
+
+ mz_faith_tenet_specific.2101.t: "Constructores de Pirámides"
+ mz_faith_tenet_specific.2101.desc: "Aunque llevará tiempo, una buena cantidad de recursos y un intenso trabajo, he decidido comenzar los preparativos para la construcción de una serie de Pirámides que algún día puedan albergar mis propios restos mortales, o tal vez los de otro antepasado. Todo lo que queda por hacer es elegir un lugar en el que construir dicha estructura. Debe ser un lugar que sirva debidamente a la fe, y dentro de mi ámbito personal."
+ mz_faith_tenet_specific.2101.a: "Construiré $building_type_mz_pyramids_01$ en [mz_location_a.GetNameNoTierNoTooltip|U]."
+ mz_faith_tenet_specific.2101.toast_a: "Ya puedes construir $building_type_mz_pyramids_01$ en [mz_location_a.GetNameNoTierNoTooltip|U]"
+ mz_faith_tenet_specific.2101.b: "[mz_location_b.GetNameNoTierNoTooltip|U] ¿sería quizás más adecuado?"
+ mz_faith_tenet_specific.2101.toast_b: "Ya puedes construir $building_type_mz_pyramids_01$ en [mz_location_b.GetNameNoTierNoTooltip|U]"
+ mz_faith_tenet_specific.2101.c: "¿O quizás [mz_location_c.GetNameNoTierNoTooltip|U]?"
+ mz_faith_tenet_specific.2101.toast_c: "Ya puedes construir $building_type_mz_pyramids_01$ en [mz_location_c.GetNameNoTierNoTooltip|U]"
+ mz_faith_tenet_specific.2101.toast_t: "$building_type_mz_pyramids_01$ Construcción preparada"
+ mz_faith_tenet_specific.2101.d: "Déjame considerarlo un poco más..."
+
+ mz_faith_tenet_specific.2201.t: "Dedicación a la Naturaleza"
+ mz_faith_tenet_specific.2201.desc: "A petición mía, [ROOT.Char.GetFaith.PriestNeuterPlural] de las arboledas de todo el reino se han reunido para realizar una dedicación aquí, en una de esas arboledas escondida en la naturaleza. Durante la ceremonia, cada uno recuerda a los reunidos que el mundo natural es un regalo de [ROOT.Char.GetFaith.HighGodName] que debemos salvaguardar y cuidar, y que a cambio de hacerlo, los fieles serán recompensados. Como [ROOT.Char.GetLadyLord] del reino, me corresponde a mí decidir qué tipo de bendición debemos solicitar..."
+ mz_faith_tenet_specific.2201.a: "[ROOT.Char.GetFaith.WarGodName], ¡guíanos a la victoria!"
+ mz_faith_tenet_specific.2201.b: "¡[ROOT.Char.GetFaith.WealthGodName], concédenos prosperidad!"
+ mz_faith_tenet_specific.2201.c: "Por el hogar y la casa, en nombre de [ROOT.Char.GetFaith.HouseholdGodName]."
+ mz_every_theocratic_count_plus: "Cada vasallo religioso de al menos rengo [count|E]"
+ mz_county_bonus: "Cada [domain|El] [county|El] que venera la naturaleza"
+ mz_minor_bonus: "Por cada [domain|El] [barony|El] que tenga una explotación en bosque, taiga o selva"
+ mz_major_bonus: "Por cada [domain|El] [barony|El] que carezca de una explotación"
+ 
+ 
+########################################################################################################################TFE
+ 
+ 
+ #Restore the druids
+ restore_the_druids_decision: "Restaurar el Sacerdocio [ROOT.Char.GetFaith.GetNameNoTooltip]"
+ restore_the_druids_decision_confirm: "¡Viva el Myrdidin!"
+ restore_the_druids_decision_desc: "¡Ha llegado el momento de traer a los antiguos druidas de [ROOT.Char.GetFaith.GetName]!"
+ restore_the_druids_decision_tooltip: "El sacerdocio de [ROOT.Char.GetFaith.GetAdjective] está establecido."
+ restore_the_druids_decision_effect_tooltip: "El sacerdocio [THIS.Char.GetFaith.GetAdjective] está establecido"
+
+#Abandon Britannia
+ abandon_britannia_decision: "Abandonar Bretaña"
+ abandon_britannia_decision_confirm: "No hay alternativa"
+ abandon_britannia_decision_desc: "El Imperio Romano de Occidente está en peligro de ser alcanzado por los bárbaros que yacen fuera de nuestras fronteras. No podemos dejar el destino de nuestras tierras centrales a la suerte, así que nuestras provincias menos productivas económicamente deben ser abandonadas para aliviar la carga y permitir que nuestros ejércitos se centren en la defensa del continente. Britannia, aunque leal al imperio durante siglos, debe prepararse para luchar por su cuenta contra las tribus celtas y germánicas."
+ abandon_britannia_decision_tooltip: "Un gran coste quizás, pero hay que hacerlo."
+ abandon_britannia_decision_effect_tooltip: "La administración romana abandona la provincia de Britannia. La #V Diócesis de $k_britannia$#! es destruida, y eliminada de las fronteras [de_jure|E] del Imperio"
+ abandon_britannia_decision_effect_tooltip_2: "¡Esto libera considerables tropas y administradores para el resto del Imperio, y te otorgará una gran cantidad de [gold_i|E] [gold|E]\n #F ¡Dejarla ahora liberará #V [gold_i|E][EmptyScope.ScriptValue('abandon_britannia_oro_ganado')|0]#! para nuestro tesoro Imperial#!"
+ abandon_britannia_decision_effect_tooltip_3: "¡Abandonar la provincia provocará una #N disminución global de las infraestructuras en toda la provincia#!, ¡y varios [edificios|E] serán #N demolidos o desactivados#!"
+
+ central_claim: "Reclama el Trono de [ROOT.Char.GetLiege.GetNameNoTooltip]"
+ central_claim_desc: "¡Como parte central del imperio, has ganado suficiente poder en el reino para presionar tu reclamación sobre la totalidad del imperio! ya no se puede confiar en nuestros antiguos gobernantes."
+ central_claim_tooltip: "Reclamas el trono de tu señor"
+ central_claim_confirm: "¡Reclamaré lo que es mío por derecho!"
+
+ change_to_imperial: "Adopta modos burocráticos"
+ change_to_imperial_desc: "Tras nuestra integración en los imperios romanos, es hora de dar un giro al futuro de mi reino y dinastía y adoptar sus modos burocráticos."
+ change_to_imperial_tooltip: "Adoptas los modos burocráticos"
+ change_to_imperial_confirm: "Ya es hora"
+
+ change_to_autocratic: "Adoptas los modos Autocráticos"
+ change_to_autocratic_desc: "Tras nuestra separación de los imperios romanos, es hora de dar un giro al futuro de mi reino y dinastía y adoptar nuestros propios modos autocráticos."
+ change_to_autocratic_tooltip: "Adoptas las formas autocráticas"
+ change_to_autocratic_confirm: "Ya es hora"
+ 
+ establish_red_sea: "Establece la supremacía sobre el Mar Rojo"
+ establish_red_sea_desc: "La costa del Mar Rojo ha albergado una de las mayores y más increíbles rutas marítimas comerciales, llevando objetos preciosos desde Constantinopla hasta Sri Lanka. Ha llegado el momento de asegurar la entrada como legítima casa de mi pueblo."
+ establish_red_sea_tooltip: "Vosotros formáis el Imperio del Mar Rojo."
+ establish_red_sea_confirm: "Unifica el Mar Sagrado."
+
+ change_to_islamic: "Adopta formas de gobierno islámicas"
+ change_to_islamic_desc: "Tras nuestra conversión al islam, es hora de dar un giro al futuro de mi reino y dinastía y adoptar sus formas de gobernar."
+ change_to_islamic_tooltip: "Adoptas las formas burocráticas"
+ change_to_islamic_confirm: "Es el momento"
+
+ change_to_caliphate: "Desafía el asiento del Califa"
+ change_to_caliphate_desc: "¡Las costumbres de nuestro pueblo se han perdido! La gente ya no nos admira por la verdad y el poder. Alguien debe dar un paso al frente y tomar el manto de califa y liderar nuestra gran fe hacia la grandeza."
+ change_to_caliphate_tooltip: "Alguien debe dar un paso adelante y tomar el manto de califa y llevar nuestra gran fe a la grandeza"
+ change_to_caliphate_confirm: "Ya es hora"
+
+ send_missionaries: "Envía misioneros"
+ send_missionaries_desc: "Hay muchos ahí fuera que no creen en nuestra [ROOT.Char.GetFaith.GetAdjective] [faith|E]. Debería enviar misioneros para encontrar a cualquier incrédulo en tierras extranjeras, ya sean nobles o gente común, y convertirlos a la única y verdadera [faith|E]."
+ send_missionaries_tooltip: "Envía misioneros para persuadir a nobles y gente común de que adopten tu [faith|E]"
+ send_missionaries_effect_tooltip_1: "Tus misioneros viajarán a una tierra extranjera e intentarán convertir a su [ruler|E] o pueblo para que se conviertan a la [faith|E] [THIS.Char.GetFaith.GetAdjective]"
+ send_missionaries_effect_tooltip_2: "El trabajo misionero requiere una inversión de [gold|E] - ¡cuantos más fondos proporciones a tus misioneros, más posibilidades tendrán de tener éxito! #weak (Coste mínimo: @gold_icon! 100)#!"
+ send_missionaries_confirm: "¡Que [ROOT.Char.GetFaith.HighGodName] nos guíe!"
+
+ change_to_imperial_byz: "Restablecer formas burocráticas"
+ change_to_imperial_byz_desc: "Tras la disuloción de los modos burocráticos del imperio, es hora de dar un giro al futuro del imperio y restablecer los modos burocráticos."
+ change_to_imperial_byz_tooltip: "Adoptas los modos Burocráticos"
+ change_to_imperial_byz_confirm: "Ya es hora"
+
+ change_to_imperial_feudal: "Adoptas las maneras romanas [GetGovernment( 'gobierno_imperial' ).GetName]"
+ change_to_imperial_feudal_desc: "¡Para cimentar nuestro legado a través de las generaciones, debemos seguir las formas y enseñanzas anteriores del imperio romano! Es hora de que nuestra dinastía resuene a través de las generaciones."
+ change_to_imperial_feudal_tooltip: "Adoptas las formas burocráticas romanas"
+ change_to_imperial_feudal_confirm: "Es la hora"
+
+ zakah_dev_realm: "la "
+ zakah_dev_realm_desc: "la "
+ zakah_dev_realm_tooltip: "la "
+ zakah_dev_realm_confirm: "la "
+
+ zakah_opinion_realm: "la "
+ zakah_opinion_realm_desc: "la "
+ zakah_opinion_realm_tooltip: "la "
+ zakah_opinion_realm_confirm: "la "
+
+ zakah_dev_all: "la "
+ zakah_dev_all_desc: "la "
+ zakah_dev_all_tooltip: "la "
+ zakah_dev_all_confirm: "la "
+
+ zakah_modifier_supply: "Carreteras y trayectos mejorados"
+ zakah_modifier_supply_desc: "la "
+ zakah_modifier_supply_tooltip: "la "
+ zakah_modifier_supply_confirm: "la "
+
+ zakah_modifier_dev: "Operaciones de alojamiento permanente para personas sin hogar"
+ zakah_modifier_dev_desc: "la "
+ zakah_modifier_dev_tooltip: "la "
+ zakah_modifier_dev_confirm: "la "
+
+ restore_military_comp: "Restaurar [military_comp|E]"
+ restore_military_comp_desc: "Después de nuestra gran y vergonzosa incompetencia militar, hemos recuperado nuestra posición y el mundo vuelve a considerar a nuestro ejército como el mejor."
+ restore_military_comp_tooltip: "Restaura tu [military_comp|E]"
+ restore_military_comp_confirm: "¡Por el Imperio!"
+
+ restore_civic_comp: "Restaura tu [civic_comp|E]"
+ restore_civic_comp_desc: "Tras nuestra gran y vergonzosa incompetencia en nuestra gestión cívica, hemos recuperado nuestra posición y el mundo vuelve a considerar nuestro reino como el mejor."
+ restore_civic_comp_tooltip: "Restaura tu [civic_comp|E]"
+ restore_civic_comp_confirm: "¡Por el Imperio!"
+
+ restore_diplo_comp: "Restaura tu [diplo_comp|E]"
+ restore_diplo_comp_desc: "Tras nuestra gran y vergonzosa incompetencia diplomática tanto dentro COMO fuera de nuestro reino, gobernantes cercanos y lejanos han recuperado la confianza con nosotros y nuestras interacciones y el mundo reconsidera nuestra diplomacia como la mejor."
+ restore_diplo_comp_tooltip: "Restaura tu [diplo_comp|E]"
+ restore_diplo_comp_confirm: "¡Por el Imperio!"
+ 
+ titular_tribe_settle: "Asentar la tribu"
+ titular_tribe_settle_desc: "Nuestro pueblo lleva demasiado tiempo disperso. Hoy debemos consolidar las tribus bajo mi dirección."
+ titular_tribe_settle_tooltip: "Consolidar la Tribu"
+ titular_tribe_settle_confirm: "¡Que prosperemos!"
+
+ find_aurelian_helmet: "Encuentra el casco de Aureliano"
+ find_aurelian_helmet_tooltip: "Envía a tu anticuario a la tarea de encontrar el casco del Imperator Aureliano, perdido hace mucho tiempo."
+ find_aurelian_helmet_desc: "Envía a tu anticuario a la tarea de encontrar el casco perdido hace mucho tiempo del Imperator Aureliano. Encontrarlo no es seguro, pero traerá consigo el poder, la grandeza y la fuerza de la gloria de su reinado."
+ find_aurelian_helmet_confirm: "¡Que entren!"
+
+ forge_roman_regalia: "Forja la Regalia romana"
+ forge_roman_regalia_desc: "¡El Imperio se ha unido! Es hora de olvidar los tiempos oscuros por los que marchamos. Sin embargo, por mucho que intentemos seguir adelante, la regalia sigue ahí, recordándonos, atormentándonos con recuerdos del pasado, así que me he reunido con mis consejeros para poner fin a esto."
+ forge_roman_regalia_tooltip: "¡El Imperio se ha unido! Sin embargo, por mucho que intentemos seguir adelante, la regalia sigue ahí, recordándonos con recuerdos del pasado."
+ forge_roman_regalia_confirm: "Es hora de pasar página."
+
+ gregorian_mission: "Comienza la misión gregoriana"
+ gregorian_mission_desc: "Paganos y herejes campan a sus anchas por nuestra preciosa tierra, para asegurar que nuestra fe y reino continúen y prosperen tenemos que solicitar al clero y a los gobernantes cristianos que nos ayuden en nuestra guerra contra estos herejes."
+ gregorian_mission_tooltip: "Solicitar ayuda al clero para luchar contra los herejes en britannia"
+ gregorian_mission_confirm: "Por la fe"
+ 
+ 
+ mandate.0001.t: "Mandato Guerra"
+ mandate.0001.desc: "决定天命的时刻终于到来，一方诸侯已起兵问鼎天下。历史掌握在你手中。选择加入义军，成功推翻皇帝后，从龙之士必将获得封赏；如果加入勤王，你将成为大大的忠臣；但每种选择都可能面临失败，也许，还有第三条道路......"
+ mandate.0001.a: "Así que únete a ellos"
+ mandate.0001.b: "No puedo, elijo el honor"
+ mandate.0001.c: "我今大举义兵，欲宁天下，远迎主上还！"
+ mandate.0001.c_desc: "Quizá yo también pueda..."
+ 
+ mandate.0002.title: "Guerra de mandatos"
+ mandate.0002.base.desc: "国家丧乱，苍生困穷，我若不救济，终为上天所责。帝王岂有常哉，唯有德者居之！讨国贼，诛暴君，正在今朝！"
+ mandate.0002.a: "¡El cielo se apiada de mí!."
+ 
+ mandate.0003.title: "Guerra de mandatos"
+ mandate.0003.base.desc: "反贼起事，妄言天数，兵戈直指京师。冒犯天威，罪不容赦。我要即刻点齐朝廷兵马，并诏令各地勤王。跌落皇座的天子会是什么下场？"
+ mandate.0003.a: "Cómo te atreves！"
+ 
+ mandate.0005.title: "Caída del Tang tardío"
+ mandate.0005.base.desc: "La dinastía Tang ha caído ante nosotros y nuestros aliados jitanos y con ello el norte de China vuelve a estar unido. A cambio de su ayuda, los khitanos exigen que se les entreguen las Dieciséis Prefecturas. Si nos negamos es probable que entren en guerra con nosotros y perdamos algo más que esas prefecturas. ¿Deberíamos someternos a sus demandas o rechazarlas y esperar poder resistir el poderío de los khitanos?"
+ mandate.0005.a: "Nos someteremos a sus demandas..."
+ mandate.0005.b: "¡No cederemos ninguna tierra que nos pertenezca por derecho!"
+ 
+ 
+ # "改朝换代"
+ east_title.0001.t: "Cambia la Dinastía"
+ # "江山易主，皇纲解纽。旧帝国已经坠落，一个新的家族登基建极。若选择效忠，你将成为新皇朝信赖的封疆大吏；若拒绝效忠，你将从帝国独立，割据一方。此后，是扬旗对抗篡逆，问鼎天下，抑或联结诸侯，匡扶正统，在这乱世中，你会如何抉择呢？"
+ east_title.0001.desc: "Esta tierra ha cambiado de dueño, y el gobierno del viejo emperador ha terminado. Con la caída del viejo imperio, un nuevo nombre ha tomado el trono. Si eliges la lealtad, te convertirás en el funcionario de confianza de la nueva dinastía; si la rechazas, puedes utilizar tu ejército para convertirte en gobernador independiente de una región. A partir de ahí, toca izar la bandera para luchar contra la usurpación, buscar el mundo o unirse a otros caudillos y apoyar a los ortodoxos. En este mundo convulso, ¿cómo elegirás?"
+ # "天数有变，神器更易，顺之者昌，逆之者亡！"
+ east_title.0001.a: "El mandato del cielo ha cambiado, y el equilibrio se ha roto. Los que lo sigan prosperarán, ¡y los que se opongan morirán!."
+ #
+ # "我从未见过如此厚颜无耻之人！"
+ east_title.0001.b: "¡Nunca he visto una persona tan descarada! ¡Qué vergüenza!"
+ 
+ # "统一华夏"
+ CONQUEST_HUAXIA_CB_NAME: "CONQUISTA HUAXIA"
+ # "一统天下"
+ # "一统天下"
+ # "统一华夏"
+ # "统一华夏"
+ 
+ east_title.0005: "Lealtad a la Nueva Dinastía"
+ east_title.0005.opening: "Una Nueva Dinastía"
+ east_title.0005.desc: "Únete a la Dinastía recién reclamada"
+ east_title.0005.a: "Eres sabio."
+ east_title.0005.b: "¡Te agarraré yo solo!"
+ east_title.0006: "Desobedecer"
+ east_title.0006.opening: "Una Nueva Dinastía"
+ east_title.0006.desc: "Rechazar la Dinastía recién reclamada"
+ east_title.0006.a: "¡Maldita sea!"
+ 
+ east_title.0007.opening: "Mi Señor:"
+ east_title.0007.desc: "No puedes obtener un Nivel del Reino cuando eres un burócrata o tienes una ley de sucesión oficial, a menos que la cultura de tu señor tenga la innovación «Oficial de la Corte»"
+ east_title.0007.a: "Así que……"                                        
+ # "官员叙迁"
+ bureaucracy.0001.t: "Investigación y traslado de funcionarios"
+ # "汝为官一任，能恪尽职守，操劳民生，堪为百官之表率。经审官院勘磨，并报呈请中书，命汝赴任新职，即日交接印绶案牍；望汝不负朝廷重托，履新之后，造福一方！"
+ bureaucracy.0001.desc: "Según la investigación de la Corte Imperial sobre tus logros, creemos que has contribuido a pacificar al pueblo y a beneficiar el lugar; Ahora te nombramos nueva oficiana y esperamos que estés a la altura de nuestras altas expectativas y sigas beneficiando al pueblo. "
+ # "谨奉朝命，必当竭力！"
+ bureaucracy.0001.a: "¡No escatimaré ningún efecto para seguir la orden de nuestra Corte Imperial!"
+ # "我去！我不去！"
+ bureaucracy.0001.b: "¿Qué demonios? ¡No voy a ir!"
+ bozo.0012.t: "Enterrando a Mi [ROOT.Char.Custom2('RelationToMe', ROOT.Var('RICE_ghana_burial_ancestor').Char)|U]"
+ minorities.0001.desc: "Como [ROOT.Char.GetCulture.GetNameNoTooltip] [ROOT.Char.GetTitleTierName], gobierno sobre muchos temas diferentes... algunos más problemáticos que otros. Aunque siempre se puede esperar una coexistencia pacífica, puede ser más fácil simplemente expulsarlos del reino.\n\nY si por casualidad dejaran alguna propiedad, naturalmente el [ROOT.Char.GetTitleTierName] sería responsable de "limpiar" el desorden."
+ minorities.0001.t: "Para expulsar a los bárbaros"
+ minorities.1001.cancel: "Quizás no sea la mejor idea, después de todo."
+ minorities.1001.desc: "La mía es una tierra de creyentes en [ROOT.Char.GetFaith.HighGodName], pero algunos de los campesinos han empezado a seguir a dioses extraños. Puede ser prudente expulsarlos del reino, antes de que empiecen a causar problemas para mí y mis compañeros [ROOT.Char.GetFaith.GetAdherentNamePluralNoTooltip].\n\nY si por casualidad dejaran algunas de sus pertenencias, naturalmente le correspondería al [ROOT.Char.GetTitleTierName] asegurarse de que éstas sean debidamente "eliminadas.""
+ minorities.1001.t: "Los infieles"
+ nice: "Bien"
+ niger_delta.0006.t: "Un nuevo Ọọ̀ni"
+ niger_delta.0077.a.tooltip: "El Ọọ̀ni recibió varios regalos, incluyendo [gold_i|E] [gold|E], de la gente"
+ socotra.0005.t: "Piratas del Océano Índico"
+ socotra.0021.tooltip: "Tener un premio mayor alentará a más personas a participar, lo que te traerá, como anfitrión, mayor fama: premios más grandes resultan en más [prestige|E] y mejores bonificaciones para ti una vez que termine la competencia, obviamente a costa de más oro."
+ south_ethiopia.0010.a: "¡Sí, eres bienvenido aquí!"
+ south_ethiopia.0010.b: "No, no vemos ningún beneficio en esto."
+ south_ethiopia.0010.base: "Las tierras del interior de África Oriental son hogar de muchas tribus y reinos que están conectados a través de lazos de ascendencia y de comercio.\n\nUn [courtier.GetWomanMan] de extracción [courtier.GetCulture.GetName], llamado [courtier.GetFirstName], ha llegado a mis tierras esperando que le dé la bienvenida como miembro de mi corte. [courtier.GetSheHe|U] tiene valiosos lazos con [courtier.GetHerHis] hermanos en su tierra natal, que podrían resultar útiles.\n\n"
+ south_ethiopia.0010.t: "El Vagabundo [courtier.GetCulture.GetNameNoTooltip]"
+ sri_lanka.0005.a: "Una nueva era amanece para el [buddhism.GetNameNoTooltip] en esta región."
+ sri_lanka.0005.desc.intro: "Durante siglos, la Sangha [buddhism.GetAdjective] o comunidad monástica de [GetGeographicalRegion('RICE_sri_lanka_alt_region').GetName] se ha dividido por la rivalidad entre sus tres principales monasterios: el Mahavihara, Abhayagiri y Jetavana.\n\nAunque los tres monasterios comparten muchas creencias, como la adhesión al [GetFaithDoctrine('rice_theravada_canon_doctrine').GetBaseName], también difieren en doctrina, rituales y más. Las élites, tanto budistas como no budistas, alimentaron el fuego al favorecer a una secta u otra, convirtiendo la lucha en un asunto político.\n\n"
+ sri_lanka.0014.desc.not_budal_reward: "[budal.GetHerHim] y [budal.GetHerHis] descendientes privilegios legales y políticos extraordinarios a perpetuidad.\n\nEstos privilegios han sido inscritos en una placa de cobre y enviados formalmente a [budal.GetFirstNameNoTooltip], para que nadie pueda cuestionarlos."
+ sri_lanka.0014.desc.not_vijayabahu_intro: "Hace años, cuando [vijayabahu.GetTitledFirstName] era solo un príncipe y un niño pequeño, [vijayabahu.GetHerHis] mi futuro era muy incierto, con invasores Chola y señores de la guerra locales siempre presentes como una amenaza para [vijayabahu.GetHerHis] seguridad. En esos años críticos, el más grande de los valientes que protegieron a [vijayabahu.GetHerHim] fue [budal.GetTitledFirstName].\n\nEs gracias a la ayuda de [budal.GetFirstNamePossessiveNoTooltip] que [GetGeographicalRegion('RICE_sri_lanka_alt_region').GetName] pudo reunificarse."
+ sri_lanka.0016.c: "Este es un nuevo día para [GetGeographicalRegion('RICE_sri_lanka_alt_region').GetNameNoTooltip]."
+ sri_lanka.0102.t.bodhi: "El Árbol Bodhi"
+ sri_lanka.0102.t.dharmadhatu: "El Dharmadhatu"
+ sri_lanka.0102.t.tooth: "El Diente de Buda"
+ sri_lanka.0150.a: "Me pregunto cuál equipo ganó esta vez."
+ sri_lanka.0150.a.failure: "El equipo de Pattini pierde el juego"
+ sri_lanka.0150.a.success: "El equipo de Pattini gana el juego"
+ sri_lanka.0150.pattini_games_intro: "En [GetGeographicalRegion('RICE_sri_lanka_alt_region').GetName], es la costumbre tradicional de los pueblos organizar juegos rituales para la diosa [GetPlayer.Custom('RICE_pattini')] en ocasiones especiales.\n\nAmbos equipos para estos juegos suelen ser masculinos, y estas son grandes ocasiones para que los hombres se luzcan. Un equipo representa a la diosa, mientras que otro equipo representa a su esposo, o alguna deidad masculina. Si el equipo de la diosa gana, esto seguramente asegura buena fertilidad agrícola y prosperidad para el año, pero se espera que ambos equipos jueguen en serio para que el ritual se considere legítimo.\n\n"
+ tarim_basin.0054.a: "Sin duda, vivimos en tiempos interesantes."
+ tarim_basin.0054.t: "El Fallecimiento de Zhang Yichao"
+ tarim_basin.0071.a: "¡Un trabajo bien hecho!"
+ tarim_basin.0071.t: "Cueva de Mogao Completada"
+ tarim_basin.0100.a.tooltip: "Una #P predicción positiva#! podría ayudarte en asuntos relacionados con la fecundidad y el crecimiento"
+ tarim_basin.0100.b.tooltip: "Una #P predicción positiva#! podría ayudarte en asuntos relacionados con el ejército y tu estatus"
+ tarim_basin.0100.c.tooltip: "Una #P predicción positiva#! podría ayudarte en asuntos relacionados con el comercio y la comunicación"
+ tarim_basin.0100.d.tooltip: "Una #P predicción positiva#! podría ayudarte en asuntos relacionados con la tenacidad y la defensa"
+ tarim_basin.0203.a: "[compiler.GetSheHe|U] debe haber trabajado muy duro en esto."
