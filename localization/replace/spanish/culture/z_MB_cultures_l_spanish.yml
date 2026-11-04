@@ -2105,9 +2105,9 @@
  dukha_collective_noun: "Dukhas"
  dukha_prefix: "Dukha"
 
- dumnonian: "Dumnonia"
+ dumnonian: "Dumnónica"
  dumnonian_collective_noun: "Dumnonios"
- dumnonian_prefix: "Dumnonio"
+ dumnonian_prefix: "Dumnónico"
 
  dusun: "Dusun"
  dusun_collective_noun: "Dusuns"
@@ -4303,12 +4303,12 @@
  buryat_collective_noun: "Buriatos"
  buryat_prefix: "Buriato"
 
- butr: "Butr"
- butr_collective_noun: "Butrs"
- butr_prefix: "Butr"
+ butr: "Butrí"
+ butr_collective_noun: "Butríes"
+ butr_prefix: "Butrí"
 
- byzantine_group: "Bizantino"
- byzantine_group_collective_noun: "Bizantinos"
+ byzantine_group: "Romeico"
+ byzantine_group_collective_noun: "Romeicos"
 
  carantanian: "Carantana"
  carantanian_collective_noun: "Carantanos"
@@ -4354,9 +4354,9 @@
  cuman_collective_noun: "Cumanos"
  cuman_prefix: "Cumano"
 
- cumbrian: "Cumbria"
+ cumbrian: "Cúmbrica"
  cumbrian_collective_noun: "Cumbrios"
- cumbrian_prefix: "Cumbro"
+ cumbrian_prefix: "Cúmbrico"
 
  czech: "Checa"
  czech_collective_noun: "Checos"
