@@ -11023,9 +11023,6 @@
  nikaya_religious_text_2: "El Abhidharma Piṭaka"
  nikaya_religious_text_3: "El Vinaya Piṭaka"
 
- ## Holy Orders ##
-
-
  ## Holy Sites ##
  holy_site_tamasna_name: "Tamasna"
  holy_site_tamasna_effect_name: "De [holy_site|E] #weak ( $holy_site_tamasna_name$ ) #!"
@@ -11058,11 +11055,6 @@
 
 
  ## Hostility Doctrines ## 
- #Ibadism/Wahbism Hostility
-
- ## Isma'ili Doctrines ##
- #Ubaydi Trait Acceptance
-
  #Musta'li Schism - Main
  special_doctrine_mustali_main_name: "Isma'ilism Schismed"
  mustali_main_name: "$special_doctrine_mustali_main_name$"
@@ -11080,10 +11072,6 @@
 
 
  ## Succession Doctrines ##
-
- #Berberist (Barghawata)
-
-
  ## Islamic Secondary Sect Doctrines ##
  doctrine_islam_secondary_group_name: "Afiliación teológica"
  REQUIRES_SUNNI: "Requiere el [GetDoctrine('muhammad_succession_sunni_doctrine').GetBaseName] [doctrine|E]"
@@ -11163,9 +11151,6 @@
 
 
  ## Prohibition Doctrines ##
-
- #Crimial Intoxication/Enforced Prohibition
-
  #Shunned Intoxication/Islamic Prohibition
  doctrine_me_intoxication_shunned_eastern_name: "Forbidden"
  doctrine_me_intoxication_shunned_eastern_desc: "No importa si se utiliza sólo en un entorno ritualista controlado o por los no devotos, nuestros adherentes nunca deben tocar a los intoxicantes."
@@ -11179,11 +11164,6 @@
  doctrine_me_intoxication_virtuous_desc: "Prohibirnos de los placeres de este mundo es un pecado en sí mismo, después de todo, ¿por qué [ROOT.Faith.CreatorName] crearía bebida para nosotros si no para disfrutar?"
 
  ## Ablution Doctrines ##
-
- #No Ablution
-
- #Daily Handwashing
-
  #Partial Body Ablution/Wudhu/Rishama
  doctrine_me_ablution_rishama_name: "Rishama"
 
@@ -11281,102 +11261,89 @@
  special_doctrine_jayshanist_trait_acceptance_desc: "La sangre de Ibn al-Fadl al-Jayshani es justa y sus decendientes deben ser venerados."
  doctrine_parameter_jayshanist_trait_effects_active: "Los caracteres con [GetTrait('ME_blood_of_jayshani').GetName( GetNullCharacter )] y [GetTrait('ME_jayshanist_mahdi').GetName( GetNullCharacter )] [trait|E] reciben bonos."
 
- ## Islamic Faiths ## 
- #Wahbiya - North African Ibadi Islam
- d_wahbiya: "El imamato ibadí wahbí"
+ ## Religiones islámicas ##
+ # Wahbismo - Islam ibadí del norte de África
+ d_wahbiya: "Imamato ibadí wahbí"
  d_wahbiya_article: "el "
- d_wahbiya_adj: "Wahbiya Ibadi"
+ d_wahbiya_adj: "Ibadí wahbí"
 
- #Nukkari
- d_nukkari: "La confederación nukkari"
- d_nukkari_article: "el "
+ # Nukkari
+ d_nukkari: "Confederación nukkari"
+ d_nukkari_article: "la "
  d_nukkari_adj: "Nukkari"
 
- #Tayyibism
- d_tayyibi: "The Tayyibi Mission"  #REVISAR
- d_tayyibi_adj: "tayyibi"  #REVISAR
+ # Tayyibismo
+ d_tayyibi: "Misión tayyibí"
+ d_tayyibi_adj: "Tayyibí"
  me_dai_al_mutlaq_male: "Da'i al-Mutlaq"
- me_dai_al_mutlaq_female: "Da'iah al-Mutlaqah"
+ me_dai_al_mutlaq_female: "Da'iya al-Mutlaqa"
 
- #Ishaqiya
+ # Baqlismo/Buranismo
+ baqli: "Baqlismo"
+ baqli_adj: "Baqlí"
+ baqli_adherent: "Baqlí"
+ baqli_adherent_plural: "Baqlíes"
+ baqli_desc: "Los baqlíes fueron una comunidad de cármatas asentada en el Sawad de Kufa que siguió las enseñanzas del misionero Abu Hatim al-Zutti hacia el año 907. Este predicador rechazó las prácticas rituales externas del islam y prohibió a sus seguidores sacrificar animales y consumir determinados alimentos, entre ellos el ajo, los puerros y los nabos. Debido a estas restricciones alimentarias, relacionadas con el consumo de ciertas verduras y hierbas, conocidas en árabe como baql, sus adversarios comenzaron a denominarlos Baqliyya."
 
- #Salihiyya (Tabiriyya/Batriyya)
-
- #Karramiyya
-
- #Baqliyyah/Buraniyyah
- baqli: "Baqlism"
- baqli_adj: "Baqli"
- baqli_adherent: "Baqli"
- baqli_adherent_plural: "Baqlis"
- baqli_desc: "Los Qarmatianos del Sawad de Kufa que siguieron al misionero Abu Hatim al-Zutti alrededor de 907. Desembarcó los ritos exteriores del Islam y los prohibió masacrar animales o comer ajo, puerros y nabos, y de las hierbas, baql, no comerían ellos fueron llamados los Baqliyya."
-
- ## Non-Islamic Faiths ##
- #Trika Shaivism (Kashmiri Shaivism)
-
- #Kapalika Shaivism (Extinct Northwestern Frontier Shaivism)
-
- #Isfahani
- d_isfahani: "El califato del Mahdi de Isfahán"
+ ## Religiones no islámicas ##
+ # Isfahanismo
+ d_isfahani: "Califato del Mahdi de Isfahán"
  d_isfahani_article: "el "
- d_isfahani_adj: "Isfahani"
- isfahani_religious_head_title: "Mahdi-Caliph"
- isfahani_religious_head_title_name: "Mahdi-Caliphate"
+ d_isfahani_adj: "Isfahaní"
+ isfahani_religious_head_title: "Mahdi-califa"
+ isfahani_religious_head_title_name: "Califato del Mahdi"
 
- ## Berberist Faiths ##
- #Barghawata
- d_barghawata: "El imamato de Barghawata"
+ ## Religiones bereberes ##
+ # Barghawata
+ d_barghawata: "Imamato de Barghawata"
  d_barghawata_article: "el "
  d_barghawata_adj: "Barghawata"
- barghawata_religious_head_title: "nabi"
- barghawata_religious_head_title_name: "Profeta Imamate"
+ barghawata_religious_head_title: "Nabí"
+ barghawata_religious_head_title_name: "Imamato profético"
 
- #Ḥa-Mimism
+ # Hamimismo
  hamimist: "Ghomara"
- hamimist_adj: "Ha-Mimist"
- hamimist_adherent: "Ha-Mimist"
- hamimist_adherent_plural: "Ha-Mimists"
- special_doctrine_is_hamimist_faith_name: "Los Descendientes de Ḥa-Mim"
+ hamimist_adj: "Hamimista"
+ hamimist_adherent: "Hamimista"
+ hamimist_adherent_plural: "Hamimistas"
+ special_doctrine_is_hamimist_faith_name: "Los descendientes de Ḥa-Mim"
  is_hamimist_faith_name: "$special_doctrine_is_hamimist_faith_name$"
- special_doctrine_is_hamimist_faith_desc: "La sangre de Ḥa-Mim es justa y sus decendientes deben ser reverenciados."
- doctrine_parameter_hamimist_trait_effects_active: "Los caracteres con [GetTrait('blood_of_hamim').GetName( GetNullCharacter )] y [GetTrait('hamimist_prophet').GetName( GetNullCharacter )] [trait|E] reciben bonos."
- d_hamimist: "Ha-Mimist Iserate"
+ special_doctrine_is_hamimist_faith_desc: "La sangre de Ḥa-Mim es sagrada y sus descendientes son dignos de veneración."
+ doctrine_parameter_hamimist_trait_effects_active: "Los personajes con los [traits|lE] [GetTrait('blood_of_hamim').GetName( GetNullCharacter )] y [GetTrait('hamimist_prophet').GetName( GetNullCharacter )] reciben bonificaciones."
+ d_hamimist: "Iserato hamimista"
  d_hamimist_article: "el "
- d_hamimist_adj: "Ha-Mimist"
+ d_hamimist_adj: "Hamimista"
  hamimist_religious_head_title: "Iser"
- hamimist_religious_head_title_name: "Ha-Mimist Iserate"
+ hamimist_religious_head_title_name: "Iserato hamimista"
 
- #Kaduism
- kaduist: "Kaduism"
- kaduist_adj: "Kaduist"
- kaduist_adherent: "Kaduist"
- kaduist_adherent_plural: "Kaduists"
+ # Kaduismo
+ kaduist: "Kaduismo"
+ kaduist_adj: "Kaduista"
+ kaduist_adherent: "Kaduista"
+ kaduist_adherent_plural: "Kaduistas"
+ kaduist_desc: "El kaduismo es una tradición religiosa que reconoce el carácter sagrado del linaje de Kadu y considera que sus descendientes poseen una autoridad espiritual heredada de su antepasado. Sus seguidores veneran la sangre de Kadu como símbolo de legitimidad divina y reconocen a determinados miembros de su descendencia como profetas y guías de la comunidad. La autoridad religiosa se organiza en torno a un califato, cuya dirección puede recaer en un califa o en una figura profética vinculada con este linaje."
+
+ # Doctrina de los descendientes de Kadu
  special_doctrine_is_kaduist_faith_name: "Los descendientes de Kadu"
  is_kaduist_faith_name: "$special_doctrine_is_kaduist_faith_name$"
- special_doctrine_is_kaduist_faith_desc: "La sangre de Kadu es justa y sus decentes deben ser venerados."
- doctrine_parameter_kaduist_trait_effects_active: "Los caracteres con [GetTrait('blood_of_kadu').GetName( GetNullCharacter )] y [GetTrait('kaduist_prophet').GetName( GetNullCharacter )] [trait|E] reciben bonos."
- d_kaduist: "Kaduist Caliphate"
- d_kaduist_article: "el "
- d_kaduist_adj: "Kaduist"
- kaduist_religious_head_title: "Caliph"
- kaduist_religious_head_title_name: "Kaduist Caliphate"
+ special_doctrine_is_kaduist_faith_desc: "La sangre de Kadu es sagrada y sus descendientes son dignos de veneración."
+ doctrine_parameter_kaduist_trait_effects_active: "Los personajes con los [traits|lE] [GetTrait('blood_of_kadu').GetName( GetNullCharacter )] y [GetTrait('kaduist_prophet').GetName( GetNullCharacter )] reciben bonificaciones."
 
+ # Califato kaduista
+ d_kaduist: "Califato kaduista"
+ d_kaduist_article: "el "
+ d_kaduist_adj: "Kaduista"
+ kaduist_religious_head_title: "Califa"
+ kaduist_religious_head_title_name: "Califato kaduista"
+
+ # Títulos religiosos kaduistas
  kaduist_title_holder_male: "[CHARACTER.Custom('ME_KaduistHoF')]"
  kaduist_title_holder_female: "[CHARACTER.Custom('ME_KaduistHoF')]"
  kaduist_title: "[CHARACTER.Custom('ME_KaduistHoFTitle')]"
- d_kaduist_mahdi_prophet: "Mahdi-Prophet"
- d_kaduist_caliph: "Caliph"
- d_kaduist_prophethood: "Prophethood"
- d_kaduist_caliphate: "Caliphate"
-
- ## Ahl ul-Islam (Non-sectarian Islam) ##
-
- #Ahl al-Bayt (Main Branch)
-
- #Shi'at 'Ali (Non-sectarian Shi'a Islam)
-
-
-
+ d_kaduist_mahdi_prophet: "Mahdi-profeta"
+ d_kaduist_caliph: "Califa"
+ d_kaduist_prophethood: "Profetazgo"
+ d_kaduist_caliphate: "Califato"
 
  #Alt Localisation
  alevi_high_god_name: "Hakk" ## Alternative arabic name is 'Haqq'
@@ -11406,211 +11373,256 @@
  islam_alevi_priest: "Dede"
  islam_alevi_priest_plural: "Dede"
 
- #Ḥa-Mimism
-
- #Kaduism
-
-
- ## Islamic Secondary Sect Doctrines ##
-
- #Sunni Orthodoxy
-
- #Unorthodox Sunnism
-
- #Puritanical Sunnism
-
- #Shi'ite Affiliations
-
- #Batri Affiliations
-
- #Puritanical Shi'ism
-
- #Moderate Muhakkima
-
- #Puritanical Muhakkima
-
- #Unaffiliated Zandaqa
-
- #Ghulat
-
- #Qarmatian
-
- #Unaffiliated Berberist
-
+ # Grupo baltofinés
  balto_finnic_group: "Baltofinés"
+
+ # Ritos cristianos
  fraticelli_adj: "Fraticelli"
  fraticelli_rite_name: "Fraticelli"
- tondrakian_rite_name: "Tondrakians"
+ tondrakian_rite_name: "Tondraquianos"
+
+ # Moísmo
  moism_faith: "Moísmo"
- sri_vaishnavism: "Sri visnuismo"
- sri_vaishnavism_adj: "visnuista de Sri"
- sri_vaishnavism_adherent: "visnuista de Sri"
- sri_vaishnavism_adherent_plural: "visnuistas de Sri"
- sri_vaishnavism_desc: "Los Sri Vaishnavas adoran a Vishnu como Narayana junto con su consorcio Sri, a través de quien su gracia fluye hacia el devoto. Herederos a los himnos tamiles de los doce Álvaros, que cantan en sus templos como una Veda propia, siguen el no-dualismo calificado de Ramanuja, quien enseñó que el alma es real pero totalmente dependiente de Dios, y que la entrega completa a Narayana está abierta a todos independientemente del nacimiento."
+
+ # Sri Vaishnavismo
+ sri_vaishnavism: "Sri vaisnavismo"
+ sri_vaishnavism_adj: "Sri vaisnava"
+ sri_vaishnavism_adherent: "Sri vaisnava"
+ sri_vaishnavism_adherent_plural: "Sri vaisnavas"
+ sri_vaishnavism_desc: "Los sri vaisnavas veneran a Visnú como Narayana junto con su consorte Sri, por cuya intercesión la gracia divina alcanza a los devotos. Herederos de los himnos tamiles de los doce álvar, que se recitan en los templos como una escritura sagrada comparable a los Vedas, siguen el no dualismo cualificado de Ramanuja. Este maestro enseñó que las almas poseen una existencia real, aunque dependen enteramente de Dios, y que la entrega absoluta a Narayana constituye un camino hacia la salvación abierto a todos, independientemente de su nacimiento."
+
+ # Nath
  nath: "Nath"
  nath_adj: "Nath"
- nath_adherent: "yogui Nath"
- nath_adherent_plural: "yoguis Nath"
- nath_desc: "Los yoguis Nath trazan su linaje a Adinath, Shiva mismo, a través de los maestros perfeccionados Matsyendranath y Gorakhnath. Deambulando con orejas divididas y cuerpos de ceniza mezclados, buscan la liberación a través de la disciplina del cuerpo, dominando el aliento y la postura en el arte del hasa yoga para ganar los poderes de los siddhas e inmortalidad en la vida."
+ nath_adherent: "Yogui nath"
+ nath_adherent_plural: "Yoguis nath"
+ nath_desc: "Los yoguis nath remontan su linaje espiritual a Adinath, identificado con el propio Shiva, a través de los maestros perfeccionados Matsyendranath y Gorakhnath. Estos ascetas errantes, reconocibles por sus orejas perforadas y sus cuerpos cubiertos de ceniza, buscan la liberación mediante una rigurosa disciplina física y espiritual. A través del dominio de la respiración, las posturas y las prácticas del hatha yoga, aspiran a alcanzar los poderes sobrenaturales de los siddhas y la inmortalidad en vida."
+
+ # Kaumaram
  kaumaram_high_god_name_alternate: "Skanda"
  kaumaram_high_god_name_alternate_possessive: "de Skanda"
+
+ # Jōdo-shū
  jodo: "Jōdo-shū"
  jodo_adj: "Jōdo"
- jodo_adherent: "budista Jōdo"
- jodo_adherent_plural: "budistas Jōdo"
- jodo_desc: "La escuela de Tierra Pura que Hōnen fundó en la práctica única del nembutsu. En el Día de la Ley, enseñó, las disciplinas difíciles de las viejas escuelas están más allá de la gente común, pero cualquiera que llame el nombre de Buda Amida con fe será renacido en el Paraíso Occidental."
+ jodo_adherent: "Budista jōdo"
+ jodo_adherent_plural: "Budistas jōdo"
+ jodo_desc: "La escuela budista de la Tierra Pura fundada por Hōnen enseña que la salvación puede alcanzarse mediante la recitación devota del nembutsu, la invocación del nombre del Buda Amida. Según sus enseñanzas, durante la era del declive de la Ley budista, las rigurosas disciplinas de las antiguas escuelas resultan demasiado difíciles para la mayoría de las personas. Sin embargo, cualquiera que invoque sinceramente a Amida con fe en su compasión puede renacer en la Tierra Pura Occidental, donde encontrará las condiciones necesarias para alcanzar la iluminación."
+
+ # Nichiren
  nichiren: "Nichiren"
  nichiren_adj: "Nichiren"
- nichiren_adherent: "budista Nichiren"
- nichiren_adherent_plural: "budistas Nichiren"
- nichiren_desc: "La escuela Hokke de Nichiren, un monje Tendai de Awa. Enseño que el Lotus Sūtra solo es la verdadera enseñanza para el Día de la Ley, que cantar su título trae la salvación, y que el reino no puede conocer la paz mientras sus gobernantes apoyan las escuelas nembutsu, Zen, Shingon y Ritsu."
+ nichiren_adherent: "Budista nichiren"
+ nichiren_adherent_plural: "Budistas nichiren"
+ nichiren_desc: "La escuela Hokke, fundada por Nichiren, un monje formado en la tradición Tendai de la provincia de Awa, considera que el Sutra del Loto contiene la enseñanza suprema del budismo. Nichiren sostuvo que, durante la era del declive de la Ley, la recitación devota del título de este sutra constituye el verdadero camino hacia la salvación. También afirmó que el reino no podría alcanzar la paz mientras sus gobernantes continuaran favoreciendo las escuelas de la Tierra Pura, Zen, Shingon y Ritsu, a las que acusaba de apartarse de las enseñanzas auténticas del Buda."
+
+ # Abhayagiri
  abhayagiri: "Abhayagiri"
  abhayagiri_adj: "Abhayagiri"
  abhayagiri_adherent: "Abhayagirivāsin"
  abhayagiri_adherent_plural: "Abhayagirivāsins"
- abhayagiri_desc: "La gran fraternidad del monasterio de Abhayagiri en Anurādhapura, anhela el rival de Mahāvihāra. Sus monjes conservaban el Pali Vinaya, pero también estudiaban los mahaya sūtras, los comentarios de sánscritos y dhāranī, y a menudo disfrutaban del mayor favor real."
+ abhayagiri_desc: "La gran comunidad monástica de Abhayagiri, establecida en Anuradhapura, constituye una de las principales tradiciones budistas de Sri Lanka y una antigua rival del monasterio de Mahāvihāra. Sus monjes conservan la disciplina monástica del Vinaya en pali, pero también estudian los sutras mahayana, los comentarios en sánscrito y las fórmulas rituales dharani. Su apertura a diversas corrientes doctrinales y prácticas esotéricas le permitió ejercer una considerable influencia religiosa y disfrutar frecuentemente del patrocinio de los soberanos de la isla."
+
+ # Buddhamārgī
  newar_buddhism: "Buddhamārgī"
  newar_buddhism_adj: "Buddhamārgī"
  newar_buddhism_adherent: "Buddhamārgī"
  newar_buddhism_adherent_plural: "Buddhamārgīs"
- newar_buddhism_desc: "El Budamārga de los Newars del Valle de Katmandú, la tierra donde los traductores tibetanos llegaron a aprender sánscrito y los tantras. Sus sacerdotes Vajrācārya se casan y pasan el sacerdocio de padre a hijo. Sirven los monasterios del patio y los grandes festivales de Karunasāmaya, junto con los hindúes Śivamārgī del valle."
+ newar_buddhism_desc: "El Buddhamārga de los nevaríes del valle de Katmandú conserva una antigua tradición budista que convirtió la región en un importante centro de aprendizaje del sánscrito y de las enseñanzas tántricas para los eruditos procedentes del Tíbet. Sus sacerdotes vajrācārya pueden contraer matrimonio y transmiten sus funciones religiosas de padres a hijos, manteniendo los monasterios organizados alrededor de patios y celebrando grandes festividades dedicadas a Karunāmaya, manifestación del bodisatva de la compasión. Esta tradición convive estrechamente con las comunidades hinduistas śivamārgī del valle, compartiendo numerosos espacios sagrados y celebraciones religiosas."
+
+ # Loto Blanco
  bailian: "Báilián"
  bailian_adj: "Báilián"
- bailian_adherent: "Creyente de Loto Blanco"
- bailian_adherent_plural: "Los creyentes del Loto Blanco"
- bailian_desc: "La sociedad del Loto Blanco, fundada por el monje Mao Ziyuan como laico compañerismo de la recitación de Amitābha. Sus maestros casados, congregaciones vegetarianas y salones donde hombres y mujeres se reunieron fueron sospechando. Proscrito por los Yuan, sus seguidores ahora esperan el descenso de Maitreya y la venida del Rey de la Luz."
+ bailian_adherent: "Seguidor del Loto Blanco"
+ bailian_adherent_plural: "Seguidores del Loto Blanco"
+ bailian_desc: "La sociedad del Loto Blanco tiene sus orígenes en las comunidades religiosas laicas organizadas por el monje Mao Ziyuan, dedicadas a la recitación del nombre de Amitabha y a la devoción por la Tierra Pura. Sus maestros casados, sus congregaciones vegetarianas y las reuniones religiosas en las que participaban tanto hombres como mujeres despertaron las sospechas de las autoridades. Perseguidos y proscritos durante la dinastía Yuan, algunos de sus seguidores desarrollaron expectativas mesiánicas centradas en el futuro descenso del Buda Maitreya y la llegada del Rey de la Luz, cuya aparición anunciaría una nueva era de salvación."
+
+ # Kaśaiwan
  kasaiwan: "Kaśaiwan"
  kasaiwan_adj: "Śaiwa"
  kasaiwan_adherent: "Śaiwa"
  kasaiwan_adherent_plural: "Śaiwas"
- kasaiwan_desc: "El establecimiento Shaiva de Java y Bali, enseñado en viejos tratados Javaneses de Śaiva Siddhānta y servido por sacerdotes Brahmin hereditarios. Śiwa reina como el Guru Bhaåāra del Mahameru de Java, con Wisnau y Brahmā a su lado, y los reyes son consagrados después de la muerte como el dios en el que son absorbidos. Śiwa y el Buda son considerados uno, y el clero Śaiwa y Saugata sirven juntos a la corte."
+ kasaiwan_desc: "La tradición shivaísta de Java y Bali se fundamenta en las enseñanzas del Śaiva Siddhānta, conservadas en antiguos tratados javaneses y transmitidas por linajes hereditarios de sacerdotes brahmanes. Shiva, venerado como Bhaṭāra Guru, reina desde el monte Mahameru de Java junto con Visnú y Brahma, mientras que los soberanos fallecidos son consagrados ritualmente como manifestaciones de las divinidades con las que se unen tras la muerte. Esta tradición reconoce una profunda unidad espiritual entre Shiva y el Buda, por lo que los sacerdotes śaiwa y saugata participan conjuntamente en las ceremonias religiosas de las cortes reales."
  kasaiwan_high_god_name: "Bhaṭāra Guru"
  kasaiwan_high_god_name_possessive: "de Bhaṭāra Guru"
  kasaiwan_high_god_name_2: "Śiwa"
  kasaiwan_good_god_buddha: "Buda"
+
+ # Kasogatan
  kasogatan: "Kasogatan"
  kasogatan_adj: "Saugata"
  kasogatan_adherent: "Saugata"
  kasogatan_adherent_plural: "Saugatas"
- kasogatan_desc: "El esotérico Mahāyāna de Śrīvijaya y Java, cuyos monasterios dibujaron peregrinos de China y maestros del Tíbet. Su Sang Hyang Kamahāyānikan guía al iniciado a través del mantra y la meditación a la Buda. Sus reyes criaron a Borobudur como una montaña del Dharma y, en días posteriores, adoraron al Buda y a Śiwa como uno."
+ kasogatan_desc: "La tradición budista esotérica mahayana de Srivijaya y Java floreció en importantes centros monásticos que atrajeron a peregrinos procedentes de China y maestros vinculados con el Tíbet. Sus enseñanzas, conservadas en textos como el Sang Hyang Kamahāyānikan, guían a los iniciados hacia la budeidad mediante la recitación de mantras, la meditación y las prácticas rituales tántricas. Los soberanos de Java erigieron grandes monumentos religiosos, entre ellos Borobudur, concebido como una representación monumental del camino hacia la iluminación. Con el tiempo, esta tradición desarrolló una estrecha relación con el shivaísmo, llegando a considerar al Buda y a Shiva como manifestaciones de una misma realidad suprema."
+
+ # Madhyamaka
  madhyamaka: "Madhyamaka"
  madhyamaka_adj: "Mādhyamika"
  madhyamaka_adherent: "Mādhyamika"
  madhyamaka_adherent_plural: "Mādhyamikas"
- madhyamaka_desc: "El Camino Medio de Nāgārjuna, que enseña que todas las cosas están vacías de la existencia inherente, como se une a las enseñanzas sólo mentales de Śāntaraksita. Es el aprendizaje de los grandes monasterios de Pāla de Nālandā y Vikramaśīla, donde los eruditos debaten ante los reyes y los tantras se enseñan junto a los sūtras."
+ madhyamaka_desc: "La escuela Madhyamaka, o Camino Medio, fundada sobre las enseñanzas de Nagarjuna, sostiene que todos los fenómenos carecen de existencia inherente y surgen mediante relaciones de dependencia. Su filosofía fue desarrollada por maestros como Shantarakshita, quien integró elementos de las enseñanzas yogachara sobre la naturaleza de la conciencia. Esta tradición constituye una parte fundamental de la formación intelectual impartida en los grandes monasterios de la dinastía Pala, especialmente Nalanda y Vikramashila, donde los eruditos participan en debates filosóficos ante los soberanos y estudian tanto los sutras como las enseñanzas tántricas."
+
+ # Rāmañña
  ramanna: "Rāmañña"
  ramanna_adj: "Rāmañña"
- ramanna_adherent: "budista Rāmañña"
- ramanna_adherent_plural: "budistas Rāmañña"
- ramanna_desc: "La antigua Teravada del país Mon y las ciudades de Pyu, dijo descender de los ancianos Sonasa y Uttara a quienes Aśoka envió a Suvanasabhūmi. Desde Thaton, Śrī Kssétra, Dvāravatī y Haripuñjaya llegaron a Pagan con Shin Arahan, donde los reyes ganaron mérito al levantar templos y adorar monasterios con tierra, mientras que las nueces guardaban sus santuarios junto al Buda. Los monjes recién ordenados en Lanka lo llaman el 'antiguo orden' y dudan de sus ordenaciones."
+ ramanna_adherent: "Budista rāmañña"
+ ramanna_adherent_plural: "Budistas rāmañña"
+ ramanna_desc: "La antigua tradición theravada de los pueblos mon y de las ciudades pyu remonta sus orígenes a los monjes Sona y Uttara, enviados según la tradición por el emperador Ashoka a la tierra de Suvarnabhumi. Desde centros religiosos como Thaton, Sri Ksetra, Dvaravati y Haripunjaya, sus enseñanzas llegaron a Pagan, donde el monje Shin Arahan ejerció una profunda influencia sobre la monarquía. Los soberanos acumulan mérito religioso mediante la construcción de templos y la donación de tierras a los monasterios, mientras que los espíritus nat continúan recibiendo veneración junto al Buda. Los monjes pertenecientes a los linajes de ordenación procedentes de Sri Lanka consideran esta tradición una orden antigua y cuestionan la legitimidad de algunas de sus ordenaciones."
+
+ # Mahāvihāra
  mahavihara: "Mahāvihāra"
  mahavihara_adj: "Mahāvihāra"
  mahavihara_adherent: "Mahāvihāravāsin"
  mahavihara_adherent_plural: "Mahāvihāravāsins"
- mahavihara_desc: "El linaje del Gran Monasterio de Anurādhapura, guardián de los comentarios de Budaghosa y de la lectura más estricta del Pali Vinaya. Hecho único guardián de la sangha Sinhalese por Parākramabāhu I, ahora envía su ordenación en el extranjero como la sangha Sīha tuya o Lankavamsa, a Pagan, Nakhon Si Thammarat, Sukhothai y Angkor."
+ mahavihara_desc: "La tradición del Gran Monasterio de Anuradhapura conserva los comentarios del maestro Buddhaghosa y defiende una interpretación rigurosa de la disciplina monástica establecida en el Vinaya pali. Tras las reformas religiosas de Parakramabahu I, el Mahāvihāra se convirtió en la principal autoridad de la comunidad monástica de Sri Lanka. Sus linajes de ordenación, conocidos como Sīhala Saṅgha o Lankavamsa, se difundieron por el sudeste asiático y contribuyeron a la renovación del budismo theravada en Pagan, Nakhon Si Thammarat, Sukhothai y Angkor."
+
+ # Lokeśvara
  lokesvara: "Lokeśvara"
  lokesvara_adj: "Lokeśvara"
- lokesvara_adherent: "budista Lokeśvara"
- lokesvara_adherent_plural: "budistas Lokeśvara"
- lokesvara_desc: "El Mahāyāna de Angkor, criado a la fe estatal por Jayavarman VII. En su corazón está Lokeśvara, el señor compasivo cuyos rostros miran desde las torres del Bayón, y Prajñāpāramitā, la madre de los Budas. Sus reyes proclaman que el sufrimiento de sus súbditos es propio, y construyen hospitales y descansan casas a lo largo de los caminos reales."
+ lokesvara_adherent: "Budista lokeśvara"
+ lokesvara_adherent_plural: "Budistas lokeśvara"
+ lokesvara_desc: "La tradición budista mahayana de Angkor alcanzó la condición de religión favorecida por la monarquía durante el reinado de Jayavarman VII. Su devoción se centra en Lokeśvara, el bodisatva de la compasión, cuyos rostros contemplan los cuatro puntos cardinales desde las torres del templo de Bayón, y en Prajñāpāramitā, personificación de la sabiduría trascendental y madre de los budas. Sus soberanos consideran el sufrimiento de sus súbditos como propio y expresan este ideal mediante la construcción de hospitales, hospederías y establecimientos de asistencia a lo largo de los caminos reales."
+
+ # Mantranaya
  mantranaya: "Mantranaya"
  mantranaya_adj: "Mantranaya"
  mantranaya_adherent: "Mantrin"
  mantranaya_adherent_plural: "Mantrins"
- mantranaya_desc: "El Camino del Mantra como se enseña en la India, en los grandes monasterios de los Pālas y entre los siddhas vagabundos de Bengal, Kāmarūpa y las estribaciones del Himalaya. A través de la iniciación, mahijola, mantra y la guía de un maestro vajra, el practicante busca convertirse en un buda en esta misma vida. Es la raíz de la cual las escuelas del Tíbet dibujan sus tantras."
+ mantranaya_desc: "El Camino del Mantra representa las tradiciones esotéricas del budismo desarrolladas en la India, especialmente en los grandes monasterios patrocinados por los Pala y entre los maestros siddha itinerantes de Bengala, Kamarupa y las estribaciones del Himalaya. Mediante la iniciación ritual, la práctica de mandalas y mantras y la guía de un maestro vajra, sus seguidores buscan alcanzar la budeidad durante su propia existencia. Estas enseñanzas constituyen una de las principales fuentes de las tradiciones tántricas que posteriormente florecieron en el Tíbet."
+
+ # Devarāja
  devaraja: "Devarāja"
  devaraja_adj: "Devarāja"
- devaraja_adherent: "shivaísta de Devarāja"
- devaraja_adherent_plural: "shivaístas de Devarāja"
- devaraja_desc: "El Shaivismo de Angkor, centrado en el dios-rey. Ya que Jayavarman II se proclamó gobernante universal en la montaña sagrada de Mahendraparvata, el protector del reino ha sido una liga real, servida por una sola familia sacerdotal de generación en generación. Cada rey levanta su propio templo-montaña, un monte Meru en piedra, para albergar el li ⁇ ga en el que se unen su majestad y Śiva."
+ devaraja_adherent: "Shivaísta de Devarāja"
+ devaraja_adherent_plural: "Shivaístas de Devarāja"
+ devaraja_desc: "La tradición shivaísta de Angkor vincula la autoridad de los soberanos con el culto al Devarāja, el dios-rey. Desde que Jayavarman II estableció su soberanía universal mediante una ceremonia sagrada en el monte Mahendraparvata, la protección espiritual del reino quedó asociada a un linga real custodiado por un linaje hereditario de sacerdotes. Cada monarca erige su propio templo-montaña, concebido como una representación terrenal del monte Meru, para albergar el símbolo sagrado de Shiva y expresar la unión entre el poder divino y la autoridad real."
+
+ # Mattamayūra
  mattamayura: "Mattamayūra"
  mattamayura_adj: "Mattamayūra"
- mattamayura_adherent: "shivaísta de Mattamayūra"
- mattamayura_adherent_plural: "shivaístas de Mattamayūra"
- mattamayura_desc: "La gran orden Śaiva Siddhānta de la India Central, llamada por su monasterio madre en Mattamayūra. Sus ascetas aprendidas son el rājagurus de los reyes Kalachuri, iniciándolos en la adoración de Śiva y dirigiendo una red de monasterios ricamente dotados de Malwa a Dahala. Enseñan que Śiva libera el alma por gracia, a través de la iniciación y el ritual de los Àgamas."
+ mattamayura_adherent: "Shivaísta de Mattamayūra"
+ mattamayura_adherent_plural: "Shivaístas de Mattamayūra"
+ mattamayura_desc: "La orden Mattamayūra constituye una de las principales tradiciones del Śaiva Siddhānta de la India central y recibe su nombre del monasterio donde se originó. Sus ascetas eruditos ejercen como rajagurús, maestros espirituales de los soberanos kalachuri, a quienes inician en el culto a Shiva. La orden administra una extensa red de monasterios favorecidos por donaciones reales, desde Malwa hasta Dahala. Sus enseñanzas sostienen que el alma alcanza la liberación mediante la gracia de Shiva, recibida a través de la iniciación y los rituales prescritos en los Agamas."
+
+ # Jagannātha
  jagannatha: "Jagannātha"
  jagannatha_adj: "Jagannātha"
- jagannatha_adherent: "visnuista de Jagannātha"
- jagannatha_adherent_plural: "visnuistas de Jagannātha"
- jagannatha_desc: "La fe del Señor del Mundo en Puri, cuya imagen de madera, nacida entre el pueblo forestal de Śabara, es honrada como el propio Visnau. Sus reyes gobiernan como sus siervos, y su festival de carro atrae a peregrinos de toda la India. En su templo todas las castas comen juntas de la mahāprasāda."
+ jagannatha_adherent: "Visnuista de Jagannātha"
+ jagannatha_adherent_plural: "Visnuistas de Jagannātha"
+ jagannatha_desc: "La devoción a Jagannatha, el Señor del Mundo, tiene su principal centro religioso en Puri, donde su imagen sagrada de madera, vinculada con las antiguas tradiciones de los pueblos forestales shabara, es venerada como una manifestación del propio Visnú. Los soberanos consideran que gobiernan como servidores de esta divinidad, cuya gran festividad de las carrozas atrae a peregrinos de toda la India. El alimento consagrado, conocido como mahaprasada, ocupa un lugar fundamental en el culto y simboliza la comunidad de los devotos más allá de las distinciones de casta."
+
+ # Pāñcarātra
  pancaratra: "Pāñcarātra"
  pancaratra_adj: "Pāñcarātra"
  pancaratra_adherent: "Pāñcarātrika"
  pancaratra_adherent_plural: "Pāñcarātrikas"
- pancaratra_desc: "El  ⁇ hitās Àgamic Vai risnaavism de los Sa ⁇ hitās, que enseña que Visás emana en cuatro formas, los vyūhas, y está presente en la imagen consagrada. La iniciación y el mantra abren el camino a su adoración. Florece en Cachemira y en las colinas del Himalaya Occidental, donde los reyes levantan grandes templos a Vishí."
+ pancaratra_desc: "La tradición vaisnava Pāñcarātra se fundamenta en los textos sagrados conocidos como Samhitas, que enseñan la manifestación de Visnú mediante cuatro emanaciones divinas denominadas vyuhas. Sus seguidores consideran que la divinidad está verdaderamente presente en las imágenes consagradas y que la iniciación, los mantras y los rituales prescritos permiten establecer una relación directa con ella. Esta tradición florece especialmente en Cachemira y las regiones montañosas del Himalaya occidental, donde los soberanos patrocinan la construcción de grandes templos dedicados a Visnú."
+
+ # Bhāgavata
  bhagavata: "Bhāgavata"
  bhagavata_adj: "Bhāgavata"
  bhagavata_adherent: "Bhāgavata"
  bhagavata_adherent_plural: "Bhāgavatas"
- bhagavata_desc: "La devoción a Vissánu del norte de la tierra india, cantada en el Bāgavata Purāa y honrada por los emperadores de Kannauj. Los Pratihāras tomaron a divarāha, el jabalí que levantó la tierra de las aguas, como su emblema. A través de la llanura de Ganges los avatares son adorados en grandes templos, y el devoto busca la gracia de Visísu a través del amor y la rendición."
+ bhagavata_desc: "La tradición bhagavata se centra en la devoción a Visnú y sus encarnaciones, celebradas en textos sagrados como el Bhagavata Purana y veneradas por los soberanos del norte de la India. Los emperadores pratihara adoptaron como emblema a Adivaraha, la encarnación de Visnú en forma de jabalí que rescató la Tierra de las aguas primordiales. A lo largo de la llanura del Ganges, sus distintas manifestaciones reciben culto en grandes templos, mientras que los devotos buscan alcanzar la gracia divina mediante el amor, la veneración y la entrega espiritual."
+
+ # Drāviḍa Saṅgha
  dravida_sangha: "Drāviḍa Saṅgha"
  dravida_sangha_adj: "Drāviḍa"
- dravida_sangha_adherent: "jainista Drāviḍa"
- dravida_sangha_adherent_plural: "jainistas Drāviḍa"
- dravida_sangha_desc: "La orden Digambara del país Tamil, fundada en Madurai por Vajranandi. Sus monjes escribieron gran parte de la literatura tamil temprana y enseñaban en los monasterios cavernosos del sur. Stricter Digambaras lo llaman un falso sa ⁇ gha por sus monasterios terrestres y monjes comerciales."
+ dravida_sangha_adherent: "Jainista drāviḍa"
+ dravida_sangha_adherent_plural: "Jainistas drāviḍa"
+ dravida_sangha_desc: "La Drāviḍa Saṅgha es una orden jainista digambara de las regiones tamiles, cuya fundación se atribuye al maestro Vajranandi en Madurai. Sus monjes contribuyeron al desarrollo de la literatura tamil y difundieron sus enseñanzas desde monasterios y establecimientos religiosos situados en las regiones montañosas del sur de la India. Las comunidades digambaras más estrictas cuestionan la legitimidad de esta orden, a la que consideran una falsa comunidad monástica debido a sus monasterios permanentes y a la participación de algunos de sus religiosos en actividades comerciales."
+
+ # Kāṣṭhā Saṅgha
  kastha: "Kāṣṭhā Saṅgha"
  kastha_adj: "Kāṣṭhā"
- kastha_adherent: "jainista Kāṣṭhā"
- kastha_adherent_plural: "jainistas Kāṣṭhā"
- kastha_desc: "Un orden Digambara de Malwa, Mathura y el país de Delhi, mantenido por los comerciantes de Agravāla. Sus monjes barren su camino con un batido de pelo de cola de vaca en lugar de plumas de pavo real, y admite a las mujeres a iniciación, prácticas que llevan al más estricto Mūla Sagha a llamarlo una orden falsa."
+ kastha_adherent: "Jainista kāṣṭhā"
+ kastha_adherent_plural: "Jainistas kāṣṭhā"
+ kastha_desc: "La Kāṣṭhā Saṅgha es una orden jainista digambara extendida por Malwa, Mathura y la región de Delhi, que recibe un importante apoyo de las comunidades mercantiles agravala. Sus monjes utilizan escobillas elaboradas con pelo de cola de vaca para apartar cuidadosamente a los pequeños seres vivos de su camino, en lugar de las tradicionales plumas de pavo real. La orden también admite a las mujeres en determinadas formas de iniciación religiosa, prácticas que provocan el rechazo de los sectores más estrictos de la Mūla Saṅgha, cuyos miembros cuestionan su legitimidad monástica."
+
+ # Kharatara Gaccha
  kharatara: "Kharatara Gaccha"
  kharatara_adj: "Kharatara"
- kharatara_adherent: "jainista Kharatara"
- kharatara_adherent_plural: "jainistas Kharatara"
- kharatara_desc: "El orden de los monjes Śvetāmbara que rechazaron los caminos de morada del templo de sus predecesores y regresaron a vagar, viviendo sólo por lo que prescriben los Àgamas. Su Dādāgurus obra milagrosa trajo a todos los clanes de Rajastán a la fe."
+ kharatara_adherent: "Jainista kharatara"
+ kharatara_adherent_plural: "Jainistas kharatara"
+ kharatara_desc: "La Kharatara Gaccha es una orden jainista svetambara que rechaza las prácticas de los monjes residentes permanentemente en los templos y defiende el retorno a la vida itinerante prescrita por los Agamas. Sus religiosos mantienen una rigurosa disciplina ascética y recorren las comunidades enseñando las escrituras y promoviendo la observancia de los preceptos tradicionales. Los maestros espirituales conocidos como Dadagurús, célebres por los milagros que se les atribuyen, contribuyeron a extender la influencia de la orden entre numerosos clanes y comunidades mercantiles de Rajastán."
+
+ # Tapā Gaccha
  tapa_gaccha: "Tapā Gaccha"
  tapa_gaccha_adj: "Tapā"
- tapa_gaccha_adherent: "jainista Tapā"
- tapa_gaccha_adherent_plural: "jainistas Tapā"
- tapa_gaccha_desc: "La orden de 'los austeros', llamada por el ayuno incesante de su fundador Jagaccandra Sūri, que impresionó así al gobernante de Mewar que le concedió el título. Rigoroso en disciplina y aprendido en los Àgamas, se está extendiendo rápidamente entre los Śvetāmbaras de Mewar y Gujarat."
+ tapa_gaccha_adherent: "Jainista tapā"
+ tapa_gaccha_adherent_plural: "Jainistas tapā"
+ tapa_gaccha_desc: "La Tapā Gaccha, conocida como la orden de los austeros, recibe su nombre de las rigurosas prácticas de ayuno de su fundador, Jagacchandra Suri, cuya disciplina impresionó tanto a un soberano de Mewar que le concedió este título honorífico. Sus monjes destacan por la estricta observancia de los preceptos religiosos y el estudio de los Agamas. Gracias a su prestigio ascético y a sus enseñanzas, la orden se extiende rápidamente entre las comunidades jainistas svetambara de Mewar y Gujarat."
+
+ # Gǔwén
  guwen: "Gǔwén"
  guwen_adj: "Gǔwén"
- guwen_adherent: "discípulo de Gǔwén"
- guwen_adherent_plural: "discípulos de Gǔwén"
- guwen_desc: "El Camino de los sabios pasó de Yao y Shun a Confucio y Mencius, luego se perdió por mil años hasta que Han Yu lo tomó de nuevo. Sus eruditos escriben en la prosa lisa de la antigüedad y desprecian el estilo ornado de la corte. Sostienen que el budismo es una enseñanza bárbara que convierte a los hijos de sus padres y súbditos de su señor: haced hombres de los monjes otra vez, queman sus libros, y conviertan sus templos en casas."
+ guwen_adherent: "Discípulo de Gǔwén"
+ guwen_adherent_plural: "Discípulos de Gǔwén"
+ guwen_desc: "La tradición Gǔwén reivindica la transmisión del Camino de los antiguos sabios, desde Yao y Shun hasta Confucio y Mencio, cuyas enseñanzas habrían permanecido olvidadas durante siglos hasta ser recuperadas por Han Yu. Sus eruditos defienden el retorno a la prosa clara y directa de la antigüedad, rechazando el estilo ornamental predominante en la corte. Consideran que el budismo constituye una doctrina extranjera que aparta a los hijos de sus deberes familiares y a los súbditos de sus obligaciones hacia el soberano. Por ello, propugnan la secularización de los monjes, la destrucción de las escrituras budistas y la transformación de sus templos en edificios de uso civil."
+
+ # Shǔxué
  shuxue: "Shǔxué"
  shuxue_adj: "Shǔxué"
- shuxue_adherent: "discípulo de Shǔxué"
- shuxue_adherent_plural: "discípulos de Shǔxué"
- shuxue_desc: "El aprendizaje de la familia Su de Meishan: Su Xun y sus hijos Su Shi y Su Zhe. Encuentra el Camino en el sentimiento humano y en el cambio, como enseña el Libro de los Cambios, en lugar de en principio fijo, y toma libremente de los Budistas y Taoístas. Sus eruditos son poetas, pintores y caligrafías tanto como funcionarios. Desterrado por los reformadores y despreciado por los seguidores de los hermanos Cheng, florece en el norte, donde el literati lee Su Shi sobre todos los demás."
+ shuxue_adherent: "Discípulo de Shǔxué"
+ shuxue_adherent_plural: "Discípulos de Shǔxué"
+ shuxue_desc: "La escuela Shǔxué se fundamenta en las enseñanzas de la familia Su de Meishan, especialmente Su Xun y sus hijos Su Shi y Su Zhe. Sus pensadores consideran que el Camino se manifiesta mediante la experiencia humana y las transformaciones de la realidad, tal como enseña el Libro de los Cambios, en lugar de depender exclusivamente de principios inmutables. Incorporan libremente elementos del budismo y el taoísmo, y cultivan la poesía, la pintura y la caligrafía junto con el servicio administrativo. Aunque sus representantes sufrieron el destierro por su oposición a los reformadores y fueron criticados por los seguidores de los hermanos Cheng, sus enseñanzas conservaron una profunda influencia entre los letrados del norte, donde la obra de Su Shi alcanzó un prestigio extraordinario."
+
+ # Shìgōng
  shigong: "Shìgōng"
  shigong_adj: "Shìgōng"
- shigong_adherent: "discípulo de Shìgōng"
- shigong_adherent_plural: "discípulos de Shìgōng"
- shigong_desc: "El aprendizaje práctico de Zhejiang oriental, enseñado por Lü Zuqian de Jinhua, Chen Liang de Yongkang y Ye Shi de Yongjia. Sostiene que el Camino es probado por sus resultados y que la justicia y el beneficio no son enemigos. Sus eruditos estudian historia, instituciones, finanzas y guerra en lugar de la naturaleza de principio, e instan a la corte a recuperar el norte perdido en lugar de rendir homenaje al Jurchen."
+ shigong_adherent: "Discípulo de Shìgōng"
+ shigong_adherent_plural: "Discípulos de Shìgōng"
+ shigong_desc: "La escuela Shìgōng representa una corriente de pensamiento práctico desarrollada en Zhejiang oriental por maestros como Lü Zuqian de Jinhua, Chen Liang de Yongkang y Ye Shi de Yongjia. Sus seguidores sostienen que la validez del Camino debe demostrarse mediante sus resultados concretos y que la rectitud moral y el beneficio material no son necesariamente incompatibles. En lugar de concentrarse exclusivamente en los principios metafísicos, estudian la historia, las instituciones, las finanzas y el arte de la guerra. También defienden una política exterior activa destinada a recuperar los territorios septentrionales perdidos, rechazando la sumisión tributaria frente a los yurchen."
+
+ # Nánzōng
  nanzong: "Nánzōng"
  nanzong_adj: "Nánzōng"
- nanzong_adherent: "taoísta Nánzōng"
- nanzong_adherent_plural: "taoístas Nánzōng"
- nanzong_desc: "La Escuela del Sur de la alquimia interior, trazada desde el despertar de Zhang Boduan a la realidad. Sus adeptos refinan el elixir dentro de sus propios cuerpos, primero fortalecen la vida y luego perfeccionan su naturaleza, y dicen que en la cumbre las Tres Enseñanzas regresan a una. Sus maestros a menudo viven como ama de casa y pasan la enseñanza secreta del maestro a un único discípulo elegido."
+ nanzong_adherent: "Taoísta nánzōng"
+ nanzong_adherent_plural: "Taoístas nánzōng"
+ nanzong_desc: "La Escuela del Sur de la alquimia interior taoísta remonta sus orígenes a las enseñanzas de Zhang Boduan, autor del Despertar a la Realidad. Sus seguidores buscan refinar el elixir de la inmortalidad dentro de sus propios cuerpos mediante un proceso espiritual que comienza con el fortalecimiento de la vida y culmina con el perfeccionamiento de la naturaleza interior. Enseñan que, en su expresión más elevada, las Tres Doctrinas del confucianismo, el budismo y el taoísmo convergen en una misma verdad. Sus maestros suelen mantener una vida familiar y transmiten sus conocimientos esotéricos directamente a discípulos cuidadosamente escogidos."
+
+ # Língbǎo
  lingbao: "Língbǎo"
  lingbao_adj: "Língbǎo"
- lingbao_adherent: "taoísta Língbǎo"
- lingbao_adherent_plural: "taoístas Língbǎo"
- lingbao_desc: "La tradición de las numerosas escrituras del Tesoro, reveladas por primera vez en la línea de Ge Xuan y ordenadas por Lu Xiujing en el Monte Lu. Sus grandes ayunos y ofrendas, sostenidas para los vivos y los muertos, se han convertido en la liturgia común de todos los sacerdotes taoístas. Enseña la salvación universal: a través de los ritos, incluso las almas en la tierra-prisons pueden ser liberadas del ciclo del renacimiento. Sus maestros ordain en Gezaoshan, una de las Tres Montañas."
+ lingbao_adherent: "Taoísta língbǎo"
+ lingbao_adherent_plural: "Taoístas língbǎo"
+ lingbao_desc: "La tradición Língbǎo, o Tesoro Espiritual, se fundamenta en un amplio conjunto de escrituras sagradas vinculadas con el linaje de Ge Xuan y posteriormente organizadas por Lu Xiujing en el monte Lu. Sus grandes ceremonias de ayuno, purificación y ofrenda, celebradas en beneficio tanto de los vivos como de los difuntos, se convirtieron en una parte fundamental de la liturgia taoísta. Sus enseñanzas defienden la salvación universal y sostienen que incluso las almas encerradas en las prisiones del inframundo pueden ser liberadas del ciclo de los renacimientos mediante los ritos apropiados. Sus maestros reciben ordenación en el monte Gezao, uno de los tres grandes centros sagrados del taoísmo."
+
+ # Shénxiāo
  shenxiao: "Shénxiāo"
  shenxiao_adj: "Shénxiāo"
- shenxiao_adherent: "taoísta Shénxiāo"
- shenxiao_adherent_plural: "taoístas Shénxiāo"
- shenxiao_desc: "La revelación del Divino Empyrean, el más alto de los cielos, proclamada en la corte de la Canción Huizong por el maestro Lin Lingsu, que reveló al emperador mismo ser el Señor encarnado de la Vida larga. Sus sacerdotes manipularon los ritos del trueno, convocando a los generales del trueno para expulsar demonios, sanar a los enfermos y traer lluvia. Bajo el favor imperial sus palacios se levantan en cada prefectura, y los budistas están hechos para tomar nombres taoístas."
+ shenxiao_adherent: "Taoísta shénxiāo"
+ shenxiao_adherent_plural: "Taoístas shénxiāo"
+ shenxiao_desc: "La tradición Shénxiāo, o Empíreo Divino, se fundamenta en revelaciones vinculadas con los reinos celestiales superiores y alcanzó una gran influencia durante el reinado del emperador Huizong de la dinastía Song. El maestro Lin Lingsu proclamó que el propio emperador era una manifestación terrenal del Señor de la Longevidad. Sus sacerdotes practican elaborados rituales del trueno, mediante los cuales invocan a generales celestiales para expulsar demonios, sanar enfermedades y propiciar la lluvia. Favorecida por la corte imperial, la tradición extendió sus templos por numerosas prefecturas y promovió medidas destinadas a subordinar las instituciones budistas al taoísmo."
+
+ # Tàiyī
  taiyi: "Tàiyī"
  taiyi_adj: "Tàiyī"
- taiyi_adherent: "taoísta Tàiyī"
- taiyi_adherent_plural: "taoístas Tàiyī"
- taiyi_desc: "La orden de la Unidad Suprema, fundada en el norte bajo el Jin por Xiao Baozhen, cuyos talismanos de los Tres Orígenes sanan a los enfermos y expulsan al mal. Sus patriarcas viven solteros, y cada uno a su vez adopta el apellido Xiao al asumir el cargo del fundador. Los Jurchen y Mongol invitan a sus maestros a orar por la lluvia y la bendición."
+ taiyi_adherent: "Taoísta tàiyī"
+ taiyi_adherent_plural: "Taoístas tàiyī"
+ taiyi_desc: "La orden Tàiyī, o Unidad Suprema, fue fundada por Xiao Baozhen en el norte de China durante el dominio de la dinastía Jin. Sus enseñanzas conceden especial importancia a los talismanes de los Tres Orígenes, utilizados en ceremonias destinadas a sanar enfermedades y expulsar las influencias malignas. Sus patriarcas observan el celibato y adoptan el apellido Xiao al asumir la dirección de la orden, perpetuando así el linaje espiritual de su fundador. Tanto los soberanos yurchen como los mongoles recurren a sus maestros para celebrar rituales de petición de lluvia, protección y bendición."
+
+ # Shugendō
  shugendo_adherent: "Shugenja"
- shugendo_adherent_plural: "Shugenja"
- watarai: "Ise Shintō"
- watarai_adj: "Ise Shintō"
- watarai_adherent: "sintoísta de Ise"
- watarai_adherent_plural: "sintoístas de Ise"
- watarai_desc: "La enseñanza de los sacerdotes Watarai del Santuario Exterior en Ise. Revirtiendo la creencia común de que los kami son las huellas locales de los buddhas, sostiene que los kami vinieron primero y son la fuente, y que Toyouke y Amaterasu, antepasados de la línea imperial, gobiernan la tierra de los kami juntos. Pide la pureza del cuerpo y un corazón honesto, y mantiene las palabras y los mantos budistas fuera de los santuarios."
+ shugendo_adherent_plural: "Shugenjas"
+
+ # Sintoísmo de Ise
+ watarai: "Sintoísmo de Ise"
+ watarai_adj: "Sintoísta de Ise"
+ watarai_adherent: "Sintoísta de Ise"
+ watarai_adherent_plural: "Sintoístas de Ise"
+ watarai_desc: "La tradición sintoísta de Ise se desarrolló a partir de las enseñanzas de los sacerdotes Watarai del Santuario Exterior de Ise. Frente a la interpretación budista que consideraba a los kami manifestaciones locales de los budas, sus seguidores sostienen que las divinidades japonesas poseen una naturaleza primordial y constituyen el verdadero origen de las manifestaciones sagradas. Toyouke y Amaterasu ocupan un lugar central en esta doctrina, vinculada con la protección del linaje imperial y el orden espiritual del país. Sus enseñanzas destacan la pureza corporal, la sinceridad del corazón y la preservación de los santuarios frente a las prácticas y símbolos religiosos budistas."
+
+ # Odul
  odul: "Odul"
  odul_adj: "Odul"
  odul_adherent: "Odul"
  odul_adherent_plural: "Odul"
- odul_desc: "Las creencias del Yukaghir, que se llaman Odul. Cada animal, río y bosque tiene su maestro, que debe ser preguntado antes de la caza y agradecido después de ella. Cuando un chamán muere, su cuerpo no es abandonado: sus parientes dividen sus restos entre ellos y los mantienen como guardianes, de modo que el chamán sigue protegiendo a la familia que sirvió en la vida."
- mahayana_faith_desc: "La tradición mahayana abarca las escuelas budistas del Gran Vehículo, desde las universidades monásticas de la India a los tribunales de China, Corea, Japón y Angkor. Sostienen que el bodisatva que retrasa su propia liberación para liberar a todos los seres camina por el camino más alto, y que el budismo mismo, no sólo la libertad de renacimiento, es el objetivo."
+ odul_desc: "Las creencias tradicionales de los yukaguires, que se denominan a sí mismos odul, reconocen la presencia de espíritus tutelares en los animales, los ríos y los bosques. Antes de emprender una cacería, los cazadores solicitan el permiso de los espíritus protectores de los animales y les presentan ofrendas de agradecimiento al regresar. Los chamanes mantienen una relación especialmente estrecha con el mundo espiritual, que continúa después de su muerte. Sus familiares conservan partes de sus restos mortales como reliquias protectoras, considerando que el espíritu del chamán permanece junto a sus descendientes y continúa velando por la comunidad a la que sirvió en vida."
+
+ # Budismo mahayana
+ mahayana_faith_desc: "El budismo mahayana, conocido como el Gran Vehículo, comprende numerosas tradiciones religiosas desarrolladas desde los grandes centros monásticos de la India hasta las cortes y monasterios de China, Corea, Japón y Angkor. Sus enseñanzas consideran que el ideal supremo es el del bodisatva, quien, movido por una compasión ilimitada, busca alcanzar la iluminación para liberar a todos los seres del sufrimiento. A diferencia de las vías centradas exclusivamente en la liberación individual del ciclo de los renacimientos, el mahayana sostiene que la budeidad completa y la salvación universal constituyen la culminación del camino espiritual."
+
  confucianism_devil_name: "Chiyou"
  confucianism_devil_name_possessive: "de Chiyou"
  taoism_creator_god_name: "Yuanshi Tianzun"
@@ -11629,46 +11641,72 @@
  taoism_water_god_name_possessive: "de Shuiguan"
  taoism_trickster_god_name: "Lan Caihe"
  taoism_trickster_god_name_possessive: "de Lan Caihe"
- taoism_high_god_name_alternate_possessive: "de The Way"
- shangqing_faith_desc: "El Taoísmo de la auto-cultivación, cuyos adeptos buscan la inmortalidad dentro de sus propios cuerpos mediante la visualización de los dioses, la meditación y la alquimia interior. Sostiene las escrituras reveladas de la Suprema Puridad, recibidas en el Monte Mao, y las órdenes monásticas y linajes alquímicos que crecieron de ellos."
- shangqing_adherent_plural: "taoístas Shangqing"
- shangqing_desc: "El Camino de la Suprema Pureza, revelado en el Monte Mao en el nombre de Lady Wei Huacun y ordenado por Tao Hongjing. Sus adeptos visualizan los dioses del cuerpo y viajan en meditación a las estrellas y los cielos sobre ellos. Bajo el Tang sus patriarcas enseñaron a los emperadores, y su ordenación era más alta de todas las filas taoístas."
- quanzhen_adherent_plural: "taoístas Quanzhen"
- quanzhen_desc: "El orden de la perfección completa, fundado por Wang Chongyang y difundido por sus Siete discípulos perfectos. Sus monjes y monjas abandonan a sus familias, viven solteros y se abstienen del vino y la carne, refinando el elixir de la inmortalidad dentro de sus propios cuerpos a través de la quietud y austeridad. Enseña que las Tres Enseñanzas, Confucianas, Budistas y Taoístas, son una."
- zhengyi_adherent_plural: "taoístas Zhengyi"
- zhengyi_desc: "El Camino de la Unidad Ortodoxa, descendió del pacto que el Señor Lao hizo con Zhang Daoling. Sus sacerdotes están casados que reciben sus registros de generadores espirituales en la ordenación y sirven a sus comunidades con talismán, exorcismos y los grandes ritos de ofrenda. El Maestro Celestial, descendiente de Zhang Daoling, preside el Monte Longhu."
- shinto_faith: "Shintō"
- shinto_faith_adj: "Shintō"
- kamuyism_religion: "Aynu"
- kamuyism_religion_adj: "Aynu"
- kamuyism_pagan_desc: "El camino del Aynu, que ve un kamuy en todo lo que actúa sobre la gente: el oso y el búho, el fuego del corazón, el mar, la enfermedad misma. El kamuy visita el mundo humano en forma de animales, y son enviados a casa con regalos de vino inau y leve para que regresen. El más grande de estos envíos es el iyomante, cuando un oso levantado en el pueblo es enviado de vuelta a las montañas."
- shamanism_desc: "Las creencias de los pueblos de caza y pesca de la taiga, el Amur y el mar del norte. El mundo está lleno de espíritus, de los maestros de los animales a las almas de los antepasados del clan, y sólo el chamán, que viaja a ellos en trance y los lleva a hablar, puede negociar con ellos para el juego, la salud y la buena fortuna."
- amalricians_rite_name: "Amalricians"
- free_spirit_rite_name: "Espíritu libre Brethren"
- stephanites_rite_name: "Stephanism"
+ taoism_high_god_name_alternate_possessive: "del Dao"
+
+ # Shangqing
+ shangqing_faith_desc: "Las tradiciones taoístas del cultivo espiritual buscan alcanzar la inmortalidad mediante la transformación del propio cuerpo a través de la visualización de las divinidades, la meditación y la alquimia interior. Entre ellas destaca la escuela Shangqing, cuyas escrituras de la Suprema Pureza fueron reveladas en el monte Mao y dieron origen a linajes de maestros, tradiciones alquímicas y comunidades monásticas dedicadas al perfeccionamiento espiritual."
+ shangqing_adherent_plural: "Taoístas shangqing"
+ shangqing_desc: "El Camino de la Suprema Pureza tiene su origen en las revelaciones recibidas en el monte Mao, atribuidas a la inmortal Wei Huacun y posteriormente recopiladas y organizadas por Tao Hongjing. Sus seguidores practican la visualización de las divinidades que habitan el cuerpo y emprenden viajes espirituales mediante la meditación hacia las estrellas y los reinos celestiales. Durante la dinastía Tang, sus patriarcas ejercieron una considerable influencia religiosa en la corte imperial, mientras que sus ordenaciones llegaron a ocupar el rango más elevado dentro de la jerarquía taoísta."
+
+ # Quanzhen
+ quanzhen_adherent_plural: "Taoístas quanzhen"
+ quanzhen_desc: "La escuela Quanzhen, o Camino de la Perfección Completa, fue fundada por Wang Chongyang y difundida por sus siete principales discípulos, conocidos como los Siete Perfectos. Sus monjes y monjas renuncian a la vida familiar, practican el celibato y se abstienen del consumo de carne y alcohol, dedicándose a la meditación, la austeridad y el cultivo del elixir interior de la inmortalidad. Sus enseñanzas buscan armonizar las Tres Doctrinas, el confucianismo, el budismo y el taoísmo, consideradas expresiones complementarias de una misma verdad espiritual."
+
+ # Zhengyi
+ zhengyi_adherent_plural: "Taoístas zhengyi"
+ zhengyi_desc: "El Camino de la Unidad Ortodoxa remonta sus orígenes al pacto sagrado establecido entre Laozi, manifestado como el Señor Lao, y Zhang Daoling, fundador de la tradición de los Maestros Celestiales. Sus sacerdotes pueden contraer matrimonio y reciben durante su ordenación registros sagrados que les confieren autoridad sobre determinadas entidades espirituales. Mediante talismanes, exorcismos y grandes ceremonias de ofrenda, atienden las necesidades religiosas de sus comunidades. El Maestro Celestial, considerado descendiente de Zhang Daoling, encabeza esta tradición desde el monte Longhu."
+
+ # Sintoísmo
+ shinto_faith: "Sintoísmo"
+ shinto_faith_adj: "Sintoísta"
+ shinto_faith_adherent: "Sintoísta"
+ shinto_faith_adherent_plural: "Sintoístas"
+ shinto_faith_desc: "Las creencias tradicionales de Japón se fundamentan en la veneración de los kami, divinidades y espíritus sagrados que habitan las montañas, los ríos, los bosques y otros elementos de la naturaleza, así como en el culto a los antepasados. Amaterasu, diosa del Sol y antepasada divina de la dinastía imperial, ocupa un lugar destacado entre las deidades del panteón japonés. Los sacerdotes kannushi celebran ceremonias de purificación y presentan ofrendas de arroz, sake y otros alimentos en los santuarios, mientras que las miko participan en danzas y rituales sagrados. Las festividades matsuri honran a los kami y buscan asegurar su protección, la fertilidad de las tierras y la prosperidad de las comunidades."
+
+ # Religiones ainu
+ kamuyism_religion: "Ainu"
+ kamuyism_religion_adj: "Ainu"
+ kamuyism_pagan_desc: "Las creencias tradicionales de los ainu reconocen la presencia de los kamuy, divinidades y espíritus que se manifiestan en todos los elementos capaces de influir en la vida humana, desde los osos y los búhos hasta el fuego del hogar, el mar y las enfermedades. Los kamuy visitan el mundo de los seres humanos adoptando formas animales y deben ser devueltos respetuosamente a su morada espiritual mediante ofrendas de sake y varillas ceremoniales inau, con la esperanza de que regresen trayendo nuevas bendiciones. La más importante de estas ceremonias es el iyomante, durante el cual un oso criado por la comunidad es sacrificado ritualmente para liberar su espíritu y enviarlo de regreso al mundo de los dioses."
+
+ # Chamanismo
+ shamanism_desc: "Las creencias tradicionales de los pueblos cazadores y pescadores de la taiga, la cuenca del Amur y los mares septentrionales reconocen un mundo habitado por innumerables espíritus, desde los señores protectores de los animales hasta las almas de los antepasados de cada clan. Los chamanes actúan como intermediarios entre los seres humanos y estas entidades, entrando en trance para viajar al mundo espiritual y transmitir sus mensajes. Mediante cantos, ofrendas y ceremonias rituales, buscan asegurar el éxito de la caza, sanar a los enfermos y obtener la protección y prosperidad de sus comunidades."
+
+ # Ritos cristianos
+ amalricians_rite_name: "Amalricianos"
+ free_spirit_rite_name: "Hermanos del Libre Espíritu"
+ stephanites_rite_name: "Estefanismo"
  monothelitism_rite_name: "Monotelismo"
- strigolniki_rite_name: "Strigolniki"
+ strigolniki_rite_name: "Strigólniki"
+
+ # Imamismo
  ithna_ashari: "Imamismo"
- ithna_ashari_adj: "imaní"
- ithna_ashari_adherent: "duodecimano"
- ithna_ashari_adherent_plural: "duodecimanos"
- ithna_ashari_desc: "Los Shi'a de los Doce Imams, de Ali a Muhammad al-Mahdi, que se escondieron en 874 y volverán al final del tiempo para llenar el mundo con justicia. Hasta entonces la autoridad del Imam es llevada por sus diputados y por los aprendices, y la ley se enseña en la escuela del sexto Imam, Ja'far al-Sadiq."
- ghulat: "Zindiq"
- ghulat_adj: "Ghali"
+ ithna_ashari_adj: "Imamí"
+ ithna_ashari_adherent: "Duodecimano"
+ ithna_ashari_adherent_plural: "Duodecimanos"
+ ithna_ashari_desc: "El chiismo duodecimano reconoce la autoridad espiritual de doce imanes infalibles, desde Alí ibn Abi Tálib hasta Muhammad al-Mahdi, el duodécimo imán, cuya ocultación comenzó en el año 874. Según sus creencias, este último regresará al final de los tiempos para restaurar la justicia y poner fin a la opresión. Durante su ausencia, la interpretación de la doctrina y la ley religiosa corresponde a los eruditos y juristas, quienes conservan las enseñanzas transmitidas por los imanes. Su tradición jurídica se fundamenta especialmente en la escuela y las enseñanzas de Yaáfar as-Sádiq, el sexto imán."
+
+ # Ghulat
+ ghulat: "Ghulat"
+ ghulat_adj: "Ghulat"
  ghulat_adherent: "Ghali"
- ghulat_adherent_plural: "Zindiq"
- ghulat_desc: "Los 'exaggeradores', como sus enemigos los llaman: los Shi'a que sostienen que la luz divina mora en Ali y los Imams, y que las almas pasan de cuerpo a cuerpo hasta que son purificados. Sus enseñanzas se pasan en secreto para iniciar, y los Nusayris de las montañas sirias y los Ishaqis son los más conocidos de sus comunidades."
+ ghulat_adherent_plural: "Ghulat"
+ ghulat_desc: "Los ghulat, denominados «exageradores» por sus adversarios religiosos, comprenden diversas corrientes del chiismo que atribuyen cualidades divinas a Alí y a los imanes, considerando que la luz de Dios se manifiesta a través de ellos. Algunas de estas comunidades sostienen que las almas transmigran de un cuerpo a otro hasta alcanzar la purificación espiritual. Sus doctrinas se transmiten mediante enseñanzas reservadas a los iniciados y ceremonias de carácter esotérico. Entre sus principales representantes se encuentran los nusayríes de las montañas sirias y los ishaquíes, cuyas tradiciones desarrollaron interpretaciones particulares de la naturaleza divina y la autoridad de los imanes."
+
+ # Ikhtilafismo
  ikhtilafism: "Ikhtilafismo"
- ikhtilafism_adj: "Ikhtilafi"
- ikhtilafism_adherent: "Ikhtilafi"
- ikhtilafism_adherent_plural: "ikhtilafíes"
- ikhtilafism_desc: "Ikhtilafis cree en la naturaleza divina de los imán infalibles, comenzando por Ali. Dios no sólo los ha designado e inspirado, sino que los habita parcialmente para guiar sus actos."
- ibadi: "Ibadism"
- ibadi_adj: "Ibadi"
- ibadi_adherent: "Ibadi"
- ibadi_adherent_plural: "Ibadis"
- ibadi_desc: "Los seguidores de Abdallah ibn Ibad y Jabir ibn Zayd de Basra, que rompieron con los militantes Kharijites pero mantuvieron su principio: el Imam es elegido por la comunidad para su piedad solo, y si ningún hombre digno puede ser encontrado, la comunidad puede vivir sin uno. Desde Basora su enseñanza se extendió a Omán, el Hadramawt y los bereberes del Magreb."
- dayawism_devil_herselfhimself: "himself"
+ ikhtilafism_adj: "Ikhtilafí"
+ ikhtilafism_adherent: "Ikhtilafí"
+ ikhtilafism_adherent_plural: "Ikhtilafíes"
+ ikhtilafism_desc: "Los seguidores del ikhtilafismo creen en la naturaleza divina de los imanes infalibles, comenzando por Alí ibn Abi Tálib. Según sus enseñanzas, Dios no se limita a designar e inspirar a los imanes como guías espirituales de la comunidad, sino que también manifiesta parcialmente su propia esencia a través de ellos, orientando sus actos y concediéndoles una autoridad que trasciende la condición humana."
+
+ # Ibadismo
+ ibadi: "Ibadismo"
+ ibadi_adj: "Ibadí"
+ ibadi_adherent: "Ibadí"
+ ibadi_adherent_plural: "Ibadíes"
+ ibadi_desc: "El ibadismo remonta sus orígenes a las enseñanzas de Abdallah ibn Ibad y Yábir ibn Zayd, vinculados con las primeras comunidades religiosas de Basora. Aunque sus seguidores se distanciaron de las corrientes más militantes del jariyismo, conservaron el principio de que el imán debe ser elegido por la comunidad exclusivamente por su piedad, rectitud y capacidad para gobernar. Si no existe un candidato digno, consideran legítimo que la comunidad permanezca sin imán. Desde Basora, sus enseñanzas se extendieron hacia Omán, Hadramaut y las comunidades bereberes del Magreb, donde dieron origen a importantes tradiciones religiosas y políticas."
+
+ dayawism_devil_herselfhimself: "sí mismo"
  dayawism_death_name: "Sidapa"
  dayawism_death_name_possessive: "de Sidapa"
  holy_site_kanlaon_name: "Kanlaon"
@@ -11706,11 +11744,14 @@
  dayawism_divine_realm: "Langit"
  dayawism_witch_god_name: "Mambabarang"
  dayawism_witch_god_name_possessive: "de Mambabarang"
+
+ # Gomanga
  gomanga: "Gomanga"
  gomanga_adj: "Gomanga"
- gomanga_adherent: "Gomanga follower"
- gomanga_adherent_plural: "Gomanga followers"
- gomanga_desc: "La religión de Ternate, Tidore y los pueblos de Halmahera. Los gomanga, los espíritus de los muertos, permanecen cerca de las casas de sus parientes y deben ser alimentados y honrados, mientras que los meki gobiernan el bosque, el mar y la tokata traen enfermedad. Los sowohi guardan los ritos del kolano, y las redadas de la cabeza de los Tobelo y Galela se temen a lo largo de cada costa."
+ gomanga_adherent: "Seguidor del Gomanga"
+ gomanga_adherent_plural: "Seguidores del Gomanga"
+ gomanga_desc: "Las creencias tradicionales de los pueblos de Ternate, Tidore y Halmahera se centran en la veneración de los antepasados y los espíritus que habitan el mundo natural. Los gomanga, espíritus de los difuntos, permanecen cerca de los hogares de sus descendientes y deben recibir ofrendas y honores para conservar su protección. Los meki son espíritus vinculados con los bosques y el mar, mientras que los tokata son entidades malignas capaces de provocar enfermedades y desgracias. Los especialistas rituales sowohi custodian las ceremonias sagradas de los kolano, los gobernantes tradicionales, mientras que las incursiones destinadas a obtener cabezas enemigas, practicadas por los tobelo y galela, infunden temor entre las comunidades costeras de la región."
+
  gomanga_high_god_name: "Jou Madutu"
  gomanga_high_god_name_possessive: "de Jou Madutu"
  gomanga_high_god_name_alternate: "$gomanga_high_god_name$"
@@ -11760,11 +11801,14 @@
  gomanga_divine_realm: "el cielo"
  gomanga_positive_afterlife: "la tierra de la gomanga"
  gomanga_negative_afterlife: "los salvajes de la tokata"
+
+ # Attoriolong
  attoriolong: "Attoriolong"
  attoriolong_adj: "Attoriolong"
- attoriolong_adherent: "Attoriolong follower"
- attoriolong_adherent_plural: "Attoriolong followers"
- attoriolong_desc: "El camino de los antepasados de los Bugis, Makassar y Mandar. Cada casa real desciende de un a Manurung, que descendió de Boting Langiq o se levantó del mar, y el Sureq Galigo dice cómo Batara Guru vino primero a la tierra en Luwu. Los bissu, sacerdotes que no son hombres ni mujeres, sirven la venganza de los reinos y hablan con los dioses en trance."
+ attoriolong_adherent: "Seguidor del Attoriolong"
+ attoriolong_adherent_plural: "Seguidores del Attoriolong"
+ attoriolong_desc: "Las creencias tradicionales de los bugis, makasareses y mandareses de Célebes se fundamentan en la veneración de los antepasados y el origen divino de los linajes gobernantes. Cada dinastía remonta su ascendencia a un to manurung, un ser celestial que descendió de Boting Langiq, el mundo superior, o emergió de las profundidades del mar. El Sureq Galigo, gran ciclo épico de la tradición bugis, relata cómo Batara Guru descendió por primera vez a la tierra en Luwu para establecer el orden entre los seres humanos. Los sacerdotes bissu, que trascienden las distinciones tradicionales entre hombres y mujeres, custodian las insignias sagradas de los reinos y actúan como intermediarios con las divinidades mediante ceremonias de trance."
+
  holy_site_kandora_name: "Kandora"
  holy_site_ussu_name: "Ussu"
  holy_site_bada_name: "Bada"
@@ -11934,16 +11978,21 @@
  makamba_death_name_possessive: "$makamba_high_god_name_possessive$"
  makamba_witch_god_name: "Suanggi"
  makamba_witch_god_name_possessive: "de Suanggi"
+
+ # Alid
  alid: "Alid"
  alid_adj: "Alid"
- alid_adherent: "Alid follower"
- alid_adherent_plural: "Alid followers"
- alid_desc: "La religión de las llanuras y costas de Taiwán, donde las casas pasan por la madre y los dioses hablan a través de las mujeres. Entre los sirayas, Tamagisanhach del sur hace a los hombres guapos y Sariafingh del norte los marea con pox; las sacerdotisas inib las llaman en trance, y las almas de los muertos deben cruzar un estrecho puente de bambú, del cual caen los impíos."
+ alid_adherent: "Seguidor de Alid"
+ alid_adherent_plural: "Seguidores de Alid"
+ alid_desc: "Las creencias tradicionales de los pueblos de las llanuras y costas de Taiwán se caracterizan por la importancia de los linajes maternos y el papel fundamental de las mujeres como intermediarias con el mundo espiritual. Entre los siraya, Tamagisanhach, divinidad del sur, concede belleza a los hombres, mientras que Sariafingh, divinidad del norte, provoca estados de embriaguez mediante el pox, una bebida ritual. Las sacerdotisas inib invocan a estas divinidades mediante ceremonias de trance y transmiten sus mensajes a la comunidad. Según sus creencias funerarias, las almas de los difuntos deben atravesar un estrecho puente de bambú para alcanzar el más allá, del que caen quienes han llevado una vida impía."
+
+ # Gaga
  gaga: "Gaga"
  gaga_adj: "Gaga"
- gaga_adherent: "Gaga follower"
- gaga_adherent_plural: "Gaga followers"
- gaga_desc: "El camino del Atayal, que vino de una roca dividida en las montañas. La gaga es la ley dictada por los utux, los espíritus de los ancestros, y quien la rompe trae desgracia sobre todos los que la comparten. Un hombre gana su tatuaje facial con su primera cabeza, una mujer con su primer paño tejido, y sólo los tatuados pueden cruzar Hakaw Utux, el puente del arco iris, a los antepasados."
+ gaga_adherent: "Seguidor del Gaga"
+ gaga_adherent_plural: "Seguidores del Gaga"
+ gaga_desc: "Las creencias tradicionales de los atayal de las montañas de Taiwán remontan el origen de su pueblo a una roca primordial que se abrió para dar nacimiento a sus primeros antepasados. El gaga constituye el conjunto de leyes y normas sagradas transmitidas por los utux, espíritus ancestrales que protegen a sus descendientes y castigan las transgresiones que amenazan el bienestar de toda la comunidad. Tradicionalmente, los hombres obtenían el derecho a recibir tatuajes faciales tras conseguir su primera cabeza enemiga, mientras que las mujeres debían demostrar su habilidad tejiendo su primera pieza de tela. Según estas creencias, únicamente quienes portan los tatuajes rituales pueden atravesar el Hakaw Utux, el puente del arcoíris que conduce al mundo de los antepasados."
+
  holy_site_kavulungan_name: "Kavulungan"
  holy_site_kavulungan_effect_name: "Por el [holy_site|E] #weak ($holy_site_kavulungan_name$)#!"
  holy_site_pinsbkan_name: "Pinsbkan"
@@ -12089,16 +12138,21 @@
  jatisunda_death_name_possessive: "$jatisunda_high_god_name_possessive$"
  jatisunda_witch_god_name: "el jurig"
  jatisunda_witch_god_name_possessive: "de the jurig"
+
+ # Petara
  petara: "Petara"
  petara_adj: "Petara"
- petara_adherent: "Petara follower"
- petara_adherent_plural: "Petara followers"
- petara_desc: "El camino de los Iban, que honran a la petara, los dioses, y sobre todo a Sengalang Burong, el dios de la guerra, cuyos hijos-en-ley son las aves del omen que guían cada viaje y cada redada. Los lemambang cantan a los dioses hasta las grandes fiestas gawai, y el manang curan a los enfermos viajando entre los espíritus."
+ petara_adherent: "Seguidor de Petara"
+ petara_adherent_plural: "Seguidores de Petara"
+ petara_desc: "Las creencias tradicionales de los iban de Borneo se centran en la veneración de los petara, las divinidades que gobiernan el mundo espiritual, entre las que destaca Sengalang Burong, dios de la guerra y protector de los guerreros. Sus yernos, representados por determinadas aves de presagio, transmiten señales divinas que orientan las expediciones, los viajes y las incursiones guerreras. Los sacerdotes lemambang entonan largos cantos rituales para invocar a las divinidades durante las grandes festividades gawai, mientras que los chamanes manang realizan ceremonias de sanación en las que sus espíritus viajan al mundo sobrenatural para recuperar las almas extraviadas y restablecer la salud de los enfermos."
+
+ # Jubata
  jubata: "Jubata"
  jubata_adj: "Jubata"
- jubata_adherent: "Jubata follower"
- jubata_adherent_plural: "Jubata followers"
- jubata_desc: "La religión del Dayak de la Tierra del oeste de Borneo. Jubata observa desde arriba, las figuras del pantak sostienen a los antepasados, y cada pueblo mantiene su baruk, la casa redonda donde los jóvenes duermen y las cabezas de los enemigos colgaban. El boris hambriento, sacerdotisas del arroz y de la curación, cantan el niangahatn en la fiesta de la cosecha."
+ jubata_adherent: "Seguidor de Jubata"
+ jubata_adherent_plural: "Seguidores de Jubata"
+ jubata_desc: "Las creencias tradicionales de los dayak de las tierras occidentales de Borneo reconocen a Jubata como divinidad suprema, que contempla y protege el mundo desde las alturas. Los antepasados son venerados mediante figuras talladas conocidas como pantak, mientras que las aldeas conservan sus baruk, grandes casas comunales circulares donde duermen los jóvenes y antiguamente se exhibían las cabezas de los enemigos capturados. Las sacerdotisas y especialistas rituales conocidas como balian dirigen ceremonias de sanación y protección de los arrozales, entonando las plegarias sagradas del niangahatn durante las festividades de la cosecha para agradecer a las divinidades y asegurar la prosperidad de la comunidad."
+
  holy_site_bukit_raya_name: "Bukit Raya"
  holy_site_bukit_raya_effect_name: "Por el [holy_site|E] #weak ($holy_site_bukit_raya_name$)#!"
  holy_site_kudat_name: "Nabalu"
@@ -12221,12 +12275,17 @@
  khasi_animism_negative_afterlife: "el vagabundo de los muertos inquietos"
  khasi_animism_witch_god_name: "U Thlen"
  khasi_animism_witch_god_name_possessive: "de U Thlen"
- wa_animism_desc: "Las religiones de los pueblos montañosos Austroasiáticos del norte, los habitantes más antiguos de las tierras que el Tai y los Burmans llegaron a gobernar. Los Wa golpearon a sus grandes tambores de madera y pusieron las cabezas de sus enemigos en puestos para hacer crecer el arroz; la Ley de Lanna alimenta Pu Sae y Ya Sae un búfalo a los pies de Doi Suthep y corona a los reyes Tai como los primeros señores de la tierra; los Khmu de las colinas de Lao, los hermanos mayores, salieron primero de la gourd."
+
+ # Religiones de los pueblos austroasiáticos septentrionales
+ wa_animism_desc: "Las creencias tradicionales de los pueblos austroasiáticos de las montañas septentrionales conservan las prácticas religiosas de algunas de las comunidades más antiguas de las tierras que posteriormente quedaron bajo el dominio de los tai y los birmanos. Los wa hacen resonar sus grandes tambores de madera y colocan las cabezas de sus enemigos sobre postes ceremoniales para propiciar la fertilidad de los arrozales. Los lawa de Lanna ofrecen anualmente un búfalo a Pu Sae y Ya Sae, espíritus ancestrales venerados al pie del monte Doi Suthep, y sus sacerdotes participan en las ceremonias que legitiman la autoridad de los soberanos tai como sucesores de los primeros señores de la tierra. Los khmu de las montañas de Laos, considerados los hermanos mayores entre los pueblos de la región, remontan sus orígenes a una calabaza primordial de la que surgieron los primeros seres humanos."
+
+ # Lua
  lua: "Lua"
  lua_adj: "Lua"
- lua_adherent: "Lua follower"
- lua_adherent_plural: "Lua followers"
- lua_desc: "El camino de la Lawa, la primera gente de los valles de Ping y Nan. Pu Sae y Ya Sae, los gigantes del ancestro de Doi Suthep, reciben un búfalo cada año, y los sacerdotes samang guardan los viejos ritos que los reyes Mangrai todavía necesitaban cuando tomaron la tierra."
+ lua_adherent: "Seguidor del Lua"
+ lua_adherent_plural: "Seguidores del Lua"
+ lua_desc: "Las creencias tradicionales de los lawa, antiguos habitantes de los valles de los ríos Ping y Nan, se centran en la veneración de los espíritus ancestrales y las divinidades protectoras de la tierra. Pu Sae y Ya Sae, gigantes ancestrales vinculados con el monte Doi Suthep, reciben cada año el sacrificio de un búfalo para asegurar la prosperidad y la protección de las comunidades. Los sacerdotes samang conservan los antiguos ritos mediante los cuales se reconoce la autoridad espiritual sobre el territorio, ceremonias que incluso los soberanos de la dinastía de Mangrai debieron respetar para legitimar su dominio sobre las tierras conquistadas."
+
  khmu_adj: "Khmu"
  holy_site_nawng_hkeo_name: "Nawng Hkeo"
  holy_site_nawng_hkeo_effect_name: "Por el [holy_site|E] #weak ($holy_site_nawng_hkeo_name$)#!"
@@ -12722,11 +12781,14 @@
  kechai_khati_death_name_possessive: "$kechai_khati_high_god_name_possessive$"
  kechai_khati_witch_god_name: "el daini"
  kechai_khati_witch_god_name_possessive: "de the daini"
- yang: "yang"
- yang_adj: "yang"
- yang_adherent: "Yang follower"
- yang_adherent_plural: "Yang followers"
- yang_desc: "The religion of the Central Highlands: the Bahnar, Sedang, Jarai, Rhade, Mnong and Stieng. Cada, montaña río, arroz y frasco de vino tiene su yang, y el pueblo los alimenta del rông, la gran casa comunal. Búfalo son sacrificiodos en el puesto tallado, y el Jarai guarda al Rey del Fuego y al Rey del Agua, a quien los reyes de Champa y Camboya enviaron regalos."
+
+ # Yang
+ yang: "Yang"
+ yang_adj: "Yang"
+ yang_adherent: "Seguidor del Yang"
+ yang_adherent_plural: "Seguidores del Yang"
+ yang_desc: "Las creencias tradicionales de los pueblos de las Tierras Altas Centrales, entre ellos los bahnar, sedang, jarai, rhade, mnong y stieng, reconocen a los yang como espíritus y divinidades presentes en todos los elementos de la naturaleza. Cada montaña, río, arrozal e incluso las tinajas de vino poseen sus propios espíritus, que reciben ofrendas y ceremonias en torno al rông, la gran casa comunal de las aldeas. Los sacrificios de búfalos se celebran junto a postes ceremoniales tallados para honrar a las divinidades y asegurar la prosperidad de la comunidad. Entre los jarai destacan las figuras sagradas del Rey del Fuego y el Rey del Agua, custodios de antiguas tradiciones rituales que gozaban de tal prestigio que incluso los soberanos de Champa y Camboya les enviaban presentes."
+
  yang_high_god_name: "Aê Diê"
  yang_high_god_name_possessive: "de Aê Diê"
  yang_high_god_name_alternate: "yang"
@@ -12825,20 +12887,27 @@
  katuic_death_name_possessive: "$katuic_high_god_name_possessive$"
  katuic_witch_god_name: "el mal yang"
  katuic_witch_god_name_possessive: "de the evil yang"
+
+ # Karei
  aslian_animism: "Karei"
  aslian_animism_adj: "Karei"
- aslian_animism_adherent: "Karei follower"
- aslian_animism_adherent_plural: "Karei followers"
- aslian_animism_desc: "La religión del Orang Asli, los pueblos forestales del interior malayo, y de los isleños de Nicobar. Karei monta la tormenta y castiga a los que rompen sus tabúes, que se burlan de un animal o mantienen la comida de regreso del campamento, y los culpables arrojan su propia sangre al cielo para calmarlo. La hala' canta en la oscuridad con el cenoi, los pequeños espíritus de las flores, y los muertos van al oeste a la Isla de Frutas."
- aslian_animism_old: "Old Karei"
- aslian_animism_old_adj: "Old Karei"
- aslian_animism_old_adherent: "Old Karei follower"
- aslian_animism_old_adherent_plural: "Antiguos seguidores de Karei"
- nicobarese: "Nicobarese"
- nicobarese_adj: "Nicobarese"
- nicobarese_adherent: "Nicobarese follower"
- nicobarese_adherent_plural: "Nicobarese followers"
- nicobarese_desc: "La religión de los isleños de Nicobar. Los menluana ven los espíritus malignos que traen enfermedad y los conducen de la aldea, y los paneles pintados de henta-koi y figuras talladas protegen cada casa. En las grandes fiestas los huesos de los muertos se cavan y se colocan en el osario, y los cerdos son masacrados."
+ aslian_animism_adherent: "Seguidor de Karei"
+ aslian_animism_adherent_plural: "Seguidores de Karei"
+ aslian_animism_desc: "Las creencias tradicionales de los orang asli, pueblos indígenas de los bosques del interior de la península malaya, reconocen a Karei como una poderosa divinidad asociada con las tormentas y el castigo de las transgresiones rituales. Se considera que su ira puede desatarse cuando alguien quebranta determinados tabúes, como burlarse de los animales o llevar alimentos prohibidos al campamento. Para apaciguarlo, los infractores realizan ceremonias en las que ofrecen su propia sangre al cielo. Los especialistas rituales hala' entonan cantos durante la noche para comunicarse con los cenoi, pequeños espíritus vinculados con las flores y la naturaleza. Según estas tradiciones, las almas de los difuntos emprenden un viaje hacia el occidente, donde se encuentra la mítica Isla de las Frutas."
+
+ # Antiguo Karei
+ aslian_animism_old: "Antiguo Karei"
+ aslian_animism_old_adj: "Antiguo Karei"
+ aslian_animism_old_adherent: "Seguidor del antiguo Karei"
+ aslian_animism_old_adherent_plural: "Seguidores del antiguo Karei"
+
+ # Nicobarés
+ nicobarese: "Nicobarés"
+ nicobarese_adj: "Nicobarés"
+ nicobarese_adherent: "Nicobarés"
+ nicobarese_adherent_plural: "Nicobareses"
+ nicobarese_desc: "Las creencias tradicionales de los habitantes de las islas Nicobar conceden especial importancia a la protección de las comunidades frente a los espíritus malignos y a la veneración de los antepasados. Los especialistas rituales menluana identifican a las entidades espirituales responsables de las enfermedades y celebran ceremonias para expulsarlas de las aldeas. Las viviendas se protegen mediante paneles pintados conocidos como henta-koi y figuras talladas destinadas a alejar las influencias perjudiciales. Durante las grandes festividades funerarias, los restos óseos de los difuntos son exhumados y trasladados a osarios comunitarios, mientras que los sacrificios de cerdos y los banquetes ceremoniales refuerzan los vínculos entre los vivos, sus antepasados y el mundo espiritual."
+
  holy_site_gua_cha_name: "Gua Cha"
  holy_site_gua_cha_effect_name: "Por el [holy_site|E] #weak ($holy_site_gua_cha_name$)#!"
  holy_site_tasik_bera_name: "Tasik Bera"
@@ -13090,12 +13159,17 @@
  puluga_death_name_possessive: "$puluga_high_god_name_possessive$"
  puluga_witch_god_name: "los espíritus forestales"
  puluga_witch_god_name_possessive: "los espíritus del bosque"
- satsana_phi_religion: "Kra-Dai"
- satsana_phi_religion_adj: "Kra-Dai"
- satsana_phi_religion_adherent: "Kra-Dai adherent"
- satsana_phi_religion_adherent_plural: "Kra-Dai adherents"
- satsana_phi_religion_desc: "Las viejas religiones de los pueblos Kra-Dai, de los Zhuang y Kam de Guangxi y Guizhou y el Hlai de Hainan al Tai de las colinas de Shan, Laos y Assam. Los espíritus de casa, aldea, campo y dominio se alimentan en sus santuarios, y los antepasados velan por sus descendientes y castigan el abandono. Los sacerdotes cantan, divinos y devuelven el alma errante, y las líneas dominantes trazan su descenso al cielo."
- satsana_phi_desc: "La religión del Tai de los valles de las tierras altas, desde las colinas de Shan hasta Laos y el río Negro. Cada casa, pueblo y muang tiene su phi, alimentado con arroz y licor en su santuario, y el pilar de cordero de cerdo sostiene al guardián de la ciudad. Las líneas dominantes descienden de Khun Borom, a quien Phaya Thaen envió desde el cielo, y el khwan, el alma, debe ser llamado de vuelta al cuerpo cuando la enfermedad lo expulsa."
+
+ # Religiones kra-dai
+ satsana_phi_religion: "Kra-dai"
+ satsana_phi_religion_adj: "Kra-dai"
+ satsana_phi_religion_adherent: "Seguidor de las tradiciones kra-dai"
+ satsana_phi_religion_adherent_plural: "Seguidores de las tradiciones kra-dai"
+ satsana_phi_religion_desc: "Las creencias tradicionales de los pueblos kra-dai se extienden desde los zhuang y kam de Guangxi y Guizhou y los hlai de Hainan hasta los pueblos tai de las montañas de Shan, Laos y Assam. Los espíritus protectores de los hogares, las aldeas, los campos y los principados reciben ofrendas en sus santuarios, mientras que los antepasados velan por sus descendientes y pueden castigarlos cuando son desatendidos. Los sacerdotes entonan cantos rituales, interpretan los presagios y realizan ceremonias para recuperar las almas extraviadas. Los linajes gobernantes remontan sus orígenes a antepasados celestiales, de quienes procede su autoridad."
+
+ # Satsana Phi
+ satsana_phi_desc: "Las creencias tradicionales de los pueblos tai de los valles montañosos, desde las colinas de Shan hasta Laos y la cuenca del río Negro, giran en torno a la veneración de los phi, espíritus protectores de los hogares, las aldeas y los principados o muang. Estos reciben ofrendas de arroz y licor en sus santuarios, mientras que los pilares sagrados de las ciudades albergan a sus divinidades tutelares. Los linajes gobernantes afirman descender de Khun Borom, enviado desde el cielo por Phaya Thaen para gobernar a los pueblos tai. El khwan, principio vital de cada persona, debe ser llamado de regreso al cuerpo mediante ceremonias cuando una enfermedad o desgracia provoca su alejamiento."
+
  holy_site_muang_thaeng_name: "Muang Thaeng"
  holy_site_muang_thaeng_effect_name: "Por el [holy_site|E] #weak ($holy_site_muang_thaeng_name$)#!"
  holy_site_charaideo_name: "Charaideo"
@@ -13351,11 +13425,14 @@
  hlaic_death_name_possessive: "$hlaic_high_god_name_possessive$"
  hlaic_witch_god_name: "los fantasmas"
  hlaic_witch_god_name_possessive: "de the ghosts"
- dab_qhuas_religion: "Hmong-Mien"
- dab_qhuas_religion_adj: "Hmong-Mien"
- dab_qhuas_religion_adherent: "Hmong-Mien adherent"
- dab_qhuas_religion_adherent_plural: "Hmong-Mien adherents"
- dab_qhuas_religion_desc: "Las viejas religiones de los pueblos Hmong-Mien de las colinas del sur de China: el Hmong de Guizhou y Hunan occidental, el Yao de los Nanling y la Ella de las montañas Fujian. Los antepasados de cada clan son alimentados en el altar del hogar y deben ser honrados para que no traigan enfermedad. El Hmong txiv neeb sigue las almas perdidas en el mundo espiritual, mientras que el Yao y Ella, que rastrean su descenso al dragón-dog Panhu, mantienen las ordenaciones daoístas y los libros rituales escritos en caracteres chinos."
+
+ # Religiones hmong-mien
+ dab_qhuas_religion: "Hmong-mien"
+ dab_qhuas_religion_adj: "Hmong-mien"
+ dab_qhuas_religion_adherent: "Seguidor de las tradiciones hmong-mien"
+ dab_qhuas_religion_adherent_plural: "Seguidores de las tradiciones hmong-mien"
+ dab_qhuas_religion_desc: "Las creencias tradicionales de los pueblos hmong-mien de las montañas del sur de China comprenden las prácticas religiosas de los hmong de Guizhou y el occidente de Hunan, los yao de las montañas Nanling y los she de las regiones montañosas de Fujian. Cada clan venera a sus antepasados mediante ofrendas en los altares domésticos, pues se considera que su abandono puede provocar enfermedades y desgracias. Entre los hmong, los chamanes txiv neeb viajan al mundo espiritual para recuperar las almas extraviadas y sanar a los enfermos, mientras que los yao y she, que remontan sus orígenes al mítico perro dragón Panhu, conservan ceremonias de iniciación taoístas y textos rituales escritos en caracteres chinos."
+
  mienic_old: "Old $mienic$"
  mienic_old_adj: "Old $mienic_adj$"
  mienic_old_adherent: "Old $mienic_adherent$"
@@ -13883,20 +13960,33 @@
  holy_site_dongting_effect_name: "Por el [holy_site|E] #weak ($holy_site_dongting_name$)#!"
  holy_site_wehale_name: "Wehale"
  holy_site_wehale_effect_name: "Por el [holy_site|E] #weak ($holy_site_wehale_name$)#!"
- tengrism_religion_desc: "Las viejas religiones de la estepa. Sobre todo está Tengri, el Cielo Azul Eterno, con la tierra y las aguas abajo; los ancestros son alimentados y recordados, los chamanes cabalgan entre los mundos, y los khans gobiernan por el favor del cielo. Los turcos del occidente, los mongoles del oriente, los pueblos de los bosques de Altai y Baikal, y los alanes del Cáucaso guardan cada uno sus propios dioses, montañas sagradas y ritos."
+
+ # Tengrismo
+ tengrism_religion_desc: "Las antiguas creencias de los pueblos de las estepas reconocen a Tengri, el Cielo Azul Eterno, como divinidad suprema, junto con los espíritus de la tierra, las aguas y los antepasados. Los chamanes actúan como intermediarios entre los distintos mundos espirituales, mientras que los kanes reciben su legitimidad del favor celestial. Desde los pueblos túrquicos de las estepas occidentales hasta los mongoles del oriente, pasando por las comunidades de los bosques del Altái y el Baikal y los alanos del Cáucaso, cada pueblo conserva sus propias divinidades, montañas sagradas y tradiciones rituales."
+
+ # Tangra
  tangra: "Tangra"
  tangra_adj: "Tangra"
- tangra_adherent: "Tangra follower"
- tangra_adherent_plural: "Tangra followers"
- tangra_desc: "La religión de los Bulgars, Khazars y Ávares del estepa occidental. Tangra, el cielo, dio a los khans su derecho a gobernar: el Bulgar khan gobernó de Dios, y el Khazar khagan era un rey sagrado, mantenido aparte y muerto si su fortuna falló. Los caballos fueron sacrificados en los santuarios de Pliska, y los juramentos fueron jurados sobre un perro cortado en dos."
- tash_baba_desc: "La religión de los Kipchaks, Cumans y Kimeks de la estepa occidental. Sobre los kurgans a través de la estepa Pontic y Caspian destacan figuras de piedra de los antepasados, cuenco a mano, alimentados con ofrendas por sus descendientes; el kam habla con los espíritus y predice el resultado de la batalla."
- muye_desc: "La religión del Khitan. En Muye Shan, donde el Shira Muren se encuentra con la Laoha, Qishou Khaghan en un caballo blanco se encontró con la Maiden celestial en un buey gris, y de ellos vinieron las ocho tribus Khitan; su templo está ahí quieto. El emperador sacrifica al Cielo y a la Tierra y dispara a los sauces por la lluvia, y las almas de los muertos regresan a la Montaña Negra."
- boo_murgel_desc: "La religión de los pueblos mongolicos de Baikal. Esege Malaan Tengri dirige los noventa y nueve diezgri, los dioses occidentales de luz contra los dioses orientales de las tinieblas; el böööö golpeó sus tambores para alcanzarlos, y Baikal, sus espíritus maestros y la roca de Olkhon son los lugares más sagrados de todos."
+ tangra_adherent: "Seguidor de Tangra"
+ tangra_adherent_plural: "Seguidores de Tangra"
+ tangra_desc: "Las creencias tradicionales de los búlgaros, jázaros y ávaros de las estepas occidentales reconocen a Tangra, el Cielo, como fuente de la autoridad de sus soberanos. Los kanes búlgaros afirmaban gobernar por voluntad divina, mientras que el jagán jázaro era considerado un monarca sagrado, apartado de sus súbditos y cuya vida podía ser sacrificada si perdía el favor celestial. Los sacrificios de caballos formaban parte de las ceremonias religiosas celebradas en los santuarios de Pliska, mientras que los juramentos solemnes podían sellarse mediante el sacrificio ritual de un perro dividido en dos."
+
+ # Tash Baba
+ tash_baba_desc: "Las creencias tradicionales de los kipchaks, cumanos y kimekos de las estepas occidentales conceden especial importancia a la veneración de los antepasados. Sobre los kurganes de las estepas pónticas y caspias se alzan estatuas funerarias de piedra que representan a los difuntos sosteniendo recipientes para las ofrendas, mediante las cuales sus descendientes mantienen el vínculo con ellos. Los chamanes kam actúan como intermediarios con los espíritus, interpretan los presagios y buscan conocer el resultado de las batallas antes de que los guerreros entren en combate."
+
+ # Muye
+ muye_desc: "Las creencias tradicionales de los kitán remontan el origen de sus ocho tribus al encuentro sagrado ocurrido en el monte Muye, donde confluyen los ríos Shira Muren y Laoha. Según la tradición, Qishou, el primer jagán, llegó montado en un caballo blanco y encontró a una doncella celestial que viajaba sobre un buey gris. De su unión nacieron los antepasados de las ocho tribus kitán, y en aquel lugar se estableció un santuario dedicado a su memoria. Los emperadores celebran sacrificios al Cielo y la Tierra y realizan ceremonias de tiro con arco sobre sauces para propiciar la lluvia, mientras que las almas de los difuntos regresan a la Montaña Negra, considerada su morada ancestral."
+
+ # Böö Mürgel
+ boo_murgel_desc: "Las creencias tradicionales de los pueblos mongólicos de la región del Baikal reconocen a Esege Malaan Tengri como una de las principales divinidades celestiales, vinculada con los noventa y nueve tengris que gobiernan el mundo espiritual. Los dioses occidentales representan las fuerzas luminosas y benévolas, mientras que los orientales se asocian con las potencias oscuras. Los chamanes böö invocan a estas divinidades mediante el sonido de sus tambores y ceremonias de trance. El lago Baikal, sus espíritus tutelares y las formaciones rocosas de la isla de Oljón constituyen algunos de los lugares más sagrados de esta tradición."
+
+ # Aiyy
  aiyy: "Aiyy"
  aiyy_adj: "Aiyy"
- aiyy_adherent: "Aiyy follower"
- aiyy_adherent_plural: "Aiyy followers"
- aiyy_desc: "La religión del Kurykan de Baikal, ancestros de los Sakha. Ürüng Aiyy Toyon, el señor blanco del sol, hizo el mundo; Aiyysyt da hijos; en el ysyakh, el festival de verano medio, kumis se ofrece al Aiyy. El oyuun blanco sirve a los dioses del mundo superior y el oyuun negro trata con el abaasy abajo, y los muertos se colocan en plataformas levantadas."
+ aiyy_adherent: "Seguidor de Aiyy"
+ aiyy_adherent_plural: "Seguidores de Aiyy"
+ aiyy_desc: "Las creencias tradicionales de los kurikan de la región del Baikal, considerados antepasados de los sajá, reconocen a Ürüng Aiyy Toyon, el Blanco Señor del Sol, como creador del mundo, mientras que Aiyysyt protege la fertilidad y concede descendencia a las familias. Durante el Ysyaj, la gran festividad del solsticio de verano, se ofrecen libaciones de kumis a los aiyy, las divinidades benévolas del mundo superior. Los chamanes blancos sirven a los dioses celestiales, mientras que los chamanes negros tratan con los abaasy, espíritus de los mundos inferiores. Los ritos funerarios tradicionales incluyen la colocación de los difuntos sobre plataformas elevadas."
+
  holy_site_otuken_name: "Ötüken"
  holy_site_otuken_effect_name: "Por el [holy_site|E] #weak ($holy_site_otuken_name$)#!"
  holy_site_suyab_ordo_name: "Suyab"
@@ -14352,27 +14442,38 @@
  assi_death_name_possessive: "de Barastyr"
  assi_witch_god_name: "el dælimon"
  assi_witch_god_name_possessive: "de the dælimon"
+
+ # Nirai Kanai
  utaki: "Nirai Kanai"
  utaki_adj: "Nirai Kanai"
- utaki_adherent: "Nirai Kanai seguidor"
- utaki_adherent_plural: "Nirai Kanai seguidores"
- utaki_desc: "La fe de las islas Ryukyu, de Amami a Yonaguni. Cada año los dioses vienen de Nirai Kanai, la tierra más allá del mar, para bendecir las islas y sus cosechas, y a Nirai Kanai los muertos regresan en el tiempo. Los dioses son recibidos en los bosques sagrados que ningún hombre puede entrar, y sólo las mujeres les sirven, de las sacerdotisas de cada pueblo a los médiums que hablan por los muertos."
- uchinaa: "Okinawan"
- uchinaa_adj: "Okinawan"
- uchinaa_adherent: "Okinawan follower"
- uchinaa_adherent_plural: "Okinawan followers"
- uchinaa_desc: "La religión de Okinawa y Amami. Amamichu descendió del cielo e hizo las islas y sus primeros bosques sagrados; los dioses regresan cada año de Nirai Kanai al utaki, donde el noro, las sacerdotisas de cada pueblo, las reciben con oraciones y las sagradas canciones de omoro. En cada casa Hinukan, el dios del corazón, mira sobre la familia, y el yuta, poseído por los dioses, habla por los muertos."
- qiangic_religion_desc: "Las viejas religiones de los pueblos Qiangic en el borde oriental de la meseta tibetana. El Qiang del valle de Min puso piedras blancas en sus techos para Mubyasei, dios del cielo, y escalar a los dioses de montaña con ovejas para sacrificio, guiados por el xbi con sus sombreros de mono-skin y tambores de oveja; el honor del Tangut Mewn la grúa blanca y Viei el mono rojo, divino antes de la guerra, y sellar sus juramentos en sangre. Entre todos ellos los muertos son quemados en el pícaro."
+ utaki_adherent: "Seguidor de Nirai Kanai"
+ utaki_adherent_plural: "Seguidores de Nirai Kanai"
+ utaki_desc: "Las creencias tradicionales de las islas Ryukyu, desde Amami hasta Yonaguni, reconocen a Nirai Kanai como una tierra sagrada situada más allá del mar, de donde proceden las divinidades que cada año visitan las islas para bendecir sus tierras y cosechas. Según la tradición, las almas de los difuntos también regresan finalmente a este reino ancestral. Los dioses son recibidos en los utaki, bosques y recintos sagrados cuyo acceso está restringido y donde las ceremonias religiosas son dirigidas principalmente por mujeres. Desde las sacerdotisas de cada aldea hasta las médiums capaces de comunicarse con los espíritus de los muertos, las mujeres desempeñan un papel fundamental en la conservación de estas tradiciones."
+
+ # Okinawense
+ uchinaa: "Okinawense"
+ uchinaa_adj: "Okinawense"
+ uchinaa_adherent: "Okinawense"
+ uchinaa_adherent_plural: "Okinawenses"
+ uchinaa_desc: "Las creencias tradicionales de Okinawa y Amami reconocen a Amamichu como la divinidad creadora que descendió del cielo para formar las islas y establecer sus primeros bosques sagrados. Cada año, las divinidades regresan desde Nirai Kanai y son recibidas en los utaki por las sacerdotisas noro, quienes celebran ceremonias mediante oraciones y cantos sagrados conocidos como omoro. En cada hogar, Hinukan, la divinidad del fuego doméstico, protege a la familia y vela por su bienestar. Las médiums yuta, capaces de entrar en contacto con el mundo espiritual, transmiten los mensajes de las divinidades y los antepasados."
+
+ # Religiones qiángicas
+ qiangic_religion_desc: "Las antiguas creencias de los pueblos qiángicos de las regiones orientales de la meseta tibetana veneran a las divinidades celestiales, los espíritus de las montañas y los antepasados. Los qiang del valle del Min colocan piedras blancas sobre los tejados en honor a Mubyasei, dios del cielo, y ascienden a las montañas sagradas para ofrecer ovejas en sacrificio, guiados por los sacerdotes xbi, que llevan sombreros de piel de mono y tambores de piel de oveja. Los tangut veneran a Mewn, la grulla blanca, y a Viei, el mono rojo, consultan los presagios antes de la guerra y sellan sus juramentos mediante sacrificios de sangre. Entre estos pueblos, la cremación constituye una importante práctica funeraria destinada a asegurar el tránsito de los difuntos al mundo ancestral."
+
+ # Rrmea
  rrmea: "Rrmea"
  rrmea_adj: "Rrmea"
- rrmea_adherent: "Rrmea follower"
- rrmea_adherent_plural: "Rrmea followers"
- rrmea_desc: "La religión del Qiang del valle de Min y el Keru de Gyalrong. Una piedra blanca se encuentra en cada techo y santuario para Mubyasei, dios del cielo; cada pueblo mantiene su bosque sagrado y sube a su dios de la montaña con una oveja para el sacrificio en el Año Nuevo. El xbi, en sombreros de mono y batiendo tambores de piel de oveja, canta las historias sagradas de memoria, sana a los enfermos y expulsa a Dul, y los muertos se queman en el piro."
+ rrmea_adherent: "Seguidor del Rrmea"
+ rrmea_adherent_plural: "Seguidores del Rrmea"
+ rrmea_desc: "Las creencias tradicionales de los qiang del valle del Min y los keru de Gyalrong reconocen a Mubyasei como divinidad celestial, representada mediante piedras blancas colocadas sobre los tejados y en los santuarios. Cada aldea conserva un bosque sagrado y celebra sacrificios de ovejas en honor a su montaña protectora durante las festividades del Año Nuevo. Los sacerdotes xbi, ataviados con sombreros de piel de mono y acompañados por tambores de piel de oveja, recitan de memoria los relatos sagrados, sanan a los enfermos y expulsan a los espíritus malignos dul. Los difuntos son cremados mediante ceremonias destinadas a facilitar su tránsito hacia el mundo de los antepasados."
+
+ # Qiuchi
  chouchi: "Qiuchi"
  chouchi_adj: "Qiuchi"
- chouchi_adherent: "Qiuchi follower"
- chouchi_adherent_plural: "Qiuchi followers"
- chouchi_desc: "La religión de la Baima Di, los ancianos de Qiuchi, Wudu y Yinping en las colinas donde Sichuan se encuentra con Gansu. El Señor del Caballo Blanco mira desde su montaña sobre los valles, los antepasados se alimentan en cada corazón, y en el Año Nuevo los bailarines enmascarados van de casa a casa sacando los espíritus malignos."
+ chouchi_adherent: "Seguidor de Qiuchi"
+ chouchi_adherent_plural: "Seguidores de Qiuchi"
+ chouchi_desc: "Las creencias tradicionales de los baima di, descendientes de las antiguas comunidades de Qiuchi, Wudu y Yinping, se conservan en las regiones montañosas donde confluyen Sichuan y Gansu. El Señor del Caballo Blanco, divinidad protectora de las montañas, vela por los valles y sus habitantes, mientras que los antepasados reciben ofrendas en los altares domésticos. Durante las celebraciones del Año Nuevo, grupos de danzantes enmascarados recorren las aldeas de casa en casa para expulsar a los espíritus malignos, purificar los hogares y asegurar la prosperidad de la comunidad."
+
  holy_site_xuebaoding_name: "Xuebaoding"
  holy_site_xuebaoding_effect_name: "Por el [holy_site|E] #weak ($holy_site_xuebaoding_name$)#!"
  holy_site_qiuchi_name: "Qiuchi"
@@ -14618,46 +14719,63 @@
  holy_site_damota_effect_name: "Por el [holy_site|E] #weak ($holy_site_damota_name$)#!"
  holy_site_prasun_name: "Prasun"
  holy_site_prasun_effect_name: "Por el [holy_site|E] #weak ($holy_site_prasun_name$)#!"
+
+ # Tsuglag
  tsuglag: "Tsuglag"
  tsuglag_adj: "Tsuglag"
  tsuglag_adherent: "Tsuglagpa"
- tsuglag_adherent_plural: "Tsuglagpa"
- tsuglag_desc: "La antigua religión del Tíbet y Zhangzhung, el orden divino por el cual el tsenpo gobernó. El primer rey descendió del cielo por la carne, y los reyes volvieron al cielo por ella hasta que se cortó el cordón; las montañas sagradas sostenían la vida del reino. El bönpo y el establo leyeron los reverendos, sanaron a los enfermos, sellaron los juramentos con sacrificio y llevaron a los muertos a la tierra más allá. En los valles altos del Himalaya, los viejos dioses siguen siendo servidos por médiums y ofrendas de sangre."
+ tsuglag_adherent_plural: "Tsuglagpas"
+ tsuglag_desc: "Las antiguas creencias religiosas del Tíbet y Zhangzhung concebían el orden sagrado como fundamento de la autoridad de los tsenpos. Según la tradición, el primer rey descendió del cielo mediante una cuerda celestial, por la que sus sucesores regresaban tras la muerte hasta que esta fue cortada. Las montañas sagradas protegían la fuerza vital del reino, mientras que los sacerdotes bönpo y shen interpretaban los presagios, sanaban a los enfermos, consagraban los juramentos mediante sacrificios y guiaban a los difuntos hacia el más allá. En los altos valles del Himalaya, las antiguas divinidades continuaron recibiendo ofrendas de sangre y siendo invocadas por los médiums."
+
+ # Khyarwé Bön
  khyarwe: "Khyarwé Bön"
- khyarwe_adj: "Khyarwé Bönpo"
- khyarwe_adherent: "Khyarwé Bönpo"
- khyarwe_adherent_plural: "Khyarwé Bönpo"
- khyarwe_desc: "La religión del tsenpo de Yarlung. Los reyes descendieron del cielo por la muralla y los montes sku-bla, Yarlha Shampo primero entre ellos, ocupó sus vidas. El bönpo y Shen leyeron los augurios y realizaron los largos ritos para los muertos; las grandes tumbas de Chongye fueron levantadas con luto, fiesta y sacrificio, y cada juramento del reino fue sellado con la sangre de ovejas, perros y caballos."
+ khyarwe_adj: "Khyarwé Bön"
+ khyarwe_adherent: "Bönpo khyarwé"
+ khyarwe_adherent_plural: "Bönpos khyarwé"
+ khyarwe_desc: "Las creencias tradicionales de los tsenpos de Yarlung vinculaban la autoridad real con el cielo y las montañas sagradas. Según sus relatos, los primeros soberanos descendieron del cielo mediante una cuerda celestial, mientras que las divinidades protectoras sku-bla, encabezadas por Yarlha Shampo, custodiaban su fuerza vital. Los sacerdotes bönpo y shen interpretaban los presagios y celebraban elaborados rituales funerarios. Las grandes tumbas reales de Chongye se erigían entre ceremonias de duelo, banquetes y sacrificios, mientras que los juramentos del reino se sellaban con la sangre de ovejas, perros y caballos."
+
+ # Gyer
  gyer: "Gyer"
  gyer_adj: "Gyer"
- gyer_adherent: "Gyer follower"
- gyer_adherent_plural: "Gyer followers"
- gyer_desc: "La antigua religión de Zhangzhung, cuyos reyes gobernaron desde el castillo de plata de Khyunglung hasta que los tibetanos tomaron la tierra en el siglo VII. Gyer es la palabra Zhangzhung para Bön. Los gyerpung, maestros del canto, sirven a Gekhö, señor de Tise, y los dioses del lago Mapham, y leen el futuro en cuerdas anudadas, en lotes y en el vuelo de los pájaros."
+ gyer_adherent: "Seguidor del Gyer"
+ gyer_adherent_plural: "Seguidores del Gyer"
+ gyer_desc: "Las antiguas creencias de Zhangzhung se desarrollaron bajo sus propios soberanos, que gobernaban desde la fortaleza de plata de Khyunglung hasta la conquista tibetana del territorio en el siglo VII. El término gyer, procedente de la lengua de Zhangzhung, se relaciona con la tradición religiosa del Bön. Los gyerpung, maestros de los cantos sagrados, veneraban a Gekhö, señor del monte Tise, y a las divinidades del lago Mapham. Sus prácticas incluían la interpretación de presagios mediante cuerdas anudadas, el sorteo ritual y la observación del vuelo de las aves."
+
+ # Pawo
  pawo: "Pawo"
  pawo_adj: "Pawo"
- pawo_adherent: "Pawo follower"
- pawo_adherent_plural: "Pawo followers"
- pawo_desc: "La antigua religión de los valles del sur de Mön. Cada valle tiene su nep, su señor, y cada pasa su dios de la montaña, con Ama Jomo sobre todos ellos. Los dioses hablan a través de la pawo y la pamo, hombres y mujeres que caen en trance, y el bönpo hacen las ofrendas de sangre que mantienen los dioses contentos."
+ pawo_adherent: "Seguidor del Pawo"
+ pawo_adherent_plural: "Seguidores del Pawo"
+ pawo_desc: "Las antiguas creencias de los valles meridionales de Mön reconocen numerosas divinidades vinculadas con las montañas y los territorios ancestrales. Cada valle posee su propio nep, o señor protector, y cada paso montañoso se encuentra bajo la custodia de una divinidad, entre las que destaca Ama Jomo. Los dioses manifiestan su voluntad mediante los pawo y las pamo, médiums masculinos y femeninos que entran en trance para comunicarse con el mundo espiritual. Los sacerdotes bönpo realizan sacrificios y ofrendas de sangre para conservar el favor de las divinidades y proteger a sus comunidades."
+
+ # Yungdrung Bön
  yungdrung_bon: "Yungdrung Bön"
- yungdrung_bon_adj: "Yungdrung Bönpo"
- yungdrung_bon_adherent: "Yungdrung Bönpo"
- yungdrung_bon_adherent_plural: "Yungdrung Bönpo"
- yungdrung_bon_desc: "Eterno Bön, la enseñanza de Tönpa Shenrab, que vino de Olmo Lungring en el oeste. En 1017 Shenchen Luga sacó los tesoros escondidos durante las persecuciones, y en 1072 Druchen Namkha Yungdrung fundó Yeru Wensakha en Tsang. Los clanes de Bön mantienen la Gran Perfección de Zhangzhung, los monjes estudian en los monasterios, y los peregrinos caminan alrededor de Tise contra el sentido budista."
+ yungdrung_bon_adj: "Yungdrung Bön"
+ yungdrung_bon_adherent: "Bönpo yungdrung"
+ yungdrung_bon_adherent_plural: "Bönpos yungdrung"
+ yungdrung_bon_desc: "El Yungdrung Bön, o «Bön Eterno», remonta sus enseñanzas a Tönpa Shenrab, maestro espiritual procedente de la tierra occidental de Olmo Lungring. En 1017, Shenchen Luga recuperó textos sagrados que, según la tradición, habían permanecido ocultos durante las persecuciones religiosas. En 1072, Druchen Namkha Yungdrung fundó el monasterio de Yeru Wensakha, en Tsang, consolidando la organización monástica de esta tradición. Los linajes bönpo conservan las enseñanzas de la Gran Perfección de Zhangzhung, mientras que los monjes estudian las escrituras en sus monasterios y los peregrinos circunvalan el monte Tise en sentido contrario al de los budistas."
+
+ # Dtomba
  dtomba: "Dtomba"
  dtomba_adj: "Dtomba"
- dtomba_adherent: "Dtombaist"
- dtomba_adherent_plural: "Dtombaists"
- dtomba_desc: "La religión del Naxi y el Mosuo, arrastrada del Tíbet y creciendo en la vida del valle de Jinsha. El dtomba, que traza su sacerdocio a Dtomba Shilo, el Tönpa Shenrab del Bön, mantiene los libros escritos en imágenes. Sacrifican al Cielo en el Año Nuevo, hacen la paz con los Ssu que poseen los manantiales y bosques, y envían a los muertos por el camino de los antepasados."
+ dtomba_adherent: "Dtombista"
+ dtomba_adherent_plural: "Dtombistas"
+ dtomba_desc: "Las creencias tradicionales de los naxi y mosuo, influidas por las antiguas religiones tibetanas y desarrolladas en los valles del río Jinsha, se transmiten mediante las enseñanzas de los sacerdotes dtomba. Estos remontan el origen de su tradición a Dtomba Shilo, figura comparable a Tönpa Shenrab del Bön, y conservan sus conocimientos en manuscritos pictográficos. Durante el Año Nuevo celebran sacrificios al Cielo, realizan ceremonias para reconciliarse con los espíritus Ssu, guardianes de los manantiales y los bosques, y guían las almas de los difuntos por el camino ancestral hacia la tierra de sus antepasados."
+
+ # Muan Bpo
  muan_bpo: "Muan Bpo"
  muan_bpo_adj: "Muan Bpo"
- muan_bpo_adherent: "Muan Bpo seguidor"
- muan_bpo_adherent_plural: "Muan Bpo seguidores"
- muan_bpo_desc: "La religión del Naxi, que se llama a sí mismos el pueblo que sacrifica al Cielo. En el Año Nuevo cada clan sacrifica cerdos a Muan, el Cielo y Ddü, la Tierra, en su sagrado bosque; Sanduo protege la tierra de la montaña de Nieve del Dragón de Jade. La dtomba, con sus libros pictográficos, expulsa los ts'u, sana a los enfermos, establece las disputas de los hombres con el Ssu, y quema a los muertos y envía sus almas de vuelta a la tierra de los antepasados en el norte."
+ muan_bpo_adherent: "Seguidor del Muan Bpo"
+ muan_bpo_adherent_plural: "Seguidores del Muan Bpo"
+ muan_bpo_desc: "Las creencias tradicionales de los naxi, que se consideran a sí mismos el pueblo que ofrece sacrificios al Cielo, reconocen a Muan como divinidad celestial y a Ddü como representación de la Tierra. Durante el Año Nuevo, cada clan sacrifica cerdos en sus bosques sagrados para honrar a ambas divinidades, mientras que Sanduo protege las tierras que rodean la Montaña Nevada del Dragón de Jade. Los sacerdotes dtomba conservan las enseñanzas religiosas en manuscritos pictográficos, expulsan a los espíritus malignos ts'u, sanan a los enfermos y restablecen la armonía entre los seres humanos y los Ssu, guardianes de la naturaleza. Los ritos funerarios incluyen la cremación y el acompañamiento de las almas hacia la tierra ancestral del norte."
+
+ # Daba
  daba: "Daba"
  daba_adj: "Daba"
- daba_adherent: "Daba follower"
- daba_adherent_plural: "Daba followers"
- daba_desc: "La religión del Mosuo de Yongning y el Lago Lugu. Gemu, la diosa de la montaña sobre el lago, mira sobre el pueblo, y Xienami es el Lago Madre. Cada casa pertenece a la línea de su madre y ninguno nace un bastardo; los hombres visitan a sus amantes por la noche y regresan a casa al amanecer. El daba guarda sus cantos sin libros y envía a los muertos a casa a lo largo del camino de los antepasados."
+ daba_adherent: "Seguidor del Daba"
+ daba_adherent_plural: "Seguidores del Daba"
+ daba_desc: "Las creencias tradicionales de los mosuo de Yongning y del lago Lugu reconocen a Gemu, la diosa de la montaña que domina el lago, como protectora de su pueblo, mientras que Xienami es venerada como la Madre del Lago. La sociedad mosuo se organiza mediante linajes maternos, en los que la pertenencia familiar se transmite por las mujeres y las relaciones de pareja permiten que los hombres visiten a sus compañeras durante la noche y regresen a sus hogares al amanecer. Los sacerdotes daba conservan sus enseñanzas mediante cantos transmitidos oralmente, sin recurrir a escrituras, y celebran ceremonias funerarias para guiar las almas de los difuntos por el camino que conduce a la tierra de sus antepasados."
+
  pawo_priest_female: "pamo"
  pawo_priest_female_plural: "pamo"
  holy_site_wensakha_name: "Yeru Wensakha"
@@ -14976,21 +15094,28 @@
  daba_death_name_possessive: "$daba_high_god_name_possessive$"
  daba_witch_god_name: "los espíritus malignos"
  daba_witch_god_name_possessive: "de los espíritus malignos"
- mundhum: "mundhum"
- mundhum_adj: "mundhum"
- mundhum_adherent: "Mundhum follower"
- mundhum_adherent_plural: "Mundhum followers"
- mundhum_desc: "La religión del Yakthung de Limbuwan. Tagera Ningwaphuma, sin forma y suprema, hizo el mundo; Yuma Sammang, la abuela, y Theba Sammang, el abuelo, vigilan a la gente. El Mundhum, el loro sagrado de la creación, de los primeros antepasados y de cada rito, es recitado de memoria por el phedangma y la samba, mientras que el yeba y el yema sanan a los enfermos y expulsan la sogha, los espíritus de los que murieron mal."
+
+ # Mundhum
+ mundhum: "Mundhum"
+ mundhum_adj: "Mundhum"
+ mundhum_adherent: "Seguidor del Mundhum"
+ mundhum_adherent_plural: "Seguidores del Mundhum"
+ mundhum_desc: "Las creencias tradicionales de los yakthung de Limbuwán reconocen a Tagera Ningwaphuma, divinidad suprema y sin forma, como creadora del mundo. Yuma Sammang, la Abuela, y Theba Sammang, el Abuelo, protegen al pueblo y velan por su bienestar. El Mundhum, conjunto de relatos sagrados sobre la creación, los primeros antepasados y las ceremonias religiosas, se transmite oralmente mediante las recitaciones de los sacerdotes phedangma y samba. Los especialistas rituales yeba y yema se encargan de sanar a los enfermos y expulsar a los sogha, espíritus inquietos de quienes sufrieron una muerte violenta o prematura."
+
+ # Ridum
  ridum: "Ridum"
  ridum_adj: "Ridum"
- ridum_adherent: "Ridum follower"
- ridum_adherent_plural: "Ridum followers"
- ridum_desc: "La religión del Khambu de Khotang y las colinas del Arun. Paruhang y Sumnima, los primeros antepasados, descendieron de Salpa; sus descendientes guardan las tres piedras de corazón, el suptulung, donde moran los antepasados. El nakchhong recita el Ridum y el camino de regreso a la tierra de los antepasados, y cada primavera y otoño los pueblos bailan el Sakela."
+ ridum_adherent: "Seguidor del Ridum"
+ ridum_adherent_plural: "Seguidores del Ridum"
+ ridum_desc: "Las creencias tradicionales de los khambu de Khotang y las colinas del Arun reconocen a Paruhang y Sumnima como antepasados primordiales, cuyo origen se encuentra en la montaña sagrada de Salpa. Sus descendientes veneran a los antepasados mediante el suptulung, un hogar ritual formado por tres piedras donde residen los espíritus familiares. Los sacerdotes nakchhong recitan el Ridum, conjunto de tradiciones sagradas que conserva los relatos ancestrales y describe el camino que deben recorrer las almas para regresar a la tierra de sus antepasados. Cada primavera y otoño, las comunidades celebran el Sakela mediante danzas y ceremonias dedicadas a la naturaleza y la prosperidad."
+
+ # Mun
  mun: "Mun"
  mun_adj: "Mun"
- mun_adherent: "Mun follower"
- mun_adherent_plural: "Mun followers"
- mun_desc: "La religión de la Lepcha de los valles debajo de Kangchenjunga. Itbu-moo, la Madre Creadora, hizo la primera Lepcha de las nieves de la montaña, y Kongchen, su dios, los protege todavía; debajo está Mayel Lyang, el paraíso escondido. El bongthing hace que las ofrendas al ron, y la mun, en su mayoría mujeres, caigan en trance y guíen las almas de los muertos."
+ mun_adherent: "Seguidor del Mun"
+ mun_adherent_plural: "Seguidores del Mun"
+ mun_desc: "Las creencias tradicionales de los lepcha de los valles situados al pie del Kanchenjunga reconocen a Itbu-moo, la Madre Creadora, como origen de la humanidad, pues formó a los primeros lepcha con las nieves de la montaña sagrada. Kongchen, divinidad protectora de la montaña, vela por su pueblo, mientras que Mayel Lyang representa la tierra ancestral y el paraíso oculto. Los sacerdotes bongthing presentan ofrendas a los rum, espíritus y divinidades de la naturaleza, mientras que las especialistas rituales mun, generalmente mujeres, entran en trance para comunicarse con el mundo espiritual y guiar las almas de los difuntos."
+
  mun_priest_female: "mun"
  mun_priest_female_plural: "mun"
  holy_site_mukkumlung_name: "Mukkumlung"
@@ -15148,36 +15273,49 @@
  mun_death_name_possessive: "$mun_high_god_name_possessive$"
  mun_witch_god_name: "el mung"
  mun_witch_god_name_possessive: "de the mung"
+
+ # Singbonga
  singbonga: "Singbonga"
  singbonga_adj: "Singbonga"
- singbonga_adherent: "Singbonga follower"
- singbonga_adherent_plural: "Singbonga followers"
- singbonga_desc: "La religión de la Munda, Ho y Bhumij. Singbonga, el sol, hizo el mundo y el primer hombre y mujer; Chando, la luna, es su esposa. Cada pueblo mantiene su sarna y su pahan, cada clan su sasan donde los muertos se encuentran bajo piedras planas, y en Sarhul, cuando los árboles de sal florecen, las flores se ofrecen a los dioses del bosque."
+ singbonga_adherent: "Seguidor de Singbonga"
+ singbonga_adherent_plural: "Seguidores de Singbonga"
+ singbonga_desc: "Las creencias tradicionales de los pueblos munda, ho y bhumij reconocen a Singbonga, la divinidad solar, como creador del mundo y de los primeros seres humanos, mientras que Chando, la luna, es considerada su esposa. Cada aldea conserva un bosque sagrado llamado sarna, donde el sacerdote pahan celebra los rituales comunitarios. Los clanes poseen sus propios cementerios sasan, donde los difuntos descansan bajo grandes losas de piedra. Durante la festividad de Sarhul, coincidiendo con la floración de los árboles de sal, se ofrecen flores a las divinidades del bosque para asegurar la prosperidad de la comunidad."
+
+ # Chai Champa
  chai_champa: "Chai Champa"
  chai_champa_adj: "Chai Champa"
- chai_champa_adherent: "Chai Champa seguidor"
- chai_champa_adherent_plural: "Chai Champa seguidores"
- chai_champa_desc: "La religión del Santal, que recuerda a Chai Champa como la tierra donde sus ancestros vivían antes de que vagaran hacia el este. Thakur Jiu hizo todas las cosas; Marang Buru, la Gran Montaña, es el primero de los bongas, y Jaher Era habita en el bosque sagrado. El naeke sirve al jaher, el ojha saca la enfermedad, y en cada gran rito el Binti, la historia de la creación, se recita."
+ chai_champa_adherent: "Seguidor de Chai Champa"
+ chai_champa_adherent_plural: "Seguidores de Chai Champa"
+ chai_champa_desc: "Las creencias tradicionales de los santales conservan el recuerdo de Chai Champa, la tierra ancestral donde habitaban sus antepasados antes de emprender sus migraciones hacia el este. Thakur Jiu es reconocido como creador de todas las cosas, mientras que Marang Buru, la Gran Montaña, ocupa el lugar principal entre los espíritus bonga. Jaher Era, la Señora del Bosque Sagrado, habita en el santuario natural de cada aldea. El sacerdote naeke dirige las ceremonias en el jaher, mientras que el especialista ritual ojha combate las enfermedades y los espíritus malignos. Durante las principales celebraciones se recita el Binti, el relato sagrado de la creación y los orígenes del pueblo santal."
+
+ # Bura Pen
  bura_pen: "Bura Pen"
  bura_pen_adj: "Bura Pen"
- bura_pen_adherent: "Bura Pen seguidor"
- bura_pen_adherent_plural: "Bura Pen seguidores"
- bura_pen_desc: "La religión de los pueblos de habla dravidiana de los bosques de la India central, el Gond, Koya y Kondh. Bura Pen, el gran dios, gobierna sobre la pluma menor de clan, pueblo y campo; los clanes guardan sus propios dioses y levantan piedras para sus muertos; ganado, cabras y, entre el Kondh, las víctimas humanas se ofrecen para que la tierra llevará."
+ bura_pen_adherent: "Seguidor de Bura Pen"
+ bura_pen_adherent_plural: "Seguidores de Bura Pen"
+ bura_pen_desc: "Las creencias tradicionales de los pueblos de lenguas dravídicas de los bosques de la India central, entre ellos los gond, koya y kondh, reconocen a Bura Pen como la gran divinidad que gobierna sobre los espíritus menores de los clanes, las aldeas y los campos. Cada linaje conserva sus propias divinidades protectoras y erige monumentos de piedra en memoria de sus difuntos. Los sacrificios de ganado y cabras forman parte de las ceremonias destinadas a garantizar la fertilidad de la tierra, mientras que entre algunas comunidades kondh también se practicaban sacrificios humanos con fines propiciatorios."
+
+ # Persa Pen
  persa_pen: "Persa Pen"
  persa_pen_adj: "Persa Pen"
- persa_pen_adherent: "Persa Pen seguidor"
- persa_pen_adherent_plural: "Persa Pen seguidores"
- persa_pen_desc: "La religión de los Gond y Koya. Bara Deo habita en el árbol de saja, y cada clan guarda su Persa Pen, el dios del clan, como una lanza de hierro en la casa de su anciano. Pari Kupar Lingo libró a los Gonds de la cueva de Kachargarh y les dio sus clanes y su música; el Pardhan bards todavía canta su canción, y el bhumka hace las ofrendas en el pen kara, el bosque de los dioses."
+ persa_pen_adherent: "Seguidor de Persa Pen"
+ persa_pen_adherent_plural: "Seguidores de Persa Pen"
+ persa_pen_desc: "Las creencias tradicionales de los gond y koya reconocen a Bara Deo como una gran divinidad que habita en el árbol de saja. Cada clan venera a su propio Persa Pen, una divinidad ancestral representada mediante una lanza de hierro custodiada en la residencia de uno de sus ancianos. Según sus relatos sagrados, Pari Kupar Lingo liberó a los gond de la cueva de Kachargarh y les enseñó la organización de sus clanes y sus tradiciones musicales. Los bardos pardhan conservan estas historias mediante el canto, mientras que los sacerdotes bhumka presentan ofrendas en el pen kara, el bosque consagrado a las divinidades."
+
+ # Tari Penu
  tari_penu: "Tari Penu"
  tari_penu_adj: "Tari Penu"
- tari_penu_adherent: "Tari Penu seguidor"
- tari_penu_adherent_plural: "Tari Penu seguidores"
- tari_penu_desc: "La religión del Kondh de las colinas de Odisha. Bura Penu, dios de la luz, hizo el mundo, pero Tari Penu, la tierra, exigió sangre, y el Kondh le ofrece la mería, una víctima comprada fuera del clan, cuya carne está sepultada en los campos para que la cúrcuma y el grano crezcan. Loha Penu, el dios del hierro, dirige los clanes en la guerra, y Dinga Penu juzga a los muertos."
+ tari_penu_adherent: "Seguidor de Tari Penu"
+ tari_penu_adherent_plural: "Seguidores de Tari Penu"
+ tari_penu_desc: "Las creencias tradicionales de los kondh de las montañas de Odisha reconocen a Bura Penu, divinidad de la luz, como creador del mundo, mientras que Tari Penu, la diosa de la tierra, exige sacrificios para asegurar su fertilidad. Durante la ceremonia meriah se ofrecían víctimas humanas adquiridas fuera del clan, cuyos restos eran enterrados en los campos para favorecer el crecimiento de la cúrcuma y los cereales. Loha Penu, divinidad del hierro, protege a los clanes durante la guerra, mientras que Dinga Penu ejerce su autoridad sobre el destino de los difuntos."
+
+ # Badava
  badava: "Badava"
  badava_adj: "Badava"
- badava_adherent: "Badava follower"
- badava_adherent_plural: "Badava followers"
- badava_desc: "La religión del Bhil de las colinas occidentales. Bhagwan gobierna arriba; Kalika, la madre de la tierra, es honrada y temida; Wagh Deo, el tigre, protege el bosque y Nandervo los cultivos. La badava caen en trance y hablan por los dioses, sanan a los enfermos y cazan brujas; caballos de arcilla se quedan en los santuarios de la colina, y los postes tallados y las piedras se levantan para los muertos."
+ badava_adherent: "Seguidor de Badava"
+ badava_adherent_plural: "Seguidores de Badava"
+ badava_desc: "Las creencias tradicionales de los bhil de las montañas occidentales de la India reconocen a Bhagwan como señor celestial y a Kalika, la Madre Tierra, como una divinidad venerada y temida. Wagh Deo, el dios tigre, protege los bosques, mientras que Nandervo vela por los cultivos. Los especialistas rituales badava entran en trance para comunicarse con las divinidades, sanar a los enfermos e identificar a quienes consideran responsables de practicar la brujería. En los santuarios de las colinas se depositan caballos de arcilla como ofrendas, mientras que postes tallados y monumentos de piedra perpetúan la memoria de los difuntos."
+
  holy_site_marang_buru_name: "Marang Buru"
  holy_site_marang_buru_effect_name: "Por el [holy_site|E] #weak ($holy_site_marang_buru_name$)#!"
  holy_site_chutia_name: "Chutia"
@@ -15453,26 +15591,35 @@
  badava_death_name_possessive: "$badava_high_god_name_possessive$"
  badava_witch_god_name: "el dakan"
  badava_witch_god_name_possessive: "de the dakan"
+
+ # Mihriyya
  mihriyya: "Mihriyya"
- mihriyya_adj: "Mihri"
- mihriyya_adherent: "Mihri"
- mihriyya_adherent_plural: "Mihriyya"
- mihriyya_desc: "Los seguidores de los archegos Mihr, que bajo el califa omeya al-Walid aflojaron el wisallat, las reglas que rigen los tratos de los maniqueos con los forasteros, para que los fieles puedan servir en las oficinas del califato y aceptar regalos de sus funcionarios. El partido más grande de la iglesia de Babilonia, todavía disputaron con el Miqlasiyya en el siglo X."
+ mihriyya_adj: "Mihrí"
+ mihriyya_adherent: "Mihrí"
+ mihriyya_adherent_plural: "Mihríes"
+ mihriyya_desc: "Los mihríes fueron seguidores de Mihr, dirigente de la Iglesia maniquea que, durante el reinado del califa omeya al-Walid, flexibilizó las normas del wisallat, que regulaban las relaciones de los maniqueos con quienes no profesaban su fe. Estas reformas permitieron a los creyentes desempeñar cargos en la administración del califato y aceptar obsequios de sus funcionarios. Los mihríes constituyeron la corriente mayoritaria de la Iglesia maniquea de Babilonia y mantuvieron sus disputas doctrinales con los miqlasíes hasta el siglo X."
+
+ # Miqlasiyya
  miqlasiyya: "Miqlasiyya"
- miqlasiyya_adj: "Miqlasi"
- miqlasiyya_adherent: "Miqlasi"
- miqlasiyya_adherent_plural: "Miqlasiyya"
- miqlasiyya_desc: "Los seguidores de Miqlas, que rechazaron las relajacións de Mihr y regresaron a las reglas estrictas que prohíben a los Elegidos y los Hearers mezclarse con incrédulos o tomar los regalos de los gobernantes. Su disputa con los Mihriyya dividió los Manichaeans de Iraq y Khorasan durante dos siglos."
+ miqlasiyya_adj: "Miqlasí"
+ miqlasiyya_adherent: "Miqlasí"
+ miqlasiyya_adherent_plural: "Miqlasíes"
+ miqlasiyya_desc: "Los miqlasíes fueron seguidores de Miqlas, quien rechazó las reformas introducidas por Mihr y defendió el retorno a las normas tradicionales del maniqueísmo. Estas prohibían a los Elegidos y a los Oyentes relacionarse estrechamente con quienes no compartían su fe o aceptar obsequios de los gobernantes. Sus diferencias con los mihríes provocaron una prolongada división entre las comunidades maniqueas de Irak y Jorasán, que perduró durante aproximadamente dos siglos."
+
+ # Denawar
  denawar: "Denawar"
  denawar_adj: "Denawar"
  denawar_adherent: "Denawar"
- denawar_adherent_plural: "Maniqueos"
- denawar_desc: "La iglesia oriental de Mani, llamada por los Denawars, 'los fieles', de Sogdiana. Fundada por la misión de Mar Ammo, rompió con Babilonia alrededor de 600 bajo Shad Ohrmazd y fue reconciliada bajo el califa al-Walid. Los comerciantes de Sogdian lo llevaron por la Ruta de la Seda a los Uyghurs, cuyo khagan Bögü lo hizo la fe del estado en 763; después de la caída de Ordu-Baliq en 840 la iglesia fue con los Uyghurs a Qocho, donde el mozhak del Este mantuvo su asiento hasta que los idiquts se volvieron al budismo a principios del siglo XI."
- mingjiao: "Míngjiào"
- mingjiao_adj: "Míngjiào"
- mingjiao_adherent: "Míngjiào follower"
- mingjiao_adherent_plural: "Míngjiào followers"
- mingjiao_desc: "La religión de la luz, como el manichaeismo fue llamado en China. Admitido bajo el Tang y protegido por los Uyghurs, fue prohibido en la persecución Huichang de 843; Hu Lu lo llevó entonces a Fujian, donde se extendió entre comunidades vegetarianas que se reunieron por la noche para leer la Escritura de los Dos Principios. Los funcionarios de la canción los llamaban 'vegetarianos que sirven a los demonios' y los prohibieron una y otra vez, pero el Mingjiao sobrevivió en Fujian y Zhejiang a través de la Canción y Yuan."
+ denawar_adherent_plural: "Denawares"
+ denawar_desc: "Los denawares, cuyo nombre significa «los fieles», constituyeron la rama oriental de la Iglesia maniquea, establecida en Sogdiana a partir de la misión de Mar Ammo. Bajo la dirección de Shad Ohrmazd, se separaron de la autoridad religiosa de Babilonia hacia el año 600, aunque posteriormente se reconciliaron durante el reinado del califa al-Walid. Los comerciantes sogdianos difundieron sus enseñanzas por la Ruta de la Seda hasta los uigures, cuyo jagán Bögü adoptó el maniqueísmo como religión oficial en 763. Tras la caída de Ordu-Baliq en 840, la comunidad religiosa acompañó a los uigures hasta Qocho, donde el mozhak oriental conservó su sede hasta que los idicuts adoptaron el budismo a comienzos del siglo XI."
+
+ # Mingjiao
+ mingjiao: "Mingjiao"
+ mingjiao_adj: "Mingjiao"
+ mingjiao_adherent: "Seguidor del Mingjiao"
+ mingjiao_adherent_plural: "Seguidores del Mingjiao"
+ mingjiao_desc: "El Mingjiao, o «Enseñanza de la Luz», fue la denominación que recibió el maniqueísmo en China. Introducido durante la dinastía Tang y protegido por los uigures, fue prohibido durante la persecución religiosa de Huichang en 843. Tras esta represión, Hu Lu llevó sus enseñanzas a Fujian, donde se difundieron entre comunidades vegetarianas que celebraban reuniones nocturnas para leer la Escritura de los Dos Principios. Los funcionarios de la dinastía Song denunciaron a sus seguidores como «vegetarianos que veneran demonios» y persiguieron repetidamente sus prácticas. Pese a ello, el Mingjiao sobrevivió en Fujian y Zhejiang durante las dinastías Song y Yuan."
+
  holy_site_qocho_name: "Qocho"
  holy_site_qocho_effect_name: "Por el [holy_site|E] #weak ($holy_site_qocho_name$)#!"
  holy_site_ordu_baliq_name: "Ordu-Baliq"
@@ -15632,152 +15779,220 @@
  mingjiao_death_name_possessive: "de Píngděng Wáng"
  mingjiao_witch_god_name: "los demonios"
  mingjiao_witch_god_name_possessive: "de the demons"
- manichaean_faith: "Eastern Manichaeism"
- manichaean_faith_adj: "Manichaean"
- manichaean_faith_adherent: "Manichaean"
+
+ # Maniqueísmo oriental
+ manichaean_faith: "Maniqueísmo oriental"
+ manichaean_faith_adj: "Maniquea"
+ manichaean_faith_adherent: "Maniqueo"
  manichaean_faith_adherent_plural: "Maniqueos"
- manichaean_faith_desc: "La iglesia oriental de Mani, que se extendió desde Sogdiana a lo largo de la Ruta de la Seda. Bajo los Denawars de Sogdiana se convirtió en la religión estatal de los caganes Uyghur, que construyeron manistianos en Ordu-Baliq y Qocho y fundaron templos de la Religión de la Luz en las ciudades de Tang China; cuando el Tang lo prohibió, vivió en Fujian como el Mingjiao."
+ manichaean_faith_desc: "La rama oriental del maniqueísmo se extendió desde Sogdiana a lo largo de la Ruta de la Seda. Bajo la dirección de los denawars sogdianos, se convirtió en la religión oficial de los jaganes uigures, quienes construyeron monasterios maniqueos en Ordu-Baliq y Qocho y fundaron templos de la Religión de la Luz en las ciudades de la China Tang. Tras su prohibición por las autoridades imperiales, la tradición sobrevivió en Fujian bajo el nombre de Mingjiao."
+
+ # Panhu
  mienic: "Panhu"
  mienic_adj: "Panhu"
- mienic_adherent: "Panhu follower"
- mienic_adherent_plural: "Panhu followers"
- mienic_desc: "La religión de los Yao y de la Ella, los pueblos de las montañas del sur que reclaman descendencia de Panhu, el perro dragón que mató al enemigo de un emperador, ganó a su hija y engendró a sus clanes, como ya lo registra el Hou Hanshu. Cada linaje mantiene su carta o su pergamino pintado de las obras de Panhu, y sus antepasados en el altar del hogar; sus maestros rituales están ordenados en la forma de los daoístas, y la fiesta del rey Pan es el más grande del año."
+ mienic_adherent: "Seguidor de Panhu"
+ mienic_adherent_plural: "Seguidores de Panhu"
+ mienic_desc: "Las creencias tradicionales de los pueblos yao y she de las montañas del sur de China reconocen como antepasado a Panhu, el perro dragón que derrotó a un enemigo del emperador, recibió a su hija en matrimonio y engendró los linajes de estos pueblos, según una tradición recogida en el Hou Hanshu. Cada linaje conserva documentos o pergaminos ilustrados que narran sus hazañas y honra a sus antepasados en los altares domésticos. Sus maestros rituales reciben una iniciación inspirada en las prácticas taoístas, mientras que la festividad del rey Pan constituye la principal celebración del año."
+
+ # Mopi
  mopi: "Mopi"
  mopi_adj: "Mopi"
- mopi_adherent: "Mopi follower"
- mopi_adherent_plural: "Mopi followers"
- mopi_desc: "La religión de los Hani y Jino de las montañas de Ailao. Por encima de cada pueblo se encuentra el bosque sagrado de Angma, su guardián, que nadie puede cortar; el mopi recita la genealogía de cada hombre de regreso al primer antepasado, y en una muerte cantan el alma de vuelta por el camino de las migraciones al pueblo de los antepasados."
+ mopi_adherent: "Seguidor del mopi"
+ mopi_adherent_plural: "Seguidores del mopi"
+ mopi_desc: "Las creencias tradicionales de los pueblos hani y jino de las montañas de Ailao conceden especial importancia a los antepasados y a los espíritus protectores de la naturaleza. Sobre cada aldea se extiende el bosque sagrado de Angma, cuyo carácter inviolable impide la tala de sus árboles. Los sacerdotes mopi recitan las genealogías de los miembros de la comunidad hasta sus primeros antepasados y, durante los funerales, entonan cantos que guían el alma del difunto por las antiguas rutas migratorias hasta la aldea ancestral."
+
+ # G'ui-sha
  lisu_lahu: "G'ui-sha"
  lisu_lahu_adj: "G'ui-sha"
- lisu_lahu_adherent: "G'ui-sha follower"
- lisu_lahu_adherent_plural: "G'ui-sha followers"
- lisu_lahu_desc: "La religión de los Lisu y Lahu de las colinas del oeste de Yunnan. Wu Sa gobierna el cielo y G'ui-sha hizo el mundo; los espíritus de montaña, árbol y primavera deben ser alimentados, y cuando la enfermedad viene el nipa son tomados por los espíritus para saber cuál ha sido ofendido."
+ lisu_lahu_adherent: "Seguidor de G'ui-sha"
+ lisu_lahu_adherent_plural: "Seguidores de G'ui-sha"
+ lisu_lahu_desc: "Las creencias tradicionales de los pueblos lisu y lahu de las montañas occidentales de Yunnan reconocen a Wu Sa como señor del cielo y a G'ui-sha como creador del mundo. Los espíritus de las montañas, los árboles y los manantiales reciben ofrendas para asegurar su benevolencia. Cuando sobrevienen enfermedades o desgracias, los especialistas rituales nipa entran en contacto con los espíritus para descubrir cuál ha sido ofendido y cómo recuperar su favor."
+
+ # Zutu
  shanha: "Zutu"
  shanha_adj: "Zutu"
- shanha_adherent: "Zutu follower"
- shanha_adherent_plural: "Zutu followers"
- shanha_desc: "La religión de la Ella, que se llaman Shanha, los huéspedes de la montaña, en las colinas donde se encuentran Fujian, Guangdong y Jiangxi. Como los Yao descenden de Panhu, cuya historia está pintada sobre el pergamino ancestral y cantada en la Canción del Alto Emperador; sus maestros rituales se inician en los ritos Lüshan, y sus mujeres rezan a Chen Jinggu, Señora de Linshui, por el parto seguro."
+ shanha_adherent: "Seguidor de Zutu"
+ shanha_adherent_plural: "Seguidores de Zutu"
+ shanha_desc: "Las creencias tradicionales de los she, conocidos también como shanha o «huéspedes de las montañas», se conservan en las regiones donde confluyen Fujian, Guangdong y Jiangxi. Al igual que los yao, consideran a Panhu su antepasado primordial y transmiten su historia mediante pergaminos genealógicos y cantos rituales, entre ellos el Canto del Alto Emperador. Sus maestros religiosos reciben iniciaciones vinculadas con la tradición de Lüshan, mientras que las mujeres invocan a Chen Jinggu, Señora de Linshui, para obtener protección durante el embarazo y el parto."
+
+ # Gunig
  senoic: "Gunig"
  senoic_adj: "Gunig"
- senoic_adherent: "Gunig follower"
- senoic_adherent_plural: "Gunig followers"
- senoic_desc: "La religión de los Temiar y Semai de los rangos centrales. Su sueño de halaa con el tiroteo, guías espirituales que les enseñan canciones, y lideran los bailes de toda la noche en los que los bailarines caen en trance al ritmo de los estampadores de bambú. Los Semai guardan al punan: rechazar lo que otro pide, o no compartir, trae desgracia, y las disputas se resuelven por hablar, nunca por golpes."
+ senoic_adherent: "Seguidor de Gunig"
+ senoic_adherent_plural: "Seguidores de Gunig"
+ senoic_desc: "Las creencias tradicionales de los temiar y semai de las cordilleras centrales de la península malaya conceden gran importancia a los sueños y a la relación con los espíritus. Los especialistas rituales halaa reciben en sueños canciones y enseñanzas de sus guías espirituales, que utilizan durante ceremonias nocturnas en las que los participantes entran en trance al ritmo de instrumentos de bambú. Entre los semai, el principio de punan exige compartir con los demás y evitar negar aquello que se solicita, pues la falta de generosidad puede atraer desgracias. Los conflictos se resuelven mediante el diálogo y no mediante la violencia."
+
+ # Pakam
  katuic: "Pakam"
  katuic_adj: "Pakam"
- katuic_adherent: "Pakam follower"
- katuic_adherent_plural: "Pakam followers"
- katuic_desc: "La religión de los pueblos katuicos y el Chong. Los cazadores de elefantes Kuy montan bajo la protección del pakam, el lasso sagrado, mantenido por el kru; los Bru y Katu alimentan el yang y los antepasados, y sus médiums hablan por ambos."
+ katuic_adherent: "Seguidor del pakam"
+ katuic_adherent_plural: "Seguidores del pakam"
+ katuic_desc: "Las creencias tradicionales de los pueblos katuicos y chong están estrechamente vinculadas con los espíritus de la naturaleza y los antepasados. Entre los kuy, los cazadores de elefantes realizan sus expediciones bajo la protección del pakam, el lazo sagrado custodiado por los especialistas rituales kru. Los bru y katu ofrecen alimentos y sacrificios a los espíritus yang y a sus antepasados, mientras que los médiums actúan como intermediarios entre estas entidades y sus comunidades."
+
+ # Limu
  hlaic: "Limu"
  hlaic_adj: "Limu"
- hlaic_adherent: "Limu follower"
- hlaic_adherent_plural: "Limu followers"
- hlaic_desc: "La religión del Hlai y Be de Hainan, que dicen que descienden de Limu, la madre de la Li, arrebatada del huevo que el Dios Trueno puso en Limu Shan. Los fantasmas ancestrales envían enfermedad cuando son descuidados y deben ser alimentados; los criadores del espíritu encuentran qué fantasma está enojado, el abuelo Thunder castiga el mal, y los tatuajes de las mujeres hacen que los antepasados conozcan sus propios."
+ hlaic_adherent: "Seguidor de Limu"
+ hlaic_adherent_plural: "Seguidores de Limu"
+ hlaic_desc: "Las creencias tradicionales de los pueblos hlai y be de Hainan reconocen a Limu como madre ancestral de los li. Según sus relatos, nació de un huevo depositado por el dios del Trueno en el monte Limu. Los espíritus de los antepasados pueden provocar enfermedades cuando son desatendidos, por lo que reciben ofrendas y cuidados rituales. Los especialistas religiosos identifican a los espíritus ofendidos, mientras que el Abuelo Trueno castiga las malas acciones. Los tatuajes tradicionales de las mujeres permiten que sus antepasados las reconozcan en el mundo espiritual."
+
+ # Lengdon
  deodhai: "Lengdon"
  deodhai_adj: "Lengdon"
- deodhai_adherent: "Lengdon follower"
- deodhai_adherent_plural: "Lengdon followers"
- deodhai_desc: "La religión del Ahom, que cruzó el Patkai con Sukaphaa en 1228 y fundó su reino en Charaideo. Sus reyes descienden de Lengdón, señor del cielo; los sacerdotes Deodhai y Bailung guardan los ritos, leen los omenes y escriben las crónicas buranji, y en Me-Dam-Me-Phi los antepasados y los dioses se alimentan juntos."
+ deodhai_adherent: "Seguidor de Lengdon"
+ deodhai_adherent_plural: "Seguidores de Lengdon"
+ deodhai_desc: "Las creencias tradicionales de los ahom, quienes atravesaron las montañas Patkai bajo el liderazgo de Sukaphaa en 1228 y fundaron su reino en Charaideo, reconocen a Lengdon como señor del cielo y antepasado de sus reyes. Los sacerdotes deodhai y bailung conservan los rituales, interpretan los presagios y transmiten las crónicas conocidas como buranji. Durante la celebración de Me-Dam-Me-Phi se presentan ofrendas conjuntas a las divinidades y a los antepasados."
+
+ # Sax Sis
  kam_sui: "Sax Sis"
  kam_sui_adj: "Sax Sis"
- kam_sui_adherent: "Sax Sis seguidor"
- kam_sui_adherent_plural: "Sax Sis seguidores"
- kam_sui_desc: "La religión de los Kam, Sui y Gelao de las tierras altas de Guizhou. El Kam honor Sa Sui, la abuela fundadora, en el altar de Sa de cada pueblo y se reúne en las torres de tambor; los Sui guardan sus propios libros de días y presagios, escritos en su propio guión, y cada pueblo guarda sus bosques sagrados."
+ kam_sui_adherent: "Seguidor de Sax Sis"
+ kam_sui_adherent_plural: "Seguidores de Sax Sis"
+ kam_sui_desc: "Las creencias tradicionales de los pueblos kam, sui y gelao de las tierras altas de Guizhou conceden especial importancia a los antepasados y a los lugares sagrados. Los kam veneran a Sa Sui, la abuela fundadora, en los altares comunitarios dedicados a Sa y celebran sus reuniones en las torres del tambor. Los sui conservan libros propios de calendarios y presagios, escritos mediante su sistema tradicional de escritura, mientras que cada comunidad protege sus bosques sagrados."
+
+ # Siwa Lima
  siwa_lima: "Siwa Lima"
  siwa_lima_adj: "Siwa Lima"
- siwa_lima_adherent: "Siwa Lima follower"
- siwa_lima_adherent_plural: "Siwa Lima seguidores"
- siwa_lima_desc: "La religión de los Moluccas, cuyos pueblos están divididos entre los Siwa, los Nueve, y los Lima, los Cinco, de las aldeas de Seram y Ambon a los tribunales de Ternate y Tidore. Cada soa honra a sus antepasados fundadores en el baile, y los muertos son alimentados y consultados. En Seram los pueblos rastrean su descendencia de la montaña Nunusaku y guardan la casa secreta del kakehan; en el norte los pueblos de Halmahera y las islas del trébol guardan la gomanga, los espíritus de sus muertos."
- hantuism_desc: "Las religiones ancestrales del mundo malayo, desde las tierras altas de Sumatra hasta los pueblos del mar de los estrechos. El hantu, los espíritus del bosque, del río y del mar, deben ser apaciguados; en las tierras altas los puyang, los antepasados fundadores de cada linaje, son honrados en sus tumbas y en los antiguos megaliths de Pasemah, y en los barcos del Orang Laut y el Sama-Bajau el omboh, los antepasados del mar, dar o retener la captura. El pawang y el dukun tratan con los espíritus en nombre de la aldea."
+ siwa_lima_adherent: "Seguidor de Siwa Lima"
+ siwa_lima_adherent_plural: "Seguidores de Siwa Lima"
+ siwa_lima_desc: "Las creencias tradicionales de los pueblos de las Molucas se organizan en torno a las agrupaciones Siwa, los Nueve, y Lima, los Cinco, presentes desde las aldeas de Seram y Ambon hasta las cortes de Ternate y Tidore. Cada comunidad soa honra a sus antepasados fundadores mediante ceremonias y danzas, mientras que los espíritus de los difuntos reciben ofrendas y son consultados en asuntos importantes. En Seram, numerosos linajes remontan sus orígenes al monte Nunusaku y conservan los secretos de la sociedad ritual kakehan. Más al norte, los pueblos de Halmahera y las islas vecinas veneran a los gomanga, espíritus de sus antepasados."
+
+ # Hantuismo
+ hantuism_desc: "Las creencias ancestrales del mundo malayo se extienden desde las tierras altas de Sumatra hasta las comunidades marítimas de los estrechos. Los hantu, espíritus de los bosques, ríos y mares, deben recibir ofrendas para evitar su ira. En las tierras altas, los puyang, antepasados fundadores de los linajes, son venerados en sus tumbas y en los antiguos monumentos megalíticos de Pasemah. Entre los orang laut y los sama-bajau, los omboh, espíritus ancestrales del mar, pueden favorecer o impedir la pesca. Los especialistas rituales pawang y dukun actúan como intermediarios entre los espíritus y las comunidades."
+
+ # Dayawismo
  dayaw: "Dayawismo"
- dayaw_adj: "Dayawist"
- dayaw_adherent: "Dayawist"
- dayaw_adherent_plural: "Dayawists"
- dayaw_desc: "La religión anito de los Visayas. Kaptan gobierna el cielo y Magwayen el mar, el antiguo Laón habita en el volcán de Kanlaon, y Sidapa guarda la cuenta de cada vida en Madya-as; pero el culto diario pertenece a la diwata y la umalagad, los espíritus de los antepasados, que son llamados hacia el babaylan y los médiums asog y alimentados con arroz, vino de palma y la sangre de los sacrificios. Grabado por Miguel de Loarca y Francisco Alcina."
+ dayaw_adj: "Dayawista"
+ dayaw_adherent: "Dayawista"
+ dayaw_adherent_plural: "Dayawistas"
+ dayaw_desc: "Las creencias tradicionales anito de los pueblos de las Bisayas reconocen a Kaptan como señor del cielo y a Magwayen como divinidad del mar. Laón habita en el volcán Kanlaon, mientras que Sidapa determina la duración de cada vida desde el monte Madya-as. Sin embargo, la vida religiosa cotidiana gira en torno a los diwata y los umalagad, espíritus de la naturaleza y de los antepasados, invocados por los especialistas rituales babaylan y asog mediante ofrendas de arroz, vino de palma y sacrificios. Estas tradiciones fueron descritas por cronistas como Miguel de Loarca y Francisco Alcina."
+
+ # Mien
  mien: "Mien"
  mien_adj: "Mien"
- mien_adherent: "Mien follower"
- mien_adherent_plural: "Mien followers"
- mien_desc: "La religión del Yao, el Mien de las colinas Nanling de Hunan, Guangxi y Guangdong. Bien Hungh, rey Pan, engendró a los doce clanes, y su carta permite que sus descendientes crucen las montañas y despejen los bosques libres de impuestos. Bajo la Canción, los Mien tomaron los dioses, las escrituras y las ordenaciones de los Daoístas como sus propios, y sus antepasados se sentaron en el altar de la casa clasificada por las ordenaciones que tomaron en la vida."
+ mien_adherent: "Seguidor de Mien"
+ mien_adherent_plural: "Seguidores de Mien"
+ mien_desc: "Las creencias tradicionales de los yao o mien de las montañas Nanling, entre Hunan, Guangxi y Guangdong, reconocen a Bien Hungh, el rey Pan, como antepasado de sus doce clanes. Los documentos genealógicos atribuidos a este soberano conceden a sus descendientes el derecho a atravesar las montañas y cultivar nuevas tierras sin pagar tributos. Durante la dinastía Song, los mien incorporaron divinidades, escrituras y ceremonias de iniciación taoístas a sus propias tradiciones. Los antepasados reciben veneración en los altares domésticos, donde ocupan lugares acordes con las iniciaciones religiosas alcanzadas durante su vida."
+
+ # Kakehan
  kakehan: "Kakehan"
  kakehan_adj: "Kakehan"
- kakehan_adherent: "Kakehan follower"
- kakehan_adherent_plural: "Kakehan followers"
- kakehan_desc: "La religión del centro de Maluku, Seram, Ambon y Buru. Los pueblos rastrean su descenso desde Nunusaku, la montaña en el oeste de Seram, donde suben los ríos Eti, Tala y Sapalewa; El soldado dice cómo la doncella Asesinada Hainuwele se convirtió en los tubérculos en los que viven. Cada soa honra a sus antepasados fundadores en el baileo, y los jóvenes son hechos guerreros en la casa forestal del kakehan, la sociedad secreta de Seram."
+ kakehan_adherent: "Seguidor de Kakehan"
+ kakehan_adherent_plural: "Seguidores de Kakehan"
+ kakehan_desc: "Las creencias tradicionales de las Molucas centrales, especialmente de Seram, Ambon y Buru, vinculan el origen de sus pueblos con Nunusaku, la montaña sagrada del occidente de Seram donde nacen los ríos Eti, Tala y Sapalewa. El mito de Hainuwele relata cómo una doncella asesinada dio origen a los tubérculos que alimentan a la humanidad. Cada comunidad soa honra a sus antepasados fundadores mediante ceremonias y danzas, mientras que los jóvenes reciben su iniciación como guerreros en las casas forestales del kakehan, la sociedad ritual secreta de Seram."
+
+ # Mahagiri
  mahagiri: "Mahagiri"
  mahagiri_adj: "Mahagiri"
- mahagiri_adherent: "Mahagiri follower"
- mahagiri_adherent_plural: "Mahagiri followers"
- mahagiri_desc: "El culto nat de los Burmans y el Achang. Sobre los espíritus de cada árbol, campo y aldea están los Treinta y siete Señores, hombres y mujeres que murieron violentamente y se convirtieron en nueces, entre ellos Mahagiri, el Señor de la Gran Montaña, y su hermana, consagrada en el Monte Popa desde los reyes de Pagan. Sus médiums nat kadaw, casados con sus nats, bailan en el mundo en los festivales de Popa y Taungbyone."
+ mahagiri_adherent: "Seguidor de Mahagiri"
+ mahagiri_adherent_plural: "Seguidores de Mahagiri"
+ mahagiri_desc: "El culto a los nat, practicado entre los birmanos y achang, reconoce numerosos espíritus vinculados con árboles, campos y aldeas. Sobre ellos destacan los Treinta y Siete Señores, hombres y mujeres que sufrieron muertes violentas y fueron transformados en espíritus, entre ellos Mahagiri, Señor de la Gran Montaña, y su hermana, venerados en el monte Popa desde la época de los reyes de Pagan. Los médiums nat kadaw, considerados cónyuges rituales de sus respectivos espíritus, participan en ceremonias de posesión y danzas durante las festividades de Popa y Taungbyone."
+
+ # Dehanin
  dehanin: "Dehanin"
  dehanin_adj: "Dehanin"
- dehanin_adherent: "Dehanin follower"
- dehanin_adherent_plural: "Dehanin followers"
- dehanin_desc: "La religión del Bunun y el Paiwan de las montañas central y meridional, con los Tsou y Rukai. Dehanin, el cielo, mira por todas partes; cada persona lleva dos hanitu, el bueno en el hombro derecho y el mal a la izquierda. Los Bunun guardan sus ritos por el tablero de calendario que la luna les enseñó, y los nobles de Paiwan, nacidos de los huevos del sol, reciben a los antepasados cada cinco años en el Maleveq, cuando regresan de la montaña de Kavulungan."
+ dehanin_adherent: "Seguidor de Dehanin"
+ dehanin_adherent_plural: "Seguidores de Dehanin"
+ dehanin_desc: "Las creencias tradicionales de los bunun y paiwan de las montañas centrales y meridionales de Taiwán, compartidas en parte con los tsou y rukai, reconocen a Dehanin como una divinidad celestial que todo lo observa. Cada persona posee dos espíritus hanitu, uno benévolo sobre el hombro derecho y otro maligno sobre el izquierdo. Los bunun organizan sus ceremonias mediante un calendario ritual que, según la tradición, les fue enseñado por la luna. Entre los paiwan, los linajes nobles afirman descender de huevos engendrados por el sol y reciben a los antepasados cada cinco años durante el Maleveq, cuando estos regresan de la montaña sagrada de Kavulungan."
+
+ # Hatalla
  hatalla: "Hatalla"
  hatalla_adj: "Hatalla"
- hatalla_adherent: "Hatalla follower"
- hatalla_adherent_plural: "Hatalla followers"
- hatalla_desc: "La religión de los Ngaju, Ot Danum y Ma'anyan de los ríos Barito y Kahayan, y de los Kayan, Punan y Murut del interior. Ranying Hatalla Langit gobierna el Mundo Superior y Jata Balawang Bulau las aguas de abajo, y entre ellas crece el Batang Garing, el árbol de la vida. En el tiwah los huesos de los muertos se levantan, se festejan y se colocan en el sandung, y el canto bair y balian en el lenguaje del sangiang."
+ hatalla_adherent: "Seguidor de Hatalla"
+ hatalla_adherent_plural: "Seguidores de Hatalla"
+ hatalla_desc: "Las creencias tradicionales de los ngaju, ot danum y ma'anyan de las cuencas de los ríos Barito y Kahayan, así como de otros pueblos del interior de Borneo, reconocen a Ranying Hatalla Langit como señor del Mundo Superior y a Jata Balawang Bulau como divinidad de las aguas inferiores. Entre ambos dominios se alza el Batang Garing, el árbol de la vida. Durante la ceremonia funeraria tiwah, los restos de los difuntos son exhumados, honrados mediante banquetes y depositados en osarios llamados sandung, mientras que los especialistas rituales basir y balian entonan cantos en la lengua sagrada de los sangiang."
+
+ # Cenoi
  cenoi: "Cenoi"
  cenoi_adj: "Cenoi"
- cenoi_adherent: "Cenoi follower"
- cenoi_adherent_plural: "Cenoi followers"
- cenoi_desc: "La religión del Semang, los forasteros forestales de las colinas malayas. Karei monta la tormenta y castiga la ruptura del tabú, y los culpables arrojan su propia sangre al cielo para calmarlo; Ta' Pedn hizo el mundo. La hala' canta en la oscuridad con el cenoi, los pequeños espíritus de las flores, y los muertos van al oeste a la Isla de Frutas."
+ cenoi_adherent: "Seguidor de Cenoi"
+ cenoi_adherent_plural: "Seguidores de Cenoi"
+ cenoi_desc: "Las creencias tradicionales de los semang, habitantes de los bosques de la península malaya, reconocen a Karei como señor de las tormentas y castigador de quienes quebrantan los tabúes. Para apaciguarlo, los infractores ofrecen simbólicamente su propia sangre al cielo. Ta' Pedn es considerado creador del mundo, mientras que los especialistas rituales hala' entonan cantos nocturnos para comunicarse con los cenoi, pequeños espíritus asociados con las flores. Tras la muerte, las almas viajan hacia el oeste, hasta la Isla de las Frutas."
+
+ # Phaya Thaen
  phaya_thaen: "Phaya Thaen"
  phaya_thaen_adj: "Phaya Thaen"
- phaya_thaen_adherent: "Phaya Thaen follower"
- phaya_thaen_adherent_plural: "Phaya Thaen seguidores"
- phaya_thaen_desc: "La religión del Tai de los valles de las tierras altas, el Shan, el Lao y el Tai Negro y Blanco. Phaya Thaen, señor del cielo, envió a Khun Borom a gobernar el muang, y las líneas dominantes descienden de él; cada casa, pueblo y muang tiene su phi, alimentado con arroz y licor en su santuario, y el pilar de cordero de leche sostiene al guardián de la ciudad. El khwan, el alma, debe ser llamado de vuelta al cuerpo cuando la enfermedad lo expulsa."
- turk_tengri: "Türk Tengri"
- turk_tengri_adj: "Türk Tengri"
- turk_tengri_adherent: "Tengrist"
- turk_tengri_adherent_plural: "Tengrists"
- turk_tengri_desc: "La religión de los türk khagans y los pueblos que los siguieron, los uigures, los oghuz y los Karluks. Tengri, el cielo, dio al cagan su cuarto y su reino, Omay miró sobre madres e hijos, y Yer-Sub, la tierra y las aguas sagradas, sostenía al pueblo. Los khagans sacrificaron cada año en la cueva ancestral y en Ötüken, y las inscripciones de Orkhon hablan del dios de los Türks que los criaron."
+ phaya_thaen_adherent: "Seguidor de Phaya Thaen"
+ phaya_thaen_adherent_plural: "Seguidores de Phaya Thaen"
+ phaya_thaen_desc: "Las creencias tradicionales de los pueblos tai de los valles montañosos, entre ellos los shan, lao y tai negros y blancos, reconocen a Phaya Thaen como señor del cielo. Según sus relatos, envió a Khun Borom para gobernar los muang, de quien descienden numerosos linajes dirigentes. Cada hogar, aldea y principado posee espíritus protectores phi, que reciben ofrendas de arroz y licor en sus santuarios, mientras que el pilar sagrado de la ciudad alberga a su espíritu guardián. El khwan, principio vital de las personas, debe ser llamado de regreso al cuerpo cuando una enfermedad provoca su alejamiento."
+
+ # Tengrismo túrquico
+ turk_tengri: "Tengrismo túrquico"
+ turk_tengri_adj: "Tengrista túrquica"
+ turk_tengri_adherent: "Tengrista"
+ turk_tengri_adherent_plural: "Tengristas"
+ turk_tengri_desc: "Las creencias tradicionales de los jaganes túrquicos y de los pueblos que siguieron sus costumbres, entre ellos los uigures, oguz y carlucos, reconocen a Tengri como el Cielo Eterno que concede a los soberanos el qut, el favor celestial que legitima su autoridad. Umay protege a las madres y los niños, mientras que Yer-Sub, las tierras y aguas sagradas, sostiene al pueblo. Los jaganes celebran sacrificios anuales en las cuevas ancestrales y en Ötüken, mientras que las inscripciones del Orjón atribuyen a Tengri la elevación y protección del pueblo túrquico."
+
+ # Etügen
  etugen: "Etügen"
  etugen_adj: "Etügen"
- etugen_adherent: "Tengrist"
- etugen_adherent_plural: "Tengrists"
+ etugen_adherent: "Tengrista"
+ etugen_adherent_plural: "Tengristas"
+
+ # Kayra
  kayra: "Kayra"
  kayra_adj: "Kayra"
- kayra_adherent: "Kayra follower"
- kayra_adherent_plural: "Kayra followers"
+ kayra_adherent: "Seguidor de Kayra"
+ kayra_adherent_plural: "Seguidores de Kayra"
+
+ # Chaturdasha
  chaturdasha: "Chaturdasha"
  chaturdasha_adj: "Chaturdasha"
- chaturdasha_adherent: "Chaturdasha follower"
- chaturdasha_adherent_plural: "Chaturdasha followers"
- chaturdasha_desc: "La religión de los Tripuri y sus reyes. Los catorce dioses, venerados como cabezas, reciben el festival de Kharchi, cuando el canto y los ochai hacen las ofrendas; Mataikatar y Burasa arriba, Mailuma del arroz y Khuluma del algodón de abajo. En Unakoti los dioses son tallados en la colina."
+ chaturdasha_adherent: "Seguidor de Chaturdasha"
+ chaturdasha_adherent_plural: "Seguidores de Chaturdasha"
+ chaturdasha_desc: "Las creencias tradicionales de los tripuri y sus reyes giran en torno a la veneración de catorce divinidades, representadas mediante cabezas sagradas y honradas durante el festival de Kharchi. Los sacerdotes chantai y ochai realizan las ofrendas a estas divinidades, entre ellas Mataikatar y Burasa, así como Mailuma, protectora del arroz, y Khuluma, vinculada con el algodón. En Unakoti, las figuras divinas se encuentran esculpidas directamente en las laderas de las colinas."
+
+ # Pathian
  pathian: "Pathian"
  pathian_adj: "Pathian"
- pathian_adherent: "Pathian follower"
- pathian_adherent_plural: "Pathian followers"
- pathian_desc: "La religión de los Chin, Kuki y Mizo. Pathian hizo que el mundo y los khuavang lo vigilaran, mientras los ramhuai persiguen el bosque. Un hombre que da las grandes fiestas de mérito y toma las cabezas de los enemigos gana su lugar en Pialral; otros van a Mitthi Khua, el pueblo de los muertos."
+ pathian_adherent: "Seguidor de Pathian"
+ pathian_adherent_plural: "Seguidores de Pathian"
+ pathian_desc: "Las creencias tradicionales de los pueblos chin, kuki y mizo reconocen a Pathian como creador del mundo, mientras que los khuavang actúan como espíritus protectores y los ramhuai habitan los bosques. Quienes celebran grandes banquetes de mérito y obtienen prestigio mediante la captura de cabezas enemigas pueden alcanzar Pialral, una morada privilegiada en el más allá. Los demás difuntos se dirigen a Mitthi Khua, la aldea de los muertos."
+
+ # Kepenopfü
  kepenopfu: "Kepenopfü"
  kepenopfu_adj: "Kepenopfü"
- kepenopfu_adherent: "Kepenopfü follower"
- kepenopfu_adherent_plural: "Kepenopfü followers"
- kepenopfu_desc: "Las religiones de las colinas de Naga, donde cada pueblo mantiene su morung y sus fiestas de mérito, y grandes piedras se arrastran para marcarlos. Ukepenopfü hizo el Angami y Lijaba el Ao; la terhuomia debe mantenerse contenta a través de los días del genna, y las cabezas traen fertilidad a los campos."
+ kepenopfu_adherent: "Seguidor de Kepenopfü"
+ kepenopfu_adherent_plural: "Seguidores de Kepenopfü"
+ kepenopfu_desc: "Las creencias tradicionales de los pueblos de las colinas naga varían entre comunidades, cada una de las cuales conserva sus casas comunales morung y sus festividades de mérito, conmemoradas mediante la erección de grandes piedras. Los angami reconocen a Ukepenopfü como divinidad creadora, mientras que los ao atribuyen la creación a Lijaba. Los espíritus terhuomia deben ser apaciguados mediante la observancia de los días rituales genna, y la captura de cabezas enemigas se considera una fuente de fertilidad para los campos."
+
+ # Hrôi
  hroi: "Hrôi"
  hroi_adj: "Hrôi"
- hroi_adherent: "Hrôi follower"
- hroi_adherent_plural: "Hrôi followers"
- hroi_desc: "La religión de los Khmu, que dicen que salieron primero del gran gourd y son hermanos mayores al Lao. Los hrôi viven en cada casa, campo y bosque, y los reyes Lao de Luang Prabang todavía honran al Khmu como los primeros señores de la tierra."
- kiratism_desc: "Las religiones de los pueblos Kirati del este de Himalaya, el Limbu de Limbuwan y el Rai de las colinas de Arun, y de sus vecinos de Lepcha debajo de Kangchenjunga. Cada pueblo guarda su Mundhum, el loro oral de la creación, de los primeros antepasados y de cada rito, recitado de memoria por sus sacerdotes, el phedangma, el nakchhong y el bongthing. Tagera Ningwaphuma, sin forma y suprema, hizo el mundo; el Rai honor Paruhang y Sumnima en las tres piedras de corazón; y los muertos son devueltos por el camino de los antepasados."
- rrmeaism_desc: "Las religiones de los pueblos Qiangic del valle superior de Min, Gyalrong y las colinas donde Sichuan se encuentra con Gansu: el Qiang, el Keru y el Baima Di del viejo Qiuchi. Las piedras blancas en los techos y los santuarios están para el dios del cielo, y cada pueblo sube a su dios de la montaña con una oveja en el Año Nuevo. El xbi, en sombreros de piel de mono y batiendo tambores de oveja, canta las historias sagradas de memoria, y entre el Baima el Señor del Caballo Blanco mira sobre los valles de su montaña."
- bon_faith_desc: "Yungdrung Bön, el Bön de la Swastika Eterna, que traza sus enseñanzas a Tönpa Shenrab de Olmo Lungring y a Zhangzhung. Revivido de los textos del tesoro encontrados por Shenchen Luga en 1017, construyó sus propios monasterios, comenzando con Yeru Wensakha en 1072, y mantiene su propio canon, el Bön Kangyur. Sus monjes y propietarios de linajes casados practican la Gran Perfección y el círculo Tise contra el reloj."
+ hroi_adherent: "Seguidor de Hrôi"
+ hroi_adherent_plural: "Seguidores de Hrôi"
+ hroi_desc: "Las creencias tradicionales de los khmu reconocen a los hrôi como espíritus que habitan los hogares, los campos y los bosques. Según sus relatos ancestrales, los primeros seres humanos surgieron de una gran calabaza, y los khmu son considerados los hermanos mayores de los lao. Esta antigüedad se refleja en las ceremonias de Luang Prabang, donde los soberanos lao reconocen ritualmente a los khmu como primeros señores de la tierra."
+
+ # Kiratismo
+ kiratism_desc: "Las creencias tradicionales de los pueblos kirati del Himalaya oriental, entre ellos los limbu de Limbuwán y los rai de las colinas del Arun, así como de sus vecinos lepcha de las faldas del Kanchenjunga, se transmiten mediante el Mundhum, un conjunto de relatos orales sobre la creación, los primeros antepasados y las ceremonias sagradas. Los sacerdotes phedangma, nakchhong y bongthing conservan estas enseñanzas mediante la recitación. Tagera Ningwaphuma, divinidad suprema y sin forma, es reconocida como creadora del mundo, mientras que los rai veneran a Paruhang y Sumnima mediante altares de tres piedras. Los rituales funerarios guían las almas de los difuntos por el camino de sus antepasados."
+
+ # Rrmeaísmo
+ rrmeaism_desc: "Las creencias tradicionales de los pueblos qiángicos del alto valle del Min, Gyalrong y las montañas fronterizas entre Sichuan y Gansu, entre ellos los qiang, keru y baima di del antiguo Qiuchi, veneran a las divinidades celestiales y a los espíritus de las montañas. Las piedras blancas colocadas sobre tejados y santuarios representan al dios del cielo, mientras que cada comunidad ofrece una oveja a su montaña protectora durante las celebraciones del Año Nuevo. Los sacerdotes xbi, ataviados con sombreros de piel de mono y acompañados por tambores de piel de oveja, recitan de memoria los relatos sagrados. Entre los baima, el Señor del Caballo Blanco protege los valles montañosos."
+
+ # Bön
+ bon_faith_desc: "El Yungdrung Bön, o «Bön de la esvástica eterna», remonta sus enseñanzas a Tönpa Shenrab, originario de Olmo Lungring, y a las antiguas tradiciones de Zhangzhung. Su renovación religiosa se vinculó con el descubrimiento de textos sagrados por Shenchen Luga en 1017, que impulsó la formación de una tradición monástica propia. En 1072 se fundó el monasterio de Yeru Wensakha, mientras que sus enseñanzas fueron reunidas en un canon conocido como Bön Kangyur. Sus monjes y maestros de linajes hereditarios practican la Gran Perfección y realizan peregrinaciones alrededor del monte Tise en sentido contrario a las agujas del reloj."
+
+ # Ötüken
  otuken_yish: "Ötüken"
- otuken_yish_adj: "Ötüken"
- otuken_yish_adherent: "Tengrist"
- otuken_yish_adherent_plural: "Tengrists"
+ otuken_yish_adj: "De Ötüken"
+ otuken_yish_adherent: "Tengrista"
+ otuken_yish_adherent_plural: "Tengristas"
+ otuken_yish_desc: "Las creencias tradicionales de los antiguos pueblos túrquicos reconocen a Ötüken, la región montañosa y boscosa del alto Orjón, como el centro sagrado del mundo y fuente de la legitimidad de sus soberanos. Tengri, el Cielo Eterno, concede a los jaganes el qut, el favor divino que les otorga el derecho a gobernar, mientras que Umay protege a las madres y los niños y Yer-Sub representa las tierras y aguas sagradas. Los jaganes celebran sacrificios en Ötüken y en los santuarios ancestrales para asegurar la prosperidad de su pueblo. Desde los uigures, oguz y carlucos hasta los búlgaros, jázaros y kipchaks, estas tradiciones se extendieron por las estepas euroasiáticas, donde la veneración de los antepasados y los monumentos funerarios conservaron su importancia."
+
+ # Numi-Torum
  numi_torum: "Numi-Torum"
  numi_torum_adj: "Numi-Torum"
- numi_torum_adherent: "seguidor de Torum"
- numi_torum_adherent_plural: "seguidores de Torum"
- numi_torum_desc: "La religión de los Khanty y Mansi. Numi-Torum gobierna en el cielo más alto con Kaltash-Ekva, la madre que da hijos y fija la longitud de cada vida; su hijo Mir-Susne-Khum, el Hombre Mundo-Watching, cabalga alrededor de la tierra en su caballo blanco, y Khul-Otyr gobierna a los muertos abajo. Cada Khanty y Mansi pertenece a los Mos o a la Fratería Por, y cuando un oso es asesinado es honrado por las noches con canciones y obras enmascaradas, porque el oso es el hijo de Numi-Torum."
+ numi_torum_adherent: "Seguidor de Torum"
+ numi_torum_adherent_plural: "Seguidores de Torum"
+ numi_torum_desc: "Las creencias tradicionales de los janty y mansi reconocen a Numi-Torum como señor del cielo supremo, acompañado por Kaltash-Ekva, madre divina que concede los hijos y determina la duración de cada vida. Su hijo Mir-Susne-Khum, el Hombre que Vigila el Mundo, recorre la tierra montado en un caballo blanco, mientras que Khul-Otyr gobierna el reino de los muertos. Los miembros de estas comunidades pertenecen a una de las dos grandes fratrías, Mos o Por. Cuando se caza un oso, se celebran durante varias noches ceremonias con cantos y representaciones enmascaradas para honrarlo, pues se considera hijo de Numi-Torum."
+
+ # Eś
  yeniseian_pagan: "Eś"
  yeniseian_pagan_adj: "Eś"
- yeniseian_pagan_adherent: "seguidor de Eś"
- yeniseian_pagan_adherent_plural: "seguidores de Eś"
- yeniseian_pagan_desc: "La religión de los pueblos yeniseianos, los Ket, Kott y Arin. Eś, el cielo, vive por encima del séptimo cielo, y Hosedam, la madre del mal, envía enfermedad y tormentas de su isla en la boca de los Yenisei y devora las almas de los muertos; Tomam, madre del sur, trae el calor y las aves cada primavera. Cada persona tiene siete almas, el alel guarda la casa, y los muertos son enviados al norte por el Yenisei a la tierra de los muertos."
+ yeniseian_pagan_adherent: "Seguidor de Eś"
+ yeniseian_pagan_adherent_plural: "Seguidores de Eś"
+ yeniseian_pagan_desc: "Las creencias tradicionales de los pueblos yeniseianos, entre ellos los ket, kott y arin, reconocen a Eś como divinidad celestial que habita por encima del séptimo cielo. Hosedam, madre de los males, envía enfermedades y tormentas desde su isla situada en la desembocadura del Yeniséi y devora las almas de los difuntos, mientras que Tomam, madre del sur, trae el calor y las aves cada primavera. Cada persona posee siete almas, y los espíritus alel protegen los hogares. Tras la muerte, las almas emprenden un viaje hacia el norte, siguiendo el curso del Yeniséi hasta el reino de los difuntos."
+
  holy_site_pelym_name: "Pelym"
  holy_site_pelym_effect_name: "Por el [holy_site|E] #weak ($holy_site_pelym_name$)#!"
  holy_site_yenisei_name: "Yenisei"
@@ -19346,25 +19561,25 @@
  italo_greek_rite_adherent_plural: "Cristianos italogriegos"
  italo_greek_rite_desc: "Las comunidades griegas de Calabria, Apulia y Sicilia conservan la liturgia bizantina, cuya observancia fue reforzada por el emperador Nicéforo Focas entre los obispados del sur de Italia en 968. Tras la conquista normanda y la incorporación de estos territorios a la esfera pontificia, Gregorio VII y sus sucesores reconocieron la continuidad del rito griego donde se practicaba legítimamente. Los obispos latinos siguieron ordenando sacerdotes griegos, mientras que los monasterios basilianos de Calabria preservaron sus tradiciones. Comunidades como Gerace y Rossano mantuvieron su liturgia mucho después de que la Iglesia latina adquiriera predominio en el resto de la región."
 
- # Uso de Nidaros
- nidaros_rite: "Uso de Nidaros"
+ # Rito de Nidaros
+ nidaros_rite: "Rito de Nidaros"
  nidaros_rite_adj: "Nidarosiense"
  nidaros_rite_adherent: "Cristiano nidarosiense"
  nidaros_rite_adherent_plural: "Cristianos nidarosienses"
- nidaros_rite_desc: "El uso de Nidaros es la tradición litúrgica de la provincia eclesiástica establecida en 1152 o 1153 por el legado pontificio Nicolás Breakspear, cuya jurisdicción comprendía Noruega, las islas nórdicas, Islandia y Groenlandia. Su ordinario de comienzos del siglo XIII combina elementos de la liturgia occidental con costumbres locales, incluidos cantos procedentes de libros ingleses del siglo XI. Su figura central es san Olaf, cuyo oficio litúrgico fue compuesto bajo el arzobispo Eystein y cuyo santuario atrajo peregrinos de todo el norte de Europa. Los jefes y campesinos consideraban propias las iglesias que habían fundado, mientras que en Islandia persistieron tradiciones particulares, como el matrimonio de sacerdotes y obispos. La Concordia de Tønsberg de 1277 reforzó la libertad de las elecciones episcopales, y los acuerdos de 1297 consolidaron el control eclesiástico sobre gran parte de las propiedades de la Iglesia islandesa."
+ nidaros_rite_desc: "El rito de Nidaros es la tradición litúrgica de la provincia eclesiástica establecida en 1152 o 1153 por el legado pontificio Nicolás Breakspear, cuya jurisdicción comprendía Noruega, las islas nórdicas, Islandia y Groenlandia. Su ordinario de comienzos del siglo XIII combina elementos de la liturgia occidental con costumbres locales, incluidos cantos procedentes de libros ingleses del siglo XI. Su figura central es san Olaf, cuyo oficio litúrgico fue compuesto bajo el arzobispo Eystein y cuyo santuario atrajo peregrinos de todo el norte de Europa. Los jefes y campesinos consideraban propias las iglesias que habían fundado, mientras que en Islandia persistieron tradiciones particulares, como el matrimonio de sacerdotes y obispos. La Concordia de Tønsberg de 1277 reforzó la libertad de las elecciones episcopales, y los acuerdos de 1297 consolidaron el control eclesiástico sobre gran parte de las propiedades de la Iglesia islandesa."
 
- # Uso de Sarum
- sarum_rite: "Uso de Sarum"
+ # Rito de Sarum
+ sarum_rite: "Rito de Sarum"
  sarum_rite_adj: "Sarum"
  sarum_rite_adherent: "Cristiano de Sarum"
  sarum_rite_adherent_plural: "Cristianos de Sarum"
 
- # Uso de Braga
- braga_rite: "Uso de Braga"
+ # Rito de Braga
+ braga_rite: "Rito de Braga"
  braga_rite_adj: "Bracarense"
  braga_rite_adherent: "Cristiano bracarense"
  braga_rite_adherent_plural: "Cristianos bracarenses"
- braga_rite_desc: "Cuando la liturgia romana sustituyó al rito hispánico en el occidente peninsular, la archidiócesis de Braga desarrolló sus propias costumbres litúrgicas. Entre los siglos XI y XIII tomó forma una variante local del rito romano que conservaba ciertos elementos de la tradición galicana, documentada en el Misal de Mateus del segundo cuarto del siglo XII. Aunque comparte numerosos rasgos con los usos de Sarum y París y con las tradiciones dominicana y premonstratense, posee características propias, entre ellas el rezo del avemaría al comienzo de la misa y del Sub tuum praesidium al finalizarla."
+ braga_rite_desc: "Cuando la liturgia romana sustituyó al rito hispánico en el occidente peninsular, la archidiócesis de Braga desarrolló sus propias costumbres litúrgicas. Entre los siglos XI y XIII tomó forma una variante local del rito romano que conservaba ciertos elementos de la tradición galicana, documentada en el Misal de Mateus del segundo cuarto del siglo XII. Aunque comparte numerosos rasgos con las tradiciones litúrgicas de Sarum y París, así como con las de dominicos y premonstratenses, posee características propias, entre ellas el rezo del avemaría al comienzo de la misa y del Sub tuum praesidium al finalizarla."
 
  # Rito de Lyon
  lyon_rite: "Rito de Lyon"
@@ -19373,37 +19588,37 @@
  lyon_rite_adherent_plural: "Cristianos lioneses"
  lyon_rite_desc: "El rito de Lyon procede de la tradición romana, aunque desarrolló características propias durante la época carolingia. Carlomagno envió a Leidrado, monje formado en su escuela palatina, para reorganizar el culto de Lyon siguiendo el modelo de la capilla imperial de Aquisgrán. El arzobispo Agobardo conservó diversas costumbres locales mientras impulsaba su reforma. Sus libros litúrgicos siguieron el sacramentario gregoriano revisado por Alcuino y recibieron posteriormente la influencia del pontifical romano-germánico. Entre sus particularidades destacan las oraciones más breves al pie del altar, numerosas secuencias, fórmulas propias para el ofertorio y ceremonias solemnes en las que interviene un mayor número de ministros."
 
- # Uso de York
- york_rite: "Uso de York"
+ # Rito de York
+ york_rite: "Rito de York"
  york_rite_adj: "Yorkense"
  york_rite_adherent: "Cristiano yorkense"
  york_rite_adherent_plural: "Cristianos yorkenses"
- york_rite_desc: "El uso de York fue la tradición litúrgica de su catedral y de gran parte del norte de Inglaterra. Surgió de la reorganización normanda de las antiguas prácticas inglesas e incorporó elementos ceremoniales de Ruan, especialmente después de que Tomás de Bayeux reformara el cabildo de York siguiendo el modelo de Bayeux. Sus costumbres, documentadas antes de 1221, diferían del uso de Sarum en numerosos detalles: el sacerdote se lavaba las manos dos veces durante la misa, bendecía al diácono antes del Evangelio y utilizaba fórmulas propias para transmitir la paz. También conservaba numerosas secuencias, particularidades en los votos matrimoniales y un calendario litúrgico propio. Fue sustituido por el uso de Sarum durante el reinado de Enrique VIII."
+ york_rite_desc: "El rito de York fue la tradición litúrgica de su catedral y de gran parte del norte de Inglaterra. Surgió de la reorganización normanda de las antiguas prácticas inglesas e incorporó elementos ceremoniales de Ruan, especialmente después de que Tomás de Bayeux reformara el cabildo de York siguiendo el modelo de Bayeux. Sus costumbres, documentadas antes de 1221, diferían del rito de Sarum en numerosos detalles: el sacerdote se lavaba las manos dos veces durante la misa, bendecía al diácono antes del Evangelio y utilizaba fórmulas propias para transmitir la paz. También conservaba numerosas secuencias, particularidades en los votos matrimoniales y un calendario litúrgico propio. Fue sustituido por el rito de Sarum durante el reinado de Enrique VIII."
 
- # Uso de Hereford
- hereford_rite: "Uso de Hereford"
+ # Rito de Hereford
+ hereford_rite: "Rito de Hereford"
  hereford_rite_adj: "Herefordense"
  hereford_rite_adherent: "Cristiano herefordense"
  hereford_rite_adherent_plural: "Cristianos herefordenses"
- hereford_rite_desc: "El uso de Hereford fue una variante del rito romano conservada en la catedral y diócesis de Hereford. Su calendario concedía especial importancia a san Etelberto, rey y patrono de la catedral, y a santo Tomás de Cantilupe, obispo entre 1275 y 1282 y canonizado en 1320. El obispo Pedro de Aigueblanche llevó algunas de sus costumbres a Saboya, donde las introdujo en su iglesia de Aiguebelle. Su misal fue impreso en 1502 y su breviario en 1505."
+ hereford_rite_desc: "El rito de Hereford fue una variante del rito romano conservada en la catedral y diócesis de Hereford. Su calendario concedía especial importancia a san Etelberto, rey y patrono de la catedral, y a santo Tomás de Cantilupe, obispo entre 1275 y 1282 y canonizado en 1320. El obispo Pedro de Aigueblanche llevó algunas de sus costumbres a Saboya, donde las introdujo en su iglesia de Aiguebelle. Su misal fue impreso en 1502 y su breviario en 1505."
 
- # Uso de Esztergom
- esztergom_rite: "Uso de Esztergom"
+ # Rito de Esztergom
+ esztergom_rite: "Rito de Esztergom"
  esztergom_rite_adj: "Estrigoniense"
  esztergom_rite_adherent: "Cristiano estrigoniense"
  esztergom_rite_adherent_plural: "Cristianos estrigonienses"
 
- # Uso de Sarum
- sarum_rite_desc: "El uso de Sarum es la variante del rito romano desarrollada en Salisbury. La tradición atribuye su organización a san Osmundo, obispo entre 1078 y 1099, quien combinó costumbres normandas e inglesas, mientras que Ricardo Poore contribuyó a sistematizarla en un ordinario de comienzos del siglo XIII. Se distinguía por la solemnidad de sus ceremonias, las procesiones con numerosos ministros, unas ochenta secuencias, un elaborado sistema de colores litúrgicos y una misa diaria dedicada a la Virgen desde 1225. Sus costumbres llegaron a Glasgow, Dublín y Moray, y terminaron extendiéndose por gran parte de Inglaterra. Hacia 1325 predominaban en la provincia de Canterbury, aunque York y Hereford conservaron sus propios usos. Los cruzados también llevaron esta tradición a Lisboa, donde Gilberto de Hastings la introdujo después de la conquista de 1147."
+ # Rito de Sarum
+ sarum_rite_desc: "El rito de Sarum es la variante del rito romano desarrollada en Salisbury. La tradición atribuye su organización a san Osmundo, obispo entre 1078 y 1099, quien combinó costumbres normandas e inglesas, mientras que Ricardo Poore contribuyó a sistematizarla en un ordinario de comienzos del siglo XIII. Se distinguía por la solemnidad de sus ceremonias, las procesiones con numerosos ministros, unas ochenta secuencias, un elaborado sistema de colores litúrgicos y una misa diaria dedicada a la Virgen desde 1225. Sus costumbres llegaron a Glasgow, Dublín y Moray, y terminaron extendiéndose por gran parte de Inglaterra. Hacia 1325 predominaban en la provincia de Canterbury, aunque York y Hereford conservaron sus propios ritos. Los cruzados también llevaron esta tradición a Lisboa, donde Gilberto de Hastings la introdujo después de la conquista de 1147."
 
- # Uso de Esztergom
- esztergom_rite_desc: "El uso de Esztergom fue la tradición litúrgica de la sede primada de Hungría, observada en Esztergom, Buda, Presburgo y buena parte del centro y norte del reino. Sus orígenes se remontan a la influencia del pontifical romano-germánico, y sus primeros testimonios incluyen el Benedicional de Esztergom, compuesto entre 1075 y 1083, y el Códice de las Oraciones del siglo XII. Su calendario honra especialmente a los santos húngaros Esteban, Emerico y Gerardo, canonizados en 1083, y Ladislao, canonizado en 1192. Alcanzó su forma clásica durante los siglos XIII y XIV y constituyó la variante mejor documentada de una tradición litúrgica húngara más amplia, compartida con los usos de Kalocsa, Transilvania, Várad y Zagreb. La mayor parte del reino adoptó posteriormente el rito romano mediante los sínodos de 1630 a 1633, aunque Zagreb conservó sus antiguas costumbres hasta 1788."
+ # Rito de Esztergom
+ esztergom_rite_desc: "El rito de Esztergom fue la tradición litúrgica de la sede primada de Hungría, observada en Esztergom, Buda, Presburgo y buena parte del centro y norte del reino. Sus orígenes se remontan a la influencia del pontifical romano-germánico, y sus primeros testimonios incluyen el Benedicional de Esztergom, compuesto entre 1075 y 1083, y el Códice de las Oraciones del siglo XII. Su calendario honra especialmente a los santos húngaros Esteban, Emerico y Gerardo, canonizados en 1083, y Ladislao, canonizado en 1192. Alcanzó su forma clásica durante los siglos XIII y XIV y constituyó la variante mejor documentada de una tradición litúrgica húngara más amplia, compartida con los ritos de Kalocsa, Transilvania, Várad y Zagreb. La mayor parte del reino adoptó posteriormente el rito romano mediante los sínodos de 1630 a 1633, aunque Zagreb conservó sus antiguas costumbres hasta 1788."
 
  # Rito bizantino
- byzantine_rite: "Rito bizantino"
+ byzantine_rite: "Rito griego"
  byzantine_rite_adherent: "Constantinopolitano"
  byzantine_rite_adherent_plural: "Constantinopolitanos"
- byzantine_rite_desc: "El rito bizantino es la tradición litúrgica de la Gran Iglesia de Constantinopla, fundamentada en las liturgias de san Juan Crisóstomo y san Basilio y en las prácticas desarrolladas por la catedral patriarcal y los monasterios estuditas. Su máxima autoridad es el patriarca ecuménico, segundo en precedencia dentro de la pentarquía después de Roma y, tras el cisma de 1054, primero entre los patriarcas ortodoxos. Sus sacerdotes pueden contraer matrimonio antes de la ordenación, mientras que los obispos son elegidos entre los monjes. Es la liturgia predominante de las regiones griegas del Imperio y el modelo seguido por numerosas iglesias fundadas mediante sus misiones."
+ byzantine_rite_desc: "El rito griego es la tradición litúrgica de la Gran Iglesia de Constantinopla, fundamentada en las liturgias de san Juan Crisóstomo y san Basilio y en las prácticas desarrolladas por la catedral patriarcal y los monasterios estuditas. Su máxima autoridad es el patriarca ecuménico, segundo en precedencia dentro de la pentarquía después de Roma y, tras el cisma de 1054, primero entre los patriarcas ortodoxos. Sus sacerdotes pueden contraer matrimonio antes de la ordenación, mientras que los obispos son elegidos entre los monjes. Es la liturgia predominante de las regiones griegas del Imperio y el modelo seguido por numerosas iglesias fundadas mediante sus misiones."
 
  # Rito circasiano
  circassian_rite: "Rito circasiano"
@@ -19412,19 +19627,19 @@
  circassian_rite_desc: "El cristianismo llegó a los ziquios de la costa del mar Negro por influencia bizantina, y las listas episcopales del patriarcado de Constantinopla mencionan un arzobispado autocéfalo de Ziquia desde el siglo VII. Sin embargo, entre los circasianos la nueva fe nunca desplazó completamente las creencias ancestrales, por lo que Cristo y los santos fueron venerados junto con las antiguas divinidades y los bosques sagrados. En 1333, el papa Juan XXII agradeció al rey Verzacht de Ziquia sus esfuerzos por difundir el cristianismo entre su pueblo."
 
  # Lugares sagrados
- holy_site_david_gareja_name: "David Gareja"
+ holy_site_david_gareja_name: "David Gareya"
  holy_site_david_gareja_effect_name: "Por el [holy_site|E] #weak ($holy_site_david_gareja_name$)#!"
  holy_site_tours_name: "Tours"
  holy_site_tours_effect_name: "Por el [holy_site|E] #weak ($holy_site_tours_name$)#!"
  holy_site_nidaros_name: "Nidaros"
  holy_site_nidaros_effect_name: "Por el [holy_site|E] #weak ($holy_site_nidaros_name$)#!"
 
- # Uso de Upsala
- uppsala_rite: "Uso de Upsala"
+ # Rito de Upsala
+ uppsala_rite: "Rito de Upsala"
  uppsala_rite_adj: "Upsaliense"
  uppsala_rite_adherent: "Cristiano upsaliense"
  uppsala_rite_adherent_plural: "Cristianos upsalienses"
- uppsala_rite_desc: "El uso de Upsala fue la tradición litúrgica de la provincia eclesiástica establecida en Suecia por el papa Alejandro III en 1164, cuando Esteban, monje de Alvastra, fue nombrado su primer arzobispo. Sus diócesis sufragáneas comprendían Skara, Linköping, Strängnäs y Västerås, a las que posteriormente se sumaron Växjö y Turku, además de Jämtland, pese a encontrarse bajo la Corona noruega. Sus costumbres se conservan en el Missale Upsalense y el Breviarium Upsalense, así como en libros de otras diócesis suecas. Su figura central es san Erik, rey fallecido en Upsala en 1160, cuyo culto aparece documentado desde finales del siglo XII y cuyas reliquias fueron trasladadas a la nueva catedral durante la década de 1270. El matrimonio de los sacerdotes continuó practicándose hasta que el Concilio de Skänninge de 1248 impuso el celibato. Hacia 1330, Turku sustituyó los libros provinciales por la liturgia dominicana."
+ uppsala_rite_desc: "El rito de Upsala fue la tradición litúrgica de la provincia eclesiástica establecida en Suecia por el papa Alejandro III en 1164, cuando Esteban, monje de Alvastra, fue nombrado su primer arzobispo. Su jurisdicción comprendía las diócesis sufragáneas de Skara, Linköping, Strängnäs y Västerås, a las que posteriormente se incorporaron Växjö y Turku, además de Jämtland, pese a encontrarse bajo la Corona noruega. Sus costumbres litúrgicas se conservan en el Missale Upsalense y el Breviarium Upsalense, así como en los libros religiosos de otras diócesis suecas. Su figura central es san Erik, rey fallecido en Upsala en 1160, cuyo culto está documentado desde finales del siglo XII y cuyas reliquias fueron trasladadas a la nueva catedral durante la década de 1270. El matrimonio de los sacerdotes continuó practicándose hasta que el Concilio de Skänninge de 1248 impuso el celibato eclesiástico. Hacia 1330, la diócesis de Turku abandonó los libros litúrgicos provinciales en favor de la tradición dominicana."
 
  # Rito siríaco oriental
  east_syriac_rite: "Rito siríaco oriental"
@@ -19432,10 +19647,6 @@
  east_syriac_rite_adherent: "Cristiano siríaco oriental"
  east_syriac_rite_adherent_plural: "Cristianos siríacos orientales"
  east_syriac_rite_desc: "El rito siríaco oriental es la tradición litúrgica de la Iglesia del Oriente, celebrada en lengua siríaca y fundamentada en la liturgia de Addai y Mari. Su máxima autoridad es el catolicós-patriarca, cuya sede permaneció en Seleucia-Ctesifonte hasta su traslado a Bagdad en 775. Sus provincias eclesiásticas se extendían por Mesopotamia y Persia, desde Nisibis y Arbela hasta Fars, Rayy, Merv, Herat y Samarcanda. Las escuelas de Edesa y Nisibis formaron generaciones de clérigos, mientras que la renovación monástica impulsada por Abraham de Kashkar en el monte Izla desde 571 favoreció la fundación de numerosos monasterios. Sus sacerdotes y diáconos podían contraer matrimonio. Bajo los califas abasíes, médicos y traductores siríacos sirvieron en la corte de Bagdad, mientras que monjes y comerciantes difundieron el cristianismo por las rutas comerciales hacia la India, Asia Central y China."
-
- # Rito túrquico
- turkic_rite: "Rito túrquico"
- turkic_rite_adherent: "Cristiano túrquico"
 
  # Lugares sagrados
  holy_site_nisibis_effect_name: "Por el [holy_site|E] #weak ($holy_site_nisibis_name$)#!"
@@ -19446,14 +19657,16 @@
  holy_site_mylapore_name: "Mylapore"
 
  # Rito túrquico
+ turkic_rite: "Rito túrquico"
+ turkic_rite_adherent: "Cristiano túrquico"
  turkic_rite_adherent_plural: "Cristianos túrquicos"
- turkic_rite_desc: "El cristianismo de los pueblos túrquicos y mongoles de las estepas y de las comunidades de los oasis de Asia Central se difundió principalmente mediante la Iglesia del Oriente. El patriarca Timoteo I, entre 780 y 823, consagró un metropolitano para los turcos, mientras que monjes y comerciantes sogdianos extendieron la fe por la Ruta de la Seda. En el monasterio de Bulayïq, cerca de Turfán, se conservaron textos en siríaco, sogdiano, persa medio y túrquico. Poco antes de 1007, el kan de los kereítas solicitó el bautismo después de atribuir su salvación durante una tormenta de nieve a san Sergio. El patriarca permitió que su pueblo adaptara el ayuno cuaresmal a una alimentación basada en leche y carne, siempre que sustituyeran el kumis por leche dulce. Los naimanos y ongutos también adoptaron el cristianismo, que bajo el Imperio mongol se extendió hasta China. En 1281, el monje onguto Marcos fue elegido patriarca con el nombre de Yahballaha III. Guillermo de Rubruck, durante su viaje de 1253 a 1255, observó comunidades cuyos sacerdotes recitaban oraciones en un siríaco que apenas comprendían y cuyas prácticas cristianas convivían con antiguas tradiciones chamánicas."
+ turkic_rite_desc: "El cristianismo de los pueblos túrquicos y mongoles de las estepas y de las comunidades de los oasis de Asia Central se difundió principalmente a través de la Iglesia del Oriente. El patriarca Timoteo I, cuyo pontificado se extendió entre 780 y 823, consagró a un metropolitano para los turcos, mientras que monjes y comerciantes sogdianos propagaron la fe a lo largo de la Ruta de la Seda. En el monasterio de Bulayïq, cerca de Turfán, se conservaron textos religiosos en siríaco, sogdiano, persa medio y túrquico. Poco antes del año 1007, el kan de los kereítas solicitó el bautismo tras atribuir su salvación durante una tormenta de nieve a la intercesión de san Sergio. El patriarca permitió que su pueblo adaptara el ayuno cuaresmal a una dieta basada en leche y carne, siempre que sustituyera el kumis por leche dulce. Los naimanos y ongutos también abrazaron el cristianismo, que bajo el Imperio mongol llegó a extenderse hasta China. En 1281, el monje onguto Marcos fue elegido patriarca con el nombre de Yahballaha III. Durante su viaje entre 1253 y 1255, Guillermo de Rubruck encontró comunidades cuyos sacerdotes recitaban oraciones en un siríaco que apenas comprendían y cuyas prácticas cristianas conservaban elementos de las antiguas tradiciones chamánicas."
 
  # Rito jingjiao
  jingjiao_rite: "Rito jingjiao"
  jingjiao_rite_adherent: "Cristiano jingjiao"
  jingjiao_rite_adherent_plural: "Cristianos jingjiao"
- jingjiao_rite_desc: "Jingjiao, la «Enseñanza Luminosa», fue el nombre adoptado por la Iglesia del Oriente en la China de la dinastía Tang. El monje siríaco Alopen llegó a Chang'an en 635 y fue recibido por el emperador Taizong. Durante el siglo VIII, China se convirtió en una provincia metropolitana conocida como Beth Sinaye. La estela erigida en Chang'an en 781, escrita en chino con anotaciones siríacas, relata la historia de esta comunidad y conserva los nombres de sus clérigos. Sus textos religiosos, redactados con frecuencia al estilo de los sutras, incorporaron terminología budista y taoísta. La mayoría de sus seguidores eran persas y sogdianos, aunque también hubo conversos chinos. El sacerdote bactriano Yisi colaboró con Guo Ziyi durante la represión de la rebelión de An Lushan. La comunidad dependía del favor imperial y sufrió un grave declive tras el edicto de Wuzong de 845, que obligó a numerosos religiosos a abandonar la vida monástica. Un testimonio de 987 afirmaba que el cristianismo había desaparecido de China."
+ jingjiao_rite_desc: "El jingjiao, o «Enseñanza Luminosa», fue la denominación adoptada por la Iglesia del Oriente en la China de la dinastía Tang. El monje siríaco Alopen llegó a Chang'an en 635, donde fue recibido por el emperador Taizong. Durante el siglo VIII, China se convirtió en una provincia metropolitana conocida como Beth Sinaye. La estela erigida en Chang'an en 781, redactada en chino con anotaciones en siríaco, relata la historia de esta comunidad y conserva los nombres de sus clérigos. Sus escrituras religiosas, frecuentemente compuestas al estilo de los sutras, incorporaron conceptos y terminología procedentes del budismo y el taoísmo. Aunque la mayoría de sus fieles eran persas y sogdianos, también existieron comunidades de conversos chinos. El sacerdote bactriano Yisi colaboró con el general Guo Ziyi durante la represión de la rebelión de An Lushan. La comunidad dependía en gran medida del favor imperial y sufrió un grave declive tras el edicto promulgado por el emperador Wuzong en 845, que obligó a numerosos religiosos a abandonar la vida monástica. Un testimonio del año 987 afirmaba que el cristianismo había desaparecido de China."
 
  # Cristianismo apostólico armenio
  armenian_apostolic_adj: "Apostólica armenia"
@@ -19466,7 +19679,7 @@
  cilician_rite: "Rito cilicio"
  cilician_rite_adherent: "Cristiano cilicio"
  cilician_rite_adherent_plural: "Cristianos cilicios"
- cilician_rite_desc: "La Iglesia armenia de Cilicia surgió entre las comunidades armenias establecidas en los montes Tauro y las llanuras cilicias durante el siglo XI. A mediados del siglo XII, el catolicós adquirió la fortaleza de Hromkla, junto al Éufrates, y trasladó posteriormente su sede a Sis tras la conquista mameluca de 1292. La coronación de León I como rey de Armenia en Tarso en 1198 favoreció el acercamiento con Roma, impulsado por la alianza de los monarcas cilicios con los estados cruzados y los mongoles. En el Concilio de Sis de 1307, bajo el rey León y el catolicós Constantino, los obispos aceptaron diversas doctrinas y prácticas de la Iglesia romana, decisión confirmada en Adana en 1316. Sin embargo, el clero y las comunidades de la Gran Armenia rechazaron esta unión, y los intentos de imponerla profundizaron las divisiones dentro de la Iglesia armenia."
+ cilician_rite_desc: "La Iglesia armenia de Cilicia surgió entre las comunidades armenias establecidas en los montes Tauro y las llanuras cilicias durante el siglo XI. A mediados del siglo XII, el catolicós estableció su sede en la fortaleza de Hromkla, junto al Éufrates, que posteriormente fue trasladada a Sis tras la conquista mameluca de 1292. La coronación de León I como rey de Armenia en Tarso en 1198 favoreció el acercamiento con Roma, impulsado por las alianzas de los monarcas cilicios con los estados cruzados y los mongoles. En el Concilio de Sis de 1307, celebrado bajo el reinado de León y el patriarcado del catolicós Constantino, los obispos aceptaron diversas doctrinas y prácticas de la Iglesia romana, decisión reafirmada en Adana en 1316. Sin embargo, gran parte del clero y de las comunidades de la Gran Armenia rechazaron esta unión, y los intentos de imponerla profundizaron las divisiones religiosas dentro de la Iglesia armenia."
 
  # Lugares sagrados
  holy_site_khor_virap_effect_name: "Por el [holy_site|E] #weak ($holy_site_khor_virap_name$)#!"
@@ -19501,7 +19714,7 @@
  monothelitism_adj: "Monotelita"
  monothelitism_adherent: "Monotelita"
  monothelitism_adherent_plural: "Monotelitas"
- monothelitism_desc: "El monotelitismo sostiene que Cristo posee dos naturalezas, divina y humana, pero una sola voluntad. Esta doctrina fue promovida por el patriarca Sergio de Constantinopla con el respaldo del emperador Heraclio, cuya Éctesis de 638 proclamó la existencia de dos naturalezas y una única voluntad en Cristo. El papa Honorio I había respaldado una formulación semejante en 635, y los patriarcas de Alejandría y Antioquía también la aceptaron. Sin embargo, el Concilio de Letrán de 649, presidido por el papa Martín I, condenó esta enseñanza, y el III Concilio de Constantinopla de 680-681 afirmó que Cristo posee dos voluntades naturales y dos operaciones. Diversos autores griegos y árabes consideraron monotelitas a los maronitas del Líbano hasta su acercamiento a Roma, que Guillermo de Tiro sitúa en 1182."
+ monothelitism_desc: "El monotelitismo sostiene que Cristo posee dos naturalezas, divina y humana, pero una sola voluntad. Esta doctrina fue promovida por el patriarca Sergio de Constantinopla con el respaldo del emperador Heraclio, cuya Éctesis, promulgada en el año 638, proclamó la existencia de dos naturalezas y una única voluntad en Cristo. El papa Honorio I había respaldado una formulación semejante durante su pontificado, mientras que los patriarcas de Alejandría y Antioquía también aceptaron esta enseñanza. Sin embargo, el Concilio de Letrán, celebrado en el año 649 bajo la presidencia del papa Martín I, condenó el monotelitismo, y el III Concilio de Constantinopla, celebrado entre los años 680 y 681, estableció que Cristo posee dos voluntades naturales y dos operaciones, correspondientes a sus naturalezas divina y humana. Diversos autores griegos y árabes atribuyeron esta doctrina a los maronitas del Líbano hasta su acercamiento a Roma, que Guillermo de Tiro sitúa en el año 1182."
 
  # Lugares sagrados
  holy_site_kfarhy_name: "Kfarhy"
@@ -19513,7 +19726,7 @@
  beneventan_rite_adj: "Rito beneventano"
  glagolitic_rite_adj: "Rito glagolítico"
  italo_greek_rite_adj: "Rito italogriego"
- byzantine_rite_adj: "Rito bizantino"
+ byzantine_rite_adj: "Rito griego"
  circassian_rite_adj: "Rito circasiano"
  cilician_rite_adj: "Rito cilicio"
  turkic_rite_adj: "Rito túrquico"
