@@ -2287,9 +2287,9 @@
 
  gothic: "Goda"
 
- great_russian: "Granrusa"
- great_russian_collective_noun: "Granrusos"
- great_russian_prefix: "Granruso"
+ great_russian: "Rusa"
+ great_russian_collective_noun: "Rusos"
+ great_russian_prefix: "Ruso"
 
  greek_cypriot: "Grecochipriota"
  greek_cypriot_collective_noun: "Grecochipriotas"
@@ -3747,9 +3747,9 @@
  sorbian_collective_noun: "Sorbios"
  sorbian_prefix: "Sorbo"
 
- south_saxon: "Sajona meridional"
- south_saxon_collective_noun: "Sajones meridionales"
- south_saxon_prefix: "Sajón meridional"
+ south_saxon: "Sussexiana"
+ south_saxon_collective_noun: "Sussexianos"
+ south_saxon_prefix: "Sussexiano"
 
  suau: "Suau"
  suau_collective_noun: "Suaus"
@@ -3791,9 +3791,9 @@
  syromesopotamian_collective_noun: "Moslawi"
  syromesopotamian_prefix: "Moslawi"
 
- szasz: "Sajona de Transilvania"
- szasz_collective_noun: "Sajones de Transilvania"
- szasz_prefix: "Sajón transilvano"
+ szasz: "Sasónica"
+ szasz_collective_noun: "Sasónicos"
+ szasz_prefix: "Sasónico"
 
  szekely: "Sícula"
  szekely_collective_noun: "Sículos"
@@ -3831,9 +3831,9 @@
  tani_collective_noun: "Tani"
  tani_prefix: "Tani"
 
- tataric: "Tártara oriental"
- tataric_collective_noun: "Tártaros orientales"
- tataric_prefix: "Tártaro oriental"
+ tataric: "Tartárica"
+ tataric_collective_noun: "Tartáricos"
+ tataric_prefix: "Tartárico"
 
  tatars: "Tártara"
  tatars_collective_noun: "Tártaros"
@@ -3843,9 +3843,9 @@
  tati_collective_noun: "Tatíes"
  tati_prefix: "Tatí"
 
- tauro_romaic: "Griega de Crimea"
- tauro_romaic_collective_noun: "Griegos de Crimea"
- tauro_romaic_prefix: "Grecocrimeo"
+ tauro_romaic: "Taurogriega"
+ tauro_romaic_collective_noun: "Taurogriegos"
+ tauro_romaic_prefix: "Taurogriego"
 
  tavastian: "Tavastiana"
  tavastian_collective_noun: "Tavastianos"
@@ -4435,9 +4435,9 @@
  gond_collective_noun: "Gondis"
  gond_prefix: "Gondi"
 
- greek: "Griega"
- greek_collective_noun: "Griegos"
- greek_prefix: "Greco"
+ greek: "Romea"
+ greek_collective_noun: "Romeos"
+ greek_prefix: "Romeo"
 
  guan: "Guan"
  guan_collective_noun: "Guanes"
@@ -4774,9 +4774,9 @@
  roman_collective_noun: "Romanos"
  roman_prefix: "Romano"
 
- russian: "Rusa"
- russian_collective_noun: "Rusos"
- russian_prefix: "Ruso"
+ russian: "Rúsica"
+ russian_collective_noun: "Rus"
+ russian_prefix: "Rus"
 
  sahelian_group: "Saheliana"
  sahelian_group_collective_noun: "Sahelianos"
