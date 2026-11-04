@@ -3226,9 +3226,9 @@
  norn_collective_noun: "Nórdicos de las islas del Norte"
  norn_prefix: "Norn"
 
- northerner: "Inglesa septentrional"
- northerner_collective_noun: "Ingleses septentrionales"
- northerner_prefix: "Angloseptentrional"
+ northerner: "Noringlesa"
+ northerner_collective_noun: "Noringleses"
+ northerner_prefix: "Noringlés"
 
  northumbrian: "Northumbria"
  northumbrian_collective_noun: "Northumbrios"
@@ -3273,12 +3273,12 @@
  ok_collective_noun: "Oks"
  ok_prefix: "Oko"
 
- old_anglian: "Angla antigua"
- old_anglian_collective_noun: "Anglos antiguos"
- old_anglian_prefix: "Anglo"
+ old_anglian: "Ánglica"
+ old_anglian_collective_noun: "Anglos"
+ old_anglian_prefix: "Ánglico"
 
- old_brythonic: "Britónica antigua"
- old_brythonic_collective_noun: "Britones antiguos"
+ old_brythonic: "Britónica"
+ old_brythonic_collective_noun: "Britones"
  old_brythonic_prefix: "Britónico"
 
  old_japanese: "Yayoi"
@@ -4057,9 +4057,9 @@
  wenmo_collective_noun: "Wenmo"
  wenmo_prefix: "Wenmo"
 
- west_saxon: "Sajona occidental"
- west_saxon_collective_noun: "Sajones occidentales"
- west_saxon_prefix: "Sajón occidental"
+ west_saxon: "Wessexiana"
+ west_saxon_collective_noun: "Wessexianos"
+ west_saxon_prefix: "Wessexiano"
 
  wu: "Wu"
  wu_collective_noun: "Wu"
@@ -4117,9 +4117,9 @@
  yemenite_collective_noun: "Yemeníes"
  yemenite_prefix: "Yemení"
 
- yenisei_kirghiz: "Kirguisa del Yeniséi"
- yenisei_kirghiz_collective_noun: "Kirguises del Yeniséi"
- yenisei_kirghiz_prefix: "Kirguís del Yeniséi"
+ yenisei_kirghiz: "Yeniseikirguisa"
+ yenisei_kirghiz_collective_noun: "Yeniseikirguises"
+ yenisei_kirghiz_prefix: "Yeniseikirguís"
 
  yeren: "Yeren"
  yeren_collective_noun: "Yerens"
@@ -4131,8 +4131,8 @@
 
  yue: "Yue"
 
- yugoslavian: "Eslava meridional"
- yugoslavian_collective_noun: "Eslavos meridionales"
+ yugoslavian: "Sureslava"
+ yugoslavian_collective_noun: "Sureslavos"
  yugoslavian_prefix: "Sureslavo"
 
  zachlumian: "Zahumlia"
@@ -4269,9 +4269,9 @@
  bodpa_collective_noun: "Bodpas"
  bodpa_prefix: "Tibetano"
 
- bolghar: "Búlgara del Volga"
- bolghar_collective_noun: "Búlgaros del Volga"
- bolghar_prefix: "Búlgaro del Volga"
+ bolghar: "Bolgara"
+ bolghar_collective_noun: "Bolgares"
+ bolghar_prefix: "Bolgar"
 
  bosnian: "Bosnia"
  bosnian_collective_noun: "Bosnios"
