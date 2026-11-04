@@ -11053,142 +11053,139 @@
 
  INCOMPATIBLE_TENET_WARMONGER_TRIGGER: "Incompatible con el [core_tenet|E] [GetDoctrine('tenet_warmonger').GetName( GetPlayer.GetFaith )]"
 
-
- ## Hostility Doctrines ## 
- #Musta'li Schism - Main
- special_doctrine_mustali_main_name: "Isma'ilism Schismed"
+ ## Doctrinas de hostilidad ##
+ # Cisma mustalí: rama principal
+ special_doctrine_mustali_main_name: "Ismailismo mustalí"
  mustali_main_name: "$special_doctrine_mustali_main_name$"
- special_doctrine_mustali_main_desc: "La sucesión del Califato se hizo fangosa con la muerte de Al-Amir y la desaparición de su hijo, ahora los Musta'li Isma'ilis se han dividido sobre quiénes deben ser nuestros líderes y guías."
- doctrine_parameter_mustali_main_effects_active: "[faiths|E] con [GetDoctrine('special_doctrine_mustali_schismed_sect').GetBaseName] [doctrine|E] ganar [EmptyScope.ScriptValue('mustali_schismed_sect_conversion_bonus_root_value')|=-%0] velocidad de conversión contra este [faith|E]"
- doctrine_parameter_hostility_override_special_doctrine_mustali_schismed_sect: "Considera [faiths|E] con [GetDoctrine('special_doctrine_mustali_schismed_sect').GetBaseName] [doctrine|E] para ser [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]."
+ special_doctrine_mustali_main_desc: "La sucesión del califato fatimí quedó sumida en la incertidumbre tras la muerte del califa al-Ámir en el año 1130 y la desaparición de su hijo al-Tayyib. Estos acontecimientos provocaron un cisma entre los ismailíes mustalíes, divididos entre quienes reconocían a al-Tayyib como imán legítimo y quienes aceptaban la autoridad de al-Háfiz. Desde entonces, ambas comunidades mantienen posturas enfrentadas sobre quién debe ejercer el liderazgo espiritual y guiar a los fieles."
+ doctrine_parameter_mustali_main_effects_active: "Las [faiths|E] con la [doctrine|E] [GetDoctrine('special_doctrine_mustali_schismed_sect').GetBaseName] obtienen [EmptyScope.ScriptValue('mustali_schismed_sect_conversion_bonus_root_value')|=-%0] de velocidad de conversión contra esta [faith|E]."
+ doctrine_parameter_hostility_override_special_doctrine_mustali_schismed_sect: "Considera que las [faiths|E] con la [doctrine|E] [GetDoctrine('special_doctrine_mustali_schismed_sect').GetBaseName] son [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]."
 
- #Musta'li Schism - Sect
- special_doctrine_mustali_schismed_sect_name: "El cisma Musta'li"
+ # Cisma mustalí: rama escindida
+ special_doctrine_mustali_schismed_sect_name: "Cisma mustalí"
  mustali_schismed_sect_name: "$special_doctrine_mustali_schismed_sect_name$"
- special_doctrine_mustali_schismed_sect_desc: "La sucesión del Califato se hizo fangosa con la muerte de Al-Amir y la desaparición de su hijo, ahora los Musta'li Isma'ilis se han dividido sobre quiénes deben ser nuestros líderes y guías."
- doctrine_parameter_mustali_schismed_sect_effects_active: "[EmptyScope.ScriptValue('mustali_schismed_sect_conversion_bonus_root_value')|=+%0] velocidad de conversión contra el [GetRiteByKey('ismaili').GetAdjective] [faith|E]"
- doctrine_parameter_hostility_override_special_doctrine_mustali_main: "Considera [faiths|E] con el [GetDoctrine('special_doctrine_mustali_main').GetBaseName] [doctrine|E] para ser [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]."
- mustali_schismed_sect_conversion_task_desc: "Isma'ili sub-sect convirtiendo [GetRiteByKey('ismaili').GetAdherentNamePlural]"
+ special_doctrine_mustali_schismed_sect_desc: "La sucesión del califato fatimí quedó sumida en la incertidumbre tras la muerte del califa al-Ámir en el año 1130 y la desaparición de su hijo al-Tayyib. Estos acontecimientos provocaron un cisma entre los ismailíes mustalíes, divididos entre quienes reconocían a al-Tayyib como imán legítimo y quienes aceptaban la autoridad de al-Háfiz. Desde entonces, ambas comunidades mantienen posturas enfrentadas sobre quién debe ejercer el liderazgo espiritual y guiar a los fieles."
+ doctrine_parameter_mustali_schismed_sect_effects_active: "[EmptyScope.ScriptValue('mustali_schismed_sect_conversion_bonus_root_value')|=+%0] de velocidad de conversión contra la [faith|E] [GetRiteByKey('ismaili').GetAdjective]."
+ doctrine_parameter_hostility_override_special_doctrine_mustali_main: "Considera que las [faiths|E] con la [doctrine|E] [GetDoctrine('special_doctrine_mustali_main').GetBaseName] son [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]."
+ mustali_schismed_sect_conversion_task_desc: "Conversión de [GetRiteByKey('ismaili').GetAdherentNamePlural] por una rama escindida del ismailismo"
 
-
- ## Succession Doctrines ##
- ## Islamic Secondary Sect Doctrines ##
+ ## Doctrinas de sucesión ##
+ ## Doctrinas de afiliación teológica islámica ##
  doctrine_islam_secondary_group_name: "Afiliación teológica"
- REQUIRES_SUNNI: "Requiere el [GetDoctrine('muhammad_succession_sunni_doctrine').GetBaseName] [doctrine|E]"
- REQUIRES_SHIA: "Requiere el [GetDoctrine('muhammad_succession_shia_doctrine').GetBaseName] [doctrine|E]"
- REQUIRES_MUHAKKIMA: "Requiere el [GetDoctrine('muhammad_succession_muhakkima_doctrine').GetBaseName] [doctrine|E]"
- REQUIRES_ZANDAQA: "Requiere el [GetDoctrine('muhammad_succession_zandaqa_doctrine').GetBaseName] [doctrine|E]"
- REQUIRES_BERBERIST: "Requiere el [GetDoctrine('muhammad_succession_berberist_doctrine').GetBaseName] [doctrine|E]"
+ REQUIRES_SUNNI: "Requiere la [doctrine|E] [GetDoctrine('muhammad_succession_sunni_doctrine').GetBaseName]"
+ REQUIRES_SHIA: "Requiere la [doctrine|E] [GetDoctrine('muhammad_succession_shia_doctrine').GetBaseName]"
+ REQUIRES_MUHAKKIMA: "Requiere la [doctrine|E] [GetDoctrine('muhammad_succession_muhakkima_doctrine').GetBaseName]"
+ REQUIRES_ZANDAQA: "Requiere la [doctrine|E] [GetDoctrine('muhammad_succession_zandaqa_doctrine').GetBaseName]"
+ REQUIRES_BERBERIST: "Requiere la [doctrine|E] [GetDoctrine('muhammad_succession_berberist_doctrine').GetBaseName]"
 
- #Sunni Orthodoxy
- islam_secondary_group_sunni_orthodox_doctrine_name: "Sunni Orthodoxy"
- islam_secondary_group_sunni_orthodox_doctrine_desc: "Nuestras escuelas de pensamiento se han desarrollado estrechamente entre sí, y las diferencias de teología son demasiado menores para considerarnos grupos separados."
- doctrine_parameter_hostility_override_islam_secondary_group_sunni_orthodox_doctrine: "Considera [GetDoctrine('islam_secondary_group_sunni_orthodox_doctrine').GetBaseName] [faiths|E] para ser [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]."
+ # Ortodoxia suní
+ islam_secondary_group_sunni_orthodox_doctrine_name: "Ortodoxia suní"
+ islam_secondary_group_sunni_orthodox_doctrine_desc: "Nuestras escuelas de pensamiento se han desarrollado en estrecha relación unas con otras, y sus diferencias teológicas son demasiado pequeñas para justificar que nos consideremos comunidades religiosas separadas."
+ doctrine_parameter_hostility_override_islam_secondary_group_sunni_orthodox_doctrine: "Considera que las [faiths|E] con la doctrina [GetDoctrine('islam_secondary_group_sunni_orthodox_doctrine').GetBaseName] son [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]."
 
- #Unorthodox Sunnism
- islam_secondary_group_sunni_heresy_doctrine_name: "Unorthodox Sunni"
- islam_secondary_group_sunni_heresy_doctrine_desc: "Aunque somos sunitas por definición, nuestras creencias difieren demasiado de las de la ortodoxia para que nos consideremos como parte del mismo grupo, nuestras relaciones siguen siendo amistosas, sin embargo."
- doctrine_parameter_hostility_override_islam_secondary_group_sunni_heresy_doctrine: "Considera [GetDoctrine('islam_secondary_group_sunni_heresy_doctrine').GetBaseName] [faiths|E] con el ser [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]."
+ # Sunismo heterodoxo
+ islam_secondary_group_sunni_heresy_doctrine_name: "Sunismo heterodoxo"
+ islam_secondary_group_sunni_heresy_doctrine_desc: "Aunque pertenecemos a la tradición suní, nuestras creencias difieren considerablemente de las enseñanzas ortodoxas, por lo que no podemos considerarnos parte de una misma corriente doctrinal. Sin embargo, estas diferencias no impiden que mantengamos relaciones amistosas con las demás comunidades suníes."
+ doctrine_parameter_hostility_override_islam_secondary_group_sunni_heresy_doctrine: "Considera que las [faiths|E] con la doctrina [GetDoctrine('islam_secondary_group_sunni_heresy_doctrine').GetBaseName] son [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]."
 
- #Puritanical Sunnism
- islam_secondary_group_sunni_puritanical_doctrine_name: "Puritanical Sunni"
- islam_secondary_group_sunni_puritanical_doctrine_desc: "Sólo hay un camino verdadero que Allah aceptará, y no habrá ningún compromiso por el bien de los devotos."
- doctrine_parameter_hostility_override_islam_secondary_group_sunni_puritanical_doctrine: "Considera [GetDoctrine('islam_secondary_group_sunni_puritanical_doctrine').GetBaseName] [faiths|E] para ser [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]."
- doctrine_parameter_me_puritanical_conversion_bonus_sunni: "[EmptyScope.ScriptValue('puritanical_islam_conversion_bonus_root_value')|=+%0] velocidad de conversión contra otros [GetDoctrine('muhammad_succession_sunni_doctrine').GetBaseName] [faiths|E]"
- doctrine_parameter_me_puritanical_conversion_bonus_other_sunni: "[EmptyScope.ScriptValue('puritanical_islam_conversion_bonus_root_value')|=+%0] velocidad de conversión contra [GetDoctrine('islam_secondary_group_sunni_puritanical_doctrine').GetBaseName] [faiths|E]"
- puritanical_islam_sunni_conversion_task_desc: "Puritanical Sunni convirtiendo o siendo convertido por otros sunnitas"
+ # Sunismo puritano
+ islam_secondary_group_sunni_puritanical_doctrine_name: "Sunismo puritano"
+ islam_secondary_group_sunni_puritanical_doctrine_desc: "Solo existe un camino verdadero aceptado por Alá, y no debemos comprometer la pureza de nuestra fe para complacer a quienes se apartan de sus enseñanzas."
+ doctrine_parameter_hostility_override_islam_secondary_group_sunni_puritanical_doctrine: "Considera que las [faiths|E] con la doctrina [GetDoctrine('islam_secondary_group_sunni_puritanical_doctrine').GetBaseName] son [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]."
+ doctrine_parameter_me_puritanical_conversion_bonus_sunni: "[EmptyScope.ScriptValue('puritanical_islam_conversion_bonus_root_value')|=+%0] de velocidad de conversión contra otras [faiths|E] con la doctrina [GetDoctrine('muhammad_succession_sunni_doctrine').GetBaseName]"
+ doctrine_parameter_me_puritanical_conversion_bonus_other_sunni: "[EmptyScope.ScriptValue('puritanical_islam_conversion_bonus_root_value')|=+%0] de velocidad de conversión contra las [faiths|E] con la doctrina [GetDoctrine('islam_secondary_group_sunni_puritanical_doctrine').GetBaseName]"
+ puritanical_islam_sunni_conversion_task_desc: "Conversión entre suníes puritanos y otras comunidades suníes"
 
- #Shi'ite Affiliations
- islam_secondary_group_shia_orthodox_doctrine_name: "Shi'ite Affiliated"
- islam_secondary_group_shia_orthodox_doctrine_desc: "Reconocemos los derechos de los Ahl al-Bayt y condenamos a sus enemigos, los que son semejantes a nosotros pueden no ser siempre perfectos, pero son mejores que la mayoría."
- doctrine_parameter_hostility_override_islam_secondary_group_shia_orthodox_doctrine: "Considera [GetDoctrine('islam_secondary_group_shia_orthodox_doctrine').GetBaseName] [faiths|E] para ser [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]."
+ # Afiliación chií
+ islam_secondary_group_shia_orthodox_doctrine_name: "Afiliación chií"
+ islam_secondary_group_shia_orthodox_doctrine_desc: "Reconocemos los derechos de la Ahl al-Bayt, la familia del Profeta, y condenamos a quienes se opusieron a su legítima autoridad. Aunque las comunidades que comparten nuestras creencias no siempre siguen perfectamente el camino verdadero, las consideramos más cercanas a la fe que la mayoría de las demás corrientes religiosas."
+ doctrine_parameter_hostility_override_islam_secondary_group_shia_orthodox_doctrine: "Considera que las [faiths|E] con la doctrina [GetDoctrine('islam_secondary_group_shia_orthodox_doctrine').GetBaseName] son [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]."
 
- #Batri Affiliations
- islam_secondary_group_shia_batriya_doctrine_name: "Batri Affiliated"
- islam_secondary_group_shia_batriya_doctrine_desc: "Aunque sostienemos que el único sucesor verdadero del Profeta es el Imam Ali, no vemos a los Califas sunitas como incrédulos, ya que eran virtuosos y justos gobernantes que jugaron un papel crucial en la difusión del Islam."
- doctrine_parameter_hostility_override_islam_secondary_group_shia_batriya_doctrine: "Considera [GetDoctrine('islam_secondary_group_shia_batriya_doctrine').GetBaseName] [faiths|E] para ser [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]."
+ # Afiliación batrí
+ islam_secondary_group_shia_batriya_doctrine_name: "Afiliación batrí"
+ islam_secondary_group_shia_batriya_doctrine_desc: "Aunque sostenemos que Alí fue el único sucesor legítimo del Profeta, no consideramos infieles a los primeros califas reconocidos por los suníes, pues fueron gobernantes virtuosos y justos que desempeñaron un papel fundamental en la expansión del islam."
+ doctrine_parameter_hostility_override_islam_secondary_group_shia_batriya_doctrine: "Considera que las [faiths|E] con la doctrina [GetDoctrine('islam_secondary_group_shia_batriya_doctrine').GetBaseName] son [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]."
 
- #Puritanical Shi'ism
- islam_secondary_group_shia_puritanical_doctrine_name: "Puritanical Shi'ite"
- islam_secondary_group_shia_puritanical_doctrine_desc: "Sólo hay un camino verdadero que Allah aceptará, y no habrá ningún compromiso por el bien de los devotos."
- doctrine_parameter_hostility_override_islam_secondary_group_shia_puritanical_doctrine: "Considera [GetDoctrine('islam_secondary_group_shia_puritanical_doctrine').GetBaseName] [faiths|E] para ser [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]."
- doctrine_parameter_me_puritanical_conversion_bonus_shia: "[EmptyScope.ScriptValue('puritanical_islam_conversion_bonus_root_value')|=+%0] velocidad de conversión contra otros [GetDoctrine('muhammad_succession_shia_doctrine').GetBaseName] [faiths|E]"
- doctrine_parameter_me_puritanical_conversion_bonus_other_shia: "[EmptyScope.ScriptValue('puritanical_islam_conversion_bonus_root_value')|=+%0] velocidad de conversión contra [GetDoctrine('islam_secondary_group_shia_puritanical_doctrine').GetBaseName] [faiths|E]"
- puritanical_islam_shia_conversion_task_desc: "Puritanical Shi'ite convirtiendo o siendo convertido por otros chiítas"
+ # Chiismo puritano
+ islam_secondary_group_shia_puritanical_doctrine_name: "Chiismo puritano"
+ islam_secondary_group_shia_puritanical_doctrine_desc: "Solo existe un camino verdadero aceptado por Alá, y no debemos comprometer la pureza de nuestra fe para complacer a quienes se apartan de sus enseñanzas."
+ doctrine_parameter_hostility_override_islam_secondary_group_shia_puritanical_doctrine: "Considera que las [faiths|E] con la doctrina [GetDoctrine('islam_secondary_group_shia_puritanical_doctrine').GetBaseName] son [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]."
+ doctrine_parameter_me_puritanical_conversion_bonus_shia: "[EmptyScope.ScriptValue('puritanical_islam_conversion_bonus_root_value')|=+%0] de velocidad de conversión contra otras [faiths|E] con la doctrina [GetDoctrine('muhammad_succession_shia_doctrine').GetBaseName]"
+ doctrine_parameter_me_puritanical_conversion_bonus_other_shia: "[EmptyScope.ScriptValue('puritanical_islam_conversion_bonus_root_value')|=+%0] de velocidad de conversión contra las [faiths|E] con la doctrina [GetDoctrine('islam_secondary_group_shia_puritanical_doctrine').GetBaseName]"
+ puritanical_islam_shia_conversion_task_desc: "Conversión entre chiíes puritanos y otras comunidades chiíes"
 
- #Moderate Muhakkima
- islam_secondary_group_muhakkima_moderate_doctrine_name: "Muhakkima moderada"
- islam_secondary_group_muhakkima_moderate_doctrine_desc: "Aunque compartimos un punto de origen común, no estamos de acuerdo con el otro extremista Muhakkima que condena a muerte a las otras sectas por su acto de incredulidad."
- doctrine_parameter_hostility_override_islam_secondary_group_muhakkima_moderate_doctrine: "Considera [GetDoctrine('islam_secondary_group_muhakkima_moderate_doctrine').GetBaseName] [faiths|E] para ser [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]."
+ # Muhakkima moderado
+ islam_secondary_group_muhakkima_moderate_doctrine_name: "Muhakkima moderado"
+ islam_secondary_group_muhakkima_moderate_doctrine_desc: "Aunque compartimos un origen común con las demás corrientes muhakkima, rechazamos el extremismo de quienes consideran legítimo condenar a muerte a los seguidores de otras comunidades musulmanas por sus supuestos actos de incredulidad."
+ doctrine_parameter_hostility_override_islam_secondary_group_muhakkima_moderate_doctrine: "Considera que las [faiths|E] con la doctrina [GetDoctrine('islam_secondary_group_muhakkima_moderate_doctrine').GetBaseName] son [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]."
 
- #Puritanical Muhakkima
- islam_secondary_group_muhakkima_puritanical_doctrine_name: "Puritanical Muhakkima"
- islam_secondary_group_muhakkima_puritanical_doctrine_desc: "Sólo hay un camino verdadero que Allah aceptará, y no habrá ningún compromiso por el bien de los devotos."
- doctrine_parameter_hostility_override_islam_secondary_group_muhakkima_puritanical_doctrine: "Considera [GetDoctrine('islam_secondary_group_muhakkima_puritanical_doctrine').GetBaseName] [faiths|E] para ser [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]."
- doctrine_parameter_me_puritanical_conversion_bonus_muhakkima: "[EmptyScope.ScriptValue('puritanical_islam_conversion_bonus_root_value')|=+%0] velocidad de conversión contra otros [GetDoctrine('muhammad_succession_muhakkima_doctrine').GetBaseName] [faiths|E]"
- doctrine_parameter_me_puritanical_conversion_bonus_other_muhakkima: "[EmptyScope.ScriptValue('puritanical_islam_conversion_bonus_root_value')|=+%0] velocidad de conversión contra [GetDoctrine('islam_secondary_group_muhakkima_puritanical_doctrine').GetBaseName] [faiths|E]"
- puritanical_islam_muhakkima_conversion_task_desc: "Muhakkima puritano convertido o convertido por otros Muhakkimas"
+ # Muhakkima puritano
+ islam_secondary_group_muhakkima_puritanical_doctrine_name: "Muhakkima puritano"
+ islam_secondary_group_muhakkima_puritanical_doctrine_desc: "Solo existe un camino verdadero aceptado por Alá, y no debemos comprometer la pureza de nuestra fe para complacer a quienes se apartan de sus enseñanzas."
+ doctrine_parameter_hostility_override_islam_secondary_group_muhakkima_puritanical_doctrine: "Considera que las [faiths|E] con la doctrina [GetDoctrine('islam_secondary_group_muhakkima_puritanical_doctrine').GetBaseName] son [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]."
+ doctrine_parameter_me_puritanical_conversion_bonus_muhakkima: "[EmptyScope.ScriptValue('puritanical_islam_conversion_bonus_root_value')|=+%0] de velocidad de conversión contra otras [faiths|E] con la doctrina [GetDoctrine('muhammad_succession_muhakkima_doctrine').GetBaseName]"
+ doctrine_parameter_me_puritanical_conversion_bonus_other_muhakkima: "[EmptyScope.ScriptValue('puritanical_islam_conversion_bonus_root_value')|=+%0] de velocidad de conversión contra las [faiths|E] con la doctrina [GetDoctrine('islam_secondary_group_muhakkima_puritanical_doctrine').GetBaseName]"
+ puritanical_islam_muhakkima_conversion_task_desc: "Conversión entre muhakkimas puritanos y otras comunidades muhakkima"
 
- #Unaffiliated Zandaqa
- islam_secondary_group_zandaqa_unaffiliated_doctrine_name: "Unaffiliated"
- islam_secondary_group_zandaqa_unaffiliated_doctrine_desc: "Nuestras teologías y creencias están demasiado desconectadas de las otras sectas para que seamos considerados parte de cualquiera de sus grupos."
- doctrine_parameter_hostility_override_islam_secondary_group_zandaqa_unaffiliated_doctrine: "Considera [GetDoctrine('islam_secondary_group_zandaqa_unaffiliated_doctrine').GetBaseName] [faiths|E] [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] ."
+ # Zandaqa no afiliado
+ islam_secondary_group_zandaqa_unaffiliated_doctrine_name: "Sin afiliación"
+ islam_secondary_group_zandaqa_unaffiliated_doctrine_desc: "Nuestras doctrinas y creencias difieren tanto de las demás corrientes religiosas que no podemos considerarnos parte de ninguna de sus comunidades teológicas."
+ doctrine_parameter_hostility_override_islam_secondary_group_zandaqa_unaffiliated_doctrine: "Considera que las [faiths|E] con la doctrina [GetDoctrine('islam_secondary_group_zandaqa_unaffiliated_doctrine').GetBaseName] son [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]."
 
- #Ghulat
+ # Ghulat
  islam_secondary_group_zandaqa_ghulat_doctrine_name: "Ghulat"
- islam_secondary_group_zandaqa_ghulat_doctrine_desc: "Nuestra creencia en la naturaleza divina de los Imams nos marcan como marginados incluso entre los chiítas. Dejemos que los otros llamados 'creyentes' nos llamen Ghulāt (Exagentes), simplemente nos permitimos el linaje del Profeta el pleno respeto que se debe!"
- doctrine_parameter_hostility_override_islam_secondary_group_zandaqa_ghulat_doctrine: "Considera [GetDoctrine('islam_secondary_group_zandaqa_ghulat_doctrine').GetBaseName] [faiths|E] para ser [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]."
+ islam_secondary_group_zandaqa_ghulat_doctrine_desc: "Nuestra creencia en la naturaleza divina de los imanes nos convierte en marginados incluso entre las comunidades chiíes. Que los demás, quienes se proclaman verdaderos creyentes, nos llamen ghulat, «exageradores», si así lo desean. Nosotros simplemente concedemos al linaje del Profeta toda la veneración que legítimamente merece."
+ doctrine_parameter_hostility_override_islam_secondary_group_zandaqa_ghulat_doctrine: "Considera que las [faiths|E] con la doctrina [GetDoctrine('islam_secondary_group_zandaqa_ghulat_doctrine').GetBaseName] son [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]."
 
- #Qarmatian
- islam_secondary_group_zandaqa_qarmatian_doctrine_name: "cármata"
- islam_secondary_group_zandaqa_qarmatian_doctrine_desc: "Un grupo escindido de los chiítas originales de Isma’ili, Los Qarmatianos han sido conocidos para atacar las ciudades santas del Islam que los ha hecho reviled por todas las sectas musulmanas."
- doctrine_parameter_hostility_override_islam_secondary_group_zandaqa_qarmatian_doctrine: "Considera [GetDoctrine('islam_secondary_group_zandaqa_qarmatian_doctrine').GetBaseName] [faiths|E] para ser [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]."
+ # Cármatas
+ islam_secondary_group_zandaqa_qarmatian_doctrine_name: "Cármata"
+ islam_secondary_group_zandaqa_qarmatian_doctrine_desc: "Los cármatas surgieron como una corriente escindida del chiismo ismailí y adquirieron notoriedad por sus incursiones contra las ciudades sagradas del islam. Estos ataques provocaron la condena de numerosas comunidades musulmanas, que consideran sus enseñanzas y prácticas una grave desviación de la fe."
+ doctrine_parameter_hostility_override_islam_secondary_group_zandaqa_qarmatian_doctrine: "Considera que las [faiths|E] con la doctrina [GetDoctrine('islam_secondary_group_zandaqa_qarmatian_doctrine').GetBaseName] son [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]."
 
- #Unaffiliated Berberist
- islam_secondary_group_berberist_doctrine_name: "Unaffiliated"
- islam_secondary_group_berberist_doctrine_desc: "Nuestras teologías y creencias están demasiado desconectadas de las otras sectas para que seamos considerados parte de cualquiera de sus grupos."
- doctrine_parameter_hostility_override_islam_secondary_group_berberist_doctrine: "Considera [GetDoctrine('islam_secondary_group_berberist_unaffiliated_doctrine').GetBaseName] [faiths|E] para ser [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]."
+ # Berberismo no afiliado
+ islam_secondary_group_berberist_doctrine_name: "Sin afiliación"
+ islam_secondary_group_berberist_doctrine_desc: "Nuestras doctrinas y creencias difieren tanto de las demás corrientes religiosas que no podemos considerarnos parte de ninguna de sus comunidades teológicas."
+ doctrine_parameter_hostility_override_islam_secondary_group_berberist_doctrine: "Considera que las [faiths|E] con la doctrina [GetDoctrine('islam_secondary_group_berberist_unaffiliated_doctrine').GetBaseName] son [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]."
 
+ ## Doctrinas de prohibición ##
+ # Prohibición de sustancias intoxicantes
+ doctrine_me_intoxication_shunned_eastern_name: "Prohibidas"
+ doctrine_me_intoxication_shunned_eastern_desc: "Independientemente de que se consuman en ceremonias religiosas controladas o fuera del ámbito ritual, nuestros fieles deben abstenerse por completo del consumo de sustancias intoxicantes."
 
- ## Prohibition Doctrines ##
- #Shunned Intoxication/Islamic Prohibition
- doctrine_me_intoxication_shunned_eastern_name: "Forbidden"
- doctrine_me_intoxication_shunned_eastern_desc: "No importa si se utiliza sólo en un entorno ritualista controlado o por los no devotos, nuestros adherentes nunca deben tocar a los intoxicantes."
+ # Consumo desaconsejado de sustancias intoxicantes
+ doctrine_me_intoxication_accepted_eastern_name: "Desaconsejadas"
+ doctrine_me_intoxication_accepted_eastern_desc: "La decisión de consumir bebidas embriagantes corresponde a cada individuo y no constituye una preocupación fundamental para nuestra comunidad. Sin embargo, nadie puede alcanzar la iluminación mientras sus sentidos permanezcan nublados por la intoxicación."
 
- #Accepted Intoxication
- doctrine_me_intoxication_accepted_eastern_name: "Discouraged"
- doctrine_me_intoxication_accepted_eastern_desc: "Cómo uno desea gobernarse a sí mismo en la materia de la bebida es de poca preocupación para nosotros, sin embargo, uno nunca alcanzará la iluminación si sus sentidos están ensombrecidos."
+ # Consumo virtuoso de sustancias intoxicantes
+ doctrine_me_intoxication_virtuous_name: "Virtuosas"
+ doctrine_me_intoxication_virtuous_desc: "Privarnos de los placeres de este mundo constituye un pecado en sí mismo. Después de todo, ¿por qué habría de crear [ROOT.Faith.CreatorName] las bebidas embriagantes si no fuera para que disfrutáramos de ellas?"
 
- #Virtuous Intoxication
- doctrine_me_intoxication_virtuous_name: "Virtuous"
- doctrine_me_intoxication_virtuous_desc: "Prohibirnos de los placeres de este mundo es un pecado en sí mismo, después de todo, ¿por qué [ROOT.Faith.CreatorName] crearía bebida para nosotros si no para disfrutar?"
-
- ## Ablution Doctrines ##
- #Partial Body Ablution/Wudhu/Rishama
+ ## Doctrinas de ablución ##
+ # Ablución parcial del cuerpo
  doctrine_me_ablution_rishama_name: "Rishama"
 
- ## Fasting Month Doctrines ##
+ ## Doctrinas del mes de ayuno ##
  doctrine_me_fasting_month_name: "Mes de ayuno"
- doctrine_parameter_ihd_decision_active: "El [decision|E] a [GetDecisionWithKey('ME_observe_islamic_holy_days').GetName] se activa."
+ doctrine_parameter_ihd_decision_active: "Desbloquea la [decision|E] [GetDecisionWithKey('ME_observe_islamic_holy_days').GetName]."
 
- #Fasting in Ramadan
+ # Ayuno durante el Ramadán
  doctrine_me_fasting_month_ramadan_name: "Ramadán"
- doctrine_me_fasting_month_ramadan_desc: "#EMP Oh ustedes que creen! El ayuno es prescrito para ustedes como era para los que antes de ustedes, para que puedan ser conscientes de Allah. #! '"
- doctrine_parameter_fasting_month_ramadan: "Adherants fast during [Glossary( 'Ramadan', 'RAMADAN_GLOSS' )] ."
+ doctrine_me_fasting_month_ramadan_desc: "#EMP ¡Oh, creyentes! Se os ha prescrito el ayuno, al igual que fue prescrito a quienes os precedieron, para que alcancéis la piedad.#!"
+ doctrine_parameter_fasting_month_ramadan: "Los fieles ayunan durante el [Glossary( 'Ramadán', 'RAMADAN_GLOSS' )]."
 
- #Fasting in Rajab
- doctrine_me_fasting_month_rajab_name: "Rajab"
- doctrine_me_fasting_month_rajab_desc: "A los que nos tienen ante nosotros se les puede haber ordenado ayunar en Ramadán, pero nos han ordenado ayunar en Rajab."
- doctrine_parameter_fasting_month_rajab: "Adherants fast during [Glossary( 'Rajab', 'RAJAB_GLOSS' )] ."
+ # Ayuno durante Rayab
+ doctrine_me_fasting_month_rajab_name: "Rayab"
+ doctrine_me_fasting_month_rajab_desc: "Aunque a quienes nos precedieron se les ordenó ayunar durante el Ramadán, a nosotros se nos ha encomendado observar el ayuno durante el mes de Rayab."
+ doctrine_parameter_fasting_month_rajab: "Los fieles ayunan durante el [Glossary( 'Rayab', 'RAJAB_GLOSS' )]."
 
- #No Monthly Fasting
- doctrine_me_fasting_month_none_name: "None"
- doctrine_me_fasting_month_none_desc: "No estamos atados por ninguna obligación de observar un mes de ayuno."
- doctrine_parameter_fasting_month_none: "No recibirá ningún [decisions|E] o eventos relacionados con el ayuno mensual."
+ # Sin mes de ayuno
+ doctrine_me_fasting_month_none_name: "Ninguno"
+ doctrine_me_fasting_month_none_desc: "Nuestra fe no establece la obligación de observar un mes dedicado al ayuno religioso."
+ doctrine_parameter_fasting_month_none: "No se reciben [decisions|E] ni eventos relacionados con el ayuno mensual."
 
- ## Affinal Doctrines ##
- AFFINAL_CONSANGUINITY_INCOMPATIABLE: "Incompatible con el $doctrine_consanguinity_name$ [doctrine|E]"
- AFFINAL_FIXED_POLYGAMY_INCOMPATIABLE: "Incompatible con el $doctrine_me_affinality_fixed_name$ [doctrine|E]"
+ ## Doctrinas de afinidad matrimonial ##
+ AFFINAL_CONSANGUINITY_INCOMPATIABLE: "Incompatible con la [doctrine|E] $doctrine_consanguinity_name$"
+ AFFINAL_FIXED_POLYGAMY_INCOMPATIABLE: "Incompatible con la [doctrine|E] $doctrine_me_affinality_fixed_name$"
 
  doctrine_me_affinality_fixed_name: "Restricciones afinales"
  doctrine_me_affinality_fixed_dynastic_name: "Prohibición lineal"
