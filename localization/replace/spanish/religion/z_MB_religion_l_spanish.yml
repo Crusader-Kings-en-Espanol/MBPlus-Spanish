@@ -3539,154 +3539,212 @@
  kushitism_water_god_name: "Tefnut"
  kushitism_water_god_name_possessive: "de Tefnut"
 
-
- ##Catholic Faiths
-
-
+ ## Confesiones cristianas ##
+ # Aerianismo
  aerianism: "Aerianismo"
  aerianism_adj: "Aeriano"
  aerianism_adherent: "Aeriano"
  aerianism_adherent_plural: "Aerianos"
- aerianism_desc: "No debe confundirse con el arrianismo, el aerianismo es una secta arriana de Ponto fundada por un sacerdote llamado Aerius. Aerius pronto comenzó a enseñar nuevas doctrinas, insistiendo en que no había un carácter sagrado que distinguiera al obispo o al sacerdote de los laicos, que la observancia de la fiesta de la Pascua era una superstición judía, y que era incorrecto prescribir ayunos o abstinencias por ley, y inútil orar por los muertos. Sus seguidores, conocidos como aerianos, ayunaban los domingos y no lo hacían en los días de ayuno designados, incluso durante la Semana Santa.\n\nDurante un tiempo, tuvo muchos seguidores en Sebaste, pero no pudo hacer que sus enseñanzas se popularizaran ampliamente."
- alexandrian_melkite: "Melquita Alejandrina"
+ aerianism_desc: "El aerianismo fue una corriente cristiana surgida en el Ponto durante el siglo IV, fundada por Aerio, un presbítero de Sebaste. Aunque su nombre se asemeja al del arrianismo, ambas doctrinas eran distintas. Aerio sostenía que no existía ninguna diferencia de dignidad espiritual entre obispos y presbíteros, rechazaba la celebración obligatoria de la Pascua por considerarla una práctica de origen judío y cuestionaba la imposición de ayunos y abstinencias, así como la utilidad de las oraciones por los difuntos. Sus seguidores, conocidos como aerianos, ayunaban los domingos y se abstenían de hacerlo durante los períodos establecidos por la Iglesia, incluso en Semana Santa. Aunque el movimiento reunió numerosos partidarios en Sebaste, sus enseñanzas no lograron extenderse ampliamente."
+
+ # Iglesia melquita de Alejandría
+ alexandrian_melkite: "Iglesia melquita de Alejandría"
  alexandrian_melkite_adherent: "Melquita"
  alexandrian_melktie_adherent_plural: "Melquitas"
- alexandrian_melkite_desc: "Los melkitas de Egipto son la minoría calcedonia junto a la iglesia copta más grande, bajo un patriarca griego de Alejandría. Mantuvieron la Liturgia Griega de St. Marcos mucho después de que las otras iglesias ortodoxas hubieran tomado el rito bizantino, y Theodore Balsamon todavía los reprendió por él a principios del siglo XIII; a tiempo el rito bizantino lo desplazó. Eutychius, patriarca de 933, escribió su gran crónica en árabe."
- albanian_apostolic: "Apostólica Albania"
- albanian_apostolic_adj: "Apostólica Albania"
- albanian_apostolic_adherent: "Apostólico"
- albanian_apostolic_adherent_plural: "Apostólicos"
- albanian_apostolic_desc: "La iglesia de Albania caucásica, la tierra de Aghvank entre el Kura y el Cáucaso, mantuvo sus propios católicos, primero en Partav y más tarde en el monasterio de Gandzasar en Khachen. Sus primeras escrituras fueron traducidas a la lengua albanesa en el siglo 5, y un palimpsesto encontrado en el Monte Sinaí conserva textos en ese idioma. En 705 el clero anticalcedónico anatematizó a los nerses católicos, que habían tratado de traer los decretos de Calcedón, y el califa Abd al-Malik lo había exiliado; a partir de entonces los católicos albaneses fueron ordenados por los católicos armenios, y su iglesia creció cada vez más armenio en su idioma. La vista pasó de tío a sobrino. Honró a St. Grigoris, el nieto de Gregorio el Iluminador, cuyo santuario estaba en Amaras, y duró hasta que las autoridades rusas lo aboliron en 1828."
- amalricians_rite: "Amalricians"
- amalricians_rite_adj: "Amalrician"
- amalricians_rite_adherent: "Amalrician"
- amalricians_rite_adherent_plural: "Amalricians"
- amalricians_rite_desc: "Los amalricianos fueron los seguidores de Amalric de Bena, un maestro en París que murió en 1205 o 1206. Ellos enseñaron que 'todas las cosas son Uno, porque lo que es, es Dios', y que después de las edades del Padre y del Hijo la edad del Espíritu Santo había llegado; uno de sus líderes, Guillermo el Orfebre, sostuvo que los sacramentos de la Iglesia se habían vuelto obsoletos. La mayoría eran clérigos y maestros de la universidad, con muchas mujeres y personas simples. Los obispos de París los condenaron en 1210, quemando diez y encarcelando a cuatro por vida, y el Cuarto Concilio de Letrán rechazó su doctrina en 1215 como 'insanidad más que herejía'. Los propios huesos de Amalric fueron sacados de tierra consagrada."
- melkite: "Melquita Antioquena"
+ alexandrian_melkite_desc: "Los melquitas de Egipto constituyen la comunidad cristiana calcedonia vinculada al patriarcado griego de Alejandría, minoritaria frente a la Iglesia copta. Conservaron durante siglos la antigua liturgia alejandrina de san Marcos, incluso después de que otras Iglesias ortodoxas adoptaran el rito bizantino. A comienzos del siglo XIII, el canonista Teodoro Balsamón todavía criticaba la persistencia de estas prácticas litúrgicas, que terminaron siendo desplazadas por las costumbres bizantinas. Entre sus principales figuras destacó Eutiquio de Alejandría, patriarca entre los años 933 y 940, autor de una importante crónica histórica redactada en árabe."
+
+ # Iglesia apostólica albanesa
+ albanian_apostolic: "Iglesia apostólica albanesa"
+ albanian_apostolic_adj: "Apostólica albanesa"
+ albanian_apostolic_adherent: "Cristiano apostólico albanés"
+ albanian_apostolic_adherent_plural: "Cristianos apostólicos albaneses"
+ albanian_apostolic_desc: "La Iglesia de Albania caucásica surgió en la región de Aghvank, situada entre el río Kurá y las montañas del Cáucaso, y conservó su propio catolicosado, establecido inicialmente en Partav y posteriormente en el monasterio de Gandzasar, en Jachén. Durante el siglo V se tradujeron escrituras cristianas a la lengua albanesa caucásica, de la que se conservan testimonios en un palimpsesto descubierto en el monte Sinaí. En el año 705, el clero contrario al Concilio de Calcedonia condenó al catolicós Nersés, partidario de sus decretos, quien fue depuesto con la intervención del califa Abd al-Málik. Desde entonces, los catolicós albaneses recibieron su consagración de la Iglesia armenia, cuya lengua y tradiciones adquirieron una influencia creciente. La dignidad patriarcal llegó a transmitirse entre tíos y sobrinos, mientras que la comunidad mantuvo una especial veneración por san Grigoris, nieto de Gregorio el Iluminador, cuyo santuario se encontraba en Amaras. El catolicosado perduró hasta su supresión por las autoridades rusas en el siglo XIX."
+
+ # Amalricianismo
+ amalricians_rite: "Amalricianismo"
+ amalricians_rite_adj: "Amalriciano"
+ amalricians_rite_adherent: "Amalriciano"
+ amalricians_rite_adherent_plural: "Amalricianos"
+ amalricians_rite_desc: "Los amalricianos fueron seguidores de Amalrico de Bena, maestro de teología en París fallecido hacia los años 1205 o 1206. Enseñaban que todas las cosas constituían una unidad en Dios y que, después de las edades del Padre y del Hijo, había comenzado la edad del Espíritu Santo. Uno de sus dirigentes, Guillermo el Orfebre, sostenía que los sacramentos de la Iglesia habían perdido su utilidad. El movimiento reunió principalmente a clérigos y maestros, aunque también contó con mujeres y fieles sin formación académica. En el año 1210, las autoridades eclesiásticas de París condenaron a sus seguidores, de los cuales diez fueron ejecutados en la hoguera y otros cuatro recibieron penas de prisión perpetua. El IV Concilio de Letrán, celebrado en el año 1215, rechazó sus doctrinas, mientras que los restos del propio Amalrico fueron exhumados y retirados de tierra consagrada."
+
+ # Iglesia melquita de Antioquía
+ melkite: "Iglesia melquita de Antioquía"
  melkite_adherent: "Melquita"
  melkite_adherent_plural: "Melquitas"
- melkite_desc: "Los melkitas, los hombres del 'rey', son los cristianos de Siria que celebraron el Concilio de Calcedón y la fe del emperador cuando los Jacobitas se separaron. Bajo los califas hablaban griego, siríaco y más y más árabe, y su patriarca se sentaba en Antioquía, que los bizantinos retenían de 969 a 1084. Su antiguo rito de Antioquía dio paso al Bizantino entre los siglos X y XII, un cambio Theodore Balsamon, patriarca de 1193, completado. Cuando los cruzados tomaron Antioquía en 1098 sus patriarcas se exiliaron en Constantinopla, y regresaron sólo después de que los mamelucos destruyeran el principado latino en 1268."
- aquileian_church: "Rito Aquileano"
- aquileian_church_adj: "Aquileano"
- aquileian_church_adherent: "Aquileano"
- aquileian_church_adherent_plural: "Aquileanos"
- aquileian_church_desc: "El rito Patriarquín de Aquileia, utilizado por el patriarcado y algunos de sus sufragios, entre ellos Venecia, Trieste y Como. Sus obispos rompieron la comunión con Roma en 553 en lugar de condenar los Tres Capítulos, y en medio del cisma y la invasión Lombarda Aquileia tomó el título de patriarcado; el cisma terminó sólo en el Consejo de Pavia en 698. Ya mucho romanizado por el final de la Edad Media, el rito fue entregado para el rito romano entre 1586 y 1597."
+ melkite_desc: "Los melquitas de Antioquía son los cristianos de Siria que permanecieron fieles a las enseñanzas del Concilio de Calcedonia y a la autoridad religiosa imperial frente a las comunidades miafisitas. Su denominación procede del término siríaco relacionado con el rey o emperador. Bajo el dominio de los califas, sus comunidades emplearon el griego, el siríaco y, progresivamente, el árabe. Su patriarcado tenía su sede en Antioquía, ciudad que permaneció bajo dominio bizantino entre los años 969 y 1084. Entre los siglos X y XII, la antigua tradición litúrgica antioquena fue sustituida gradualmente por el rito bizantino, proceso consolidado durante el patriarcado de Teodoro Balsamón. Tras la conquista cruzada de Antioquía en el año 1098, los patriarcas melquitas residieron principalmente en Constantinopla, hasta que la desaparición del principado latino permitió restablecer su presencia en la región."
+
+ # Rito de Aquilea
+ aquileian_church: "Rito de Aquilea"
+ aquileian_church_adj: "Aquileyense"
+ aquileian_church_adherent: "Cristiano aquileyense"
+ aquileian_church_adherent_plural: "Cristianos aquileyenses"
+ aquileian_church_desc: "El rito de Aquilea fue una tradición litúrgica propia del patriarcado de Aquilea y de algunas diócesis vinculadas a su jurisdicción, entre ellas Venecia, Trieste y Como. Sus obispos rompieron la comunión con Roma en el año 553 al rechazar la condena de los Tres Capítulos, dando origen a un prolongado cisma que coincidió con la invasión lombarda y la consolidación de la dignidad patriarcal de Aquilea. La ruptura terminó con el Concilio de Pavía del año 698. Aunque sus ceremonias conservaron elementos particulares durante la Edad Media, el rito fue asimilando progresivamente las prácticas romanas hasta su sustitución definitiva por el rito romano entre los años 1586 y 1597."
+
+ # Arrianismo
  arianism: "Arrianismo"
  arianism_adj: "Arriano"
  arianism_adherent: "Arriano"
- arianism_adherent_plural: "Arianos"
- arianism_desc: "El arrianismo es una doctrina cristológica atribuida inicialmente a Arrio (c. 256-336 d.C.), un presbítero cristiano en Alejandría, Egipto. La teología arriana sostiene que Jesucristo es el Hijo de Dios, engendrado por Dios Padre y distinto del Padre (por lo tanto subordinado a él). Sin embargo, a diferencia del trinitarismo tradicional, el arrianismo sostiene que el Hijo es también el Hijo de Dios, pero no coeterno con Dios Padre en contraste. Gran parte del sureste y el centro de Europa, incluidos muchos godos y vándalos respectivamente, adoptaron el arrianismo (los visigodos se convirtieron al cristianismo arriano en 376 a través de su obispo Ulfilas), lo que llevó a que el arrianismo fuera un factor religioso en varias guerras del Imperio Romano.\n\nEn occidente, el arrianismo organizado sobrevivió en el norte de África, en Hispania y en partes de Italia hasta que fue finalmente suprimido en los siglos VI y VII. La España visigoda se convirtió al cristianismo niceno a través de su rey Recaredo I en el Tercer Concilio de Toledo en 589. Grimoaldo, rey de los lombardos (662–671), y su joven hijo y sucesor Garibaldo (671), fueron los últimos reyes arrianos en Europa."
+ arianism_adherent_plural: "Arrianos"
+ arianism_desc: "El arrianismo es una doctrina cristológica asociada a Arrio, presbítero de Alejandría que sostenía que Jesucristo es el Hijo de Dios, engendrado por el Padre, pero no coeterno ni igual a él en divinidad. Esta enseñanza fue rechazada por el Concilio de Nicea, que afirmó la consustancialidad del Padre y del Hijo. Sin embargo, el arrianismo alcanzó una amplia difusión entre diversos pueblos germánicos, especialmente godos, vándalos y lombardos, y desempeñó un papel importante en los conflictos religiosos del Imperio romano y de sus reinos sucesores. El obispo Ulfilas contribuyó decisivamente a la cristianización de los godos, entre quienes esta doctrina adquirió una influencia duradera. En Occidente, las comunidades arrianas perduraron durante siglos en el norte de África, Hispania e Italia. La conversión del rey visigodo Recaredo al cristianismo niceno, proclamada en el III Concilio de Toledo, puso fin al predominio arriano en Hispania. Entre los últimos monarcas arrianos de Europa se encontraban el rey lombardo Grimoaldo y su hijo Garibaldo."
+
+ # Rito armenio
  armenian_rite: "Rito armenio"
- armenian_rite_adj: "rito armenio"
+ armenian_rite_adj: "Armenio"
+
+ # Cristianismo bosnio
  bosnian_church: "Cristianismo bosnio"
- baltic_orthodox: "Iglesia báltica"
- baltic_orthodox_adj: "Báltico ortodoxo"
- baltic_orthodox_adherent: "Báltico"
- baltic_orthodox_adherent_plural: "Bálticos"
- baltic_orthodox_desc: "Los bálticos fueron uno de los últimos lugares en Europa en convertirse al cristianismo. Como tal, nunca pudieron desarrollar sus propias formas de adoración. Solo con el establecimiento de una iglesia autocéfala, los cristianos de los bálticos pudieron estirarse."
+
+ # Iglesia ortodoxa báltica
+ baltic_orthodox: "Iglesia ortodoxa báltica"
+ baltic_orthodox_adj: "Ortodoxa báltica"
+ baltic_orthodox_adherent: "Cristiano ortodoxo báltico"
+ baltic_orthodox_adherent_plural: "Cristianos ortodoxos bálticos"
+ baltic_orthodox_desc: "Los pueblos bálticos se encontraron entre los últimos de Europa en adoptar el cristianismo, por lo que sus comunidades cristianas tuvieron escasas oportunidades de desarrollar tradiciones eclesiásticas propias. Con el establecimiento de una Iglesia autocéfala, los cristianos ortodoxos de las tierras bálticas pueden organizar su vida religiosa conforme a sus propias costumbres, conservando al mismo tiempo las enseñanzas y prácticas de la tradición ortodoxa."
+
+ # Barsanianismo
  barsanianism: "Barsanianismo"
  barsanianism_adj: "Barsaniano"
  barsanianism_adherent: "Barsaniano"
  barsanianism_adherent_plural: "Barsanianos"
- barsanianism_desc: "Los barsanianos son una secta de cristianos sin sacerdotes, aunque no por falta de deseo de tener sacerdotes. Para continuar con la celebración de la Eucaristía, colocan algunas migajas de hostias consagradas en la masa que luego se utiliza para hornear pan."
+ barsanianism_desc: "Los barsanianos fueron una comunidad cristiana caracterizada por la ausencia de sacerdotes, circunstancia que no respondía a un rechazo del sacerdocio, sino a la imposibilidad de contar con ministros ordenados. Para mantener la celebración de la Eucaristía, incorporaban fragmentos de pan previamente consagrado a la masa destinada a elaborar nuevas hostias, convencidos de que así podían conservar la continuidad del sacramento pese a carecer de clérigos."
+
+ # Berengarismo
  berengarism: "Berengarismo"
  berengarism_adj: "Berengarista"
  berengarism_adherent: "Berengarista"
  berengarism_adherent_plural: "Berengaristas"
- berengarism_desc: "El berengarismo surgió de las enseñanzas del archidiácono Berengar de Angers. Rechazó la transubstanciación y afirmó la supremacía de las escrituras. Él mismo renunció a la primera de las afirmaciones tras caer bajo crítica, aunque sus enseñanzas sobrevivieron en Francia."
+ berengarism_desc: "El berengarismo surgió de las enseñanzas de Berengario de Tours, archidiácono de Angers durante el siglo XI. Cuestionaba la interpretación tradicional de la presencia real de Cristo en la Eucaristía y defendía la primacía de las Escrituras en materia doctrinal. Sus posiciones provocaron numerosas controversias teológicas y fueron condenadas por diversos sínodos. Aunque Berengario terminó retractándose de algunas de sus afirmaciones, sus enseñanzas continuaron ejerciendo influencia en determinadas comunidades cristianas de Francia."
+
+ # Iglesia bohemia
  bohemian_catholic: "Iglesia bohemia"
- bohemian_catholic_adj: "Católico bohemio"
- bohemian_catholic_adherent: "Bohemio"
- bohemian_catholic_adherent_plural: "Bohemios"
- bohemian_catholic_desc: "El catolicismo bohemio fue un derivado de la cristianización de Moravia, tradicionalmente atribuida a los misioneros Romanioi, santos Cirilo y Metodio, en 863. Al principio, el rito cristiano en Bohemia fue el eslavo de la Iglesia Ortodoxa Oriental, pero pronto fue reemplazado por el rito católico romano, introducido debido a las influencias occidentales y también a las tensiones entre bohemios y moravos. Se dice que San Wenceslao completó la cristianización de Bohemia a principios del siglo X, poco antes de su asesinato en 935 por su propio hermano, Boleslav el Cruel. A principios del siglo XI, Bohemia adquirió la ventaja sobre Moravia, que fue anexada a Bohemia. A los moravos se les permitió practicar sus ritos ortodoxos eslavos orientales, pero eventualmente fueron reemplazados por las prácticas católicas franco-latinas."
+ bohemian_catholic_adj: "Católica bohemia"
+ bohemian_catholic_adherent: "Cristiano bohemio"
+ bohemian_catholic_adherent_plural: "Cristianos bohemios"
+ bohemian_catholic_desc: "El cristianismo bohemio surgió del proceso de evangelización de Europa central, estrechamente relacionado con la misión de los santos Cirilo y Metodio en la Gran Moravia durante el año 863. Las primeras comunidades cristianas de Bohemia recibieron influencias de la liturgia eslava, aunque progresivamente adoptaron las prácticas latinas difundidas desde los territorios francos y germánicos. La cristianización del país avanzó durante el gobierno de san Wenceslao, duque de Bohemia, asesinado por orden de su hermano Boleslao en el año 935. Durante el siglo XI, la incorporación de Moravia al dominio bohemio favoreció una mayor integración eclesiástica con Occidente. Aunque algunas comunidades conservaron temporalmente sus antiguas tradiciones eslavas, la liturgia latina terminó imponiéndose como forma predominante de culto."
+
+ # Rito búlgaro
  bulgarian_rite_adj: "Ortodoxo búlgaro"
- bulgarian_rite_adherent: "Bulgarian"
- bulgarian_rite_adherent_plural: "Bulgarians"
- byzantine_uniate: "Unido Romanioi"
- byzantine_uniate_adj: "Unido"
- byzantine_uniate_adherent: "Católico Romanioi"
- byzantine_uniate_adherent_plural: "Católicos Romanioi"
- byzantine_uniate_desc: "Mientras que la mayoría de los ortodoxos que se convirtieron al catolicismo estaban contentos de aceptar el rito latino, algunas comunidades han elegido mantener el rito bizantino mientras aceptan el papado. El uniatismo bizantino a veces aparece en el sur de Italia y Albania, pero rara vez adquiere autoridad propia."
- chazinzarians: "Chazinzarianos"
+ bulgarian_rite_adherent: "Cristiano búlgaro"
+ bulgarian_rite_adherent_plural: "Cristianos búlgaros"
+
+ # Iglesia bizantina unida
+ byzantine_uniate: "Iglesia bizantina unida"
+ byzantine_uniate_adj: "Bizantina unida"
+ byzantine_uniate_adherent: "Católico bizantino"
+ byzantine_uniate_adherent_plural: "Católicos bizantinos"
+ byzantine_uniate_desc: "Aunque muchas comunidades ortodoxas que reconocieron la autoridad del papa adoptaron también la liturgia latina, otras conservaron sus propias tradiciones religiosas y continuaron celebrando el culto según el rito bizantino. Estas comunidades, unidas a Roma pero fieles a sus costumbres orientales, surgieron especialmente en regiones de contacto entre las Iglesias latina y griega, como el sur de Italia y Albania. Sin embargo, rara vez lograron establecer estructuras eclesiásticas plenamente independientes."
+
+ # Chazinzarianismo
+ chazinzarians: "Chazinzarianismo"
  chazinzarians_adj: "Chazinzariano"
  chazinzarians_adherent: "Chazinzariano"
  chazinzarians_adherent_plural: "Chazinzarianos"
- chazinzarians_desc: "Los chazinzarianos, también llamados chazitzarii o estaurolatras, eran una secta arriana herética nestoriana que existió en el siglo VII. Su nombre se deriva de chaza, la palabra armenia para la cruz. Los miembros de la secta son descritos como adoradores de la cruz, y por lo tanto también son llamados estaurolatras. Celebraban una fiesta anual en honor del perro de su profeta Sergio."
- cilician_uniate: "Unido cilicio"
- cilician_uniate_adj: "Cilicio"
- cilician_uniate_adherent: "Cilicio"
- cilician_uniate_adherent_plural: "Cilicios"
- cilician_uniate_desc: "Dentro de la Iglesia Apostólica Armenia, siempre ha existido una subfracción de clérigos que deseaban permanecer en sumisión al Pontífice Romano. Con las cruzadas en pleno apogeo, la posibilidad de que los armenios en el Reino de Cilicia entraran en comunión con Roma es más alta que nunca."
+ chazinzarians_desc: "Los chazinzarianos, también conocidos como chazitzarii o estaurólatras, fueron una comunidad cristiana considerada herética que aparece mencionada en fuentes religiosas del siglo VII. Su nombre se relaciona con la palabra armenia chaza, asociada a la cruz, cuya veneración ocupaba un lugar central en sus prácticas religiosas. Algunas fuentes los describen como adoradores de la cruz y les atribuyen una celebración anual en honor del perro de su profeta Sergio. Su doctrina fue vinculada por autores posteriores con diversas corrientes cristológicas consideradas heterodoxas."
+
+ # Iglesia cilicia unida
+ cilician_uniate: "Iglesia cilicia unida"
+ cilician_uniate_adj: "Cilicia unida"
+ cilician_uniate_adherent: "Católico cilicio"
+ cilician_uniate_adherent_plural: "Católicos cilicios"
+ cilician_uniate_desc: "Dentro de la Iglesia apostólica armenia existieron sectores del clero favorables al restablecimiento de la comunión con el pontífice romano. La formación de los estados cruzados y el establecimiento de un principado armenio en Cilicia favorecieron los contactos políticos y religiosos con Occidente. Estas circunstancias ofrecieron nuevas oportunidades para que las comunidades armenias de Cilicia reconocieran la autoridad papal sin abandonar necesariamente sus propias tradiciones litúrgicas."
+
+ # Coliridianismo
  collyridianism: "Coliridianismo"
  collyridianism_adj: "Coliridiano"
  collyridianism_adherent: "Coliridiano"
  collyridianism_adherent_plural: "Coliridianos"
- collyridianism_desc: "Una secta árabe aislada, los coliridianos llegaron a la infamia entre cristianos y musulmanes debido a su adoración de la Virgen María como diosa y a la ofrenda de pequeñas tortas a estatuas de ella, en imitación de la Eucaristía. La existencia de la secta es objeto de alguna disputa entre los eruditos, ya que la única fuente contemporánea que la describe es el Panarion de Epifanio de Salamina, publicado aproximadamente en el año 376 d.C."
- cyprus_rite: "Cypriot Orthodoxy"
- cyprus_rite_adj: "Orthodox chipriotas"
- cyprus_rite_adherent: "Cypriot"
- cyprus_rite_adherent_plural: "Cypriots"
- cyprus_rite_desc: "La Iglesia de Chipre fue fundada por los Apóstoles Pablo y Bernabé. El Concilio de Éfeso confirmó su independencia de Antioquía en 431, y cuando las reliquias de Bernabé fueron encontradas bajo el emperador Zeno, el Arzobispo Anthemios ganó el derecho de firmar en tinta roja, usar púrpura y llevar un cetro. Sufrió las redadas árabes, y después de que Richard tomara la isla en 1191 y los Lusignanos establecieron una jerarquía latina en 1196, sus obispos fueron cortados a cuatro y colocados bajo el arzobispo latino por la Bulla Cypria de 1260, mientras que su gente mantenía su fe."
+ collyridianism_desc: "El coliridianismo fue una supuesta corriente cristiana de Arabia cuyos seguidores habrían rendido culto a la Virgen María como una divinidad, ofreciéndole pequeñas tortas de pan en ceremonias que imitaban la Eucaristía. La principal fuente antigua que describe estas prácticas es el Panarion de Epifanio de Salamina, compuesto durante el siglo IV. Debido a la ausencia de testimonios independientes, la existencia de una comunidad coliridiana organizada continúa siendo objeto de debate entre los historiadores."
+
+ # Iglesia ortodoxa de Chipre
+ cyprus_rite: "Iglesia ortodoxa de Chipre"
+ cyprus_rite_adj: "Ortodoxa chipriota"
+ cyprus_rite_adherent: "Cristiano chipriota"
+ cyprus_rite_adherent_plural: "Cristianos chipriotas"
+ cyprus_rite_desc: "La Iglesia de Chipre atribuye sus orígenes a la predicación de los apóstoles Pablo y Bernabé. El Concilio de Éfeso del año 431 reconoció su independencia eclesiástica frente al patriarcado de Antioquía. Durante el reinado del emperador Zenón, el descubrimiento de las reliquias de san Bernabé permitió al arzobispo Antemio obtener privilegios especiales, entre ellos el uso de tinta roja para firmar documentos, vestiduras púrpuras y un cetro episcopal. La Iglesia chipriota sufrió las incursiones árabes durante la Edad Media y, tras la conquista de la isla por Ricardo Corazón de León en el año 1191, quedó sometida a una creciente presión de la jerarquía latina establecida por los Lusignan. La Bula Chipriota del año 1260 redujo sus obispados a cuatro y los subordinó al arzobispo latino, aunque la población conservó mayoritariamente su fe y sus tradiciones ortodoxas."
+
+ # Donatismo
  donatists: "Donatismo"
  donatists_adj: "Donatista"
  donatists_adherent: "Donatista"
  donatists_adherent_plural: "Donatistas"
- donatists_desc: "El donatismo fue una secta cristiana que llevó a un cisma en la Iglesia, en la región de la Iglesia de Cartago, De el siglo IV hasta el VI. Poseía sus propios obispos para rivalizar con los de la Iglesia Católica Africana y fue condenada en numerosas ocasiones. Creían que aquellos clérigos que renunciaban a la fe y renunciaban a las escrituras no podían ser perdonados y no debían ser readmitidos en la fe cristiana.\n\nAunque se desconoce cuánto tiempo persistió el donatismo, algunos historiadores cristianos creen que el cisma y su consiguiente agitación en la comunidad cristiana facilitaron la conquista musulmana de la región en el siglo VII."
+ donatists_desc: "El donatismo fue un movimiento cristiano surgido en el norte de África durante el siglo IV, especialmente en torno a la Iglesia de Cartago. Sus seguidores sostenían que los clérigos que habían renegado de la fe o entregado las Escrituras durante las persecuciones habían perdido su legitimidad para administrar los sacramentos. El movimiento estableció una jerarquía episcopal propia, enfrentada a la Iglesia católica africana, y fue condenado en numerosas ocasiones. Aunque sufrió persecuciones y divisiones internas, el donatismo conservó una presencia significativa durante varios siglos. Se desconoce con precisión cuándo desaparecieron sus últimas comunidades, aunque algunos historiadores han relacionado las prolongadas disputas religiosas del cristianismo africano con las dificultades que afrontó la región durante la conquista musulmana del siglo VII."
+
+ # Dulcinianismo
  dulcinians: "Dulcinianismo"
  dulcinians_adj: "Dulciniano"
  dulcinians_adherent: "Dulciniano"
- dulcinians_adherent_plural: "Dulcinians"
- dulcinians_desc: "Los dulcinianos surgieron de los Hermanos Apostólicos y apoyaron la pobreza apostólica. Bajo el liderazgo de Fra Dolcino, buscaron derrocar al Papa legítimo e instaurar a Dolcino como el nuevo Papa, para iniciar una era de pobreza apostólica."
+ dulcinians_adherent_plural: "Dulcinianos"
+ dulcinians_desc: "El dulcinianismo surgió del movimiento de los Hermanos Apostólicos, cuyos seguidores defendían la pobreza absoluta y el retorno a las formas de vida de los primeros cristianos. Bajo el liderazgo de fray Dulcino, a comienzos del siglo XIV, el movimiento denunció la riqueza y la corrupción de la jerarquía eclesiástica, rechazó la autoridad del papado y anunció la llegada de una nueva era de pobreza apostólica. Sus enfrentamientos con las autoridades religiosas y seculares culminaron en una violenta persecución que terminó con la captura y ejecución de Dulcino en el año 1307."
+
+ # Ebionismo
  ebionites: "Ebionismo"
  ebionites_adj: "Ebionita"
  ebionites_adherent: "Ebionita"
  ebionites_adherent_plural: "Ebionitas"
- ebionites_desc: "Ebionitas, como término, se refiere a una secta judía cristiana, que veía la pobreza como una bendición, que existió durante los primeros siglos de la Era Común. Los ebionitas sostienen que el Apóstol Santiago el Justo fue el jefe de los Apóstoles y rechazan a Pablo como un apóstata. Creen que Jesús fue el hijo natural de María y José, quien fue adoptado por Dios y murió como mártir para mover a Israel al arrepentimiento."
- finnish_orthodox: "Iglesia Finlandesa"
- finnish_orthodox_adj: "Ortodoxa Finlandesa"
- finnish_orthodox_adherent: "Finlandés"
- finnish_orthodox_adherent_plural: "Finlandeses"
- finnish_orthodox_desc: "La Iglesia de Finlandia es una iglesia cultural y autocefálica que representa al pueblo finno-kareliano."
- fraticelli_rite: "Fraticelli"
- fraticelli_rite_adj: "Fraticelli"
- fraticelli_rite_adherent: "Fraticelli"
- fraticelli_rite_adherent_plural: "Fraticelli"
- fraticelli_rite_desc: "Los Fraticelli, los 'pequeños hermanos', eran franciscanos espirituales que rompían con su orden sobre el estado de pobreza. En 1294 Celestino V permitió a la compañía de Angelo Clareno vivir como los pobres ermitaños, pero Bonifacio VIII revocó la subvención y en 1296 los declaró herejes. Sosteniendo que su gobierno era el Evangelio mismo, del cual ningún Papa podía dispensar, eran fuertes en Roma, Umbria, la Marcha de Ancona y el sur. Juan XXII encarceló a Angelo en 1317, excomulgó el Fraticelli siciliano en 1318 con Gloriosam ecclesiam, y en 1323 declaró herejía decir que Cristo y los Apóstoles no tenían nada. Después de él rechazaron la autoridad del papado y se mantuvieron a sí mismos para ser la verdadera Iglesia."
- free_spirit_rite: "Espíritu libre Brethren"
- free_spirit_rite_adj: "Espíritu libre"
- free_spirit_rite_adherent: "Degenerate"
- free_spirit_rite_adherent_plural: "Degenerates"
- free_spirit_rite_desc: "La herejía del Espíritu Libre era un conjunto suelto de creencias que la Iglesia encontró entre algunos cristianos de los Países Bajos, Alemania, Francia, Bohemia y el norte de Italia del siglo XIII al siglo XV; su primer registro es una recopilación de Alberto Magno en la década de 1270 sobre un grupo en los Swabian Ries. Se dijo que sus seguidores buscaban una unión con Dios en la que el alma perfeccionada no podía ser contada aparte de Él, para sostener que el Espíritu Santo bastaba para la salvación sin la Iglesia o los sacramentos, y que 'nada es un pecado excepto lo que se piensa que es un pecado'. El Espejo de Almas Simples de Marguerite Porete fue condenado en 1310 y fue quemada, y el Concilio de Viena (1311-12) enumeraron sus errores en el decreto Ad nostrum. Los historiadores como Lerner y Lambert dudan que fue siempre una secta organizada."
- gaianites: "Gaianita Copta"
+ ebionites_desc: "Los ebionitas fueron comunidades judeocristianas de los primeros siglos de nuestra era que consideraban la pobreza una virtud religiosa y mantenían una estrecha observancia de la ley mosaica. Reconocían a Santiago el Justo como principal autoridad de la Iglesia primitiva y rechazaban las enseñanzas del apóstol Pablo, al que consideraban un apóstata. Sostenían que Jesús había nacido de María y José como un hombre ordinario, posteriormente elegido por Dios para cumplir su misión mesiánica. Su muerte era interpretada como un martirio destinado a conducir al pueblo de Israel al arrepentimiento."
+
+ # Iglesia ortodoxa finlandesa
+ finnish_orthodox: "Iglesia ortodoxa finlandesa"
+ finnish_orthodox_adj: "Ortodoxa finlandesa"
+ finnish_orthodox_adherent: "Cristiano ortodoxo finlandés"
+ finnish_orthodox_adherent_plural: "Cristianos ortodoxos finlandeses"
+ finnish_orthodox_desc: "La Iglesia ortodoxa finlandesa representa una tradición cristiana propia de los pueblos fineses y carelios. Organizada como una Iglesia autocéfala, conserva las enseñanzas y prácticas litúrgicas de la ortodoxia oriental, al tiempo que incorpora las particularidades culturales y religiosas de las comunidades finocarelias."
+
+ # Fraticelismo
+ fraticelli_rite: "Fraticelismo"
+ fraticelli_rite_adj: "Fraticelo"
+ fraticelli_rite_adherent: "Fraticelo"
+ fraticelli_rite_adherent_plural: "Fraticelos"
+ fraticelli_rite_desc: "Los fraticelos, cuyo nombre significa «hermanitos», surgieron entre los franciscanos espirituales que defendían una interpretación rigurosa de la pobreza apostólica. En el año 1294, el papa Celestino V autorizó a los seguidores de Ángel Clareno a vivir como ermitaños pobres, pero su sucesor Bonifacio VIII revocó esta concesión y comenzaron las persecuciones contra el movimiento. Los fraticelos sostenían que la regla de san Francisco expresaba directamente las enseñanzas del Evangelio y que ningún pontífice podía dispensar de su cumplimiento. Alcanzaron una presencia importante en Roma, Umbría, la Marca de Ancona y el sur de Italia. Durante el pontificado de Juan XXII, Ángel Clareno fue encarcelado en el año 1317, los fraticelos sicilianos fueron excomulgados mediante la bula Gloriosam Ecclesiam del año 1318 y la doctrina de la pobreza absoluta de Cristo y los apóstoles fue condenada en el año 1323. Diversas comunidades terminaron rechazando la autoridad papal y proclamándose depositarias de la verdadera Iglesia."
+
+ # Hermanos del Libre Espíritu
+ free_spirit_rite: "Hermanos del Libre Espíritu"
+ free_spirit_rite_adj: "Del Libre Espíritu"
+ free_spirit_rite_adherent: "Hermano del Libre Espíritu"
+ free_spirit_rite_adherent_plural: "Hermanos del Libre Espíritu"
+ free_spirit_rite_desc: "Los Hermanos del Libre Espíritu fueron asociados con diversas corrientes místicas y religiosas presentes en los Países Bajos, Alemania, Francia, Bohemia y el norte de Italia entre los siglos XIII y XV. Uno de los primeros testimonios de estas creencias aparece en una recopilación de Alberto Magno, redactada durante la década de 1270, acerca de una comunidad de la región de Ries, en Suabia. Sus seguidores fueron acusados de enseñar que el alma perfeccionada podía alcanzar una unión tan completa con Dios que dejaba de distinguirse de él, que el Espíritu Santo bastaba para obtener la salvación sin necesidad de la Iglesia ni de los sacramentos y que ninguna acción constituía pecado si el individuo no la consideraba pecaminosa. La obra El espejo de las almas simples, de Margarita Porete, fue condenada y su autora ejecutada en la hoguera en el año 1310. El Concilio de Vienne, celebrado entre los años 1311 y 1312, condenó diversas proposiciones atribuidas al movimiento mediante el decreto Ad nostrum. Sin embargo, los historiadores modernos cuestionan que estas comunidades constituyeran una secta organizada y homogénea."
+
+ # Gaianismo
+ gaianites: "Gaianismo"
  gaianites_adj: "Gaianita"
  gaianites_adherent: "Gaianita"
  gaianites_adherent_plural: "Gaianitas"
- gaianites_desc: "Los gaianitas fueron una facción julianista dentro de la iglesia copta egipcia entre los siglos VI y IX. Al igual que los julianistas, creen que el cuerpo de Cristo siempre fue incorrupto y, por lo tanto, solo parecía sufrir daño en la cruz."
- gallican_christianity: "Iglesia Galicana"
- gallican_christianity_adj: "Iglesia Galicana"
- gallican_christianity_adherent: "Galicano"
- gallican_christianity_adherent_plural: "Galicanos"
- gallican_christianity_desc: "La Iglesia Galicana representa un intento de revivir los antiguos ritos de la Galia, que se habían abandonado en favor de las costumbres romanas."
+ gaianites_desc: "Los gaianitas fueron una corriente julianista surgida dentro del cristianismo copto de Egipto, cuya presencia se documenta entre los siglos VI y IX. Al igual que otros seguidores de Juliano de Halicarnaso, sostenían que el cuerpo de Cristo había sido incorruptible desde el momento de la Encarnación y que, por consiguiente, los sufrimientos padecidos durante la crucifixión no podían alterar verdaderamente su naturaleza corporal."
+
+ # Iglesia galicana
+ gallican_christianity: "Iglesia galicana"
+ gallican_christianity_adj: "Galicana"
+ gallican_christianity_adherent: "Cristiano galicano"
+ gallican_christianity_adherent_plural: "Cristianos galicanos"
+ gallican_christianity_desc: "La Iglesia galicana representa un intento de restaurar las antiguas tradiciones litúrgicas del cristianismo de la Galia, que fueron progresivamente abandonadas durante la Edad Media en favor de los usos romanos. Sus comunidades procuran conservar las ceremonias, oraciones y costumbres propias de aquella tradición eclesiástica, manteniendo una identidad religiosa diferenciada dentro del cristianismo occidental."
+
+ # Henricianismo
  henricians: "Henricianismo"
  henricians_adj: "Henriciano"
  henricians_adherent: "Henriciano"
  henricians_adherent_plural: "Henricianos"
- henricians_desc: "Un hombre llamado Enrique llegó a la ciudad y negó todos los sacramentos de la iglesia. Esta secta a menudo se confunde con los petrobrusianos, debido a que profesan las mismas herejías; pero son totalmente diferentes."
- horoms: "Horoms"
- horoms_adj: "Horom"
- horom_adherent: "Horom"
- horoms_adherent_plural: "Horoms"
- horoms_desc: "Sin una Iglesia Armenia Calcedonia adecuada, los Calcedonios Armenios están divididos entre los tres Patriarcados vecinos. Aquellos sujetos a Constantinopla se llaman Armenio-Horoms, o simplemente Horoms."
- irenopolis_melkite: "Irenópolis Melquita"
- irenopolis_melkite_adj: "Irenópolis Melquita"
+ henricians_desc: "El henricianismo surgió de la predicación de Enrique de Lausana, un reformador religioso activo en Francia durante el siglo XII. Sus enseñanzas cuestionaban la autoridad del clero y rechazaban diversas prácticas sacramentales de la Iglesia. Aunque sus seguidores compartían algunas posiciones con los petrobrusianos, ambos movimientos tuvieron orígenes y dirigentes distintos. La predicación de Enrique encontró apoyo entre sectores de la población descontentos con la riqueza y las costumbres del clero, lo que provocó la oposición de las autoridades eclesiásticas."
+
+ # Horomos
+ horoms: "Horomos"
+ horoms_adj: "Horomo"
+ horom_adherent: "Horomo"
+ horoms_adherent_plural: "Horomos"
+ horoms_desc: "Ante la ausencia de una Iglesia armenia calcedonia independiente, las comunidades armenias que aceptaron las enseñanzas del Concilio de Calcedonia quedaron repartidas entre los patriarcados vecinos. Aquellas que reconocen la jurisdicción del patriarca de Constantinopla son conocidas como armenohoromas, u horomos, y mantienen su identidad armenia dentro de la tradición eclesiástica bizantina."
+
+ # Iglesia melquita de Irenópolis
+ irenopolis_melkite: "Iglesia melquita de Irenópolis"
+ irenopolis_melkite_adj: "Melquita de Irenópolis"
  irenopolis_melkite_adherent: "Melquita"
  irenopolis_melkite_adherent_plural: "Melquitas"
- irenopolis_melkite_desc: "El Catolicosato Melquita de Irenópolis fue erigido bajo la jurisdicción del Patriarca de Antioquía para reinar sobre los cristianos en Babilonia y las provincias circundantes. Opera como rival del Catolicosato Nestoriano de Oriente y del Maphrianato Miaphisita de Oriente."
- ivirs: "Ivirs"
- ivirs_adj: "Ivir"
- ivirs_adherent: "Ivir"
- ivirs_adherent_plural: "Ivirs"
- ivirs_desc: "Sin una Iglesia Armenia Calcedonia adecuada, los Calcedonios Armenios están divididos entre los tres Patriarcados vecinos. Aquellos sujetos al Catolicos Georgiano se llaman Ivirs."
+ irenopolis_melkite_desc: "El catolicosado melquita de Irenópolis fue establecido bajo la jurisdicción del patriarca de Antioquía para atender a las comunidades cristianas calcedonias de Babilonia y las provincias circundantes. Su autoridad eclesiástica rivaliza con la del catolicosado de la Iglesia del Oriente, de tradición nestoriana, y con la del mafrianato oriental de la Iglesia miafisita, reflejando las profundas divisiones doctrinales y jurisdiccionales del cristianismo en Mesopotamia."
+
+ # Iviros
+ ivirs: "Iviros"
+ ivirs_adj: "Iviro"
+ ivirs_adherent: "Iviro"
+ ivirs_adherent_plural: "Iviros"
+ ivirs_desc: "Ante la ausencia de una Iglesia armenia calcedonia independiente, las comunidades armenias que aceptaron las enseñanzas del Concilio de Calcedonia quedaron repartidas entre los patriarcados vecinos. Aquellas que reconocen la autoridad del catolicós de Georgia son conocidas como iviros y conservan su identidad armenia dentro de la tradición eclesiástica georgiana."
 
  jerusalem_melkite: "Iglesia melquita de Jerusalén"
  jerusalem_melkite_adj: "Melquita de Jerusalén"
