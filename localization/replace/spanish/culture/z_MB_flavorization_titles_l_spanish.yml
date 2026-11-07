@@ -374,18 +374,18 @@
  duke_theocracy_male_ismaili: "Gran Ayatolá"
  duke_theocracy_female_ismaili: "Gran Ayatolá"
 # Orthodox
- count_theocracy_male_orthodox: "Metropolitano"
- count_theocracy_female_orthodox: "Metropolitana"
+ count_theocracy_male_orthodox: "Mētropolítēs"
+ count_theocracy_female_orthodox: "Mētropolítissa"
 # Special cultural titles (sorted by culture, then government type).
 ### Latin ###
 # Republic
- duke_republic_male_latin_group: "Dogo"
- duke_republic_female_latin_group: "Dogaresa"
- king_republic_male_latin_group: "Sereno Dogo"
- king_republic_female_latin_group: "Serena Dogaresa"
+ duke_republic_male_latin_group: "Doge"
+ duke_republic_female_latin_group: "Dogaressa"
+ king_republic_male_latin_group: "Serenissimo Doge"
+ king_republic_female_latin_group: "Serenissima Dogaressa"
 ### Roman ###
 # Feudal
- baron_feudal_male_roman: "Barō"
+ baron_feudal_male_roman: "Baro"
  baron_feudal_female_roman: "Baronissa"
  barony_feudal_roman: "Castrum"
  count_feudal_male_roman: "Comes"
@@ -401,8 +401,8 @@
  emperor_feudal_female_roman: "Augusta"
  empire_feudal_roman: "Imperium"
 # Republic
- emperor_republic_male_roman: "Cónsul"
- emperor_republic_female_roman: "Consulessa"
+ emperor_republic_male_roman: "Consul"
+ emperor_republic_female_roman: "Consul"
  empire_republic_roman: "Res Publica"
 # Viceroyalty
  baron_viceroyalty_male_roman: "Gubernator"
@@ -415,43 +415,43 @@
  duke_viceroyalty_female_roman: "Quaestrix"
  duchy_viceroyalty_roman: "Provincia"
  king_viceroyalty_male_roman: "Vicarius"
- king_viceroyalty_female_roman: "Vicarissa"
- kingdom_viceroyalty_roman: "Diócesis"
+ king_viceroyalty_female_roman: "Vicaria"
+ kingdom_viceroyalty_roman: "Dioecesis"
  emperor_viceroyalty_male_roman: "Caesar"
- emperor_viceroyalty_female_roman: "Principissa"
+ emperor_viceroyalty_female_roman: "Caesarissa"
  empire_viceroyalty_roman: "Imperium"
 ### Greek ###
 # Feudal / Imperial
- count_feudal_male_greek: "Comes"
- count_feudal_female_greek: "Comitissa"
- duke_feudal_male_greek: "Doux"
- duke_feudal_female_greek: "Doukissa"
- king_feudal_male_greek: "Despótis"
- king_feudal_female_greek: "Despotissa"
- kingdom_feudal_greek: "Despotado"
- emperor_feudal_male_greek: "Basileus"
- emperor_feudal_female_greek: "Basilissa"
+ count_feudal_male_greek: "Kómēs"
+ count_feudal_female_greek: "Kómissa"
+ duke_feudal_male_greek: "Doúx"
+ duke_feudal_female_greek: "Doúkissa"
+ king_feudal_male_greek: "Despótēs"
+ king_feudal_female_greek: "Despótissa"
+ kingdom_feudal_greek: "Despotáton"
+ emperor_feudal_male_greek: "Basileús"
+ emperor_feudal_female_greek: "Basílissa"
 ### Byzantine ###
- duke_republic_male_byzantine_group: "Eparca"
- duke_republic_female_byzantine_group: "Eparquesa"
- king_republic_male_byzantine_group: "Sereno dux"
- king_republic_female_byzantine_group: "Serena dogaresa"
- duke_viceroyalty_male_byzantine_group: "Strategos"
- duke_viceroyalty_female_byzantine_group: "Strategitissa"
- duchy_viceroyalty_byzantine_group: "Thema"
- king_viceroyalty_male_byzantine_group: "Exárchos"
- king_viceroyalty_female_byzantine_group: "Exarca"
- king_viceroyalty_byzantine_group: "Exarchato"
- emperor_viceroyalty_male_byzantine_group: "Autokrátor"
- emperor_viceroyalty_female_byzantine_group: "Autokrátira"
- empire_viceroyalty_byzantine_group: "Autokrateia"
+ duke_republic_male_byzantine_group: "Éparchos"
+ duke_republic_female_byzantine_group: "Epárchissa"
+ king_republic_male_byzantine_group: "Éparchos"
+ king_republic_female_byzantine_group: "Epárchissa"
+ duke_viceroyalty_male_byzantine_group: "Stratēgós"
+ duke_viceroyalty_female_byzantine_group: "Stratēgíssa"
+ duchy_viceroyalty_byzantine_group: "Théma"
+ king_viceroyalty_male_byzantine_group: "Éxarchos"
+ king_viceroyalty_female_byzantine_group: "Exárchissa"
+ king_viceroyalty_byzantine_group: "Exarcháton"
+ emperor_viceroyalty_male_byzantine_group: "Autokrátōr"
+ emperor_viceroyalty_female_byzantine_group: "Autokráteira"
+ empire_viceroyalty_byzantine_group: "Autokratoría"
 # Georgians, by Ace (Muslim Enhancements)
  baron_male_georgian_group: "Baroni"
  baron_female_georgian_group: "Baronesa"
  barony_georgian_group: "Baronia"
  count_male_georgian_group: "Grapi"
  count_female_georgian_group: "Grapinia"
- county_georgian_group: "Samplobelo"
+ county_georgian_group: "Sagrapo"
  duke_male_georgian_group: "Hertsogi"
  duke_female_georgian_group: "Hertsoginia"
  duchy_georgian_group: "Sahertsogo"
@@ -460,27 +460,27 @@
  kingdom_georgian_group: "Samepo"
  emperor_male_georgian_group: "Imperatori"
  emperor_female_georgian_group: "Imperatritsa"
- duke_feudal_male_prince_georgian: "Printsi"
- duke_feudal_female_prince_georgian: "Printsesa"
- duchy_feudal_prince_georgian: "Kveqana"
+ duke_feudal_male_prince_georgian: "Mtavari"
+ duke_feudal_female_prince_georgian: "Mtavari"
+ duchy_feudal_prince_georgian: "Samtavro"
 # Armenians, by Ace (Muslim Enhancements)
- baron_male_armenian_group: "Barone"
+ baron_male_armenian_group: "Baron"
  baron_female_armenian_group: "Baronuhi"
- barony_armenian_group: "Baronia"
+ barony_armenian_group: "Baronut'yun"
  count_male_armenian_group: "Koms"
  count_female_armenian_group: "Komsuhi"
- county_armenian_group: "Komsutyun"
+ county_armenian_group: "Komsut'yun"
  duke_male_armenian_group: "Dukas"
  duke_female_armenian_group: "Duksuhi"
- duchy_armenian_group: "Duksutyun"
- king_male_armenian_group: "Tagavor"
- king_female_armenian_group: "Taguhi"
- kingdom_armenian_group: "Tagavorut'yun"
+ duchy_armenian_group: "Duksut'yun"
+ king_male_armenian_group: "T'agavor"
+ king_female_armenian_group: "T'aguhi"
+ kingdom_armenian_group: "T'agavorut'yun"
  emperor_male_armenian_group: "Kaysr"
  emperor_female_armenian_group: "Kaysruhi"
  duke_feudal_male_prince_armenian: "Ishkhan"
- duke_feudal_female_prince_armenian: "Arkayadustr"
- duchy_feudal_prince_armenian: "Ishkhanutyun"
+ duke_feudal_female_prince_armenian: "Ishkhanուհի"
+ duchy_feudal_prince_armenian: "Ishkhanut'yun"
 ### German ###
 # Feudal / Tribal
  emperor_feudal_male_german: "Kaiser"
@@ -489,32 +489,32 @@
  baron_feudal_male_norse: "Þegn"
  baron_feudal_female_norse: "Þegn"
  count_feudal_male_norse: "Jarl"
- count_feudal_female_norse: "Jarl"
- county_feudal_norse: "Jarldom"
+ count_feudal_female_norse: "Jarlkona"
+ county_feudal_norse: "Jarlsdómr"
 ### English ###
  count_feudal_male_english: "Earl"
- count_feudal_female_english: "Condesa"
- county_feudal_english: "Condado"
+ count_feudal_female_english: "Countess"
+ county_feudal_english: "Earldom"
 ### Anglo-Saxon ###
- baron_feudal_male_anglo_saxon: "Thane"
- baron_feudal_female_anglo_saxon: "Thane"
- barony_republic_anglo_saxon: "Burgo"
+ baron_feudal_male_anglo_saxon: "Þegn"
+ baron_feudal_female_anglo_saxon: "Þegn"
+ barony_republic_anglo_saxon: "Burh"
 ### Irish ###
 ### Pictish ###
  count_feudal_male_pictish: "Mormaer"
  count_feudal_female_pictish: "Banmormaer"
  county_feudal_pictish: "Mormaerdom"
 ### Scottish ###
- barony_republic_scottish: "Burgo"
+ barony_republic_scottish: "Burgh"
 ### Hausa ###
  count_feudal_female_hausan_independent: "Magajiya Ƙanana"
  duke_feudal_female_hausan_independent: "Magajiya"
  king_feudal_female_hausan_independent: "Magajiya Babba"
 ### Principalities ###
 # Feudal/Tribal
- duke_feudal_male_prince_independent: "Príncipe"
- duke_feudal_female_prince_independent: "Princesa"
- duchy_feudal_prince_independent: "Principado"
+ duke_feudal_male_prince_independent: "Princeps"
+ duke_feudal_female_prince_independent: "Principissa"
+ duchy_feudal_prince_independent: "Principatus"
  duke_feudal_male_prince_always: "$duke_feudal_male_prince_independent$"
  duke_feudal_female_prince_always: "$duke_feudal_female_prince_independent$"
  duchy_feudal_prince_always: "$duchy_feudal_prince_independent$"
@@ -529,17 +529,17 @@
  kingdom_feudal_grand_duke_independent: "Archiducado"
 ### Taifas ###
 # Feudal / Clan
- duke_feudal_male_andalusian_independent: "Emira"
- duke_feudal_female_andalusian_independent: "Emira"
- duchy_feudal_andalusian_independent: "Taifa"
+ duke_feudal_male_andalusian_independent: "Amīr"
+ duke_feudal_female_andalusian_independent: "Amīra"
+ duchy_feudal_andalusian_independent: "Ṭāʾifa"
 ### Lombard ###
- duke_feudal_male_lombard_independent: "Príncipe"
- duke_feudal_female_lombard_independent: "Princesa"
- duchy_feudal_lombard_independent: "Principado"
+ duke_feudal_male_lombard_independent: "Princeps"
+ duke_feudal_female_lombard_independent: "Principissa"
+ duchy_feudal_lombard_independent: "Principatus"
 ### Banates ###
  duke_feudal_male_ban: "Ban"
- duke_feudal_female_ban: "Ban"
- duchy_feudal_ban: "Banato"
+ duke_feudal_female_ban: "Banica"
+ duchy_feudal_ban: "Banovina"
 ### Sardinian ###
  barony_feudal_sardinian: "Curadoria"
  baron_feudal_male_sardinian: "Curadore"
@@ -547,150 +547,150 @@
  county_feudal_sardinian: "Judicadu"
  count_feudal_male_sardinian: "Judike"
  count_feudal_female_sardinian: "Judesa"
- duchy_feudal_sardinian: "Arconato"
+ duchy_feudal_sardinian: "Arcontadu"
  duke_feudal_male_sardinian: "Arconte"
- duke_feudal_female_sardinian: "Arcondesa"
+ duke_feudal_female_sardinian: "Arcontissa"
 ### Russian ###
  duke_feudal_male_russian: "Velikiy knyaz"
  duke_feudal_female_russian: "Velikaya knyaginya"
- duchy_feudal_russian: "Velikoye knyzhestvo"
- emperor_feudal_male_russian: "Tsar" (Tsar)
- emperor_feudal_female_russian: "Zarina"
+ duchy_feudal_russian: "Velikoye knyazhestvo"
+ emperor_feudal_male_russian: "Tsar"
+ emperor_feudal_female_russian: "Tsaritsa"
  empire_feudal_russian: "Tsarstvo"
 ### Arabic ###
 # Feudal / Clan
- baron_feudal_male_arabic_group: "Valí"
- baron_feudal_female_arabic_group: "Valia"
- barony_feudal_arabic_group: "Valiato"
+ baron_feudal_male_arabic_group: "Wālī"
+ baron_feudal_female_arabic_group: "Wāliya"
+ barony_feudal_arabic_group: "Wilāya"
  count_feudal_male_arabic_group: "Shaykh"
- count_feudal_female_arabic_group: "Jequesa"
- county_feudal_arabic_group: "Sheikhdom"
+ count_feudal_female_arabic_group: "Shaykha"
+ county_feudal_arabic_group: "Mashyakha"
  duke_feudal_male_arabic_group: "Amīr"
- duke_feudal_female_arabic_group: "Amīrah"
- duchy_feudal_arabic_group: "Amīrate"
- king_feudal_male_arabic_group: "Malika"
- king_feudal_female_arabic_group: "Malikah"
- kingdom_feudal_arabic_group: "Mamlakah"
+ duke_feudal_female_arabic_group: "Amīra"
+ duchy_feudal_arabic_group: "Imāra"
+ king_feudal_male_arabic_group: "Malik"
+ king_feudal_female_arabic_group: "Malika"
+ kingdom_feudal_arabic_group: "Mamlaka"
  king_feudal_muslim_male_arabic_group: "Sulṭān"
- king_feudal_muslim_female_arabic_group: "Sulṭānha"
- kingdom_feudal_muslim_arabic_group: "Sulṭanah"
- emperor_feudal_male_arabic_group: "Malik al-Muʿazzam"
- emperor_feudal_female_arabic_group: "Malikah al-Muʿazzamah"
- empire_feudal_arabic_group: "Imārah"
- emperor_feudal_muslim_male_arabic_group: "Malik al-Muʿazzam"
- emperor_feudal_muslim_female_arabic_group: "Malikah al-Muʿazzamah"
- empire_feudal_muslim_arabic_group: "Imārah"
+ king_feudal_muslim_female_arabic_group: "Sulṭāna"
+ kingdom_feudal_muslim_arabic_group: "Salṭana"
+ emperor_feudal_male_arabic_group: "Malik al-Mulūk"
+ emperor_feudal_female_arabic_group: "Malikat al-Mulūk"
+ empire_feudal_arabic_group: "Mamlakat al-Mulūk"
+ emperor_feudal_muslim_male_arabic_group: "Sulṭān al-Salāṭīn"
+ emperor_feudal_muslim_female_arabic_group: "Sulṭānat al-Salāṭīn"
+ empire_feudal_muslim_arabic_group: "Salṭanat al-Salāṭīn"
 # Tribal
- baron_tribal_male_arabic_group: "Zaeim"
- baron_tribal_female_arabic_group: "Zaeim"
+ baron_tribal_male_arabic_group: "Zaʿīm"
+ baron_tribal_female_arabic_group: "Zaʿīma"
  barony_tribal_arabic_group: "Qarya"
- king_tribal_male_arabic_group: "Rayyis"
- king_tribal_female_arabic_group: "Rayyisa"
- kingdom_tribal_arabic_group: "Siyada"
- emperor_tribal_male_arabic_group: "Malik al-Muʿazzam"
- emperor_tribal_female_arabic_group: "Malikah al-Muʿazzamah"
- empire_tribal_arabic_group: "imperio"
+ king_tribal_male_arabic_group: "Raʾīs"
+ king_tribal_female_arabic_group: "Raʾīsa"
+ kingdom_tribal_arabic_group: "Riʾāsa"
+ emperor_tribal_male_arabic_group: "Malik al-Mulūk"
+ emperor_tribal_female_arabic_group: "Malikat al-Mulūk"
+ empire_tribal_arabic_group: "Mamlakat al-Mulūk"
 ### Turkish ###
  baron_feudal_male_turkish: "Ağa"
  baron_feudal_female_turkish: "Hanım"
- barony_feudal_turkish: "Timariot"
+ barony_feudal_turkish: "Tımar"
  count_feudal_male_turkish: "Bey"
  count_feudal_female_turkish: "Begüm"
- county_feudal_turkish: "Beylicato"
+ county_feudal_turkish: "Beylik"
  duke_feudal_male_turkish: "Atabey"
  duke_feudal_female_turkish: "Atabegüm"
  duchy_feudal_turkish: "Atabeylik"
- king_feudal_male_turkish: "Sulṭān"
- king_feudal_female_turkish: "Sulṭānha"
+ king_feudal_male_turkish: "Sultan"
+ king_feudal_female_turkish: "Sultana"
  kingdom_feudal_turkish: "Sultanlık"
- emperor_feudal_male_turkish: "Sultán al-Muazzam"
- emperor_feudal_female_turkish: "Sultana al-Muazzama"
- empire_feudal_turkish: "İmparatorluk"
+ emperor_feudal_male_turkish: "Sultanü's-Selâtîn"
+ emperor_feudal_female_turkish: "Sultana"
+ empire_feudal_turkish: "Saltanat"
 ### Iranian ###
  baron_feudal_male_iranian_group: "Argbadh"
  baron_feudal_female_iranian_group: "$baron_feudal_male_iranian_group$"
  barony_feudal_iranian_group: "Arg"
- count_feudal_male_iranian_group: "Marzobān"
+ count_feudal_male_iranian_group: "Marzbān"
  count_feudal_female_iranian_group: "$count_feudal_male_iranian_group$"
- county_feudal_iranian_group: "Marzpanato"
- duke_feudal_male_iranian_group: "Satrāp"
+ county_feudal_iranian_group: "Marzbānī"
+ duke_feudal_male_iranian_group: "Satrap"
  duke_feudal_female_iranian_group: "$duke_feudal_male_iranian_group$"
- duchy_feudal_iranian_group: "Satrāpy"
- duke_feudal_independent_male_iranian_group: "[CHARACTER.GetCapitalLocation.GetTitle.GetNameNoTierNoTooltip]Shah"
- duke_feudal_independent_female_iranian_group: "[CHARACTER.GetCapitalLocation.GetTitle.GetNameNoTierNoTooltip]Banebshen"
- duchy_feudal_independent_iranian_group: "[CHARACTER.GetCapitalLocation.GetTitle.GetNameNoTierNoTooltip]Shahdom"
+ duchy_feudal_iranian_group: "Satrapī"
+ duke_feudal_independent_male_iranian_group: "[CHARACTER.GetCapitalLocation.GetTitle.GetNameNoTierNoTooltip]shāh"
+ duke_feudal_independent_female_iranian_group: "[CHARACTER.GetCapitalLocation.GetTitle.GetNameNoTierNoTooltip]bānū"
+ duchy_feudal_independent_iranian_group: "[CHARACTER.GetCapitalLocation.GetTitle.GetNameNoTierNoTooltip]shahr"
  king_feudal_male_iranian_group: "Šāh"
  king_feudal_female_iranian_group: "Šāhbānū"
  kingdom_feudal_iranian_group: "Šahr"
  emperor_feudal_male_iranian_group: "Šāhānšāh"
- emperor_feudal_female_iranian_group: " Šāhbānū"
+ emperor_feudal_female_iranian_group: "Šāhbānū"
  empire_feudal_iranian_group: "Ērānšahr"
- # Muslim Feudal/Clan
- baron_feudal_muslim_male_iranian_group: "Nā'ib"
- baron_feudal_muslim_female_iranian_group: "Nā'iba"
+# Muslim Feudal/Clan
+ baron_feudal_muslim_male_iranian_group: "Nāʾib"
+ baron_feudal_muslim_female_iranian_group: "Nāʾiba"
  barony_feudal_muslim_iranian_group: "$barony_feudal_iranian_group$"
- count_feudal_muslim_male_iranian_group: "Vali"
- count_feudal_muslim_female_iranian_group: "Valia"
- county_feudal_muslim_iranian_group: "Valiato"
- duke_feudal_muslim_male_iranian_group: "Amir"
- duke_feudal_muslim_female_iranian_group: "Amira"
- duchy_feudal_muslim_iranian_group: "Amirato"
- king_feudal_muslim_male_iranian_group: "Amir-e Amiran"
- king_feudal_muslim_female_iranian_group: "Amira-e Amiran"
- kingdom_feudal_muslim_iranian_group: "Amirate-ye Bozorg"
- # Muslim Iranian Empire titles are the same as non-Muslim Iranian Imperial titles
+ count_feudal_muslim_male_iranian_group: "Vālī"
+ count_feudal_muslim_female_iranian_group: "Vāliya"
+ county_feudal_muslim_iranian_group: "Vilāyat"
+ duke_feudal_muslim_male_iranian_group: "Amīr"
+ duke_feudal_muslim_female_iranian_group: "Amīra"
+ duchy_feudal_muslim_iranian_group: "Imārat"
+ king_feudal_muslim_male_iranian_group: "Amīr al-Umarāʾ"
+ king_feudal_muslim_female_iranian_group: "Amīra al-Umarāʾ"
+ kingdom_feudal_muslim_iranian_group: "Imārat-i Buzurg"
+# Muslim Iranian Empire titles are the same as non-Muslim Iranian Imperial titles
 ### Sogdian ###
- duke_feudal_male_sogdian: "Ikhshid"
+ duke_feudal_male_sogdian: "Ikhshīd"
 ### Mongol ###
 # Feudal / Clan / Tribal / Nomadic
- baron_feudal_male_mongol: "Taishi"
+ baron_feudal_male_mongol: "Taiši"
 ### Uyghur ###
- king_feudal_male_uyghur: "Idiqut"
- king_feudal_female_uyghur: "Idiqut"
+ king_feudal_male_uyghur: "Ïduq Qut"
+ king_feudal_female_uyghur: "Ïduq Qut"
 ### Altaic ###
 # Feudal / Tribal / Clan / Nomadic
- king_feudal_male_altaic_group: "Kan"
- king_feudal_female_altaic_group: "Kanum"
- kingdom_feudal_altaic_group: "Khanlyk"
- emperor_feudal_male_altaic_group: "Kagán"
- emperor_feudal_female_altaic_group: "Khatun"
- empire_feudal_altaic_group: "Khaganlyk"
+ king_feudal_male_altaic_group: "Qan"
+ king_feudal_female_altaic_group: "Qatun"
+ kingdom_feudal_altaic_group: "Qanlïq"
+ emperor_feudal_male_altaic_group: "Qağan"
+ emperor_feudal_female_altaic_group: "Qatun"
+ empire_feudal_altaic_group: "Qağanlïq"
 ### Dravidian / Indo-Aryan ###
- baron_feudal_male_dravidian_group: "Damapati"
- baron_feudal_female_dravidian_group: "Damapatni"
- barony_feudal_dravidian_group: "Dama"
- count_feudal_male_dravidian_group: "Thakur"
- count_feudal_female_dravidian_group: "Thakurani"
- county_feudal_dravidian_group: "Thikana"
- duke_feudal_male_dravidian_group: "Rajá"
- duke_feudal_female_dravidian_group: "Rania"
- duchy_feudal_dravidian_group: "Raj"
- king_feudal_male_dravidian_group: "Maharajá"
- king_feudal_female_dravidian_group: "Maharaní"
- emperor_feudal_male_dravidian_group: "Samrat"
- emperor_feudal_female_dravidian_group: "Samrajni"
- samanta: "Samanta"
- samanta_female: "Samanta"
- mahasamanta: "Mahasamanta"
- mahasamanta_female: "Mahasamanta"
- mahasamantadhipati: "Mahasamantadhipati"
- mahasamantadhipati_female: "Mahasamantadhipati"
+ baron_feudal_male_dravidian_group: "Grāmapati"
+ baron_feudal_female_dravidian_group: "Grāmapatnī"
+ barony_feudal_dravidian_group: "Grāma"
+ count_feudal_male_dravidian_group: "Ṭhākura"
+ count_feudal_female_dravidian_group: "Ṭhākurānī"
+ county_feudal_dravidian_group: "Ṭhikānā"
+ duke_feudal_male_dravidian_group: "Rājā"
+ duke_feudal_female_dravidian_group: "Rānī"
+ duchy_feudal_dravidian_group: "Rājya"
+ king_feudal_male_dravidian_group: "Mahārājā"
+ king_feudal_female_dravidian_group: "Mahārānī"
+ emperor_feudal_male_dravidian_group: "Samrāṭ"
+ emperor_feudal_female_dravidian_group: "Samrājñī"
+ samanta: "Sāmanta"
+ samanta_female: "Sāmantā"
+ mahasamanta: "Mahāsāmanta"
+ mahasamanta_female: "Mahāsāmantā"
+ mahasamantadhipati: "Mahāsāmantādhipati"
+ mahasamantadhipati_female: "Mahāsāmantādhipatnī"
 # Clan / Iqta, by Ace (Muslim Enhancements)
- baron_islamic_male_dravidian_group: "Sarkar"
- baron_islamic_female_dravidian_group: "Begüm"
- barony_islamic_dravidian_group: "Haqumat"
- count_islamic_male_dravidian_group: "Sardar"
- count_islamic_female_dravidian_group: "Khatun"
- county_islamic_dravidian_group: "Dawlat"
- duke_islamic_male_dravidian_group: "Rajá"
- duke_islamic_female_dravidian_group: "Rania"
- duchy_islamic_dravidian_group: "Raj"
- king_islamic_male_dravidian_group: "Maharajá"
- kingdom_islamic_dravidian_group: "Mamlikat"
- king_islamic_female_dravidian_group: "Maharaní"
- emperor_islamic_male_dravidian_group: "Shahanshah"
- emperor_islamic_female_dravidian_group: "Maharaní"
- ### Islamic Clan Generic ###
+ baron_islamic_male_dravidian_group: "Ḥākim"
+ baron_islamic_female_dravidian_group: "Ḥākima"
+ barony_islamic_dravidian_group: "Ḥukūmat"
+ count_islamic_male_dravidian_group: "Sardār"
+ count_islamic_female_dravidian_group: "Sardār"
+ county_islamic_dravidian_group: "Sardārī"
+ duke_islamic_male_dravidian_group: "Rājā"
+ duke_islamic_female_dravidian_group: "Rānī"
+ duchy_islamic_dravidian_group: "Rājya"
+ king_islamic_male_dravidian_group: "Mahārājā"
+ kingdom_islamic_dravidian_group: "Mamlakat"
+ king_islamic_female_dravidian_group: "Mahārānī"
+ emperor_islamic_male_dravidian_group: "Šāhanšāh"
+ emperor_islamic_female_dravidian_group: "Šāhbānū"
+### Islamic Clan Generic ###
  baron_islamic_clan_male: "$baron_feudal_male_arabic_group$"
  baron_islamic_clan_female: "$baron_feudal_female_arabic_group$"
  barony_islamic_clan: "$barony_feudal_arabic_group$"
@@ -703,30 +703,30 @@
  king_islamic_clan_male: "$king_feudal_muslim_male_arabic_group$"
  king_islamic_clan_female: "$king_feudal_muslim_female_arabic_group$"
  kingdom_islamic_clan: "$kingdom_feudal_muslim_arabic_group$"
- emperor_islamic_clan_male: "$emperor_feudal_male_arabic_group$"
- emperor_islamic_clan_female: "$emperor_feudal_female_arabic_group$"
- empire_islamic_clan: "$empire_feudal_arabic_group$"
+ emperor_islamic_clan_male: "$emperor_feudal_muslim_male_arabic_group$"
+ emperor_islamic_clan_female: "$emperor_feudal_muslim_female_arabic_group$"
+ empire_islamic_clan: "$empire_feudal_muslim_arabic_group$"
 # Telugus, by Ace (Muslim Enhancements)
  baron_male_telugu_group: "Dalapati"
- baron_female_telugu_group: "Mukhyuralu"
- barony_telugu_group: "Bhumulu"
+ baron_female_telugu_group: "Nāyikā"
+ barony_telugu_group: "Bhūmi"
  count_male_telugu_group: "Prabhuvu"
- count_female_telugu_group: "Stri"
- county_telugu_group: "Rastram"
- duke_male_telugu_group: "Yuvaraju"
- duke_female_telugu_group: "Yuvarani"
- duchy_telugu_group: "Prantam"
- king_male_telugu_group: "Raju"
- king_female_telugu_group: "Rania"
- kingdom_telugu_group: "Rajyaṁ"
+ count_female_telugu_group: "Prabhurālu"
+ county_telugu_group: "Rāṣṭram"
+ duke_male_telugu_group: "Yuvarāju"
+ duke_female_telugu_group: "Yuvarāṇi"
+ duchy_telugu_group: "Prāntam"
+ king_male_telugu_group: "Rāju"
+ king_female_telugu_group: "Rāṇi"
+ kingdom_telugu_group: "Rājyam"
  emperor_male_telugu_group: "Chakravarti"
- emperor_female_telugu_group: "Samrajni"
- empire_telugu_group: "Samrajyam"
- duke_feudal_male_prince_telugu: "Adhineta"
- duke_feudal_female_prince_telugu: "Mahila"
- duchy_feudal_prince_telugu: "Prantam"
- ###Muslim Dravidian / Indo-Aryan ###
- # Feudal / Clan / Tribal
+ emperor_female_telugu_group: "Sāmrājñi"
+ empire_telugu_group: "Sāmrājyam"
+ duke_feudal_male_prince_telugu: "Adhinēta"
+ duke_feudal_female_prince_telugu: "Adhinētri"
+ duchy_feudal_prince_telugu: "Prāntam"
+###Muslim Dravidian / Indo-Aryan ###
+# Feudal / Clan / Tribal
  count_feudal_male_muslim_dravidian_group: "$count_feudal_male_dravidian_group$"
  count_feudal_female_muslim_dravidian_group: "$count_feudal_female_dravidian_group$"
  duke_feudal_muslim_male_dravidian_group: "$duke_feudal_muslim_male_iranian_group$"
@@ -735,61 +735,61 @@
  kingdom_feudal_muslim_dravidian_group: "$kingdom_feudal_muslim_arabic_group$"
  king_feudal_muslim_male_dravidian_group: "$king_feudal_muslim_male_arabic_group$"
  king_feudal_muslim_female_dravidian_group: "$king_feudal_muslim_female_arabic_group$"
- emperor_feudal_muslim_male_dravidian_group: "padicha"
- emperor_feudal_muslim_female_dravidian_group: "Shahbanou"
- empire_feudal_muslim_dravidian_group: "$empire_feudal_arabic_group$"
- # Gujaratis, by Ace (Muslim Enhancements)
- baron_male_gujarati_group: "Mukhya"
- baron_female_gujarati_group: "Mukhya Mahila"
- barony_gujarati_group: "Pradesa"
- count_male_gujarati_group: "Saradara"
- count_female_gujarati_group: "Umadastri"
- county_gujarati_group: "Adhipatya"
- duke_male_gujarati_group: "Sasaka"
- duke_female_gujarati_group: "Sasana"
- duchy_gujarati_group: "Ksetra"
- king_male_gujarati_group: "Rajá"
- king_female_gujarati_group: "Rania"
- kingdom_gujarati_group: "Rajya"
- emperor_male_gujarati_group: "Samrata"
- emperor_female_gujarati_group: "Samratni"
- empire_gujarati_group: "Samrajya"
- duke_feudal_male_prince_gujarati: "Rajakumara"
- duke_feudal_female_prince_gujarati: "Rajakumarī"
- duchy_feudal_prince_gujarati: "Ksetra"
+ emperor_feudal_muslim_male_dravidian_group: "Pādishāh"
+ emperor_feudal_muslim_female_dravidian_group: "Shāhbānū"
+ empire_feudal_muslim_dravidian_group: "$empire_feudal_muslim_arabic_group$"
+# Gujaratis, by Ace (Muslim Enhancements)
+ baron_male_gujarati_group: "Mukhiya"
+ baron_female_gujarati_group: "Mukhiyā"
+ barony_gujarati_group: "Grāma"
+ count_male_gujarati_group: "Sardār"
+ count_female_gujarati_group: "Sardār"
+ county_gujarati_group: "Sardārī"
+ duke_male_gujarati_group: "Śāsaka"
+ duke_female_gujarati_group: "Śāsikā"
+ duchy_gujarati_group: "Pradeśa"
+ king_male_gujarati_group: "Rājā"
+ king_female_gujarati_group: "Rānī"
+ kingdom_gujarati_group: "Rājya"
+ emperor_male_gujarati_group: "Samrāṭ"
+ emperor_female_gujarati_group: "Samrājñī"
+ empire_gujarati_group: "Sāmrājya"
+ duke_feudal_male_prince_gujarati: "Rājakumāra"
+ duke_feudal_female_prince_gujarati: "Rājakumārī"
+ duchy_feudal_prince_gujarati: "Pradeśa"
 ### OBSOLETE with new division ### West-African ###
 # Feudal / Clan / Tribal
- baron_feudal_male_west_african_group: "Tigui"
- baron_feudal_female_west_african_group: "Tigua"
+ baron_feudal_male_west_african_group: "Tigi"
+ baron_feudal_female_west_african_group: "Tigi"
  count_feudal_male_west_african_group_independent: "Jamanatigi"
- count_feudal_female_west_african_group_independent: "Jamanatiga"
+ count_feudal_female_west_african_group_independent: "Jamanatigi"
  county_feudal_west_african_group: "Jamana"
  count_feudal_male_west_african_group: "Farin"
- count_feudal_female_west_african_group: "Farina"
- duke_feudal_male_west_african_group: "Farbas"
+ count_feudal_female_west_african_group: "Farin"
+ duke_feudal_male_west_african_group: "Farba"
  duke_feudal_female_west_african_group: "Farba"
  duchy_feudal_west_african_group: "Sukugoo"
  king_feudal_male_west_african_group: "Faama"
- king_feudal_female_west_african_group: "Malikah"
+ king_feudal_female_west_african_group: "Faama"
  kingdom_feudal_west_african_group: "Kafu"
  emperor_feudal_male_west_african_group: "Mansa"
- emperor_feudal_female_west_african_group: "Sulṭānha"
+ emperor_feudal_female_west_african_group: "Mansa"
  empire_feudal_west_african_group: "Kurufaba"
 ### Tibetan Group ###
  count_feudal_male_tibetan_group: "Ngapo"
  count_feudal_female_tibetan_group: "Ngamo"
- county_feudal_tibetan_group: "chang gi khor lo"
- duke_feudal_male_tibetan_group: "Prabhu"
- duke_feudal_female_tibetan_group: "Mahila"
- duchy_feudal_tibetan_group: "du gyal"
- king_feudal_male_tibetan_group: "Gyalpo"
- king_feudal_female_tibetan_group: "Gyelmo"
- kingdom_feudal_tibetan_group: "Gyalpo"
- emperor_feudal_male_tibetan_group: "Tsenpo"
- emperor_feudal_female_tibetan_group: "Maharaní"
- empire_feudal_tibetan_group: "gyal khab tha gyal"
- ### Iberian ###
- # Clan
+ county_feudal_tibetan_group: "Yul"
+ duke_feudal_male_tibetan_group: "Dpon"
+ duke_feudal_female_tibetan_group: "Dpon"
+ duchy_feudal_tibetan_group: "Khul"
+ king_feudal_male_tibetan_group: "Rgyalpo"
+ king_feudal_female_tibetan_group: "Rgyalmo"
+ kingdom_feudal_tibetan_group: "Rgyal khab"
+ emperor_feudal_male_tibetan_group: "Btsanpo"
+ emperor_feudal_female_tibetan_group: "Btsanmo"
+ empire_feudal_tibetan_group: "Btsanpo'i rgyal khab"
+### Iberian ###
+# Clan
  baron_clan_male_iberian_group: "$baron_feudal_male_arabic_group$"
  baron_clan_female_iberian_group: "$baron_feudal_female_arabic_group$"
  barony_clan_iberian_group: "$barony_feudal_arabic_group$"
@@ -799,40 +799,40 @@
  duke_clan_male_iberian_group: "$duke_feudal_male_arabic_group$"
  duke_clan_female_iberian_group: "$duke_feudal_female_arabic_group$"
  duchy_clan_iberian_group: "$duchy_feudal_arabic_group$"
- king_clan_male_iberian_group: "$king_feudal_male_arabic_group$"
- king_clan_female_iberian_group: "$king_feudal_female_arabic_group$"
- kingdom_clan_iberian_group: "$kingdom_feudal_arabic_group$"
- emperor_clan_male_iberian_group: "$emperor_feudal_male_arabic_group$"
- emperor_clan_female_iberian_group: "$emperor_feudal_female_arabic_group$"
- empire_clan_iberian_group: "$empire_feudal_arabic_group$"
+ king_clan_male_iberian_group: "$king_feudal_muslim_male_arabic_group$"
+ king_clan_female_iberian_group: "$king_feudal_muslim_female_arabic_group$"
+ kingdom_clan_iberian_group: "$kingdom_feudal_muslim_arabic_group$"
+ emperor_clan_male_iberian_group: "$emperor_feudal_muslim_male_arabic_group$"
+ emperor_clan_female_iberian_group: "$emperor_feudal_muslim_female_arabic_group$"
+ empire_clan_iberian_group: "$empire_feudal_muslim_arabic_group$"
 ####################################################
 #Princes (children of Kings/Emperors, sorted by culture)
 ### Roman ###
  prince_male_roman: "Princeps"
  prince_female_roman: "Principissa"
- prince_male_roman_empire: "César"
- prince_female_roman_empire: "Cesarissa"
+ prince_male_roman_empire: "Caesar"
+ prince_female_roman_empire: "Caesarissa"
 ### Iberian ###
  prince_male_iberian_group: "Infante"
  prince_female_iberian_group: "Infanta"
  prince_male_iberian_group_empire: "Infante"
  prince_female_iberian_group_empire: "Infanta"
 ### Iranian ###
- prince_male_iranian_group: "Shahzada"
- prince_female_iranian_group: "Shahdokht"
- prince_male_iranian_group_empire: "Shahzada"
- prince_female_iranian_group_empire: "Shahdokht"
+ prince_male_iranian_group: "Šāhzāda"
+ prince_female_iranian_group: "Šāhdoḵt"
+ prince_male_iranian_group_empire: "Šāhzāda"
+ prince_female_iranian_group_empire: "Šāhdoḵt"
 ### Dravidian / Indo-Aryan ###
- prince_male_dravidian_group: "Rajkumar"
- prince_female_dravidian_group: "Rajkumari"
- prince_male_dravidian_group_empire: "Rajkumar"
- prince_female_dravidian_group_empire: "Rajkumari"
-## Imperial Prince ##
+ prince_male_dravidian_group: "Rājakumāra"
+ prince_female_dravidian_group: "Rājakumārī"
+ prince_male_dravidian_group_empire: "Rājakumāra"
+ prince_female_dravidian_group_empire: "Rājakumārī"
+ ## Imperial Prince ##
  prince_empire: "Príncipe"
  princess_empire: "Princesa"
-#Special titles
+ #Special titles
  ecumenical_patriarch: "Patriarca ecuménico"
- ecumenical_matriarch: "Matriarca ecuménica"
+ ecumenical_matriarch: "Patriarca ecuménico"
  caliph: "Califa"
  archduke: "Archiduque"
  archduchess: "Archiduquesa"
@@ -845,8 +845,8 @@
  title_high_queen: "Gran Reina"
  title_high_kingdom: "Gran Reino"
  count_feudal_male_e_britannia: "Earl"
- count_feudal_female_e_britannia: "Condesa"
- county_feudal_e_britannia: "Condado"
+ count_feudal_female_e_britannia: "Countess"
+ county_feudal_e_britannia: "Earldom"
  count_feudal_male_k_wales: "Iarll"
  count_feudal_female_k_wales: "Iarlles"
  county_feudal_k_wales: "Sir"
@@ -854,60 +854,60 @@
  duke_feudal_brittany: "$duke$"
  duke_feudal_brittany_female: "$duke_female$"
  duchy_feudal_brittany: "$duchy$"
- dauphin_male_french: "Delfín"
- dauphin_female_french: "Delfina"
- dauphinate_french: "Delfinado"
- king_feudal_male_k_ireland_irish: "Rí Uí Éireann"
- king_feudal_female_k_ireland_irish: "Banríon Uí Éireann"
+ dauphin_male_french: "Dauphin"
+ dauphin_female_french: "Dauphine"
+ dauphinate_french: "Dauphiné"
+ king_feudal_male_k_ireland_irish: "Ard-Rí Érenn"
+ king_feudal_female_k_ireland_irish: "Ard-Banríon Érenn"
  kingdom_feudal_k_ireland_irish: "Ard-Ríocht"
  realm_priest_male: "[CHARACTER.GetCouncilTitle]"
  realm_priest_female: "[CHARACTER.GetCouncilTitle]"
  head_of_faith_male: "[CHARACTER.GetFaith.ReligiousHeadName|U]"
  head_of_faith_female: "[CHARACTER.GetFaith.ReligiousHeadName|U]"
 ### Berber ###
- baron_feudal_male_berber_group: "Nā'ib"
- baron_feudal_female_berber_group: "Nā'iba"
- barony_feudal_berber_group: "Bou"
- count_feudal_male_berber_group: "Valí"
- count_feudal_female_berber_group: "Valia"
- county_feudal_berber_group: "Valiato"
- count_feudal_male_berber_group_independent: "Ayyub"
- count_feudal_female_berber_group_independent: "Jequesa"
- county_feudal_berber_group_independent: "Imāra"
+ baron_feudal_male_berber_group: "Nāʾib"
+ baron_feudal_female_berber_group: "Nāʾiba"
+ barony_feudal_berber_group: "Wilāya"
+ count_feudal_male_berber_group: "Wālī"
+ count_feudal_female_berber_group: "Wāliya"
+ county_feudal_berber_group: "Wilāya"
+ count_feudal_male_berber_group_independent: "Shaykh"
+ count_feudal_female_berber_group_independent: "Shaykha"
+ county_feudal_berber_group_independent: "Mashyakha"
  duke_feudal_male_berber_group: "Amīr"
  duke_feudal_female_berber_group: "Amīra"
- duchy_feudal_berber_group: "Imārat"
- king_feudal_male_berber_group: "Emir de emires"
- king_feudal_female_berber_group: "Emira de emires"
- kingdom_feudal_berber_group: "Gran emirato"
+ duchy_feudal_berber_group: "Imāra"
+ king_feudal_male_berber_group: "Amīr al-Umarāʾ"
+ king_feudal_female_berber_group: "Amīrat al-Umarāʾ"
+ kingdom_feudal_berber_group: "Imārat al-Umarāʾ"
  emperor_feudal_male_berber_group: "Malik al-Mulūk"
- emperor_feudal_female_berber_group: "Malika al-Mulūk"
- empire_feudal_berber_group: "Imāra"
- baron_tribal_male_berber_group: "Rais"
- baron_tribal_female_berber_group: "Raisa"
- count_tribal_male_berber_group: "Sheikh"
- count_tribal_female_berber_group: "Jequesa"
- county_tribal_berber_group: "Imāra"
+ emperor_feudal_female_berber_group: "Malikat al-Mulūk"
+ empire_feudal_berber_group: "Mamlakat al-Mulūk"
+ baron_tribal_male_berber_group: "Raʾīs"
+ baron_tribal_female_berber_group: "Raʾīsa"
+ count_tribal_male_berber_group: "Shaykh"
+ count_tribal_female_berber_group: "Shaykha"
+ county_tribal_berber_group: "Mashyakha"
 ### Sahelian ###
  baron_feudal_male_sahelian_group: "Horo"
- baron_feudal_female_sahelian_group: "Hora"
+ baron_feudal_female_sahelian_group: "Horo"
  count_feudal_male_sahelian_group: "Debegume"
  count_feudal_female_sahelian_group: "Debeguma"
  duke_feudal_male_sahelian_group: "Nyanyagume"
  duke_feudal_female_sahelian_group: "Nyanyaguma"
  king_feudal_male_sahelian_group: "Maghan"
- king_feudal_female_sahelian_group: "Magha"
+ king_feudal_female_sahelian_group: "Maghan"
  emperor_feudal_male_sahelian_group: "Kaya Maghan"
  emperor_feudal_female_sahelian_group: "Kaya Maghan"
 ### Senegambian group ###
- baron_feudal_male_senegambian_group: "Tigui"
- baron_feudal_female_senegambian_group: "Tigua"
+ baron_feudal_male_senegambian_group: "Tigi"
+ baron_feudal_female_senegambian_group: "Tigi"
  count_feudal_male_senegambian_group: "Geer"
- count_feudal_female_senegambian_group: "Geera"
+ count_feudal_female_senegambian_group: "Geer"
  duke_feudal_male_senegambian_group: "Damel"
- duke_feudal_female_senegambian_group: "Damela"
+ duke_feudal_female_senegambian_group: "Damel"
  king_feudal_male_senegambian_group: "Simbago"
- king_feudal_female_senegambian_group: "Simbaga"
+ king_feudal_female_senegambian_group: "Simbago"
  emperor_feudal_male_senegambian_group: "Soma"
  emperor_feudal_female_senegambian_group: "Soma"
 ### Yoruba group ###
@@ -917,19 +917,19 @@
  count_feudal_female_yoruba_group: "Nana"
  duke_feudal_male_yoruba_group: "Ajapada"
  duke_feudal_female_yoruba_group: "Ajapada"
- king_feudal_male_yoruba_group: "Oba"
- king_feudal_female_yoruba_group: "Oba"
- emperor_feudal_male_yoruba_group: "Alafin"
- emperor_feudal_female_yoruba_group: "Alafin"
+ king_feudal_male_yoruba_group: "Ọba"
+ king_feudal_female_yoruba_group: "Ọba"
+ emperor_feudal_male_yoruba_group: "Aláàfin"
+ emperor_feudal_female_yoruba_group: "Aláàfin"
 ### Somalian group ###
- baron_feudal_male_somalian_group: "Akil"
- baron_feudal_female_somalian_group: "Akilad"
- count_feudal_male_somalian_group: "Islan"
- count_feudal_female_somalian_group: "Islanad"
- duke_feudal_male_somalian_group: "Gerad"
- duke_feudal_female_somalian_group: "Geradad"
- king_tribal_male_somalian_group: "Ughaz"
- king_tribal_female_somalian_group: "Ughazad"
+ baron_feudal_male_somalian_group: "Caaqil"
+ baron_feudal_female_somalian_group: "Caaqilad"
+ count_feudal_male_somalian_group: "Islaan"
+ count_feudal_female_somalian_group: "Islaanad"
+ duke_feudal_male_somalian_group: "Garaad"
+ duke_feudal_female_somalian_group: "Garaadad"
+ king_tribal_male_somalian_group: "Ugaas"
+ king_tribal_female_somalian_group: "Ugaasad"
  king_feudal_male_somalian_group: "Suldaan"
  king_feudal_female_somalian_group: "Suldaanad"
  emperor_feudal_male_somalian_group: "Boqor"
@@ -944,50 +944,50 @@
  king_feudal_male_central_african_group: "Mai"
  king_feudal_female_central_african_group: "Gumsu"
  emperor_feudal_male_central_african_group: "Sulṭān"
- emperor_feudal_female_central_african_group: "Sulṭānha"
+ emperor_feudal_female_central_african_group: "Sulṭāna"
 ### Akan group ###
  baron_feudal_male_akan_group: "Obaatan"
- baron_feudal_female_akan_group: "Obaatana"
+ baron_feudal_female_akan_group: "Obaatan"
  count_feudal_male_akan_group: "Nana"
  count_feudal_female_akan_group: "Nana"
  duke_feudal_male_akan_group: "Krontihene"
- duke_feudal_female_akan_group: "Krontihena"
+ duke_feudal_female_akan_group: "Krontihemaa"
  king_feudal_male_akan_group: "Omanhene"
- king_feudal_female_akan_group: "Omanhena"
+ king_feudal_female_akan_group: "Omanhemaa"
  emperor_feudal_male_akan_group: "Akanhene"
- emperor_feudal_female_akan_group: "Akanhena"
+ emperor_feudal_female_akan_group: "Akanhemaa"
 ### Beja ###
- baron_feudal_male_beja: "Omda"
- baron_feudal_female_beja: "Omda"
- count_feudal_male_beja: "Nazir"
- count_feudal_female_beja: "Nazira"
- duke_feudal_male_beja: "Emira"
- duke_feudal_female_beja: "Emira"
- king_feudal_male_beja: "Malika"
- king_feudal_female_beja: "Malikah"
+ baron_feudal_male_beja: "ʿUmda"
+ baron_feudal_female_beja: "ʿUmda"
+ count_feudal_male_beja: "Nāẓir"
+ count_feudal_female_beja: "Nāẓira"
+ duke_feudal_male_beja: "Amīr"
+ duke_feudal_female_beja: "Amīra"
+ king_feudal_male_beja: "Malik"
+ king_feudal_female_beja: "Malika"
  emperor_feudal_male_beja: "Sulṭān"
- emperor_feudal_female_beja: "Sulṭānha"
+ emperor_feudal_female_beja: "Sulṭāna"
 ### Ethiopian ###
  count_feudal_male_ethiopian: "Ras"
  count_feudal_female_ethiopian: "Woyzerit"
  duke_feudal_male_ethiopian: "Mesfin"
  duke_feudal_female_ethiopian: "Woyzero"
- king_feudal_male_ethiopian: "Negus"
- king_feudal_female_ethiopian: "Nigist"
- emperor_feudal_male_ethiopian: "Negusa Negast"
- emperor_feudal_female_ethiopian: "Itege"
+ king_feudal_male_ethiopian: "Nəgus"
+ king_feudal_female_ethiopian: "Nəgəst"
+ emperor_feudal_male_ethiopian: "Nəgusä Nägäst"
+ emperor_feudal_female_ethiopian: "Nəgəstä Nägäst"
  baron_feudal_male_hausan: "Gida"
  baron_feudal_female_hausan: "Gida"
  count_feudal_male_hausan: "Sarkin Gadi"
- count_feudal_female_hausan: "Sarkina Gadi"
+ count_feudal_female_hausan: "Sarauniyar Gadi"
  duke_feudal_male_hausan: "Galadima"
  duke_feudal_female_hausan: "Magajiya"
- king_feudal_male_hausan: "Sarkin"
+ king_feudal_male_hausan: "Sarki"
  king_feudal_female_hausan: "Sarauniya"
  emperor_feudal_male_hausan: "Sarkin Sarakuna"
  emperor_feudal_female_hausan: "Sarauniyar Sarauniya"
 # Feudal / Clan / Tribal
- ### Beja ###
+### Beja ###
 # Tsafi
 #Songhai
  duke_feudal_male_songhai: "Fari"
@@ -997,7 +997,7 @@
  king_feudal_male_songhai: "Za"
  king_feudal_female_songhai: "Za"
  kingdom_feudal_hausa: "Masarauta"
- ### Senegambian group ###
+### Senegambian group ###
  duchy_feudal_senegambian_group: "Lamanat"
 ######################################################
 #Berber Culture Group
@@ -1016,52 +1016,52 @@
 ###########################################################
 ### East African Culture Group
 ##Ethiopian Muslims
- count_feudal_muslim_male_ethiopian: "Chieftain"
- count_feudal_muslim_female_ethiopian: "Chieftess"
- county_feudal_muslim_ethiopian: "Chiefdom"
- duke_feudal_muslim_male_ethiopian: "Emīr"
- duke_feudal_muslim_female_ethiopian: "Emīra"
- duke_feudal_muslim_male_ethiopian_independent: "Emīr"
- duke_feudal_muslim_female_ethiopian_independent: "Emīra"
- duchy_feudal_muslim_ethiopian: "Emīrate"
+ count_feudal_muslim_male_ethiopian: "Raʾīs"
+ count_feudal_muslim_female_ethiopian: "Raʾīsa"
+ county_feudal_muslim_ethiopian: "Riʾāsa"
+ duke_feudal_muslim_male_ethiopian: "Amīr"
+ duke_feudal_muslim_female_ethiopian: "Amīra"
+ duke_feudal_muslim_male_ethiopian_independent: "Amīr"
+ duke_feudal_muslim_female_ethiopian_independent: "Amīra"
+ duchy_feudal_muslim_ethiopian: "Imāra"
  king_feudal_muslim_male_ethiopian: "Sulṭān"
- king_feudal_muslim_female_ethiopian: "Sulṭānha"
- kingdom_feudal_muslim_ethiopian: " sulṭanah"
+ king_feudal_muslim_female_ethiopian: "Sulṭāna"
+ kingdom_feudal_muslim_ethiopian: "Salṭana"
  #Ethiopian
  baron_feudal_male_ethiopian: "Śəyyum"
  baron_feudal_female_ethiopian: "Śəyyum"
- count_tribal_male_ethiopian: "Cacique"
- count_tribal_female_ethiopian: "Jefa"
- county_feudal_ethiopian: "Gwélt" #correct term is Gwǝlt but loc is buggy
- county_tribal_ethiopian: "Cacicazgo"
+ count_tribal_male_ethiopian: "Śum"
+ count_tribal_female_ethiopian: "Śum"
+ county_feudal_ethiopian: "Gwélt"
+ county_tribal_ethiopian: "Gwélt"
  duchy_feudal_ethiopian: "Bəḥer"
  king_feudal_female_ethiopian_spouse: "Itege"
  duke_feudal_female_ethiopian_independent: "Bäʿalt-Hoy"
  duke_feudal_male_ethiopian_independent: "Bäʿal-Hoy"
  duke_feudal_ethiopian_king_of_sea_male: "Baḥər Nägaśi"
- duke_feudal_ethiopian_king_of_sea_female: "Baḥər Nǝgǝśt"
- baron_theocracy_male_ethiopian_orthodox: "Däbtära" 
+ duke_feudal_ethiopian_king_of_sea_female: "Baḥər Nəgəśt"
+ baron_theocracy_male_ethiopian_orthodox: "Däbtära"
  baron_theocracy_female_ethiopian_orthodox: "Däbtära"
- barony_theocracy_ethiopian_orthodox: "Baronía"
- count_theocracy_male_ethiopian_orthodox: "Abba" 
- count_theocracy_female_ethiopian_orthodox: "Abba"
- county_theocracy_ethiopian_orthodox: "Gwélt" 
- duke_theocracy_male_ethiopian_orthodox: "Däbtära" 
- duke_theocracy_female_ethiopian_orthodox: "Däbtära" 
- duchy_theocracy_ethiopian_orthodox: "Däbtära" 
- king_theocracy_male_ethiopian_orthodox: "Nigus" 
- king_theocracy_female_ethiopian_orthodox: "Nigus" 
- kingdom_theocracy_ethiopian_orthodox: "Nigusnet" 
- emperor_theocracy_male_ethiopian_orthodox: "Nigus" 
- emperor_theocracy_female_ethiopian_orthodox: "Enigus" 
- empire_theocracy_ethiopian_orthodox: "Nigusnet" 
-  ## Guanche
+ barony_theocracy_ethiopian_orthodox: "Däbr"
+ count_theocracy_male_ethiopian_orthodox: "Abun"
+ count_theocracy_female_ethiopian_orthodox: "Abun"
+ county_theocracy_ethiopian_orthodox: "Eparkiya"
+ duke_theocracy_male_ethiopian_orthodox: "Liqa Papasat"
+ duke_theocracy_female_ethiopian_orthodox: "Liqa Papasat"
+ duchy_theocracy_ethiopian_orthodox: "Metropoliya"
+ king_theocracy_male_ethiopian_orthodox: "Abun"
+ king_theocracy_female_ethiopian_orthodox: "Abun"
+ kingdom_theocracy_ethiopian_orthodox: "Metropoliya"
+ emperor_theocracy_male_ethiopian_orthodox: "Patriark"
+ emperor_theocracy_female_ethiopian_orthodox: "Patriark"
+ empire_theocracy_ethiopian_orthodox: "Patriarkat"
+ ## Guanche
  count_feudal_male_guanches: "Guayre"
  county_guanches: "Guayrato"
  duchy_guanches: "Guanartemato"
- kingdom_guanches: "Mencey"
+ kingdom_guanches: "Menceyato"
  duke_feudal_male_guanches: "Guanarteme"
- duke_feudal_female_guanches: "Guanarteme"
+ duke_feudal_female_guanches: "Guanartema"
  king_feudal_male_guanches: "Mencey"
  king_feudal_female_guanches: "Guayarmina"
  title_prince_female_guanches: "Achimencey"
@@ -1072,346 +1072,170 @@
 ############################################################################################CTP
  baron_blank: "la "
 ###########################################################
- #Goidelic Culture Group
+#Brythonic Culture Group
+#Welsh
+ barony_tribe_welsh: "$county_tribal_welsh$"
+#Latin Culture Group
+#Italian
+ king_male_italian_league: "Rettore"
+ king_female_italian_league: "Rettore"
+ kingdom_italian_league: "Liga"
+ count_republic_latin_female_italian: "Gonfaloniera"
+#Roman Culture
+#############################################
+#Default Imperial tiers
+ baron_imperial_male: "Komis"
+ baron_imperial_female: "Komissa"
+ barony_imperial: "Vandon"
+ count_imperial_male: "Pretor"
+ count_imperial_female: "Pretorissa"
+ county_imperial: "Pretorion"
+ duke_imperial_male: "Stratigos"
+ duke_imperial_female: "Stratigissa"
+ duchy_imperial: "Thema"
+ duke_imperial_independent: "Dux"
+ duke_imperial_independent_female: "Ducissa"
+ duchy_imperial_independent: "Ducatus"
+ king_imperial_male: "Exarchos"
+ king_imperial_female: "Exarchissa"
+ kingdom_imperial: "Exarchaton"
+ king_imperial_independent_male: "Rex"
+ king_imperial_independent_female: "Regina"
+ kingdom_imperial_independent: "reino"
+ emperor_imperial_male: "Vasilefs"
+ emperor_imperial_female: "Vasilissa"
+ empire_imperial: "imperio"
+ legion_commander: "Legatus"
+#East Slavic Culture Group
+#Old East Slavic
+ count_feudalclan_male_severian_volhynian_independent: "[CHARACTER.Custom('OldEastSlavicIndepCountMale')]"
+#Chinese Culture Group
+#Han
+ empire_han2: "imperio"
+#Princes (children of Kings/Emperors)
+ title_prince_male_chinese_group: "Gongzi" #公子
+ title_prince_female_chinese_group: "Gongnu" #公女
+ title_prince_male_chinese_group_empire: "Qinwang" #親王
+ title_prince_female_chinese_group_empire: "Gongzhu" #公主
+ king_father_han_independent: "Rey retirado"
+ empire_republic_han: "Gran Armonía"
+ emperor_republic_han: "Regente"
+ king_male_independent_tang: "Wang"
+ king_female_independent_tang: "Nuwang"
+ emperor_male_tang: "Huangdi"
+ emperor_female_tang: "Huanghou"
+ hegemon_celestial_female_chinese: "Huángdì"
+######################################################
+#Burman Culture Group
+#Pyu (originally Burmese)
+ baron_male_pyu: "Mruiw Sūkrī"
+ baron_female_pyu: "Mruiw Sūkrī"
+ barony_castle_pyu: "Mruiw"
+ barony_tribe_pyu: "Mruiw"
+ barony_city_pyu: "Mruiw"
+ count_male_pyu: "Saṁbeṅ"
+ count_female_pyu: "Saṁbeṅ"
+ county_pyu: "Tuiṅ"
+ count_male_pyu_independent: "Maṅ"
+ count_female_pyu_independent: "Maṅ"
+ duke_male_pyu: "[CHARACTER.Custom('DukeMaleBurmese')]"
+ duke_female_pyu: "[CHARACTER.Custom('DukeMaleBurmese')]"
+ duchy_pyu: "[CHARACTER.Custom('DuchyBurmese')]"
+ marquess_pyu: "Tuik Sūkrī"
+ march_pyu: "Tuik"
+ duke_default_male_pyu: "Maṅ Ṅay"
+ duchy_default_pyu: "Khwaṅ"
+ duke_male_pyu_independent: "Maṅ"
+ duke_female_pyu_independent: "Maṅ"
+ duchy_pyu_independent: "[CHARACTER.Custom('BurmeseIndepDuchy')]"
+ king_male_pyu: "Maṅ Krī"
+ king_female_holder_pyu: "Bhuraṅma"
+ king_female_pyu: "Maṅ Nhama Tō"
+ kingdom_pyu: "Prañ"
+ emperor_male_pyu: "Ekarāj"
+ emperor_female_pyu: "Ekarī"
+ title_prince_male_pyu: "[CHARACTER.Custom('PrinceBurman')]"
+ title_prince_female_pyu: "Maṅ Samī"
+ queen_mother_pyu: "$king_female_pyu$"
+ empress_mother_pyu: "$emperor_female_pyu$"
+#Turkish (all grouped)
+ count_male_kirghiz: "Beg"
+ count_female_kirghiz: "Begüm"
+ county_kirghiz: "Begliği"
+ duke_male_kirghiz: "Atabeg"
+ duke_female_kirghiz: "Atabegüm"
+ duchy_kirghiz: "Atabegliği"
+ emperor_male_turkish_group_delhi: "Sultân"
+ empire_turkish_group_delhi: "Sultânlïğï"
+#Additional Titles
+ king_feudal_male_altaic_group_mongol: "Qağan"
+ king_feudal_female_altaic_group_mongol: "Qatun"
+ kingdom_feudal_altaic_group_mongol: "Qağan-u Gürün"
+ king_feudal_male_egypt: "Sulṭān"
+ king_feudal_female_egypt: "Sulṭānha"
+ kingdom_feudal_egypt: "Salṭana"
+ king_feudal_male_syria: "ʾAmīr"
+ king_feudal_female_syria: "ʾAmīra"
+ kingdom_feudal_syria: "ʾImāra"
+ title_judicate: "Judicadu"
+ king_feudal_male_judicate: "Judike"
+ king_feudal_female_judicate: "Judesa"
+ japan_emperor_duchy: "Tennō"
+ japan_empress_duchy: "Tennō"
+ japan_emperor_duchy2: "Tennō"
+ japan_empress_duchy2: "Tennō"
 
-  #Irish
-  #Gaelic Culture
-   ### Conditional Earl/Earldom is same as Irish and have been coded as such
-   ### Marches are same as Irish and have been coded as such
- #West Germanic Culture Group
-  #English
-  #Anglo-Saxon
-
-  #Old Saxon
-  #Scottish
-########################################################
- #Brythonic Culture Group
-  #Pictish and Cumbrian
-#############################################################
-  #Welsh
-   barony_tribe_welsh: "$county_tribal_welsh$"
-  #Breton
-  #Cornish
- #Frankish Culture Group
-  #Frankish
-  #French
-  #Norman
-   ## Same names as French
-  #Occitan
-  #Outremer
- #Iberian Culture Group
-  #Basque
-  #Castilian
-  #Catalan
-  #Portuguese and Galician
-  #Visigothic
-  #Asturleonese
-  #Aragonese
- #North Germanic Culture Group
- #Germanic Religion
-  #Swedish Danish
-  #Norse and Norwegian
-  #Swedish and Danish
- #Balto-Finnic Culture Group
-  #Finnish Culture
-  #Sami Culture
-  #Estonian Culture
-  #Karelian Culture
-  #Vepsian Culture
- #Central Germanic Culture Group
-  #Saxon (Middle Low German)
-#########################################################
-  #Franconian, Swabian, and Bavarian ( Middle High German )
-  #Frisian
-  #Dutch (Middle Dutch) ##To be Changed
- #Berber Culture Group
-  #Butr Zaghawa
-  #Baranis
- #Arabic Culture Group
-  #Egyptian Coptic
- #Byzantine Culture Group
-  #Armenian
-  #Greek
-########################################################
-  #Georgian
-  #Alan
-  #Assyrian
- #Latin Culture Group
-  #Italian
-   king_male_italian_league: "Rettore"
-   king_female_italian_league: "Rettore"
-   kingdom_italian_league: "Liga"
-   count_republic_latin_female_italian: "Gonfaloniera"
-  #Roman Culture
-  #############################################
-  #Default Imperial tiers
-   baron_imperial_male: "Komis"
-   baron_imperial_female: "Komissa"
-   barony_imperial: "Vandon"
-   count_imperial_male: "Pretor"
-   count_imperial_female: "Pretorissa"
-   county_imperial: "Pretorion"
-   duke_imperial_male: "Stratigos"
-   duke_imperial_female: "Stratigissa"
-   duchy_imperial: "Thema"
-   duke_imperial_independent: "Dux"
-   duke_imperial_independent_female: "Ducissa"
-   duchy_imperial_independent: "Ducatus"
-   king_imperial_male: "Exarchos"
-   king_imperial_female: "Exarchissa"
-   kingdom_imperial: "Exarchaton"
-   king_imperial_independent_male: "Rex"
-   king_imperial_independent_female: "Regina"
-   kingdom_imperial_independent: "reino"
-   emperor_imperial_male: "Vasilefs"
-   emperor_imperial_female: "Vasilissa"
-   empire_imperial: "imperio"
-   legion_commander: "Legatus"
-  ### Roman ###
-  # Feudal
-  # Republic
-  # Viceroyalty
-  #Cisalpine Culture
-   #Marches and Palatinates same as Italian
-   #Sultanates match Italian
-  #Sardinian Culture
-  #Sicilian Culture
-   #Marches and Palatinates same as Sardinian
-  #Lombard
- #South Slavic Culture Group
-######################################################
-  #Croatian
-  #Bosnian and Serbian
-   #These all had 'Veliki' before them but I'd rather that be used for the Grand Princes of Serbia who actually did use that title
-  #Vlach
-######################################################
-  #Bulgarian
- #Western Slavic Culture Group
-  #Pommeranian
-  #Czech
-  #Polish
-  #Polabian
-  #Slovien
- #Magyar Culture Group
-  #Mogyer#
-  #Hungarian
- #Baltic Culture Group
-  #Latgalian#
-  #Lithuanian#
-  #Prussian#
- #East Slavic Culture Group
-  #Russian
-  #Old East Slavic
-   count_feudalclan_male_severian_volhynian_independent: "[CHARACTER.Custom('OldEastSlavicIndepCountMale')]"
- #Central African Culture Group
-  #Kanuri
-  #Hausa
-  #Nupe
-#######################################################
-# #Chinese Culture Group
-#  #Han
-   empire_han2: "imperio"
-   # Princes (children of Kings/Emperors)
-   title_prince_male_chinese_group: "Gongzi" #公子
-   title_prince_female_chinese_group: "Gongnu" #公女
-   title_prince_male_chinese_group_empire: "Qinwang" #親王
-   title_prince_female_chinese_group_empire: "Gongzhu" #公主
-   #
-   king_father_han_independent: "Rey retirado"
-   empire_republic_han: "Gran Armonía"
-   emperor_republic_han: "Regente"
-   king_male_independent_tang: "Wang"
-   king_female_independent_tang: "Nuwang"
-   emperor_male_tang: "Huangdi"
-   emperor_female_tang: "Huanghou"
-   hegemon_celestial_female_chinese: "Huángdì"
-######################################################
- #Akan Culture Group
-  #Akan
-  #Kru
-  #Guan
- #Burman Culture Group
-  #Pyu (originally Burmese)
-   baron_male_pyu: "Mruiw Sūkrī"
-   baron_female_pyu: "Mruiw Sūkrī"
-   barony_castle_pyu: "Mruiw"
-   barony_tribe_pyu: "Mruiw"
-   barony_city_pyu: "Mruiw"
-   count_male_pyu: "Saṁbeṅ"
-   count_female_pyu: "Saṁbeṅ"
-   county_pyu: "Tuiṅ"
-   count_male_pyu_independent: "Maṅ"
-   count_female_pyu_independent: "Maṅ"
-   duke_male_pyu: "[CHARACTER.Custom('DukeMaleBurmese')]"
-   duke_female_pyu: "[CHARACTER.Custom('DukeMaleBurmese')]"
-   duchy_pyu: "[CHARACTER.Custom('DuchyBurmese')]"
-   marquess_pyu: "Tuik Sūkrī"
-   march_pyu: "Tuik"
-   duke_default_male_pyu: "Maṅ Ṅay"
-   duchy_default_pyu: "Khwaṅ"
-   duke_male_pyu_independent: "Maṅ"
-   duke_female_pyu_independent: "Maṅ"
-   duchy_pyu_independent: "[CHARACTER.Custom('BurmeseIndepDuchy')]"
-   king_male_pyu: "Maṅ Krī"
-   king_female_holder_pyu: "Bhuraṅma"
-   king_female_pyu: "Maṅ Nhama Tō"
-   kingdom_pyu: "Prañ"
-   emperor_male_pyu: "Ekarāj"
-   emperor_female_pyu: "Ekarī"
-   title_prince_male_pyu: "[CHARACTER.Custom('PrinceBurman')]"
-   title_prince_female_pyu: "Maṅ Samī"
-   queen_mother_pyu: "$king_female_pyu$"
-   empress_mother_pyu: "$emperor_female_pyu$"
-  # Burmese
-  #Mon
- #Dravidian Culture Group
-  #Tamil
-  #Telugu
-  #Kannada
- #East African Culture Group
-  #Ethiopian
-  #Nubian Culture
-  #Welayta Culture
-  #Daju Culture
- #Indo-Aryan
-  #Bengali
-  #Oriya
-  #Assamese
-  #Hindustani
-  #Gujarati
-  #Punjabi
-  #Rajput
-  #Sindhi
-  #Marathi
-  #Kashmiri
-  #Sinhala
-  #Nepali
- #Mongolic
-  #Khitan Tuyuhun
-  #Jurchen
- #Qiangic
-  #Tangut
-  #Qiang
- #Sahelian
-  #Soninke
-  #Mossi
-  #Songhai
- #Senegambian
-  #Pulaar
-  #Serer
-  #Wolof
- #Somalian
-  #Somali
-  #Beja
-  #Afar
- #Tibetan
-  #Bodpa
-  #Zhangzhung
-  #Kirati
-  #Lhomon
- #Turkish (all grouped)
-  count_male_kirghiz: "Beg"
-  count_female_kirghiz: "Begüm"
-  county_kirghiz: "Begliği"
-  duke_male_kirghiz: "Atabeg"
-  duke_female_kirghiz: "Atabegüm"
-  duchy_kirghiz: "Atabegliği"
-  emperor_male_turkish_group_delhi: "Sultân"
-  empire_turkish_group_delhi: "Sultânlïğï"                                          
- #Urgo Permian
-  #Komi
- #Volga Finnic
-  #Mordvin
-  #Merya Mari Muroma
- #Israelite
-  #Ashkenazi
-  #Sephardi
- #Iranian
-  #Persian
-  #Sogdian
-  #Tocharian
-  #Kurdish
-  #Afghan
-  #Baloch
-  #Saka
-  #Daylamite
-  #Khwarezmian
-  #Tajik
- #Guineian
-  #Malinke
-  #Gur
- #Yoruba
-  #Yoruba
-  #Igbo
-   ###MB###
-   king_feudal_male_altaic_group_mongol: "Qağan"
-   king_feudal_female_altaic_group_mongol: "Qatun"
-   kingdom_feudal_altaic_group_mongol: "Qağan-u Gürün"
-   king_feudal_male_egypt: "Sulṭān"
-   king_feudal_female_egypt: "Sulṭānha"
-   kingdom_feudal_egypt: "Salṭana"
-   king_feudal_male_syria: "ʾAmīr"
-   king_feudal_female_syria: "ʾAmīra"
-   kingdom_feudal_syria: "ʾImāra"
-   title_judicate: "Judicadu"
-   king_feudal_male_judicate: "Judike"
-   king_feudal_female_judicate: "Judesa"
-   japan_emperor_duchy: "Tennō"
-   japan_empress_duchy: "Tennō"
-   japan_emperor_duchy2: "Tennō"
-   japan_empress_duchy2: "Tennō"
-#WAP/Africa Plus
 ### West African Theocratic Titles
- duke_theocracy_male_west_african_bori_religion: "Sumo adjingi"
- duke_theocracy_female_west_african_bori_religion: "Suma magadja"
-# West African Olokun
+ duke_theocracy_male_west_african_bori_religion: "Adjingi"
+ duke_theocracy_female_west_african_bori_religion: "Magadja"
+ # West African Olokun
  baron_theocracy_male_oloku_pagan: "Ohen"
  baron_theocracy_female_oloku_pagan: "Ohen"
  count_theocracy_male_oloku_pagan: "Igiohen"
  count_theocracy_female_oloku_pagan: "Igiohen"
  duke_theocracy_male_oloku_pagan: "Ohenosa"
  duke_theocracy_female_oloku_pagan: "Ohenosa"
- king_theocracy_male_oloku_pagan: "Grand Ohenosa"
- king_theocracy_female_oloku_pagan: "Grand Ohenosa"
-# West African Odinala
- baron_theocracy_male_odinala_religion: "Diviner"
- baron_theocracy_female_odinala_religion: "Diviner"
+ king_theocracy_male_oloku_pagan: "Ohenosa"
+ king_theocracy_female_oloku_pagan: "Ohenosa"
+ # West African Odinala
+ baron_theocracy_male_odinala_religion: "Dibia Afa"
+ baron_theocracy_female_odinala_religion: "Dibia Afa"
  count_theocracy_male_odinala_religion: "Dibia"
  count_theocracy_female_odinala_religion: "Dibia"
- duke_theocracy_male_odinala_religion: "High Dibia"
- duke_theocracy_female_odinala_religion: "High Dibia"
- king_theocracy_male_odinala_religion: "Grand Dibia"
- king_theocracy_female_odinala_religion: "Grand Dibia"
-# West African Orisha
- baron_theocracy_male_west_african_orisha_religion: "Olorìṣà"
- baron_theocracy_female_west_african_orisha_religion: "Olorìṣà"
+ duke_theocracy_male_odinala_religion: "Dibia Aja"
+ duke_theocracy_female_odinala_religion: "Dibia Aja"
+ king_theocracy_male_odinala_religion: "Eze Mmụọ"
+ king_theocracy_female_odinala_religion: "Eze Mmụọ"
+ # West African Orisha
+ baron_theocracy_male_west_african_orisha_religion: "Olórìṣà"
+ baron_theocracy_female_west_african_orisha_religion: "Olórìṣà"
  count_theocracy_male_west_african_orisha_religion: "Babaláwo"
  count_theocracy_female_west_african_orisha_religion: "Ìyáláwo"
  duke_theocracy_male_west_african_orisha_religion: "Aborè"
  duke_theocracy_female_west_african_orisha_religion: "Aborè"
  king_theocracy_male_west_african_orisha_religion: "Ọọ̀ni"
  king_theocracy_female_west_african_orisha_religion: "Ọọ̀ni"
- kingdom_theocracy_west_african_orisha_religion: "Ọọ̀nidom"
+ kingdom_theocracy_west_african_orisha_religion: "Ilé-Ifẹ̀"
  #Tuareg pagan
- baron_theocracy_male_tuareg_pagan: "Diviner"
- baron_theocracy_female_tuareg_pagan: "Diviner"
- count_theocracy_male_tuareg_pagan: "Sacerdote"
- count_theocracy_female_tuareg_pagan: "Sacerdotisa"
- duke_theocracy_male_tuareg_pagan: "sumo sacerdote"
- duke_theocracy_female_tuareg_pagan: "High Priestess"
- king_theocracy_male_tuareg_pagan: "Sacerdote-Rey"
- king_theocracy_female_tuareg_pagan: "Priest-Queen"
+ baron_theocracy_male_tuareg_pagan: "Ăneslem"
+ baron_theocracy_female_tuareg_pagan: "Ăneslem"
+ count_theocracy_male_tuareg_pagan: "Ăneslem"
+ count_theocracy_female_tuareg_pagan: "Ăneslem"
+ duke_theocracy_male_tuareg_pagan: "Ăneslem"
+ duke_theocracy_female_tuareg_pagan: "Ăneslem"
+ king_theocracy_male_tuareg_pagan: "Ăneslem"
+ king_theocracy_female_tuareg_pagan: "Ăneslem"
  #Dinka pagan
- baron_theocracy_male_dinka_pagan: "Diviner"
- baron_theocracy_female_dinka_pagan: "Diviner"
- count_theocracy_male_dinka_pagan: "Sacerdote"
- count_theocracy_female_dinka_pagan: "Sacerdotisa"
- duke_theocracy_male_dinka_pagan: "sumo sacerdote"
- duke_theocracy_female_dinka_pagan: "High Priestess"
- king_theocracy_male_dinka_pagan: "Sacerdote-Rey"
- king_theocracy_female_dinka_pagan: "Priest-Queen"
+ baron_theocracy_male_dinka_pagan: "Bɛny Bith"
+ baron_theocracy_female_dinka_pagan: "Bɛny Bith"
+ count_theocracy_male_dinka_pagan: "Bɛny Bith"
+ count_theocracy_female_dinka_pagan: "Bɛny Bith"
+ duke_theocracy_male_dinka_pagan: "Bɛny Bith"
+ duke_theocracy_female_dinka_pagan: "Bɛny Bith"
+ king_theocracy_male_dinka_pagan: "Bɛny Bith"
+ king_theocracy_female_dinka_pagan: "Bɛny Bith"
 ### Central African Culture Ruler Titles
-## Jukun Culture
+ ## Jukun Culture
  count_feudal_male_jukun: "Kuvyi"
  count_feudal_female_jukun: "Kuvyi"
  duke_feudal_male_jukun: "Kimbi"
@@ -1420,14 +1244,14 @@
  duke_feudal_male_jukun_independent: "Aku"
  king_feudal_male_jukun: "Aku"
  king_feudal_female_jukun: "Aku"
- emperor_feudal_male_jukun: "Akuchuwo" #lit. portmanteau of 'great' and 'king', fictional as no cultural equivalent to an emperor.
+ emperor_feudal_male_jukun: "Akuchuwo" #Fictional imperial title
  emperor_feudal_female_jukun: "Akuchuwo"
  queen_mother_jukun: "Kunsheje"
  empress_mother_jukun: "Kunsheje"
-## Dinka Culture
+ ## Dinka Culture
  baron_feudal_male_dinka: "Bėny Koor"
  baron_feudal_female_dinka: "Bėny Koor Tik"
- count_feudal_male_dinka: "Bėny" #Should be Bɛny
+ count_feudal_male_dinka: "Bėny"
  count_feudal_female_dinka: "Bėny Tik"
  duke_feudal_male_dinka: "Bėny Dit"
  duke_feudal_female_dinka: "Bėny Dit"
@@ -1438,41 +1262,41 @@
  emperor_feudal_male_dinka: "Bëny Bäny"
  emperor_feudal_female_dinka: "Bëny Bäny Tik"
 ### West African Cultures Ruler Titles
-## Yoruba
- baron_feudal_male_yoruba: "Ajale"
- baron_feudal_female_yoruba: "Ajale"
- count_feudal_male_yoruba: "Baálę"
- count_feudal_female_yoruba: "Baálę"
+ ## Yoruba
+ baron_feudal_male_yoruba: "Ajálẹ̀"
+ baron_feudal_female_yoruba: "Ajálẹ̀"
+ count_feudal_male_yoruba: "Baálẹ̀"
+ count_feudal_female_yoruba: "Baálẹ̀"
  duke_feudal_male_yoruba: "Olóyè"
  duke_feudal_male_yoruba_independent: "Ọba"
- duke_feudal_female_yoruba: "Ìyáloyé"
+ duke_feudal_female_yoruba: "Ìyálóyè"
  duke_feudal_female_yoruba_independent: "Ayaba"
- duke_feudal_female_yoruba_spouse: "Olorì"
+ duke_feudal_female_yoruba_spouse: "Olórì"
  king_feudal_male_yoruba: "Ọba"
  king_feudal_female_yoruba: "Ayaba"
- king_feudal_female_yoruba_spouse: "Olorì"
- emperor_feudal_male_yoruba: "Ọba Nla" #lit. 'great [or big] king'...fictional, no cultural equivalent to emperor.
- emperor_feudal_female_yoruba: "Ayaba Nla" #lit. 'great queen'...fictional, no cultural equivalent to emperor.
- emperor_feudal_female_yoruba_spouse: "Olorì"
+ king_feudal_female_yoruba_spouse: "Olórì"
+ emperor_feudal_male_yoruba: "Ọba Ńlá" #Fictional imperial equivalent
+ emperor_feudal_female_yoruba: "Ayaba Ńlá" #Fictional imperial equivalent
+ emperor_feudal_female_yoruba_spouse: "Olórì"
  #special titles
  empress_mother_yoruba: "Ìyáàfin"
  title_prince_male_yoruba: "Ọmọba"
  title_prince_female_yoruba: "Ọmọba"
  title_prince_male_yoruba_empire: "Ọmọba"
  title_prince_female_yoruba_empire: "Ọmọba"
- duke_feudal_yoruba_shabe: "Oníşábe"
+ duke_feudal_yoruba_shabe: "Oníṣábẹ̀"
  duke_feudal_yoruba_oyo: "Aláàfin"
  duke_feudal_yoruba_ketu: "Alákétu"
  duke_feudal_yoruba_ife: "Ọbalùfọ̀n"
  duke_feudal_yoruba_ila: "Òràngún"
- duke_feudal_yoruba_shabe_female: "Oníşábe"
+ duke_feudal_yoruba_shabe_female: "Oníṣábẹ̀"
  duke_feudal_yoruba_oyo_female: "Aláàfin"
  duke_feudal_yoruba_ketu_female: "Alákétu"
  duke_feudal_yoruba_ife_female: "Ọbalùfọ̀n"
  duke_feudal_yoruba_ila_female: "Òràngún"
  #Special titles
  ooni: "Ọọ̀ni"
-## Igbo culture
+ ## Igbo culture
  baron_feudal_male_igbo: "Ozo"
  baron_feudal_female_igbo: "Ozo"
  count_feudal_male_igbo: "Nze"
@@ -1488,7 +1312,7 @@
  title_prince_male_igbo: "Ezènwa"
  title_prince_male_igbo_empire: "Ezènwa"
  title_prince_female_igbo_empire: "Adaèze"
-## Bini culture
+ ## Bini culture
  baron_feudal_male_edo: "Okaevbo"
  baron_feudal_female_edo: "Okaevbo"
  count_feudal_male_edo: "Ekhaemo"
@@ -1514,7 +1338,7 @@
  duke_male_edo_ind_ogiso_era: "Ogiso"
  king_male_oba_era: "Ọba"
  king_male_ogiso_era: "Ogiso"
-## Ewe culture
+ ## Ewe culture
  baron_feudal_male_ewe: "Kõmefia"
  baron_feudal_female_ewe: "Kõmefia"
  count_feudal_male_ewe: "Kõmefiaga"
@@ -1533,7 +1357,7 @@
  title_prince_female_ewe: "Fiavi"
  title_prince_male_ewe_empire: "Fiavi"
  title_prince_female_ewe_empire: "Fiavi"
-## Baatonu Culture
+ ## Baatonu Culture
  baron_feudal_male_baatonu: "Headman"
  count_feudal_male_baatonu: "Kibe"
  duke_feudal_male_baatonu: "Sìnambu"
@@ -1542,7 +1366,7 @@
  emperor_feudal_male_baatonu: "Bakasènàboko" #lit. portmanteau of 'great' and 'king', fictional as no cultural equivalent to an emperor.
  queen_mother_baatonu: "Gnon Kogui"
  empress_mother_baatonu: "Gnon Kogui"
-## Ijaw
+ ## Ijaw
  baron_feudal_male_ijaw: "Headman"
  baron_feudal_female_ijaw: "Jefa"
  count_feudal_male_ijaw: "Amanyanabo"
@@ -1584,12 +1408,12 @@
  title_prince_female_akpoto_empire: "Okah"
  title_prince_male_akpoto: "Okah"
  title_prince_male_akpoto_empire: "Okah"
-### East African Cultures Ruler Titles
-## Special
- emperor_golden_horn_muslim_male: "Grand Sulṭān"
- emperor_golden_horn_muslim_female: "Grand Sulṭāna"
- empire_golden_horn_muslim: "Gran Sulānate"
-## Nubian Greek and Old Nubian
+ ### East African Cultures Ruler Titles
+ ## Special
+ emperor_golden_horn_muslim_male: "Sulṭān al-Salāṭīn"
+ emperor_golden_horn_muslim_female: "Sulṭānat al-Salāṭīn"
+ empire_golden_horn_muslim: "Salṭana al-Kubrā"
+ ## Nubian Greek and Old Nubian
  count_male_nubian: "[CHARACTER.Custom('CountMaleNubian')]"
  count_female_nubian: "[CHARACTER.Custom('CountFemaleNubian')]"
  duke_male_nubian: "[CHARACTER.Custom('DukeMaleNubian')]"
@@ -1601,96 +1425,96 @@
  prince_male_nubian_empire: "[CHARACTER.Custom('PrinceMaleNubianEmpire')]"
  princess_female_nubian_empire: "[CHARACTER.Custom('PrincessFemaleNubianEmpire')]"
  baron_male_old_nubian: "Dawkatt"
- baron_male_nubian_greek: "Komis"
+ baron_male_nubian_greek: "Kómēs"
  baron_female_old_nubian: "Asta"
- baron_female_nubian_greek: "Komissa"
+ baron_female_nubian_greek: "Kómissa"
  count_male_old_nubian: "Samet"
- count_male_nubian_greek: "Exarchos"
- count_female_nubian_greek: "Exarca"
+ count_male_nubian_greek: "Éxarchos"
+ count_female_nubian_greek: "Exárchissa"
  count_female_old_nubian: "Samet"
  duke_male_old_nubian: "Songoj"
- duke_male_nubian_greek: "Eparchos"
- duke_female_nubian_greek: "Eparquesa"
+ duke_male_nubian_greek: "Éparchos"
+ duke_female_nubian_greek: "Epárchissa"
  duke_female_old_nubian: "Songoj"
  duke_male_old_nubian_independent: "Songoj Daour"
- duke_male_nubian_greek_independent: "Basilikos"
+ duke_male_nubian_greek_independent: "Basilikós"
  duke_female_old_nubian_independent: "Songoj Daour"
- duke_female_nubian_greek_independent: "Basilissa"
+ duke_female_nubian_greek_independent: "Basilikḗ"
  king_male_old_nubian: "Ourou"
- king_male_nubian_greek: "Basileōs"
+ king_male_nubian_greek: "Basileús"
  king_female_old_nubian: "Ourouitten"
- king_female_nubian_greek: "Basilissa"
+ king_female_nubian_greek: "Basílissa"
  emperor_male_old_nubian: "Ourou Dauour"
- emperor_male_nubian_greek: "Basileōs Basileōn"
+ emperor_male_nubian_greek: "Basileús Basiléōn"
  emperor_female_old_nubian: "Ourouitten Daour"
- emperor_female_nubian_greek: "Basilissa"
+ emperor_female_nubian_greek: "Basílissa Basilissōn"
  queen_mother_old_nubian: "Ngonnen"
- queen_mother_nubian_greek: "Madre de los Basileōs"
+ queen_mother_nubian_greek: "Mētēr Basiléōs"
  empress_mother_old_nubian: "Ngonnen"
- empress_mother_nubian_greek: "Madre de los Basileōs"
+ empress_mother_nubian_greek: "Mētēr Basiléōs"
  prince_male_old_nubian: "Ourouŋa" #fictional, lit. son of king in old nubian
  prince_male_nubian_greek: "Kaísar"
  princess_female_old_nubian: "Ourouas" #fictional, lit. daughter of king in old nubian
- princess_female_nubian_greek: "Kaísarissa"
+ princess_female_nubian_greek: "Kaisárissa"
  prince_male_old_nubian_empire: "Ourouŋa"
  prince_male_nubian_greek_empire: "Kaísar"
  princess_female_old_nubian_empire: "Ourouas"
- princess_female_nubian_greek_empire: "Kaísarissa" 
- duchy_nubian: "Eparchate"
- county_nubian: "Exarchate"
- baron_theocracy_male_nubian_orthodox: "Presbuteros"
- baron_theocracy_female_nubian_orthodox: "Presbuterissa"
- barony_theocracy_nubian_orthodox: "Presbuteri"
- count_theocracy_male_nubian_orthodox: "Ēpiskōpos"
- count_theocracy_female_nubian_orthodox: "Ēpiskōpissa"
- county_theocracy_nubian_orthodox: "Ēpiskōpi"
- duke_theocracy_male_nubian_orthodox: "Däbtära"
- duke_theocracy_female_nubian_orthodox: "Däbtära"
- duchy_theocracy_nubian_orthodox: "Däbtära"
- king_theocracy_male_nubian_orthodox: "Nigus"
- king_theocracy_female_nubian_orthodox: "Nigus"
- kingdom_theocracy_nubian_orthodox: "Nigusnet"
- emperor_theocracy_male_nubian_orthodox: "Nigus"
- emperor_theocracy_female_nubian_orthodox: "Enigus"
- empire_theocracy_nubian_orthodox: "Nigusnet"
+ princess_female_nubian_greek_empire: "Kaisárissa"
+ duchy_nubian: "Eparchía"
+ county_nubian: "Exarchía"
+ baron_theocracy_male_nubian_orthodox: "Presbýteros"
+ baron_theocracy_female_nubian_orthodox: "Presbytérissa"
+ barony_theocracy_nubian_orthodox: "Presbytérion"
+ count_theocracy_male_nubian_orthodox: "Epískopos"
+ count_theocracy_female_nubian_orthodox: "Episkópissa"
+ county_theocracy_nubian_orthodox: "Episkopḗ"
+ duke_theocracy_male_nubian_orthodox: "Archiepískopos"
+ duke_theocracy_female_nubian_orthodox: "Archiepiskópissa"
+ duchy_theocracy_nubian_orthodox: "Archiepiskopḗ"
+ king_theocracy_male_nubian_orthodox: "Mētropolítēs"
+ king_theocracy_female_nubian_orthodox: "Mētropolítissa"
+ kingdom_theocracy_nubian_orthodox: "Mētrópolis"
+ emperor_theocracy_male_nubian_orthodox: "Patriárchēs"
+ emperor_theocracy_female_nubian_orthodox: "Patriárchissa"
+ empire_theocracy_nubian_orthodox: "Patriarchátοn"
  ##Ethiopian Muslims
-###Harla and Argobba
- count_feudal_muslim_male_adalite: "Chieftain"
- count_feudal_muslim_female_adalite: "Chieftess"
- county_feudal_muslim_adalite: "Chiefdom"
- count_feudal_male_adalite: "Chieftain"
- count_feudal_female_adalite: "Chieftess"
- county_feudal_adalite: "Chiefdom"
- duke_feudal_muslim_male_adalite: "Emīr"
- duke_feudal_muslim_female_adalite: "Emīra"
- duchy_feudal_muslim_adalite: "Emīrate"
- duke_feudal_male_adalite: "High Chieftain"
- duke_feudal_female_adalite: "High Chieftess"
- duchy_feudal_adalite: "High Chiefdom"
+ ###Harla and Argobba
+ count_feudal_muslim_male_adalite: "Raʾīs"
+ count_feudal_muslim_female_adalite: "Raʾīsa"
+ county_feudal_muslim_adalite: "Riʾāsa"
+ count_feudal_male_adalite: "Garaad"
+ count_feudal_female_adalite: "Garaad"
+ county_feudal_adalite: "Garaadato"
+ duke_feudal_muslim_male_adalite: "Amīr"
+ duke_feudal_muslim_female_adalite: "Amīra"
+ duchy_feudal_muslim_adalite: "Imāra"
+ duke_feudal_male_adalite: "Garaad"
+ duke_feudal_female_adalite: "Garaad"
+ duchy_feudal_adalite: "Garaadato"
  king_feudal_male_adalite: "Garaad"
  king_feudal_female_adalite: "Garaad"
- kingdom_feudal_adalite: "Garaadom"
+ kingdom_feudal_adalite: "Gran Garaadato"
  king_feudal_muslim_male_adalite: "Sulṭān"
- king_feudal_muslim_female_adalite: "Sulṭānha"
- kingdom_feudal_muslim_adalite: " sulṭanah"
- emperor_feudal_muslim_male_adalite: "Grand Sulṭān"
- emperor_feudal_muslim_female_adalite: "Grand Sulṭāna"
- empire_feudal_muslim_adalite: "Gran Sulānate"
- emperor_feudal_male_adalite: "High Garaad"
- emperor_feudal_female_adalite: "High Garaad"
- empire_feudal_adalite: "imperio"
+ king_feudal_muslim_female_adalite: "Sulṭāna"
+ kingdom_feudal_muslim_adalite: "Salṭana"
+ emperor_feudal_muslim_male_adalite: "Sulṭān al-Salāṭīn"
+ emperor_feudal_muslim_female_adalite: "Sulṭānat al-Salāṭīn"
+ empire_feudal_muslim_adalite: "Salṭana al-Kubrā"
+ emperor_feudal_male_adalite: "Gran Garaad"
+ emperor_feudal_female_adalite: "Gran Garaad"
+ empire_feudal_adalite: "Gran Garaadato"
  ###Oromo
  baron_feudal_male_oromo: "Abbaa Fuunyo"
  baron_feudal_female_oromo: "Abbaa Fuunyo"
  count_feudal_male_oromo: "Abbaa Ganda"
- count_feudal_female_oromo: "Abba Ganda"
- duke_feudal_male_oromo: "Abbaa Gadaa" #traditional head of the Gadaa
+ count_feudal_female_oromo: "Abbaa Ganda"
+ duke_feudal_male_oromo: "Abbaa Gadaa"
  duke_feudal_female_oromo: "Abbaa Gadaa"
- king_feudal_male_oromo: "Moti"
- king_feudal_female_oromo: "Moti"
- emperor_feudal_male_oromo: "Grand Moti" #Fictional
- emperor_feudal_female_oromo: "Grand Moti"
-### Amazigh Group
+ king_feudal_male_oromo: "Mootii"
+ king_feudal_female_oromo: "Mootii"
+ emperor_feudal_male_oromo: "Mootii Moototaa"
+ emperor_feudal_female_oromo: "Mootii Moototaa"
+ ### Amazigh Group
  ## Guanche
  #Tuareg
  duke_feudal_male_tuareg: "Ămuzer"
@@ -1699,55 +1523,52 @@
  duke_feudal_female_tuareg_independent: "$king_feudal_female_tuareg$"
  king_feudal_male_tuareg: "Ămenukal"
  king_feudal_female_tuareg: "Tămenukalt"
-### Credit to CTP for the following
- ######################################################
- ## Afru #Based on Sardinian
- baron_feudal_male_afariqa: "Seniore"
- baron_feudal_female_afariqa: "Seniora" 
- count_feudal_male_afariqa: "Konte"
- count_feudal_female_afariqa: "Kontissa"
- count_feudal_male_afariqa_independant: "Kuratore"
- count_feudal_female_afariqa_independant: "Kuratrice"
- duke_feudal_male_afariqa: "Duka"
- duke_feudal_female_afariqa: "Dukessa"
- duke_feudal_male_afariqa_independant: "Principe"
+ ### Credit to CTP for the following
+######################################################
+ ## Afru #Afro-Roman
+ baron_feudal_male_afariqa: "Dominus"
+ baron_feudal_female_afariqa: "Domina"
+ count_feudal_male_afariqa: "Comes"
+ count_feudal_female_afariqa: "Comitissa"
+ count_feudal_male_afariqa_independant: "Praeses"
+ count_feudal_female_afariqa_independant: "Praeses"
+ duke_feudal_male_afariqa: "Dux"
+ duke_feudal_female_afariqa: "Ducissa"
+ duke_feudal_male_afariqa_independant: "Princeps"
  duke_feudal_female_afariqa_independant: "Principissa"
- king_feudal_male_afariqa: "Arrege"
- king_feudal_female_afariqa: "Arregina"
- emperor_feudal_female_afariqa: "Imperatore"
- emperor_feudal_male_afariqa: "Imperatice"
+ king_feudal_male_afariqa: "Rex"
+ king_feudal_female_afariqa: "Regina"
+ emperor_feudal_female_afariqa: "Imperatrix"
+ emperor_feudal_male_afariqa: "Imperator"
  title_prince_female_afariqa: "Principissa"
  title_prince_female_afariqa_empire: "Principissa"
- title_prince_male_afariqa: "Principe"
- title_prince_male_afariqa_empire: "Principe"
- barony_feudal_afariqa: "Baronia"
- county_feudal_afariqa: "Kontatu"
- duchy_feudal_afariqa: "Dukatu"
- duchy_feudal_afariqa_independant: "Principatu"
- kingdom_feudal_afariqa: "Rennu"
- empire_feudal_afariqa: "Imperu"
- count_tribal_male_afariqa: "Kuratore"
- count_tribal_female_afariqa: "Kuratrice"
- duke_tribal_male_afariqa: "Kapu"
- duke_tribal_female_afariqa: "Kapu"
- county_tribal_afariqa: "Kuratoria"
- duchy_tribal_afariqa: "Tribu"
- king_muslim_male_afariqa: "Sultanu"
- king_muslim_female_afariqa: "Sulṭānha"
- kingdom_muslim_afariqa: "Sultanatu"
-#Central African Culture Group
-   baron_republic_nupe: "[CHARACTER.GetPrimaryTitle.GetNameNoTierNoTooltip]"
-   barony_city_nupe: "Tunga"
-   count_republic_nupe: "[CHARACTER.GetPrimaryTitle.GetNameNoTierNoTooltip]"
-   county_republic_nupe: "Ezhì"
-   barony_castle_guan: "Kasawule"
-   barony_tribe_guan: "$barony_castle_guan$"
-  #Coptic
- #######################################################
-#Sahelian
-#Soninke
-#Gur culture group
- ## Mossi from BAP
+ title_prince_male_afariqa: "Princeps"
+ title_prince_male_afariqa_empire: "Princeps"
+ barony_feudal_afariqa: "Dominium"
+ county_feudal_afariqa: "Comitatus"
+ duchy_feudal_afariqa: "Ducatus"
+ duchy_feudal_afariqa_independant: "Principatus"
+ kingdom_feudal_afariqa: "Regnum"
+ empire_feudal_afariqa: "Imperium"
+ count_tribal_male_afariqa: "Princeps"
+ count_tribal_female_afariqa: "Principissa"
+ duke_tribal_male_afariqa: "Dux"
+ duke_tribal_female_afariqa: "Ducissa"
+ county_tribal_afariqa: "Principatus"
+ duchy_tribal_afariqa: "Ducatus"
+ king_muslim_male_afariqa: "Sulṭān"
+ king_muslim_female_afariqa: "Sulṭāna"
+ kingdom_muslim_afariqa: "Salṭana"
+ #Central African Culture Group
+ baron_republic_nupe: "[CHARACTER.GetPrimaryTitle.GetNameNoTierNoTooltip]"
+ barony_city_nupe: "Tunga"
+ count_republic_nupe: "[CHARACTER.GetPrimaryTitle.GetNameNoTierNoTooltip]"
+ county_republic_nupe: "Ezhì"
+ barony_castle_guan: "Kasawule"
+ barony_tribe_guan: "$barony_castle_guan$"
+
+#######################################################
+## Mossi from BAP
  baron_feudal_male_mossi: "Kombere"
  baron_feudal_female_mossi: "Kombere"
  count_feudal_male_mossi: "Dima"
@@ -1756,332 +1577,17 @@
  title_prince_female_mossi: "Nabiga"
  title_prince_male_mossi_empire: "Nabiga"
  title_prince_female_mossi_empire: "Nabiga"
- #Gur from BAP
+#Gur from BAP
  baron_feudal_male_gur: "Kombere"
  baron_feudal_female_gur: "Kombere"
  count_feudal_male_gur: "Naa"
  count_feudal_female_gur: "Naa"
- county_feudal_gur: "Chiefdom"
- duchy_feudal_gur: "High Chiefdom"
+ county_feudal_gur: "Jefatura"
+ duchy_feudal_gur: "Gran Jefatura"
  duke_feudal_male_gur: "Naaba"
  duke_feudal_female_gur: "Weemba"
- king_feudal_male_gur: "Ya'Naa"
- king_feudal_female_gur: "Ya'Naa"
-
-
-############################################################################################CTP Council
-
-
-##CTP ADDED TITLES
-
-###################################
- #Council Position Chancellor
-###################################
-  #Goidelic
-###################################
-###################################
-  #West Germanic
-###################################
-###################################
-  #Brythonic
-###################################
-###################################
-  #Frankish
-###################################
-###################################
-  #Iberian
-###################################
-###################################
-  #North Germanic
-###################################
-###################################
-  #Balto-Finnic
-###################################
-###################################
-  #Central Germanic
-###################################
-
-
-
-###################################
-  #Arabic
-###################################
-###################################
-  #Byzantine
-###################################
-###################################
-  #Latin
-###################################
-###################################
-  #Southern Slavic
-###################################
-###################################
-  #Western Slavic
-###################################
-###################################
-  #Magyar
-###################################
-###################################
-  #Baltic
-###################################
-###################################
-  #Eastern Slavic
-###################################
-###################################
-  #Akan
-###################################
-###################################
-  #Central African
-###################################
-###################################
-  #Dravidian
-###################################
-###################################
-  #East African
-###################################
-###################################
-  #Indo-Aryan
-###################################
-###################################
-  #Senegambian
-###################################
-###################################
-  #Turkish
-###################################
-###################################
-  #Iranian
-###################################
-###################################
-  #Default
-###################################
-###################################
- #Council Position Steward
-###################################
-  #Goidelic
-###################################
-###################################
-  #West Germanic
-###################################
-###################################
-  #Brythonic
-###################################
-###################################
-  #Frankish
-###################################
-###################################
-  #Iberian
-###################################
-###################################
-  #North Germanic
-###################################
-###################################
-  #Balto-Finnic
-###################################
-###################################
-  #Central Germanic
-###################################
-
-
-
-###################################
-  #Arabic
-###################################
-###################################
-  #Byzantine
-###################################
-###################################
-  #Latin
-###################################
-###################################
-  #Southern Slavic
-###################################
-###################################
-  #Western Slavic
-###################################
-###################################
-  #Magyar
-###################################
-###################################
-  #Baltic
-###################################
-###################################
-  #Eastern Slavic
-###################################
-###################################
-  #Akan
-###################################
-###################################
-  #Dravidian
-###################################
-###################################
-  #Indo-Aryan
-###################################
-###################################
-  #East African
-###################################
-###################################
-  #Senegambian
-###################################
-###################################
-  #Turkish
-###################################
-###################################
-  #Iranian
-###################################
-###################################
-  #Default
-###################################
-###################################
- #Council Position Marshal
-###################################
-  #Goidelic
-###################################
-###################################
-  #West Germanic
-###################################
-###################################
-  #Brythonic
-###################################
-###################################
-  #Frankish
-###################################
-###################################
-  #Iberian
-###################################
-###################################
-  #North Germanic
-###################################
-###################################
-  #Balto-Finnic
-###################################
-###################################
-  #Central Germanic
-###################################
-
-
-###################################
-  #Arabic
-###################################
-###################################
-  #Byzantine
-###################################
-###################################
-  #Latin
-###################################
-###################################
-  #Southern Slavic
-###################################
-###################################
-  #Western Slavic
-###################################
-###################################
-  #Magyar
-###################################
-###################################
-  #Magyar
-###################################
-###################################
-  #Russian
-###################################
-###################################
-  #Akan
-###################################
-###################################
-  #Burman
-###################################
-###################################
-  #Dravidian
-###################################
-###################################
-  #Indo-Aryan
-###################################
-###################################
-  #East African
-###################################
-###################################
-  #Senegambian
-###################################
-###################################
-  #Iranian
-###################################
-###################################
-  #Default
-###################################
-###################################
- #Council Position Spymaster
-###################################
-  #Goidelic
-###################################
-###################################
-  #West Germanic
-###################################
-###################################
-  #Brythonic
-###################################
-###################################
-  #Frankish
-###################################
-###################################
-  #Iberian
-###################################
-###################################
-  #North Germanic
-###################################
-###################################
-  #Balto-Finnic
-###################################
-###################################
-  #Central Germanic
-###################################
-
-
-###################################
-  #Arabic
-###################################
-###################################
-  #Byzantine
-###################################
-###################################
-  #Latin
-###################################
-###################################
-  #Southern Slavic
-###################################
-###################################
-  #Western Slavic
-###################################
-###################################
-  #Magyar
-###################################
-###################################
-  #Baltic
-###################################
-###################################
-  #Eastern Slavic
-###################################
-###################################
-  #Akan
-###################################
-###################################
-  #Dravidian
-###################################
-###################################
-  #Indo-Aryan
-###################################
-###################################
-  #Senegambian
-###################################
-###################################
-  #East African
-###################################
-###################################
-  #Iranian
-###################################
-###################################
-  #Default
-###################################
-##################################
-
+ king_feudal_male_gur: "Ya-Naa"
+ king_feudal_female_gur: "Ya-Naa"
 
 #Japan
 
@@ -10301,11 +9807,11 @@
  count_default_male_cath: "Episcopus"
  count_default_female_cath: "Episcopa"
  county_default_cath: "Dioecesis"
- kurfurst_count_male_cath: "Electoris Episcopus"
- kurfurst_count_female_cath: "Electorix Episcopa"
+ kurfurst_count_male_cath: "Episcopus Elector"
+ kurfurst_count_female_cath: "Episcopa Electrix"
  kurfurstdom_county_cath: "Electoratus Episcopalis"
  count_male_theo_cath_independent: "Princeps Episcopus"
- count_female_theo_cath_independent: "Principis Episcopa"
+ count_female_theo_cath_independent: "Principissa Episcopa"
  county_theo_cath_independent: "[CHARACTER.Custom('IndepCountyCath')]"
  independent_county_cath: "Principatus Episcopalis"
  duke_male_theo_cath: "[CHARACTER.Custom('DukeMaleCath')]"
@@ -10314,567 +9820,568 @@
  duke_default_male_cath: "Archiepiscopus"
  duke_default_female_cath: "Archiepiscopa"
  duchy_default_cath: "Archidioecesis"
- kurfurst_duke_male_cath: "Electoris Archiepiscopus"
- kurfurst_duke_female_cath: "Electorix Archiepiscopa"
+ kurfurst_duke_male_cath: "Archiepiscopus Elector"
+ kurfurst_duke_female_cath: "Archiepiscopa Electrix"
  kurfurstdom_duchy_cath: "Electoratus Archiepiscopalis"
  duke_male_theo_cath_independent: "Princeps Archiepiscopus"
- duke_female_theo_cath_independent: "Principis Archiepiscopa"
+ duke_female_theo_cath_independent: "Principissa Archiepiscopa"
  duchy_theo_cath_independent: "[CHARACTER.Custom('IndepDuchyCath')]"
  independent_duchy_cath: "Principatus Archiepiscopalis"
  king_male_theo_cath: "Primas"
  king_female_theo_cath: "Primas"
- kingdom_theo_cath: "Provincia"
+ kingdom_theo_cath: "Provincia Ecclesiastica"
  emperor_male_theo_cath: "Patriarcha"
  emperor_female_theo_cath: "Patriarcha"
  empire_theo_cath: "Patriarchatus"
- pope_man_goidelic: "Pápa"
- count_male_theo_cath_goidelic: "Escop"
- count_female_theo_cath_goidelic: "Escop"
- county_theo_cath_goidelic: "Epscopti"
- pope_man_english: "Popa"
- barons_cc_male_cath_english: "Prest"
- baron_male_theo_cath_english: "Archeprest"
- baron_female_theo_cath_english: "Archeprest"
- barony_hold_cath_english: "Byschopryke"
- barony_theo_cath_english: "Archeprestryke"
+ pope_man_goidelic: "Pontifex Maximus"
+ count_male_theo_cath_goidelic: "Episcopus"
+ count_female_theo_cath_goidelic: "Episcopa"
+ county_theo_cath_goidelic: "Dioecesis"
+ pope_man_english: "Pontifex Maximus"
+ barons_cc_male_cath_english: "Presbyter"
+ baron_male_theo_cath_english: "Archipresbyter"
+ baron_female_theo_cath_english: "Archipresbytera"
+ barony_hold_cath_english: "Dioecesis"
+ barony_theo_cath_english: "Archipresbyteratus"
  count_male_theo_cath_english: "[CHARACTER.Custom('CountMaleCathEnglish')]"
  count_female_theo_cath_english: "[CHARACTER.Custom('CountFemaleCathEnglish')]"
  county_theo_cath_english: "[CHARACTER.Custom('CountyCathEnglish')]"
- count_default_cath_english: "Byschop"
- county_default_cath_english: "Byschopryke"
- kurfurst_count_male_cath_english: "Prince Byschop Electour"
- kurfurst_count_female_cath_english: "Princesse Byschop Electour"
- kurfurstdom_county_cath_english: "Prince Byschop Electourat"
- count_male_theo_cath_english_independent: "Prince Byschop"
- count_female_theo_cath_english_independent: "Princess Byschop"
+ count_default_cath_english: "Episcopus"
+ county_default_cath_english: "Dioecesis"
+ kurfurst_count_male_cath_english: "Episcopus Elector"
+ kurfurst_count_female_cath_english: "Episcopa Electrix"
+ kurfurstdom_county_cath_english: "Electoratus Episcopalis"
+ count_male_theo_cath_english_independent: "Princeps Episcopus"
+ count_female_theo_cath_english_independent: "Principissa Episcopa"
  county_theo_cath_english_independent: "[CHARACTER.Custom('IndepCountyCathEnglish')]"
- independent_county_cath_english: "Prince Byschopryke"
+ independent_county_cath_english: "Principatus Episcopalis"
  duke_male_theo_cath_english: "[CHARACTER.Custom('DukeMaleCathEnglish')]"
  duke_female_theo_cath_english: "[CHARACTER.Custom('DukeFemaleCathEnglish')]"
  duchy_theo_cath_english: "[CHARACTER.Custom('DuchyCathEnglish')]"
- duke_default_cath_english: "Archebyschop"
- duchy_default_cath_english: "Archebyschopryke"
- kurfurst_duke_male_cath_english: "Prince Archebyschop Electour"
- kurfurst_duke_female_cath_english: "Princess Archebyschop Electour"
- kurfurstdom_duchy_cath_english: "Prince Archebyschop Electourat"
- duke_male_theo_cath_english_independent: "Prince Archebyschop"
- duke_female_theo_cath_english_independent: "Princesse Archebyschop"
+ duke_default_cath_english: "Archiepiscopus"
+ duchy_default_cath_english: "Archidioecesis"
+ kurfurst_duke_male_cath_english: "Archiepiscopus Elector"
+ kurfurst_duke_female_cath_english: "Archiepiscopa Electrix"
+ kurfurstdom_duchy_cath_english: "Electoratus Archiepiscopalis"
+ duke_male_theo_cath_english_independent: "Princeps Archiepiscopus"
+ duke_female_theo_cath_english_independent: "Principissa Archiepiscopa"
  duchy_theo_cath_english_independent: "[CHARACTER.Custom('IndepDuchyCath')]"
- independent_duchy_cath_english: "Prince Archebyschopryke"
- pope_man_anglo_saxon: "Pápa"
- barons_cc_male_cath_anglo_saxon: "Préost"
- baron_male_theo_cath_anglo_saxon: "Ærcepréost"
- baron_female_theo_cath_anglo_saxon: "Ærcepréost"
- barony_hold_cath_anglo_saxon: "Biscopríce"
- barony_theo_cath_anglo_saxon: "Ærcepréostríce"
- count_male_theo_cath_anglo_saxon: "Biscop"
- count_female_theo_cath_anglo_saxon: "Biscop"
- county_theo_cath_anglo_saxon: "Biscopríce"
- duke_male_theo_cath_anglo_saxon: "Ærcebiscop"
- duke_female_theo_cath_anglo_saxon: "Ærcebiscop"
- duchy_theo_cath_anglo_saxon: "Ærcebiscopríce"
- pope_man_old_saxon: "Bābes"
+ independent_duchy_cath_english: "Principatus Archiepiscopalis"
+ pope_man_anglo_saxon: "Pontifex Maximus"
+ barons_cc_male_cath_anglo_saxon: "Presbyter"
+ baron_male_theo_cath_anglo_saxon: "Archipresbyter"
+ baron_female_theo_cath_anglo_saxon: "Archipresbytera"
+ barony_hold_cath_anglo_saxon: "Dioecesis"
+ barony_theo_cath_anglo_saxon: "Archipresbyteratus"
+ count_male_theo_cath_anglo_saxon: "Episcopus"
+ count_female_theo_cath_anglo_saxon: "Episcopa"
+ county_theo_cath_anglo_saxon: "Dioecesis"
+ duke_male_theo_cath_anglo_saxon: "Archiepiscopus"
+ duke_female_theo_cath_anglo_saxon: "Archiepiscopa"
+ duchy_theo_cath_anglo_saxon: "Archidioecesis"
+ pope_man_old_saxon: "Pontifex Maximus"
  count_male_theo_cath_old_saxon: "[CHARACTER.Custom('CountMaleCathOldSaxon')]"
  count_female_theo_cath_old_saxon: "[CHARACTER.Custom('CountFemaleCathOldSaxon')]"
  county_theo_cath_old_saxon: "[CHARACTER.Custom('CountyCathOldSaxon')]"
- count_default_male_cath_old_saxon: "Biscof"
- count_default_female_cath_old_saxon: "Biscofin"
- county_default_cath_old_saxon: "Bistuom"
- kurfurst_count_male_cath_old_saxon: "Kôrvorstbiscof"
- kurfurst_count_female_cath_old_saxon: "Kôrvorstbiscofin"
- kurfurstdom_county_cath_old_saxon: "Kôrvorstbistuom"
- count_male_theo_cath_old_saxon_independent: "Vorstbiscof"
- count_female_theo_cath_old_saxon_independent: "Vorstbiscofin"
+ count_default_male_cath_old_saxon: "Episcopus"
+ count_default_female_cath_old_saxon: "Episcopa"
+ county_default_cath_old_saxon: "Dioecesis"
+ kurfurst_count_male_cath_old_saxon: "Episcopus Elector"
+ kurfurst_count_female_cath_old_saxon: "Episcopa Electrix"
+ kurfurstdom_county_cath_old_saxon: "Electoratus Episcopalis"
+ count_male_theo_cath_old_saxon_independent: "Princeps Episcopus"
+ count_female_theo_cath_old_saxon_independent: "Principissa Episcopa"
  county_theo_cath_old_saxon_independent: "[CHARACTER.Custom('IndepCountyCathOldSaxon')]"
- independent_county_cath_old_saxon: "Vorstbistuom"
+ independent_county_cath_old_saxon: "Principatus Episcopalis"
  duke_male_theo_cath_old_saxon: "[CHARACTER.Custom('DukeMaleCathOldSaxon')]"
  duke_female_theo_cath_old_saxon: "[CHARACTER.Custom('DukeFemaleCathOldSaxon')]"
  duchy_theo_cath_old_saxon: "[CHARACTER.Custom('DuchyCathOldSaxon')]"
- duke_default_male_cath_old_saxon: "Ersibiscof"
- duke_default_female_cath_old_saxon: "Ersibiscofin"
- duchy_default_cath_old_saxon: "Ersibistuom"
- kurfurst_duke_male_cath_old_saxon: "Kôrvorstersibiscof"
- kurfurst_duke_female_cath_old_saxon: "Kôrvorstersibiscofin"
- kurfurstdom_duchy_cath_old_saxon: "Kôrvorstersibistoum"
- duke_male_theo_cath_old_saxon_independent: "Vorstersibiscof"
- duke_female_theo_cath_old_saxon_independent: "Vorstersibiscofin"
+ duke_default_male_cath_old_saxon: "Archiepiscopus"
+ duke_default_female_cath_old_saxon: "Archiepiscopa"
+ duchy_default_cath_old_saxon: "Archidioecesis"
+ kurfurst_duke_male_cath_old_saxon: "Archiepiscopus Elector"
+ kurfurst_duke_female_cath_old_saxon: "Archiepiscopa Electrix"
+ kurfurstdom_duchy_cath_old_saxon: "Electoratus Archiepiscopalis"
+ duke_male_theo_cath_old_saxon_independent: "Princeps Archiepiscopus"
+ duke_female_theo_cath_old_saxon_independent: "Principissa Archiepiscopa"
  duchy_theo_cath_old_saxon_independent: "[CHARACTER.Custom('IndepDuchyCathOldSaxon')]"
- independent_duchy_cath_old_saxon: "Vorstersibistoum"
- pope_man_bythonic: "Pap"
- pope_woman_bythonic: "Mam"
- count_male_theo_cath_welsh: "Escyp"
- count_female_theo_cath_welsh: "Escypes"
- county_theo_cath_welsh: "Esgobaut"
- count_male_theo_cath_cornish: "Escop"
- count_female_theo_cath_cornish: "Escopes"
- county_theo_cath_cornish: "Esgobaut"
- count_male_theo_cath_cumbrian: "Eskop"
- count_female_theo_cath_cumbrian: "Eskopes"
- county_theo_cath_cumbrian: "Eskobait"
- barons_cc_male_cath_french: "Prestres"
- barons_cc_female_cath_french: "Prestresse"
- baron_male_theo_cath_french: "Archiprestres"
- baron_female_theo_cath_french: "Archiprestresse"
- barony_theo_cath_french: "Deienaz"
- barony_hold_cath_french: "Diocese"
+ independent_duchy_cath_old_saxon: "Principatus Archiepiscopalis"
+ pope_man_bythonic: "Pontifex Maximus"
+ pope_woman_bythonic: "Pontifex Maxima"
+ count_male_theo_cath_welsh: "Episcopus"
+ count_female_theo_cath_welsh: "Episcopa"
+ county_theo_cath_welsh: "Dioecesis"
+ count_male_theo_cath_cornish: "Episcopus"
+ count_female_theo_cath_cornish: "Episcopa"
+ county_theo_cath_cornish: "Dioecesis"
+ count_male_theo_cath_cumbrian: "Episcopus"
+ count_female_theo_cath_cumbrian: "Episcopa"
+ county_theo_cath_cumbrian: "Dioecesis"
+ barons_cc_male_cath_french: "Presbyter"
+ barons_cc_female_cath_french: "Presbytera"
+ baron_male_theo_cath_french: "Archipresbyter"
+ baron_female_theo_cath_french: "Archipresbytera"
+ barony_theo_cath_french: "Decanatus"
+ barony_hold_cath_french: "Dioecesis"
  count_male_theo_cath_french: "[CHARACTER.Custom('CountMaleCathFrench')]"
  count_female_theo_cath_french: "[CHARACTER.Custom('CountFemaleCathFrench')]"
  county_theo_cath_french: "[CHARACTER.Custom('CountyCathFrench')]"
- count_default_male_cath_french: "Evesques"
- count_default_female_cath_french: "Evesquesse"
- county_default_cath_french: "Diocese"
- kurfurst_count_male_cath_french: "Electere Episcopal"
- kurfurst_count_female_cath_french: "Electeures Episcopal"
- kurfurstdom_county_cath_french: "Electeres Episcopal"
- count_male_theo_cath_french_independent: "Princes Evesques"
- count_female_theo_cath_french_independent: "Princesse Evesquesse"
+ count_default_male_cath_french: "Episcopus"
+ count_default_female_cath_french: "Episcopa"
+ county_default_cath_french: "Dioecesis"
+ kurfurst_count_male_cath_french: "Episcopus Elector"
+ kurfurst_count_female_cath_french: "Episcopa Electrix"
+ kurfurstdom_county_cath_french: "Electoratus Episcopalis"
+ count_male_theo_cath_french_independent: "Princeps Episcopus"
+ count_female_theo_cath_french_independent: "Principissa Episcopa"
  county_theo_cath_french_independent: "[CHARACTER.Custom('IndepCountyCathFrench')]"
- independent_county_cath_french: "Principaliz Episcopal"
+ independent_county_cath_french: "Principatus Episcopalis"
  duke_male_theo_cath_french: "[CHARACTER.Custom('DukeMaleCathFrench')]"
  duke_female_theo_cath_french: "[CHARACTER.Custom('DukeFemaleCathFrench')]"
  duchy_theo_cath_french: "[CHARACTER.Custom('DuchyCathFrench')]"
- duke_default_male_cath_french: "Archevesques"
- duke_default_female_cath_french: "Archevesquesse"
- duchy_default_cath_french: "Archidiocese"
- kurfurst_duke_male_cath_french: "Electere Archepiscopal"
- kurfurst_duke_female_cath_french: "Electeures Archepiscopal"
- kurfurstdom_duchy_cath_french: "Electeres Archepiscopal"
- duke_male_theo_cath_french_independent: "Princes Archevesques"
- duke_female_theo_cath_french_independent: "Princesse Archevesquesse"
+ duke_default_male_cath_french: "Archiepiscopus"
+ duke_default_female_cath_french: "Archiepiscopa"
+ duchy_default_cath_french: "Archidioecesis"
+ kurfurst_duke_male_cath_french: "Archiepiscopus Elector"
+ kurfurst_duke_female_cath_french: "Archiepiscopa Electrix"
+ kurfurstdom_duchy_cath_french: "Electoratus Archiepiscopalis"
+ duke_male_theo_cath_french_independent: "Princeps Archiepiscopus"
+ duke_female_theo_cath_french_independent: "Principissa Archiepiscopa"
  duchy_theo_cath_french_independent: "[CHARACTER.Custom('IndepDuchyCathFrench')]"
- independent_duchy_cath_french: "Principaliz Archepiscopal"
- barons_cc_male_cath_norman: "Prestres"
- barons_cc_female_cath_norman: "Prestresse"
- baron_male_theo_cath_norman: "Arciprestres"
- baron_female_theo_cath_norman: "Arciprestresse"
- barony_theo_cath_norman: "Deenaz"
- barony_hold_cath_norman: "Diocese"
+ independent_duchy_cath_french: "Principatus Archiepiscopalis"
+ barons_cc_male_cath_norman: "Presbyter"
+ barons_cc_female_cath_norman: "Presbytera"
+ baron_male_theo_cath_norman: "Archipresbyter"
+ baron_female_theo_cath_norman: "Archipresbytera"
+ barony_theo_cath_norman: "Decanatus"
+ barony_hold_cath_norman: "Dioecesis"
  count_male_theo_cath_norman: "[CHARACTER.Custom('CountMaleCathNorman')]"
  count_female_theo_cath_norman: "[CHARACTER.Custom('CountFemaleCathNorman')]"
  county_theo_cath_norman: "[CHARACTER.Custom('CountyCathNorman')]"
- count_default_male_cath_norman: "Evesques"
- count_default_female_cath_norman: "Evesquesse"
- county_default_cath_norman: "Diocese"
- kurfurst_count_male_cath_norman: "Electeur Episcopal"
- kurfurst_count_female_cath_norman: "Electeur Episcopal"
- kurfurstdom_county_cath_norman: "Electeures Episcopal"
- count_male_theo_cath_norman_independent: "Princes Evesques"
- count_female_theo_cath_norman_independent: "Princesse Evesquesse"
+ count_default_male_cath_norman: "Episcopus"
+ count_default_female_cath_norman: "Episcopa"
+ county_default_cath_norman: "Dioecesis"
+ kurfurst_count_male_cath_norman: "Episcopus Elector"
+ kurfurst_count_female_cath_norman: "Episcopa Electrix"
+ kurfurstdom_county_cath_norman: "Electoratus Episcopalis"
+ count_male_theo_cath_norman_independent: "Princeps Episcopus"
+ count_female_theo_cath_norman_independent: "Principissa Episcopa"
  county_theo_cath_norman_independent: "[CHARACTER.Custom('IndepCountyCathNorman')]"
- independent_county_cath_norman: "Principaliz Episcopal"
+ independent_county_cath_norman: "Principatus Episcopalis"
  duke_male_theo_cath_norman: "[CHARACTER.Custom('DukeMaleCathNorman')]"
  duke_female_theo_cath_norman: "[CHARACTER.Custom('DukeFemaleCathNorman')]"
  duchy_theo_cath_norman: "[CHARACTER.Custom('DuchyCathNorman')]"
- duke_default_male_cath_norman: "Arcevesques"
- duke_default_female_cath_norman: "Arcevesquesse"
- duchy_default_cath_norman: "Arcidiocese"
- kurfurst_duke_male_cath_norman: "Electeur Arcepiscopal"
- kurfurst_duke_female_cath_norman: "Electeur Arcepiscopal"
- kurfurstdom_duchy_cath_norman: "Electeures Arcepiscopal"
- duke_male_theo_cath_norman_independent: "Princes Arcevesques"
- duke_female_theo_cath_norman_independent: "Princesse Arcevesquesse"
+ duke_default_male_cath_norman: "Archiepiscopus"
+ duke_default_female_cath_norman: "Archiepiscopa"
+ duchy_default_cath_norman: "Archidioecesis"
+ kurfurst_duke_male_cath_norman: "Archiepiscopus Elector"
+ kurfurst_duke_female_cath_norman: "Archiepiscopa Electrix"
+ kurfurstdom_duchy_cath_norman: "Electoratus Archiepiscopalis"
+ duke_male_theo_cath_norman_independent: "Princeps Archiepiscopus"
+ duke_female_theo_cath_norman_independent: "Principissa Archiepiscopa"
  duchy_theo_cath_norman_independent: "[CHARACTER.Custom('IndepDuchyCathNorman')]"
- independent_duchy_cath_norman: "Principaliz Arcepiscopal"
- barons_cc_male_cath_occitan: "Prestres"
- barons_cc_female_cath_occitan: "Prestressa"
- baron_male_theo_cath_occitan: "Arciprestres"
- baron_female_theo_cath_occitan: "Arciprestressa"
- barony_theo_cath_occitan: "Deganatz"
- barony_hold_cath_occitan: "Diocese"
+ independent_duchy_cath_norman: "Principatus Archiepiscopalis"
+ barons_cc_male_cath_occitan: "Presbyter"
+ barons_cc_female_cath_occitan: "Presbytera"
+ baron_male_theo_cath_occitan: "Archipresbyter"
+ baron_female_theo_cath_occitan: "Archipresbytera"
+ barony_theo_cath_occitan: "Decanatus"
+ barony_hold_cath_occitan: "Dioecesis"
  count_male_theo_cath_occitan: "[CHARACTER.Custom('CountMaleCathOccitan')]"
  count_female_theo_cath_occitan: "[CHARACTER.Custom('CountFemaleCathOccitan')]"
  county_theo_cath_occitan: "[CHARACTER.Custom('CountyCathOccitan')]"
- count_default_male_cath_occitan: "Avesques"
- count_default_female_cath_occitan: "Avesquessa"
- county_default_cath_occitan: "Diocese"
- kurfurst_count_male_cath_occitan: "Elector Episcopal"
- kurfurst_count_female_cath_occitan: "Electritz Episcopal"
- kurfurstdom_county_cath_occitan: "Electorat Episcopal"
- count_male_theo_cath_occitan_independent: "Princes Avesques"
- count_female_theo_cath_occitan_independent: "Princessa Avesquessa"
+ count_default_male_cath_occitan: "Episcopus"
+ count_default_female_cath_occitan: "Episcopa"
+ county_default_cath_occitan: "Dioecesis"
+ kurfurst_count_male_cath_occitan: "Episcopus Elector"
+ kurfurst_count_female_cath_occitan: "Episcopa Electrix"
+ kurfurstdom_county_cath_occitan: "Electoratus Episcopalis"
+ count_male_theo_cath_occitan_independent: "Princeps Episcopus"
+ count_female_theo_cath_occitan_independent: "Principissa Episcopa"
  county_theo_cath_occitan_independent: "[CHARACTER.Custom('IndepCountyCathOccitan')]"
- independent_county_cath_occitan: "Principat Episcopal"
+ independent_county_cath_occitan: "Principatus Episcopalis"
  duke_male_theo_cath_occitan: "[CHARACTER.Custom('DukeMaleCathOccitan')]"
  duke_female_theo_cath_occitan: "[CHARACTER.Custom('DukeFemaleCathOccitan')]"
  duchy_theo_cath_occitan: "[CHARACTER.Custom('DuchyCathOccitan')]"
- duke_default_male_cath_occitan: "Arcavesques"
- duke_default_female_cath_occitan: "Arcavesquessa"
- duchy_default_cath_occitan: "Arcidiocese"
- kurfurst_duke_male_cath_occitan: "Elector Arcepiscopal"
- kurfurst_duke_female_cath_occitan: "Electritz Arcepiscopal"
- kurfurstdom_duchy_cath_occitan: "Electorat Arcepiscopal"
- duke_male_theo_cath_occitan_independent: "Princes Arcavesques"
- duke_female_theo_cath_occitan_independent: "Princessa Arcavesquessa"
- duchy_theo_cath_occitan_independent: "[CHARACTER.Custom('DuchyCathNorman')]"
- independent_duchy_cath_occitan: "Principat Arcepiscopal"
- pope_man_basque: "Aita Santua"
- pope_woman_basque: "Ama Santua"
- grand_master_male_catholic_basque: "Maisu Handia"
- grand_master_female_catholic_basque: "Maistra Handia"
- barons_cc_male_cath_basque: "Prestea"
- baron_male_theo_cath_basque: "Artziprestea"
- barony_theo_cath_basque: "Dekanotza"
- barony_hold_cath_basque: "Elizbarrutia"
+ duke_default_male_cath_occitan: "Archiepiscopus"
+ duke_default_female_cath_occitan: "Archiepiscopa"
+ duchy_default_cath_occitan: "Archidioecesis"
+ kurfurst_duke_male_cath_occitan: "Archiepiscopus Elector"
+ kurfurst_duke_female_cath_occitan: "Archiepiscopa Electrix"
+ kurfurstdom_duchy_cath_occitan: "Electoratus Archiepiscopalis"
+ duke_male_theo_cath_occitan_independent: "Princeps Archiepiscopus"
+ duke_female_theo_cath_occitan_independent: "Principissa Archiepiscopa"
+ duchy_theo_cath_occitan_independent: "[CHARACTER.Custom('IndepDuchyCathOccitan')]"
+ independent_duchy_cath_occitan: "Principatus Archiepiscopalis"
+ pope_man_basque: "Pontifex Maximus"
+ pope_woman_basque: "Pontifex Maxima"
+ grand_master_male_catholic_basque: "Magister Generalis"
+ grand_master_female_catholic_basque: "Magistra Generalis"
+ barons_cc_male_cath_basque: "Presbyter"
+ baron_male_theo_cath_basque: "Archipresbyter"
+ barony_theo_cath_basque: "Decanatus"
+ barony_hold_cath_basque: "Dioecesis"
  count_male_theo_cath_basque: "[CHARACTER.Custom('CountMaleCathBasque')]"
  county_theo_cath_basque: "[CHARACTER.Custom('CountyCathBasque')]"
- count_default_male_cath_basque: "Apezpikua"
- county_default_cath_basque: "Elizbarrutia"
- kurfurst_count_male_cath_basque: "Printze Apezpikua Hauteslearen"
- kurfurstdom_county_cath_basque: "Gotzainen Printzerria Hautetsiak"
- count_male_theo_cath_basque_independent: "Printze Apezpikua"
+ count_default_male_cath_basque: "Episcopus"
+ county_default_cath_basque: "Dioecesis"
+ kurfurst_count_male_cath_basque: "Episcopus Elector"
+ kurfurstdom_county_cath_basque: "Electoratus Episcopalis"
+ count_male_theo_cath_basque_independent: "Princeps Episcopus"
  county_theo_cath_basque_independent: "[CHARACTER.Custom('IndepCountyCathBasque')]"
- independent_county_cath_basque: "Gotzainen Printzerria"
+ independent_county_cath_basque: "Principatus Episcopalis"
  duke_male_theo_cath_basque: "[CHARACTER.Custom('DukeMaleCathBasque')]"
  duchy_theo_cath_basque: "[CHARACTER.Custom('DuchyCathBasque')]"
- duke_default_male_cath_basque: "Artzapezpiku"
- duchy_default_cath_basque: "Artzapezpikutza"
- kurfurst_duke_male_cath_basque: "Printze Artzapezpiku Hauteslearen"
- kurfurstdom_duchy_cath_basque: "Artzapezpikutza Printzerria Hautetsiak"
- duke_male_theo_cath_basque_independent: "Printze Artzapezpiku"
- duchy_theo_cath_basque_independent: "[CHARACTER.Custom('IndepDuchyCathBasuqe')]"
- independent_duchy_cath_basque: "Artzapezpikutza Printzerria"
- pope_man_castilian: "Papa"
- pope_woman_castilian: "Papesa"
- grand_master_male_cath_castilian: "Maesse General"
- grand_master_female_cath_castilian: "Maessa General"
- barons_cc_male_cath_castilian: "Presbitero"
- barons_cc_female_cath_castilian: "Presbitera"
- baron_male_theo_cath_castilian: "Arcepresbitero"
- baron_female_theo_cath_castilian: "Arcepresbitera"
- barony_theo_cath_castilian: "Arcepresbiterado"
- barony_hold_cath_castilian: "Obispado"
+ duke_default_male_cath_basque: "Archiepiscopus"
+ duchy_default_cath_basque: "Archidioecesis"
+ kurfurst_duke_male_cath_basque: "Archiepiscopus Elector"
+ kurfurstdom_duchy_cath_basque: "Electoratus Archiepiscopalis"
+ duke_male_theo_cath_basque_independent: "Princeps Archiepiscopus"
+ duchy_theo_cath_basque_independent: "[CHARACTER.Custom('IndepDuchyCathBasque')]"
+ independent_duchy_cath_basque: "Principatus Archiepiscopalis"
+ pope_man_castilian: "Pontifex Maximus"
+ pope_woman_castilian: "Pontifex Maxima"
+ grand_master_male_cath_castilian: "Magister Generalis"
+ grand_master_female_cath_castilian: "Magistra Generalis"
+ barons_cc_male_cath_castilian: "Presbyter"
+ barons_cc_female_cath_castilian: "Presbytera"
+ baron_male_theo_cath_castilian: "Archipresbyter"
+ baron_female_theo_cath_castilian: "Archipresbytera"
+ barony_theo_cath_castilian: "Archipresbyteratus"
+ barony_hold_cath_castilian: "Dioecesis"
  count_male_theo_cath_castilian: "[CHARACTER.Custom('CountMaleCathcastilian')]"
  count_female_theo_cath_castilian: "[CHARACTER.Custom('CountFemaleCathcastilian')]"
  county_theo_cath_castilian: "[CHARACTER.Custom('CountyCathcastilian')]"
- count_default_male_cath_castilian: "Obispo"
- count_default_female_cath_castilian: "Obispa"
- county_default_cath_castilian: "Obispado"
- kurfurst_count_male_cath_castilian: "Elector Eclesiastico"
- kurfurst_count_female_cath_castilian: "Electora Eclesiastico"
- kurfurstdom_county_cath_castilian: "Electorado Eclesiastico"
- count_male_theo_cath_castilian_independent: "Principe Obispo"
- count_female_theo_cath_castilian_independent: "Princesa Obispa"
+ count_default_male_cath_castilian: "Episcopus"
+ count_default_female_cath_castilian: "Episcopa"
+ county_default_cath_castilian: "Dioecesis"
+ kurfurst_count_male_cath_castilian: "Episcopus Elector"
+ kurfurst_count_female_cath_castilian: "Episcopa Electrix"
+ kurfurstdom_county_cath_castilian: "Electoratus Episcopalis"
+ count_male_theo_cath_castilian_independent: "Princeps Episcopus"
+ count_female_theo_cath_castilian_independent: "Principissa Episcopa"
  county_theo_cath_castilian_independent: "[CHARACTER.Custom('IndepCountyCathcastilian')]"
- independent_county_cath_castilian: "Principado Eclesiastico"
+ independent_county_cath_castilian: "Principatus Episcopalis"
  duke_male_theo_cath_castilian: "[CHARACTER.Custom('DukeMaleCathcastilian')]"
  duke_female_theo_cath_castilian: "[CHARACTER.Custom('DukeFemaleCathcastilian')]"
  duchy_theo_cath_castilian: "[CHARACTER.Custom('DuchyCathcastilian')]"
- duke_default_male_cath_castilian: "Arçobispo"
- duke_default_female_cath_castilian: "Arçobispa"
- duchy_default_cath_castilian: "Arçobispado"
- kurfurst_duke_male_cath_castilian: "Elector Arceclesiastico"
- kurfurst_duke_female_cath_castilian: "Electora Arceclesiastico"
- kurfurstdom_duchy_cath_castilian: "Electorado Arceclesiastico"
- duke_male_theo_cath_castilian_independent: "Principe Arçobispo"
- duke_female_theo_cath_castilian_independent: "Princesa Arçobispa"
+ duke_default_male_cath_castilian: "Archiepiscopus"
+ duke_default_female_cath_castilian: "Archiepiscopa"
+ duchy_default_cath_castilian: "Archidioecesis"
+ kurfurst_duke_male_cath_castilian: "Archiepiscopus Elector"
+ kurfurst_duke_female_cath_castilian: "Archiepiscopa Electrix"
+ kurfurstdom_duchy_cath_castilian: "Electoratus Archiepiscopalis"
+ duke_male_theo_cath_castilian_independent: "Princeps Archiepiscopus"
+ duke_female_theo_cath_castilian_independent: "Principissa Archiepiscopa"
  duchy_theo_cath_castilian_independent: "[CHARACTER.Custom('IndepDuchyCathcastilian')]"
- independent_duchy_cath_castilian: "Principado Arceclesiastico"
- pope_man_catalan: "Papa"
- pope_woman_catalan: "Papessa"
- grand_master_male_cath_catalan: "Mestre General"
- grand_master_female_cath_catalan: "Mestressa General"
- barons_cc_male_cath_catalan: "Prevere"
- barons_cc_female_cath_catalan: "Prevera"
- baron_male_theo_cath_catalan: "Arqueprevere"
- baron_female_theo_cath_catalan: "Arqueprevera"
- barony_hold_cath_catalan: "Bisbat"
- barony_theo_cath_catalan: "Arquepreverat"
+ independent_duchy_cath_castilian: "Principatus Archiepiscopalis"
+ pope_man_catalan: "Pontifex Maximus"
+ pope_woman_catalan: "Pontifex Maxima"
+ grand_master_male_cath_catalan: "Magister Generalis"
+ grand_master_female_cath_catalan: "Magistra Generalis"
+ barons_cc_male_cath_catalan: "Presbyter"
+ barons_cc_female_cath_catalan: "Presbytera"
+ baron_male_theo_cath_catalan: "Archipresbyter"
+ baron_female_theo_cath_catalan: "Archipresbytera"
+ barony_hold_cath_catalan: "Dioecesis"
+ barony_theo_cath_catalan: "Archipresbyteratus"
  count_male_theo_cath_catalan: "[CHARACTER.Custom('CountMaleCathCatalan')]"
  count_female_theo_cath_catalan: "[CHARACTER.Custom('CountFemaleCathCatalan')]"
  county_theo_cath_catalan: "[CHARACTER.Custom('CountyCathCatalan')]"
- count_default_male_cath_catalan: "Bisbe"
- count_default_female_cath_catalan: "Bisbessa"
- county_default_cath_catalan: "Bisbat"
- kurfurst_count_male_cath_catalan: "Princep Bisbe Elector"
- kurfurst_count_female_cath_catalan: "Princesa Bisbessa Electora"
- kurfurstdom_county_cath_catalan: "Principat Eclesiastic Electorat"
- count_male_theo_cath_catalan_independent: "Princep Bisbe"
- count_female_theo_cath_catalan_independent: "Princesa Bisbessa"
+ count_default_male_cath_catalan: "Episcopus"
+ count_default_female_cath_catalan: "Episcopa"
+ county_default_cath_catalan: "Dioecesis"
+ kurfurst_count_male_cath_catalan: "Episcopus Elector"
+ kurfurst_count_female_cath_catalan: "Episcopa Electrix"
+ kurfurstdom_county_cath_catalan: "Electoratus Episcopalis"
+ count_male_theo_cath_catalan_independent: "Princeps Episcopus"
+ count_female_theo_cath_catalan_independent: "Principissa Episcopa"
  county_theo_cath_catalan_independent: "[CHARACTER.Custom('IndepCountyCathCatalan')]"
- independent_county_cath_catalan: "Principat Eclesiastic"
+ independent_county_cath_catalan: "Principatus Episcopalis"
  duke_male_theo_cath_catalan: "[CHARACTER.Custom('DukeMaleCathCatalan')]"
  duke_female_theo_cath_catalan: "[CHARACTER.Custom('DukeFemaleCathCatalan')]"
  duchy_theo_cath_catalan: "[CHARACTER.Custom('DuchyCathCatalan')]"
- duke_default_male_cath_catalan: "Arquebisbe"
- duke_default_female_cath_catalan: "Arquebisbessa"
- duchy_default_cath_catalan: "Arquebisbat"
- kurfurst_duke_male_cath_catalan: "Princep Arquebisbe Elector"
- kurfurst_duke_female_cath_catalan: "Princesa Arquebisbessa Electora"
- kurfurstdom_duchy_cath_catalan: "Principat Arçeclesiastico Electorat"
- duke_male_theo_cath_catalan_independent: "Princep Arquebisbe"
- duke_female_theo_cath_catalan_independent: "Princesa Arquebisbessa"
+ duke_default_male_cath_catalan: "Archiepiscopus"
+ duke_default_female_cath_catalan: "Archiepiscopa"
+ duchy_default_cath_catalan: "Archidioecesis"
+ kurfurst_duke_male_cath_catalan: "Archiepiscopus Elector"
+ kurfurst_duke_female_cath_catalan: "Archiepiscopa Electrix"
+ kurfurstdom_duchy_cath_catalan: "Electoratus Archiepiscopalis"
+ duke_male_theo_cath_catalan_independent: "Princeps Archiepiscopus"
+ duke_female_theo_cath_catalan_independent: "Principissa Archiepiscopa"
  duchy_theo_cath_catalan_independent: "[CHARACTER.Custom('IndepDuchyCathCatalan')]"
- independent_duchy_cath_catalan: "Principat Arqueclesiastic"
- pope_man_portuguese: "Papa"
- pope_woman_portuguese: "Papessa"
- grand_master_male_cath_portuguese: "Meestre Gẽeral"
- grand_master_female_cath_portuguese: "Meestra Gẽeral"
- barons_cc_male_cath_portuguese: "Presbitero"
- barons_cc_female_cath_portuguese: "Presbitera"
- baron_male_theo_cath_portuguese: "Arquipresbitero"
- baron_female_theo_cath_portuguese: "Arquipresbitera"
- barony_hold_cath_portuguese: "Bispado"
- barony_theo_cath_portuguese: "Arquipresbiterado"
+ independent_duchy_cath_catalan: "Principatus Archiepiscopalis"
+ pope_man_portuguese: "Pontifex Maximus"
+ pope_woman_portuguese: "Pontifex Maxima"
+ grand_master_male_cath_portuguese: "Magister Generalis"
+ grand_master_female_cath_portuguese: "Magistra Generalis"
+ barons_cc_male_cath_portuguese: "Presbyter"
+ barons_cc_female_cath_portuguese: "Presbytera"
+ baron_male_theo_cath_portuguese: "Archipresbyter"
+ baron_female_theo_cath_portuguese: "Archipresbytera"
+ barony_hold_cath_portuguese: "Dioecesis"
+ barony_theo_cath_portuguese: "Archipresbyteratus"
  count_male_theo_cath_portuguese: "[CHARACTER.Custom('CountMaleCathPort')]"
  count_female_theo_cath_portuguese: "[CHARACTER.Custom('CountFemaleCathPort')]"
  county_theo_cath_portuguese: "[CHARACTER.Custom('CountyCathPort')]"
- count_default_male_cath_portuguese: "Bispo"
- count_default_female_cath_portuguese: "Bispa"
- county_default_cath_portuguese: "Bispado"
- kurfurst_count_male_cath_portuguese: "Principe Bispo Eleitor"
- kurfurst_count_female_cath_portuguese: "Princesa Bispa Eleitora"
- kurfurstdom_county_cath_portuguese: "Principado Eclesiastico Eleitorado"
- count_male_theo_cath_portuguese_independent: "Principe Bispo"
- count_female_theo_cath_portuguese_independent: "Princesa Bispa"
+ count_default_male_cath_portuguese: "Episcopus"
+ count_default_female_cath_portuguese: "Episcopa"
+ county_default_cath_portuguese: "Dioecesis"
+ kurfurst_count_male_cath_portuguese: "Episcopus Elector"
+ kurfurst_count_female_cath_portuguese: "Episcopa Electrix"
+ kurfurstdom_county_cath_portuguese: "Electoratus Episcopalis"
+ count_male_theo_cath_portuguese_independent: "Princeps Episcopus"
+ count_female_theo_cath_portuguese_independent: "Principissa Episcopa"
  county_theo_cath_portuguese_independent: "[CHARACTER.Custom('IndepCountyCathPort')]"
- independent_county_cath_portuguese: "Principado Eclesiastico"
+ independent_county_cath_portuguese: "Principatus Episcopalis"
  duke_male_theo_cath_portuguese: "[CHARACTER.Custom('DukeMaleCathPort')]"
  duke_female_theo_cath_portuguese: "[CHARACTER.Custom('DukeFemaleCathPort')]"
  duchy_theo_cath_portuguese: "[CHARACTER.Custom('DuchyCathPort')]"
- duke_default_male_cath_portuguese: "Arcebispo"
- duke_default_female_cath_portuguese: "Arcebispa"
- duchy_default_cath_portuguese: "Arcebispado"
- kurfurst_duke_male_cath_portuguese: "Principe Arcebispo Eleitor"
- kurfurst_duke_female_cath_portuguese: "Princesa Arcebispa Eleitora"
- kurfurstdom_duchy_cath_portuguese: "Principado Arceclesiastico Eleitorado"
- duke_male_theo_cath_portuguese_independent: "Principe Arcebispo"
- duke_female_theo_cath_portuguese_independent: "Princesa Arcebispa"
+ duke_default_male_cath_portuguese: "Archiepiscopus"
+ duke_default_female_cath_portuguese: "Archiepiscopa"
+ duchy_default_cath_portuguese: "Archidioecesis"
+ kurfurst_duke_male_cath_portuguese: "Archiepiscopus Elector"
+ kurfurst_duke_female_cath_portuguese: "Archiepiscopa Electrix"
+ kurfurstdom_duchy_cath_portuguese: "Electoratus Archiepiscopalis"
+ duke_male_theo_cath_portuguese_independent: "Princeps Archiepiscopus"
+ duke_female_theo_cath_portuguese_independent: "Principissa Archiepiscopa"
  duchy_theo_cath_portuguese_independent: "[CHARACTER.Custom('IndepDuchyCathPort')]"
- independent_duchy_cath_portuguese: "Principado Arceclesiastico"
- pope_man_norse_norwegian: "Páfi"
- grand_master_cath_norse_norwegian: "Stórmęistari"
- barons_cc_male_cath_norse_norwegian: "Prestr"
- baron_theo_cath_norse_norwegian: "Ęrkiprestr"
- barony_hold_cath_norse_norwegian: "Byskupsdómr"
- barony_theo_cath_norse_norwegian: "Ęrkiprestsdómr"
- count_theo_cath_norse_norwegian: "Byskup"
- county_theo_cath_norse_norwegian: "Byskupsdómr"
- duke_theo_cath_norse_norwegian: "Ęrkibyskup"
- duchy_theo_cath_norse_norwegian: "Ęrkibyskupsdómr"
- pope_man_swedish_danish: "Páfe"
- grand_master_cath_swedish_danish: "Stórméstare"
- barons_cc_male_cath_swedish_danish: "Præstær"
- baron_theo_cath_swedish_danish: "Ærkepræstær"
- barony_hold_cath_swedish_danish: "Biskupsdómbær"
- barony_theo_cath_swedish_danish: "Ærkepræstsdómbær"
- count_theo_cath_swedish_danish: "Biskup"
- county_theo_cath_swedish_danish: "Biskupsdómbær"
- duke_theo_cath_swedish_danish: "Ærkebiskup"
- duchy_theo_cath_swedish_danish: "Ærkebiskupsdómbær"
- pope_man_saxon: "Pâwest"
- pope_woman_saxon: "Pâwestinne"
- grand_master_male_cath_saxon: "Hôchmêster"
- grand_master_female_cath_saxon: "Hôchmêsterinne"
- barons_cc_male_cath_saxon: "Prêster"
- barons_cc_female_cath_saxon: "Prêsterinne"
- baron_male_theo_cath_saxon: "Erseprêster"
- baron_female_theo_cath_saxon: "Erseprêsterinne"
- barony_hold_cath_saxon: "Bischopdôm"
- barony_theo_cath_saxon: "Dêkenât"
+ independent_duchy_cath_portuguese: "Principatus Archiepiscopalis"
+ pope_man_norse_norwegian: "Pontifex Maximus"
+ grand_master_cath_norse_norwegian: "Magister Generalis"
+ barons_cc_male_cath_norse_norwegian: "Presbyter"
+ baron_theo_cath_norse_norwegian: "Archipresbyter"
+ barony_hold_cath_norse_norwegian: "Dioecesis"
+ barony_theo_cath_norse_norwegian: "Archipresbyteratus"
+ count_theo_cath_norse_norwegian: "Episcopus"
+ county_theo_cath_norse_norwegian: "Dioecesis"
+ duke_theo_cath_norse_norwegian: "Archiepiscopus"
+ duchy_theo_cath_norse_norwegian: "Archidioecesis"
+ pope_man_swedish_danish: "Pontifex Maximus"
+ grand_master_cath_swedish_danish: "Magister Generalis"
+ barons_cc_male_cath_swedish_danish: "Presbyter"
+ baron_theo_cath_swedish_danish: "Archipresbyter"
+ barony_hold_cath_swedish_danish: "Dioecesis"
+ barony_theo_cath_swedish_danish: "Archipresbyteratus"
+ count_theo_cath_swedish_danish: "Episcopus"
+ county_theo_cath_swedish_danish: "Dioecesis"
+ duke_theo_cath_swedish_danish: "Archiepiscopus"
+ duchy_theo_cath_swedish_danish: "Archidioecesis"
+ pope_man_saxon: "Pontifex Maximus"
+ pope_woman_saxon: "Pontifex Maxima"
+ grand_master_male_cath_saxon: "Magister Generalis"
+ grand_master_female_cath_saxon: "Magistra Generalis"
+ barons_cc_male_cath_saxon: "Presbyter"
+ barons_cc_female_cath_saxon: "Presbytera"
+ baron_male_theo_cath_saxon: "Archipresbyter"
+ baron_female_theo_cath_saxon: "Archipresbytera"
+ barony_hold_cath_saxon: "Dioecesis"
+ barony_theo_cath_saxon: "Decanatus"
  count_male_theo_cath_saxon: "[CHARACTER.Custom('CountMaleCathSaxon')]"
  count_female_theo_cath_saxon: "[CHARACTER.Custom('CountFemaleCathSaxon')]"
  county_theo_cath_saxon: "[CHARACTER.Custom('CountyCathSaxon')]"
- count_default_male_cath_saxon: "Bischop"
- count_default_female_cath_saxon: "Bischôpinne"
- county_default_cath_saxon: "Bischopdôm"
- kurfurst_count_male_cath_saxon: "Kôrbischop" #Placeholder
- kurfurst_count_female_cath_saxon: "Kôrbischôpinne" #Placeholder
- kurfurstdom_county_cath_saxon: "Kôrbischopdôm" #Placeholder
- count_male_theo_cath_saxon_independent: "Vorstebischop" #Placeholder
- count_female_theo_cath_saxon_independent: "Vorstebischôpinne" #Placeholder
+ count_default_male_cath_saxon: "Episcopus"
+ count_default_female_cath_saxon: "Episcopa"
+ county_default_cath_saxon: "Dioecesis"
+ kurfurst_count_male_cath_saxon: "Episcopus Elector"
+ kurfurst_count_female_cath_saxon: "Episcopa Electrix"
+ kurfurstdom_county_cath_saxon: "Electoratus Episcopalis"
+ count_male_theo_cath_saxon_independent: "Princeps Episcopus"
+ count_female_theo_cath_saxon_independent: "Principissa Episcopa"
  county_theo_cath_saxon_independent: "[CHARACTER.Custom('IndepCountyCathSaxon')]"
- independent_county_cath_saxon: "Vorstebischopdôm" #Placeholder
+ independent_county_cath_saxon: "Principatus Episcopalis"
  duke_male_theo_cath_saxon: "[CHARACTER.Custom('DukeMaleCathSaxon')]"
  duke_female_theo_cath_saxon: "[CHARACTER.Custom('DukeFemaleCathSaxon')]"
  duchy_theo_cath_saxon: "[CHARACTER.Custom('DuchyCathSaxon')]"
- duke_default_male_cath_saxon: "Ersebischop"
- duke_default_female_cath_saxon: "Ersebischôpinne"
- duchy_default_cath_saxon: "Ersebischopdôm"
- kurfurst_duke_male_cath_saxon: "Kôrersebischop" #Placeholder
- kurfurst_duke_female_cath_saxon: "Kôrersebischôpinne" #Placeholder
- kurfurstdom_duchy_cath_saxon: "Kôrersebischopdôm" #Placeholder
- duke_male_theo_cath_saxon_independent: "Vorstersebischop" #Placeholder
- duke_female_theo_cath_saxon_independent: "Vorstersebischôpinne" #Placeholder
+ duke_default_male_cath_saxon: "Archiepiscopus"
+ duke_default_female_cath_saxon: "Archiepiscopa"
+ duchy_default_cath_saxon: "Archidioecesis"
+ kurfurst_duke_male_cath_saxon: "Archiepiscopus Elector"
+ kurfurst_duke_female_cath_saxon: "Archiepiscopa Electrix"
+ kurfurstdom_duchy_cath_saxon: "Electoratus Archiepiscopalis"
+ duke_male_theo_cath_saxon_independent: "Princeps Archiepiscopus"
+ duke_female_theo_cath_saxon_independent: "Principissa Archiepiscopa"
  duchy_theo_cath_saxon_independent: "[CHARACTER.Custom('IndepDuchyCathSaxon')]"
- independent_duchy_cath_saxon: "Vorstersebischopdôm" #Placeholder
- king_theo_cath_saxon: "Prîmâs"
- kingdom_theo_cath_saxon: "Prîmât"
- emperor_male_theo_cath_saxon: "Patriarche"
- emperor_female_theo_cath_saxon: "Patriarchinne"
- empire_theo_cath_saxon: "Patriarchât"
- pope_man_mhg: "Bâbest"
- pope_woman_mhg: "Bâbestin"
- grand_master_male_cath_mhg: "Hôchmeister"
- grand_master_female_cath_mhg: "Hôchmeisterin"
- barons_cc_male_cath_mhg: "Priester"
- barons_cc_female_cath_mhg: "Priesterin"
- baron_male_theo_cath_mhg: "Erzepriester"
- baron_female_theo_cath_mhg: "Erzepriesterin"
- barony_hold_cath_mhg: "Bistuom"
- barony_theo_cath_mhg: "Techeine"
+ independent_duchy_cath_saxon: "Principatus Archiepiscopalis"
+ king_theo_cath_saxon: "Primas"
+ kingdom_theo_cath_saxon: "Provincia Ecclesiastica"
+ emperor_male_theo_cath_saxon: "Patriarcha"
+ emperor_female_theo_cath_saxon: "Patriarcha"
+ empire_theo_cath_saxon: "Patriarchatus"
+ pope_man_mhg: "Pontifex Maximus"
+ pope_woman_mhg: "Pontifex Maxima"
+ grand_master_male_cath_mhg: "Magister Generalis"
+ grand_master_female_cath_mhg: "Magistra Generalis"
+ barons_cc_male_cath_mhg: "Presbyter"
+ barons_cc_female_cath_mhg: "Presbytera"
+ baron_male_theo_cath_mhg: "Archipresbyter"
+ baron_female_theo_cath_mhg: "Archipresbytera"
+ barony_hold_cath_mhg: "Dioecesis"
+ barony_theo_cath_mhg: "Decanatus"
  count_male_theo_cath_mhg: "[CHARACTER.Custom('CountMaleCathMHG')]"
  count_female_theo_cath_mhg: "[CHARACTER.Custom('CountFemaleCathMHG')]"
  county_theo_cath_mhg: "[CHARACTER.Custom('CountyCathMHG')]"
- count_default_male_cath_mhg: "Bischof"
- count_default_female_cath_mhg: "Bischofin"
- county_default_cath_mhg: "Bistuom"
- kurfurst_count_male_cath_mhg: "Kurbischof" #Placeholder
- kurfurst_count_female_cath_mhg: "Kurbischofin" #Placeholder
- kurfurstdom_county_cath_mhg: "Kurbistuom" #Placeholder
- count_male_theo_cath_mhg_independent: "Vürstebischof" #Placeholder
- count_female_theo_cath_mhg_independent: "Vürstebischofin" #Placeholder
+ count_default_male_cath_mhg: "Episcopus"
+ count_default_female_cath_mhg: "Episcopa"
+ county_default_cath_mhg: "Dioecesis"
+ kurfurst_count_male_cath_mhg: "Episcopus Elector"
+ kurfurst_count_female_cath_mhg: "Episcopa Electrix"
+ kurfurstdom_county_cath_mhg: "Electoratus Episcopalis"
+ count_male_theo_cath_mhg_independent: "Princeps Episcopus"
+ count_female_theo_cath_mhg_independent: "Principissa Episcopa"
  county_theo_cath_mhg_independent: "[CHARACTER.Custom('IndepCountyCathMHG')]"
- independent_county_cath_mhg: "Vürstebistuom" #Placeholder
+ independent_county_cath_mhg: "Principatus Episcopalis"
  duke_male_theo_cath_mhg: "[CHARACTER.Custom('DukeMaleCathMHG')]"
  duke_female_theo_cath_mhg: "[CHARACTER.Custom('DukeFemaleCathMHG')]"
  duchy_theo_cath_mhg: "[CHARACTER.Custom('DuchyCathMHG')]"
- duke_default_male_cath_mhg: "Erzebischof"
- duke_default_female_cath_mhg: "Erzebischofin"
- duchy_default_cath_mhg: "Erzebistuom"
- kurfurst_duke_male_cath_mhg: "Kurerzebischof" #Placeholder
- kurfurst_duke_female_cath_mhg: "Kurerzebischofin" #Placeholder
- kurfurstdom_duchy_cath_mhg: "Kurerzebistuom" #Placeholder
- duke_male_theo_cath_mhg_independent: "Vürsterzebischof" #Placeholder
- duke_female_theo_cath_mhg_independent: "Vürsterzebischofin" #Placeholder
+ duke_default_male_cath_mhg: "Archiepiscopus"
+ duke_default_female_cath_mhg: "Archiepiscopa"
+ duchy_default_cath_mhg: "Archidioecesis"
+ kurfurst_duke_male_cath_mhg: "Archiepiscopus Elector"
+ kurfurst_duke_female_cath_mhg: "Archiepiscopa Electrix"
+ kurfurstdom_duchy_cath_mhg: "Electoratus Archiepiscopalis"
+ duke_male_theo_cath_mhg_independent: "Princeps Archiepiscopus"
+ duke_female_theo_cath_mhg_independent: "Principissa Archiepiscopa"
  duchy_theo_cath_mhg_independent: "[CHARACTER.Custom('IndepDuchyCathMHG')]"
- independent_duchy_cath_mhg: "Vürsterzebistuom" #Placeholder
- king_theo_cath_mhg: "Prîmâs"
- kingdom_theo_cath_mhg: "Prîmât"
- emperor_male_theo_cath_mhg: "Patriarche"
- emperor_female_theo_cath_mhg: "Patriarchin"
- empire_theo_cath_mhg: "Patriarchât"
- pope_dutch: "Pâus"
- grand_master_cath_dutch: "Grootmeester"
- barons_cc_male_cath_dutch: "Dîaken"
- baron_theo_cath_dutch: "Aertsdîaken"
- barony_hold_cath_dutch: "Bisscopdom"
- barony_theo_cath_dutch: "Aertsdîakenscap"
+ independent_duchy_cath_mhg: "Principatus Archiepiscopalis"
+ king_theo_cath_mhg: "Primas"
+ kingdom_theo_cath_mhg: "Provincia Ecclesiastica"
+ emperor_male_theo_cath_mhg: "Patriarcha"
+ emperor_female_theo_cath_mhg: "Patriarcha"
+ empire_theo_cath_mhg: "Patriarchatus"
+ pope_dutch: "Pontifex Maximus"
+ grand_master_cath_dutch: "Magister Generalis"
+ barons_cc_male_cath_dutch: "Diaconus"
+ baron_theo_cath_dutch: "Archidiaconus"
+ barony_hold_cath_dutch: "Dioecesis"
+ barony_theo_cath_dutch: "Archidiaconatus"
  count_theo_cath_dutch: "[CHARACTER.Custom('CountCathDutch')]"
  county_theo_cath_dutch: "[CHARACTER.Custom('CountyCathDutch')]"
- count_default_cath_dutch: "Bisscop"
- county_default_cath_dutch: "Bisscopdom"
- kurfurst_count_cath_dutch: "Coorbisscop" #Placeholder
- kurfurstdom_county_cath_dutch: "Coorbisscopdom" #Placeholder
- count_theo_cath_dutch_independent: "Vorstebisscop" #Placeholder
+ count_default_cath_dutch: "Episcopus"
+ county_default_cath_dutch: "Dioecesis"
+ kurfurst_count_cath_dutch: "Episcopus Elector"
+ kurfurstdom_county_cath_dutch: "Electoratus Episcopalis"
+ count_theo_cath_dutch_independent: "Princeps Episcopus"
  county_theo_cath_dutch_independent: "[CHARACTER.Custom('IndepCountyCathDutch')]"
- independent_county_cath_dutch: "Vorstebisscopdom" #Placeholder
+ independent_county_cath_dutch: "Principatus Episcopalis"
  duke_theo_cath_dutch: "[CHARACTER.Custom('DukeCathDutch')]"
  duchy_theo_cath_dutch: "[CHARACTER.Custom('DuchyCathDutch')]"
- duke_default_male_cath_dutch: "Aertsbisscop"
- duchy_default_cath_dutch: "Aertsbisscopdom"
- kurfurst_duke_cath_dutch: "Cooraertsbisscop" #Placeholder
- kurfurst_duchy_cath_dutch: "Cooraertsbisscopdom" #Placeholder
- duke_theo_cath_dutch_independent: "Vorstertsbisscop" #Placeholder
+ duke_default_male_cath_dutch: "Archiepiscopus"
+ duchy_default_cath_dutch: "Archidioecesis"
+ kurfurst_duke_cath_dutch: "Archiepiscopus Elector"
+ kurfurst_duchy_cath_dutch: "Electoratus Archiepiscopalis"
+ duke_theo_cath_dutch_independent: "Princeps Archiepiscopus"
  duchy_theo_cath_dutch_independent: "[CHARACTER.Custom('IndepDuchyCathDutch')]"
- independent_duchy_cath_dutch: "Vorstertsbisscopdom" #Placeholder
- king_theo_cath_dutch: "Primaet"
- kingdom_theo_cath_dutch: "Primaetscap"
- emperor_theo_cath_dutch: "Patriarke"
- empire_theo_cath_dutch: "Patriarkaat"
+ independent_duchy_cath_dutch: "Principatus Archiepiscopalis"
+ king_theo_cath_dutch: "Primas"
+ kingdom_theo_cath_dutch: "Provincia Ecclesiastica"
+ emperor_theo_cath_dutch: "Patriarcha"
+ empire_theo_cath_dutch: "Patriarchatus"
  pope_man_arabic: "Bābā"
  pope_woman_arabic: "Māmā"
- grand_master_male_cath_arabic: "Sayyid al-'Akbar"
- grand_master_female_cath_arabic: "Sayyida al-'Akbar"
+ grand_master_male_cath_arabic: "al-Muʿallim al-Akbar"
+ grand_master_female_cath_arabic: "al-Muʿallima al-Kubrā"
  baron_male_theo_cath_arabic: "Qissīs"
  baron_female_theo_cath_arabic: "Qissīsa"
- barony_hold_cath_arabic: "'Usqufiyya"
- barony_theo_cath_arabic: "Qissīsiyya"
- count_male_theo_cath_arabic: "'Usquf"
- count_female_theo_cath_arabic: "'Usqufa"
- county_theo_cath_arabic: "'Usqufiyya"
- duke_male_theo_cath_arabic: "Ra'īs al-'Usāqifa"
- duke_female_theo_cath_arabic: "Ra'īsat al-'Usāqifa"
- duchy_theo_cath_arabic: "'Abrašiyya"
+ barony_hold_cath_arabic: "Ubrushiyya"
+ barony_theo_cath_arabic: "Riʾāsat al-Qasāwisa"
+ count_male_theo_cath_arabic: "Usquf"
+ count_female_theo_cath_arabic: "Usqufa"
+ county_theo_cath_arabic: "Ubrushiyya"
+ duke_male_theo_cath_arabic: "Raʾīs al-Asāqifa"
+ duke_female_theo_cath_arabic: "Raʾīsat al-Asāqifa"
+ duchy_theo_cath_arabic: "Ubrushiyya Raʾīsiyya"
  king_male_theo_cath_arabic: "Brīmas"
  king_female_theo_cath_arabic: "Brīmasa"
  kingdom_theo_cath_arabic: "Brīmasiyya"
  emperor_male_theo_cath_arabic: "Baṭriyark"
- emperor_female_theo_cath_arabic: "Maṭriyarka"
+ emperor_female_theo_cath_arabic: "Baṭriyarka"
  empire_theo_cath_arabic: "Baṭriyarkiyya"
- barons_cc_male_cath_andalusian: "Brišbiṭur"
- barons_cc_female_cath_andalusian: "Brišbiṭura"
- baron_male_theo_cath_andalusian: "'Arṣibrišbiṭur"
- baron_female_theo_cath_andalusian: "'Arṣibrišbiṭura"
- barony_hold_cath_andalusian: "Ri'āsa"
- barony_theo_cath_andalusian: "'Arṣibrišbiṭuriyya"
- count_male_theo_cath_andalusian: "Bišbū"
- count_female_theo_cath_andalusian: "Bišba"
- county_theo_cath_andalusian: "Ri'āsa"
- duke_male_theo_cath_andalusian: "'Arṣubišbū"
- duke_female_theo_cath_andalusian: "'Arṣubišba"
- duchy_theo_cath_andalusian: "'Arṣubišbiyya"
- pope_man_greek: "Papas"
- pope_woman_greek: "Papassa"
- count_male_theo_cath_greek: "Episkopos"
- count_female_theo_cath_greek: "Episkopissa"
- county_theo_cath_greek: "Dioikisis"
- duke_male_theo_cath_greek: "Archiepiskopos"
- duke_female_theo_cath_greek: "Archiepiskopissa"
- duchy_theo_cath_greek: "Archidioikisis"
+ barons_cc_male_cath_andalusian: "Presbyter"
+ barons_cc_female_cath_andalusian: "Presbytera"
+ baron_male_theo_cath_andalusian: "Archipresbyter"
+ baron_female_theo_cath_andalusian: "Archipresbytera"
+ barony_hold_cath_andalusian: "Dioecesis"
+ barony_theo_cath_andalusian: "Archipresbyteratus"
+ count_male_theo_cath_andalusian: "Episcopus"
+ count_female_theo_cath_andalusian: "Episcopa"
+ county_theo_cath_andalusian: "Dioecesis"
+ duke_male_theo_cath_andalusian: "Archiepiscopus"
+ duke_female_theo_cath_andalusian: "Archiepiscopa"
+ duchy_theo_cath_andalusian: "Archidioecesis"
+ pope_man_greek: "Pápas"
+ pope_woman_greek: "Pápissa"
+ count_male_theo_cath_greek: "Epískopos"
+ count_female_theo_cath_greek: "Episkópissa"
+ county_theo_cath_greek: "Eparchía"
+ duke_male_theo_cath_greek: "Archiepískopos"
+ duke_female_theo_cath_greek: "Archiepiskópissa"
+ duchy_theo_cath_greek: "Archiepiskopí"
  pope_man_serbian: "Papa"
  count_male_theo_cath_serbian: "Episkop"
- count_female_theo_cath_serbian: "Episkopija"
+ count_female_theo_cath_serbian: "Episkopica"
  county_theo_cath_serbian: "Eparhija"
- pope_man_pommeranian: "Papiéż"
- pope_woman_pommeranian: "Papiéżka"
- barons_cc_male_cath_pommeranian: "Pòp"
- barons_cc_female_cath_pommeranian: "Pòpka"
- baron_male_theo_cath_pommeranian: "Arcypòp"
- baron_female_theo_cath_pommeranian: "Arcypòpka"
- barony_hold_cath_pommeranian: "Biskùpstwò"
- barony_theo_cath_pommeranian: "Arcypòpstwò"
- count_male_theo_cath_pommeranian: "Biskùp"
- count_female_theo_cath_pommeranian: "Biskùpka"
- county_theo_cath_pommeranian: "Biskùpstwò"
- duke_male_theo_cath_pommeranian: "Arcëbiskùp"
- duke_female_theo_cath_pommeranian: "Arcëbiskùpka"
- duchy_theo_cath_pommeranian: "Arcybiskùpstwò"
- pope_man_czech: "Papež"
- pope_woman_czech: "Papežka"
- barons_cc_male_cath_czech: "Pop"
- barons_cc_female_cath_czech: "Popka"
- baron_male_theo_cath_czech: "Arcipop"
- baron_female_theo_cath_czech: "Arcipopka"
- barony_hold_cath_czech: "Biskupstvie"
- barony_theo_cath_czech: "Arcipopstvie"
- count_male_theo_cath_czech: "Biskup"
- count_female_theo_cath_czech: "Biskupka"
- county_theo_cath_czech: "Biskupstvie"
- duke_male_theo_cath_czech: "Arcibiskup"
- duke_female_theo_cath_czech: "Arcibiskupka"
- duchy_theo_cath_czech: "Arcibiskupstvie"
- pope_man_polish: "Papież"
- pope_woman_polish: "Papieżyca"
- grand_master_male_cath_polish: "Wielki Mistrz"
- grand_master_female_cath_polish: "Wielka Mistrzyni"
- barons_cc_male_cath_polish: "Pop"
- barons_cc_female_cath_polish: "Popka"
- baron_male_theo_cath_polish: "Arcypop"
- baron_female_theo_cath_polish: "Arcypopka"
- barony_hold_cath_polish: "Biskupstwo"
- barony_theo_cath_polish: "Arcypopstwo"
- count_male_theo_cath_polish: "Biskup"
- count_female_theo_cath_polish: "Biskupka"
- county_theo_cath_polish: "Biskupstwo"
- duke_male_theo_cath_polish: "Arcybiskup"
- duke_female_theo_cath_polish: "Arcybiskupka"
- duchy_theo_cath_polish: "Arcybiskupstwo"
- king_male_theo_cath_polish: "Prymas"
- king_female_theo_cath_polish: "Prymaska"
- kingdom_theo_cath_polish: "Prymasostwo"
+ pope_man_pommeranian: "Pontifex Maximus"
+ pope_woman_pommeranian: "Pontifex Maxima"
+ barons_cc_male_cath_pommeranian: "Presbyter"
+ barons_cc_female_cath_pommeranian: "Presbytera"
+ baron_male_theo_cath_pommeranian: "Archipresbyter"
+ baron_female_theo_cath_pommeranian: "Archipresbytera"
+ barony_hold_cath_pommeranian: "Dioecesis"
+ barony_theo_cath_pommeranian: "Archipresbyteratus"
+ count_male_theo_cath_pommeranian: "Episcopus"
+ count_female_theo_cath_pommeranian: "Episcopa"
+ county_theo_cath_pommeranian: "Dioecesis"
+ duke_male_theo_cath_pommeranian: "Archiepiscopus"
+ duke_female_theo_cath_pommeranian: "Archiepiscopa"
+ duchy_theo_cath_pommeranian: "Archidioecesis"
+ pope_man_czech: "Pontifex Maximus"
+ pope_woman_czech: "Pontifex Maxima"
+ barons_cc_male_cath_czech: "Presbyter"
+ barons_cc_female_cath_czech: "Presbytera"
+ baron_male_theo_cath_czech: "Archipresbyter"
+ baron_female_theo_cath_czech: "Archipresbytera"
+ barony_hold_cath_czech: "Dioecesis"
+ barony_theo_cath_czech: "Archipresbyteratus"
+ count_male_theo_cath_czech: "Episcopus"
+ count_female_theo_cath_czech: "Episcopa"
+ county_theo_cath_czech: "Dioecesis"
+ duke_male_theo_cath_czech: "Archiepiscopus"
+ duke_female_theo_cath_czech: "Archiepiscopa"
+ duchy_theo_cath_czech: "Archidioecesis"
+ pope_man_polish: "Pontifex Maximus"
+ pope_woman_polish: "Pontifex Maxima"
+ grand_master_male_cath_polish: "Magister Generalis"
+ grand_master_female_cath_polish: "Magistra Generalis"
+ barons_cc_male_cath_polish: "Presbyter"
+ barons_cc_female_cath_polish: "Presbytera"
+ baron_male_theo_cath_polish: "Archipresbyter"
+ baron_female_theo_cath_polish: "Archipresbytera"
+ barony_hold_cath_polish: "Dioecesis"
+ barony_theo_cath_polish: "Archipresbyteratus"
+ count_male_theo_cath_polish: "Episcopus"
+ count_female_theo_cath_polish: "Episcopa"
+ county_theo_cath_polish: "Dioecesis"
+ duke_male_theo_cath_polish: "Archiepiscopus"
+ duke_female_theo_cath_polish: "Archiepiscopa"
+ duchy_theo_cath_polish: "Archidioecesis"
+ king_male_theo_cath_polish: "Primas"
+ king_female_theo_cath_polish: "Primas"
+ kingdom_theo_cath_polish: "Provincia Ecclesiastica"
  emperor_male_theo_cath_polish: "Patriarcha"
- emperor_female_theo_cath_polish: "Patriarchini"
- empire_theo_cath_polish: "Patriarchat"
+ emperor_female_theo_cath_polish: "Patriarcha"
+ empire_theo_cath_polish: "Patriarchatus"
  pope_man_russian: "Papa"
  pope_woman_russian: "Papessa"
  barons_cc_male_cath_russian: "Pop"
- baron_male_theo_cath_russian: "Arkhipop"
- barony_hold_cath_russian: "Jeparkhiya"
- barony_theo_cath_russian: "Arkhipopestvo"
+ baron_male_theo_cath_russian: "Protopop"
+ barony_hold_cath_russian: "Jeparkhija"
+ barony_theo_cath_russian: "Protopopija"
  count_male_theo_cath_russian: "Jepiskop"
- county_theo_cath_russian: "Jeparkhiya"
+ county_theo_cath_russian: "Jeparkhija"
  duke_male_theo_cath_russian: "Arkhijepiskop"
- duchy_theo_cath_russian: "Arkhijeparkhiya"
+ duchy_theo_cath_russian: "Arkhijeparkhija"
+
  knight_culture_player: "[GetPlayer.Custom( 'KnightCulture' )]"
  knight_culture_player_no_tooltip: "[GetPlayer.Custom( 'KnightCultureNoTooltip' )]"
  knight_culture_player_no_tooltip_lowercase: "[GetPlayer.Custom( 'KnightCultureNoTooltipLowercase' )]"

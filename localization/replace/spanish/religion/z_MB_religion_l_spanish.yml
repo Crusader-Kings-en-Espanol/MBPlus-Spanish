@@ -2342,7 +2342,7 @@
 
  # Iglesia apostólica albanesa
  albanian_apostolic: "Iglesia apostólica albanesa"
- albanian_apostolic_adj: "Rito apostólico albanés"
+ albanian_apostolic_adj: "Rito albanés"
  albanian_apostolic_adherent: "Cristiano apostólico albanés"
  albanian_apostolic_adherent_plural: "Cristianos apostólicos albaneses"
  albanian_apostolic_desc: "La Iglesia apostólica albanesa representa una tradición del cristianismo oriental arraigada entre las comunidades de Albania caucásica, especialmente en las tierras de Aghvank, situadas entre el río Kurá y las montañas del Cáucaso. Sus fieles conservan una identidad religiosa propia, vinculada a las tradiciones apostólicas locales y a la veneración de san Grigoris, nieto de Gregorio el Iluminador, cuyo santuario de Amaras constituye uno de sus principales centros espirituales. Su liturgia comparte elementos con las tradiciones cristianas armenia y caucásica, mientras que la conservación de las Escrituras y las costumbres religiosas locales desempeña un papel fundamental en la vida comunitaria. Su organización eclesiástica se articula en torno a un catolicós, asistido por obispos, sacerdotes y comunidades monásticas, que mantiene estrechos vínculos con la Iglesia armenia. La autonomía de su jerarquía y la conservación de sus tradiciones regionales constituyen los principales rasgos de su identidad cristiana."
@@ -2369,8 +2369,8 @@
  aquileian_church_desc: "El rito aquileano es una tradición litúrgica del cristianismo latino vinculada al patriarcado de Aquilea y a las comunidades eclesiásticas del nordeste de Italia y las regiones adriáticas. Sus fieles profesan las principales doctrinas del cristianismo occidental y conservan ceremonias, plegarias, cantos y costumbres religiosas propias que distinguen su culto del rito romano. Su tradición litúrgica refleja la herencia de la antigua Iglesia de Aquilea y concede especial importancia a la celebración solemne de la Eucaristía, el calendario de festividades locales y la veneración de los santos regionales. La organización eclesiástica se articula en torno al patriarca de Aquilea, cuya autoridad se extiende sobre diversas diócesis y comunidades religiosas. La conservación de sus particularidades ceremoniales y la defensa de las prerrogativas de su sede patriarcal constituyen elementos fundamentales de su identidad religiosa."
 
  # Arrianismo
- arianism: "Arrianismo"
- arianism_adj: "Arriano"
+ arianism: "Cristianismo Arriano"
+ arianism_adj: "Arrianismo"
  arianism_adherent: "Cristiano arriano"
  arianism_adherent_plural: "Cristianos arrianos"
  arianism_desc: "El arrianismo es una doctrina cristológica asociada a las enseñanzas de Arrio, presbítero de Alejandría, que sostiene que Jesucristo es el Hijo de Dios, engendrado por el Padre, pero no coeterno ni consustancial con él. Sus seguidores consideran que el Padre es el único Dios supremo, eterno e increado, mientras que el Hijo, aunque anterior a toda la creación y superior a las demás criaturas, recibe su existencia y autoridad del Padre. Esta interpretación establece una distinción jerárquica entre las personas divinas y rechaza la igualdad de naturaleza defendida por el cristianismo niceno. Los arrianos conservan las Escrituras, el bautismo, la Eucaristía y una organización eclesiástica encabezada por obispos y sacerdotes, aunque interpretan las relaciones entre el Padre, el Hijo y el Espíritu Santo conforme a sus propias enseñanzas. Su tradición religiosa mantiene una presencia especialmente importante entre diversos pueblos germánicos, como los godos, vándalos y lombardos, cuyas comunidades combinan las prácticas cristianas con sus propias lenguas y costumbres."
@@ -2701,11 +2701,11 @@
  romagyris_melkite_desc: "Los melquitas de Romagyris representan una comunidad del cristianismo oriental calcedoniano arraigada entre las poblaciones de tradición romana y griega de Mesopotamia y Persia. Sus fieles profesan que Jesucristo posee dos naturalezas, divina y humana, unidas en una sola persona, y reconocen la autoridad espiritual del patriarca de Antioquía. Su tradición litúrgica conserva elementos del cristianismo antioqueno y de las ceremonias bizantinas, concediendo especial importancia a la celebración de la Eucaristía, la veneración de los iconos, el culto a los santos y la vida monástica. El griego y el árabe ocupan un lugar destacado en sus comunidades, reflejando la diversidad cultural del cristianismo oriental. Su organización eclesiástica se articula en torno a un catolicós que dirige las diócesis y comunidades bajo su jurisdicción, manteniendo vínculos con el patriarcado antioqueno. Su identidad religiosa se fundamenta en la conservación de la doctrina calcedoniana y de las tradiciones eclesiásticas de origen romano dentro de un entorno caracterizado por la coexistencia de diversas confesiones cristianas."
 
  # Catolicismo
- catholic: "Catolicismo"
- catholic_adj: "catolicismo"
- catholic_adherent: "Católico"
- catholic_adherent_plural: "Católicos"
- catholic_desc: "La Iglesia Católica se considera continuadora de la Iglesia una, santa, católica y apostólica, y reconoce al obispo de Roma, sucesor de san Pedro, como cabeza visible de la Iglesia y autoridad suprema en materia espiritual. Fundamenta esta primacía en la misión confiada por Cristo a Pedro y sostiene la comunión con la sede romana como principio de unidad de la Iglesia."
+ catholic: "Iglesia católica romana"
+ catholic_adj: "Cristianismo Católico"
+ catholic_adherent: "Cristiano Católico"
+ catholic_adherent_plural: "Cristianos Católicos"
+ catholic_desc: "La Iglesia católica romana se considera continuadora de la Iglesia una, santa, católica y apostólica, y afirma conservar la fe transmitida por los apóstoles, expresada en las Sagradas Escrituras, la Sagrada Tradición, las enseñanzas de los Padres de la Iglesia y las decisiones de los concilios ecuménicos. Sus fieles profesan la doctrina de la Santísima Trinidad y reconocen que Jesucristo posee dos naturalezas, divina y humana, unidas inseparablemente en una sola persona. Su vida religiosa se fundamenta en la celebración de los sacramentos, especialmente la Eucaristía, la veneración de la Virgen María y los santos, la observancia de los ayunos y la importancia de la vida monástica. Su organización eclesiástica se articula en torno a una jerarquía de obispos y arzobispos, bajo la autoridad del obispo de Roma, considerado sucesor de san Pedro y cabeza visible de la Iglesia. Fundamenta la primacía del pontífice romano en la misión confiada por Cristo al apóstol Pedro y reconoce su autoridad suprema sobre la Iglesia universal, considerando la comunión con la sede apostólica de Roma como principio fundamental de unidad doctrinal y eclesiástica."
 
  # Ortodoxia occidental
  roman_orthodox: "Ortodoxia occidental"
@@ -2985,11 +2985,11 @@
  jovinian_desc: "El jovinianismo es una corriente cristiana que rechaza la superioridad espiritual del celibato, la virginidad consagrada y la vida ascética sobre el matrimonio. Sus seguidores sostienen que los cristianos casados y célibes poseen la misma dignidad ante Dios y que las prácticas de abstinencia y mortificación no conceden por sí mismas una mayor santidad. Defienden que la verdadera virtud reside en la fe sincera, la pureza del corazón y la obediencia a los mandamientos divinos. También conceden especial importancia al bautismo y a la perseverancia en la gracia, considerando que los fieles que permanecen en ella participan de una misma recompensa celestial."
 
  # Cristianismo ortodoxo
- orthodox: "Cristianismo ortodoxo"
- orthodox_adj: "Ortodoxo"
- orthodox_adherent: "Ortodoxo"
- orthodox_adherent_plural: "Ortodoxos"
- orthodox_desc: "El cristianismo ortodoxo se considera continuador de la Iglesia una, santa, católica y apostólica, conservando la fe transmitida por los apóstoles y expresada en las Sagradas Escrituras, la tradición de los Padres de la Iglesia y las enseñanzas de los siete concilios ecuménicos. Sus fieles profesan la doctrina trinitaria y reconocen que Jesucristo posee dos naturalezas, divina y humana, unidas inseparablemente en una sola persona. Su culto sigue la tradición litúrgica bizantina, caracterizada por la celebración de la Divina Liturgia, la veneración de los iconos, el culto a los santos, la observancia de los ayunos y la importancia de la vida monástica. Su organización eclesiástica se articula en torno a una comunión de Iglesias gobernadas por obispos, metropolitanos y patriarcas, unidos por una misma fe y tradición sacramental. Reconocen una primacía honorífica entre las sedes patriarcales, pero rechazan que cualquier obispo posea jurisdicción universal sobre toda la Iglesia, defendiendo la autoridad colegiada de los obispos y los concilios."
+ orthodox: "Iglesia católica ortodoxa"
+ orthodox_adj: "Cristianismo Ortodoxo"
+ orthodox_adherent: "Cristiano Ortodoxo"
+ orthodox_adherent_plural: "Cristianos Ortodoxos"
+ orthodox_desc: "La Iglesia católica ortodoxa se considera continuadora de la Iglesia una, santa, católica y apostólica, y afirma conservar íntegramente la fe transmitida por los apóstoles, expresada en las Sagradas Escrituras, la Sagrada Tradición, las enseñanzas de los Padres de la Iglesia y las decisiones de los siete concilios ecuménicos. Sus fieles profesan la doctrina de la Santísima Trinidad y reconocen que Jesucristo posee dos naturalezas, divina y humana, unidas inseparablemente en una sola persona. Su vida religiosa se desarrolla principalmente según la tradición litúrgica bizantina, caracterizada por la celebración de la Divina Liturgia, la veneración de los iconos, la intercesión de los santos, la observancia de los ayunos y la importancia de la vida monástica. Su organización eclesiástica se fundamenta en la comunión de Iglesias gobernadas por obispos, metropolitanos y patriarcas, unidos por una misma fe y tradición sacramental. Reconoce la primacía de honor entre las sedes patriarcales, pero rechaza la jurisdicción universal de un único obispo sobre toda la Iglesia, defendiendo la autoridad colegiada del episcopado y de los concilios ecuménicos."
 
  # Cristianismo mozárabe
  mozarabic_church: "Rito mozárabe"
@@ -3275,11 +3275,11 @@
 
  # Cristianismo armenio
  # Cristianismo apostólico armenio
- armenian_apostolic: "Cristianismo armenio"
- armenian_apostolic_adj: "Apostólico armenio"
+ armenian_apostolic: "Iglesia apostólica armenia"
+ armenian_apostolic_adj: "Cristianismo Apostólico armenio"
  armenian_apostolic_adherent: "Cristiano apostólico armenio"
  armenian_apostolic_adherent_plural: "Cristianos apostólicos armenios"
- armenian_apostolic_desc: "El cristianismo armenio tiene sus orígenes en la predicación atribuida a los apóstoles Tadeo y Bartolomé, aunque su consolidación como religión del reino de Armenia está estrechamente vinculada a la labor evangelizadora de san Gregorio el Iluminador y a la conversión del rey Tiridates III. La Iglesia apostólica armenia desarrolló una identidad propia, fortalecida por la creación del alfabeto armenio por Mesrop Mashtots y la traducción de las Escrituras a la lengua del país. Su tradición teológica pertenece al cristianismo ortodoxo oriental y rechaza las definiciones cristológicas del Concilio de Calcedonia, manteniendo una doctrina miafisita sobre la naturaleza de Cristo. Su liturgia conserva elementos propios de las antiguas tradiciones de Jerusalén, Siria y Capadocia, mientras que la autoridad del catolicós garantiza la continuidad de una jerarquía eclesiástica independiente. A pesar de las invasiones y de la dominación de diversos imperios, la Iglesia armenia ha desempeñado un papel fundamental en la conservación de la identidad religiosa y cultural de su pueblo."
+ armenian_apostolic_desc: "La Iglesia apostólica armenia se considera heredera de la predicación de los apóstoles Tadeo y Bartolomé, y reconoce en san Gregorio el Iluminador al principal evangelizador de Armenia, cuya labor conduce a la conversión del rey Tiridates III y a la adopción del cristianismo como religión del reino. Su tradición se fundamenta en las Sagradas Escrituras, las enseñanzas de los Padres de la Iglesia y los tres primeros concilios ecuménicos, y pertenece a la comunión de las Iglesias ortodoxas orientales. Rechaza las definiciones cristológicas del Concilio de Calcedonia y profesa una doctrina miafisita, según la cual las naturalezas divina y humana de Jesucristo permanecen unidas en una sola naturaleza encarnada, sin confusión ni separación. Su vida religiosa se caracteriza por la celebración de la Divina Liturgia según el rito armenio, la veneración de los santos, la observancia de los ayunos y la importancia de la vida monástica. La creación del alfabeto armenio por Mesrop Mashtots y la traducción de las Escrituras fortalecen su identidad religiosa y cultural. Su organización eclesiástica se articula en torno a una jerarquía de obispos bajo la autoridad de los catolicós, quienes preservan la continuidad de su tradición apostólica y la autonomía de la Iglesia frente a las autoridades eclesiásticas extranjeras."
 
  # Rito cilicio
  cilician_rite: "Rito cilicio"
