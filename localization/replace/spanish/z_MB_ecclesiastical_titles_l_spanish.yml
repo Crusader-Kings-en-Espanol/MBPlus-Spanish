@@ -34,7 +34,7 @@
  BYUANBEIJING: "Dàdū Fǔ"
  CALIPHATE_OF_CORDOBA: "El Califato de Córdoba"
  ### Cardinals
- d_cd_cardinalate_prefix: "Cardinalate"
+ d_cd_cardinalate_prefix: "Cardenalato"
  CE3_CARDINAL_DYNAMIC_TITLE_NAME_PERSON: "[cardinal_recipient.GetFirstNameNoTooltip]"
  CE3_CARDINAL_DYNAMIC_TITLE_NAME_TEMPLE: "[cardinal_temple_barony.GetNameNoTierNoTooltip]"
  CE3_CARDINAL_DYNAMIC_TITLE_NAME_CAPITAL_BARONY: "[capital_barony.GetNameNoTierNoTooltip]"
@@ -53,66 +53,66 @@
  d_cd_palestrina: "Palestrina"
  d_cd_sabina: "Sabina"
  d_cd_san_ciriaco: "San Ciriaco"
- d_cd_san_lorenzo: "San Lorenzo in Lucina"
+ d_cd_san_lorenzo: "San Lorenzo en Lucina"
  d_cd_santa_cecilia: "Santa Cecilia"
  d_cd_santa_balbina: "Santa Balbina"
- d_cd_san_pietro: "San Pietro"
- d_cd_santa_anastasia: "Sant'Anastasia"
- d_cd_damaso: "San Lorenzo in Damaso"
+ d_cd_san_pietro: "San Pedro"
+ d_cd_santa_anastasia: "Santa Anastasia"
+ d_cd_damaso: "San Lorenzo en Dámaso"
  d_cd_santa_rufina: "Santa Rufina"
 
  # 1066
  d_cd_santa_sabina: "Santa Sabina"
- d_cd_santa_maria: "Santa Maria in Domnica"
- d_cd_santa_prassede: "Santa Prassede"
- d_cd_santi_cosma_e_damiano: "Santi Cosma e Damiano"
- d_cd_san_stefano: "Santo Stefano"
+ d_cd_santa_maria: "Santa María en Domnica"
+ d_cd_santa_prassede: "Santa Práxedes"
+ d_cd_santi_cosma_e_damiano: "Santos Cosme y Damián"
+ d_cd_san_stefano: "San Esteban"
  d_cd_san_clemente: "San Clemente"
- d_cd_trastevere: "Santa Maria in Trastevere"
- d_cd_santi_silvestro_e_martino: "Santi Silvestro e Martino"
+ d_cd_trastevere: "Santa María en Trastévere"
+ d_cd_santi_silvestro_e_martino: "Santos Silvestre y Martín"
 
  # 1178
- d_cd_santi_nereo_ed_achilleo: "Santi Nereo ed Achilleo"
- d_cd_san_eustachio: "Sant'Eustachio"
- d_cd_santa_maria_nuova: "Santa Maria Nuova"
+ d_cd_santi_nereo_ed_achilleo: "Santos Nereo y Aquileo"
+ d_cd_san_eustachio: "San Eustaquio"
+ d_cd_santa_maria_nuova: "Santa María la Nueva"
  d_cd_san_teodoro: "San Teodoro"
- d_cd_san_adriano: "Sant'Adriano"
- d_cd_san_marcello: "San Marcello"
- d_cd_san_vitale: "San Vitale"
- d_cd_san_angelo: "Sant'Angelo"
- d_cd_santa_croce: "Santa Croce"
- d_cd_portico_octaviae: "Santa Maria in Portico"
- d_cd_san_crisogono: "San Crisogono"
- d_cd_san_giorgio: "San Giorgio"
- d_cd_cosmedin: "Santa Maria in Cosmedin"
- d_cd_san_marco: "San Marco"
- d_cd_santi_apostoli: "Santi Dodici Apostoli"
- d_cd_santa_pudenziana: "Santa Pudenziana"
- d_cd_san_eusebio: "Sant'Eusebio"
- d_cd_santi_sergio_e_bacco: "Santi Sergio e Bacco"
- d_cd_san_nicola: "San Nicola"
+ d_cd_san_adriano: "San Adriano"
+ d_cd_san_marcello: "San Marcelo"
+ d_cd_san_vitale: "San Vital"
+ d_cd_san_angelo: "Santo Ángel"
+ d_cd_santa_croce: "Santa Cruz"
+ d_cd_portico_octaviae: "Santa María en Pórtico"
+ d_cd_san_crisogono: "San Crisógono"
+ d_cd_san_giorgio: "San Jorge"
+ d_cd_cosmedin: "Santa María en Cosmedín"
+ d_cd_san_marco: "San Marcos"
+ d_cd_santi_apostoli: "Santos Doce Apóstoles"
+ d_cd_santa_pudenziana: "Santa Pudenciana"
+ d_cd_san_eusebio: "San Eusebio"
+ d_cd_santi_sergio_e_bacco: "Santos Sergio y Baco"
+ d_cd_san_nicola: "San Nicolás"
  d_cd_santa_prisca: "Santa Prisca"
- d_cd_santi_giovanni_e_paolo: "Santi Giovanni e Paolo"
+ d_cd_santi_giovanni_e_paolo: "Santos Juan y Pablo"
 
- # Extra post-1178
- d_cd_quattro_coronati: "Santi Quattro Coronati"
- d_cd_santa_agata: "Sant'Agata"
- d_cd_san_sisto: "San Sisto Vecchio"
- d_cd_santa_susanna: "Santa Susanna"
- d_cd_santa_lucia: "Santa Lucia"
- d_cd_via: "Santa Maria in Via"
- d_cd_san_apollinare: "Sant'Apollinare"
- d_cd_san_callisto: "San Callisto"
- d_cd_santa_agnese: "Sant'Agnese"
- d_cd_san_bartolomeo: "San Bartolomeo"
+ # Extra posteriores a 1178
+ d_cd_quattro_coronati: "Santos Cuatro Coronados"
+ d_cd_santa_agata: "Santa Águeda"
+ d_cd_san_sisto: "San Sixto el Viejo"
+ d_cd_santa_susanna: "Santa Susana"
+ d_cd_santa_lucia: "Santa Lucía"
+ d_cd_via: "Santa María en Vía"
+ d_cd_san_apollinare: "San Apolinar"
+ d_cd_san_callisto: "San Calixto"
+ d_cd_santa_agnese: "Santa Inés"
+ d_cd_san_bartolomeo: "San Bartolomé"
 
  d_cd_ostia_velletri: "Ostia-Velletri"
  d_cd_porto_santa_rufina: "Porto-Santa Rufina"
 
- ### Ecclesiastical Title
- d_et_archdiocese_prefix: "Archdiocese"
- d_et_patriarchate_prefix: "Patriarchate"
- d_et_metropolitanate_prefix: "Metropolitanate"
+ ### Títulos eclesiásticos
+ d_et_archdiocese_prefix: "Arquidiócesis"
+ d_et_patriarchate_prefix: "Patriarcado"
+ d_et_metropolitanate_prefix: "Metropolitanato"
 
  ## Hispania
  # Toledo
@@ -121,35 +121,34 @@
  d_et_santiago: "Santiago"
  # Tarragona
  d_et_tarragona: "Tarragona"
- # Tarragona
+ # Zaragoza
  d_et_zaragoza: "Zaragoza"
  # Sevilla
  d_et_sevilla: "Sevilla"
  # Braga
  d_et_braga: "Braga"
- # Merida
- d_et_merida: "Merida"
+ # Mérida
+ d_et_merida: "Mérida"
  # Tingitana
  d_et_tingitana: "Tingitana"
- # Canterbury
 
- ## Britain
+ ## Britania
  # York
  d_et_york: "York"
  # Tuam
  d_et_tuam: "Tuam"
- # Dublin
- d_et_dublin: "Dublin"
+ # Dublín
+ d_et_dublin: "Dublín"
  # Cashel
  d_et_cashel: "Cashel"
  # Armagh
  d_et_armagh: "Armagh"
  # Canterbury
  d_et_canterbury: "Canterbury"
- 
- ## Gaul
- # Rouen
- d_et_rouen: "Rouen"
+
+ ## Galia
+ # Ruan
+ d_et_rouen: "Ruan"
  # Reims
  d_et_reims: "Reims"
  # Sens
@@ -158,8 +157,8 @@
  d_et_tours: "Tours"
  # Bourges
  d_et_bourges: "Bourges"
- # Bordeaux
- d_et_bordeaux: "Bordeaux"
+ # Burdeos
+ d_et_bordeaux: "Burdeos"
  # Lyon
  d_et_lyon: "Lyon"
  # Tarentaise
@@ -170,48 +169,48 @@
  d_et_eauze: "Eauze"
  # Auch
  d_et_auch: "Auch"
- # Narbonne
- d_et_narbonne: "Narbonne"
- # Besançon
- d_et_besancon: "Besançon"
- # Arles
- d_et_arles: "Arles"
+ # Narbona
+ d_et_narbonne: "Narbona"
+ # Besanzón
+ d_et_besancon: "Besanzón"
+ # Arlés
+ d_et_arles: "Arlés"
  # Aix
  d_et_aix: "Aix"
  # Embrun
  d_et_embrun: "Embrun"
 
- ## Italy
- # Milano
- d_et_milano: "Milano"
- # Genoa
- d_et_genoa: "Genoa"
+ ## Italia
+ # Milán
+ d_et_milano: "Milán"
+ # Génova
+ d_et_genoa: "Génova"
  # Cagliari
  d_et_cagliari: "Cagliari"
  # Torres
  d_et_torres: "Torres"
  # Oristano
  d_et_oristano: "Oristano"
- # Reggio Calabria
- d_et_reggio_calabria: "Reggio Calabria"
+ # Regio de Calabria
+ d_et_reggio_calabria: "Regio de Calabria"
  # Cosenza
  d_et_cosenza: "Cosenza"
- # Messina
- d_et_messina: "Messina"
+ # Mesina
+ d_et_messina: "Mesina"
  # Palermo
  d_et_palermo: "Palermo"
  # Santa Severina
  d_et_santa_severina: "Santa Severina"
- # Ravenna
- d_et_ravenna: "Ravenna"
+ # Rávena
+ d_et_ravenna: "Rávena"
  # Roma
  d_et_roma: "Roma"
  # Pisa
  d_et_pisa: "Pisa"
  # Capua
  d_et_capua: "Capua"
- # Napoli
- d_et_napoli: "Napoli"
+ # Nápoles
+ d_et_napoli: "Nápoles"
  # Salerno
  d_et_salerno: "Salerno"
  # Benevento
@@ -220,10 +219,10 @@
  d_et_bari: "Bari"
  # Trani
  d_et_trani: "Trani"
- # Brindisi
- d_et_brindisi: "Brindisi"
- # Aquileia
- d_et_aquileia: "Aquileia"
+ # Bríndisi
+ d_et_brindisi: "Bríndisi"
+ # Aquilea
+ d_et_aquileia: "Aquilea"
  # Esztergom
  d_et_esztergom: "Esztergom"
  # Kalocsa
@@ -235,61 +234,61 @@
  # Ragusa
  d_et_ragusa: "Ragusa"
 
- ## Germany
- # Salzburg
- d_et_salzburg: "Salzburg"
- # Trier
- d_et_trier: "Trier"
+ ## Germania
+ # Salzburgo
+ d_et_salzburg: "Salzburgo"
+ # Tréveris
+ d_et_trier: "Tréveris"
  # Gniezno
  d_et_gniezno: "Gniezno"
- # Mainz
- d_et_mainz: "Mainz"
- # Magdeburg
- d_et_magdeburg: "Magdeburg"
- # Cologne
- d_et_cologne: "Cologne"
- # Hamburg
- d_et_hamburg: "Hamburg"
- # Hamburg-Bremen, replaces d_et_hamburg
- d_et_hamburg_bremen: "Hamburg-Bremen"
+ # Maguncia
+ d_et_mainz: "Maguncia"
+ # Magdeburgo
+ d_et_magdeburg: "Magdeburgo"
+ # Colonia
+ d_et_cologne: "Colonia"
+ # Hamburgo
+ d_et_hamburg: "Hamburgo"
+ # Hamburgo-Bremen, sustituye a d_et_hamburg
+ d_et_hamburg_bremen: "Hamburgo-Bremen"
  # Lund
  d_et_lund: "Lund"
- # Uppsala
- d_et_uppsala: "Uppsala"
+ # Upsala
+ d_et_uppsala: "Upsala"
  # Nidaros
  d_et_nidaros: "Nidaros"
 
- ## Balkans
- # Kyiv
- d_et_kyiv: "Kyiv"
- # Constantinople
- d_et_constantinople: "Constantinople"
+ ## Balcanes
+ # Kiev
+ d_et_kyiv: "Kiev"
+ # Constantinopla
+ d_et_constantinople: "Constantinopla"
 
  ## Asia
- # Jerusalem
- d_et_jerusalem: "Jerusalem"
- # Antioch
- d_et_antioch: "Antioch"
- # Cyprus
- d_et_cyprus: "Church of Cyprus"
+ # Jerusalén
+ d_et_jerusalem: "Jerusalén"
+ # Antioquía
+ d_et_antioch: "Antioquía"
+ # Chipre
+ d_et_cyprus: "Iglesia de Chipre"
  # Georgia
  d_et_georgia: "Georgia"
  # Kartli
  d_et_kartli: "Kartli"
  # Armenia
  d_et_armenia: "Armenia"
- # Seleucia-Ctesiphon
- d_et_seleucia_ctesiphon: "Seleucia-Ctesiphon"
- # Tyre
- d_et_tyre: "Tyre"
+ # Seleucia-Ctesifonte
+ d_et_seleucia_ctesiphon: "Seleucia-Ctesifonte"
+ # Tiro
+ d_et_tyre: "Tiro"
 
- ## Africa
- # Alexandria
- d_et_alexandria: "Alexandria"
+ ## África
+ # Alejandría
+ d_et_alexandria: "Alejandría"
  # Axum
  d_et_axum: "Axum"
- # Africa
- d_et_africa: "Carthage"
+ # Cartago
+ d_et_africa: "Cartago"
 
  CALIPHATE_OF_CORDOBA_adj: "Córdobés"
  CALIPHATE_OF_CORDOBA_article: "el "
