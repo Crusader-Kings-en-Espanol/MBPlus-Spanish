@@ -10633,33 +10633,28 @@
 
  # Herencia religiosa
  special_faith_no_special_heritage_name: "Sin herencia particular"
-
  special_faith_has_germanic_heritage_name: "Herencia germánica"
-
  special_faith_teachings_of_ulfilas_name: "Enseñanzas de Ulfilas"
-
  unavailable_doctrine_name: "Oculto"
-
  unavailable_name: "Oculto"
-
  doctrine_parameter_hostility_override_special_faith_has_germanic_heritage: "Considera las demás [faiths|E] con la [doctrine|E] #V $special_faith_has_germanic_heritage_name$#! [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V], y estas la consideran del mismo modo."
 
  ## Fes, dioses y términos religiosos
 
- # Norcaucásico
+ # Paganismo norcaucásico
  khabzism_religion: "Paganismo norcaucásico"
  khabzism_religion_adj: "Paganismo norcaucásico"
- khabzism_religion_adherent: "Pagano norcaucásico"
- khabzism_religion_adherent_plural: "Paganos norcaucásicos"
- khabzism_religion_desc: "Las religiones tradicionales de los pueblos del Cáucaso septentrional comprenden diversas creencias vinculadas a las divinidades celestiales, las fuerzas de la naturaleza y la veneración de los antepasados. Aunque sus prácticas presentan importantes diferencias entre comunidades, comparten la consideración sagrada de determinados bosques, árboles, montañas y otros lugares naturales. Las ceremonias colectivas, las plegarias y las ofrendas expresan los vínculos entre el orden espiritual, las costumbres ancestrales y la vida comunitaria."
+ khabzism_religion_adherent: "pagano norcaucásico"
+ khabzism_religion_adherent_plural: "paganos norcaucásicos"
+ khabzism_religion_desc: "El paganismo norcaucásico comprende las tradiciones religiosas de diversos pueblos del Cáucaso septentrional, fundamentadas en la veneración de las divinidades celestiales, los espíritus de la naturaleza y los antepasados. Aunque estas comunidades conservan creencias y prácticas particulares, comparten la consideración sagrada de determinados bosques, árboles, montañas y otros lugares naturales. Las divinidades y los espíritus tutelares intervienen en la protección de los hogares, la fertilidad de los campos y la prosperidad de las comunidades. Las ceremonias colectivas, las plegarias, los sacrificios y las ofrendas expresan los vínculos entre el mundo espiritual, las costumbres ancestrales y la vida comunitaria. La transmisión oral de los relatos tradicionales y el respeto a las normas consuetudinarias contribuyen a preservar la memoria religiosa de los linajes."
 
- # Paganismo caucásico: Khabzismo
- khabzism: "Khabzismo"
+ # Paganismo circasiano
+ khabzism: "Paganismo circasiano"
  khabzism_adj: "Khabzismo"
- khabzism_adherent: "Khabzista"
- khabzism_adherent_plural: "Khabzistas"
- khabzism_desc: "El khabzismo comprende las tradiciones religiosas ancestrales de los pueblos circasianos, fundamentadas en la veneración de Tha, también conocido como Tkha, divinidad suprema asociada con la creación y el orden del universo. Junto a esta figura se reconocen numerosas divinidades y entidades espirituales vinculadas a la naturaleza, la fertilidad, la protección de los hogares y las actividades humanas. La conducta de los fieles se rige por las costumbres tradicionales del khabze, que conceden especial importancia al honor, la hospitalidad, el respeto a los mayores y el cumplimiento de las obligaciones comunitarias. Las ceremonias colectivas, las plegarias y las ofrendas celebradas en lugares sagrados expresan la relación entre el comportamiento moral, la veneración de los antepasados y la armonía con el orden divino."
- khabzism_high_god_name: "Tkhashkho" #Тхьэгъалэдж
+ khabzism_adherent: "khabzista"
+ khabzism_adherent_plural: "khabzistas"
+ khabzism_desc: "El paganismo circasiano comprende las creencias tradicionales de los pueblos circasianos del Cáucaso noroccidental, fundamentadas en la veneración de Tha, también llamado Tkha, divinidad suprema asociada con la creación y el orden del universo. Junto a esta figura se reconocen numerosas divinidades y entidades espirituales vinculadas a la naturaleza, la fertilidad, la protección de los hogares y las actividades humanas. Las costumbres ancestrales, conocidas como khabze, regulan la conducta de las comunidades y conceden especial importancia al honor, la hospitalidad, el respeto a los mayores y el cumplimiento de las obligaciones colectivas. Los bosques, los árboles y otros lugares sagrados acogen ceremonias, plegarias y ofrendas destinadas a obtener el favor de las divinidades. Los relatos de los nartos conservan numerosos elementos de la tradición mitológica circasiana, mientras que la veneración de los antepasados y las celebraciones comunitarias mantienen los vínculos entre los linajes, la naturaleza y el mundo espiritual."
+ khabzism_high_god_name: "Tkhashkho" # Divinidad suprema
  khabzism_high_god_name_possessive: "de Tkhashkho"
  khabzism_high_god_name_alternate: "Tkha"
  khabzism_high_god_name_alternate_possessive: "de Tkha"
@@ -10667,88 +10662,73 @@
  khabzism_good_god_ancestors: "los antepasados"
  khabzism_devil_name: "corrupción"
  khabzism_devil_name_possessive: "de la corrupción"
- khabzism_devil_herselfhimself: "a sí mismo"
+ khabzism_devil_herselfhimself: "a sí misma"
  khabzism_devil_herhis: "su"
  khabzism_devil_shehe: "ella"
  khabzism_evil_god_decay: "plaga"
  khabzism_evil_god_decay_possessive: "de la plaga"
  khabzism_evil_god_drought: "sequía"
- khabzism_death_deity_name: "Psekhekh" #Псэхэx
+ khabzism_death_deity_name: "Psekhekh"
  khabzism_death_deity_name_possessive: "de Psekhekh"
  khabzism_death_deity_herhis: "su"
  khabzism_creator_god_name: "$khabzism_high_god_name$"
  khabzism_creator_god_name_possessive: "$khabzism_high_god_name_possessive$"
  khabzism_health_god_name: "Sozeresh"
  khabzism_health_god_name_possessive: "de Sozeresh"
- khabzism_fertility_god_name: "Tkhaghalej" #Тхьэгъалэдж
+ khabzism_fertility_god_name: "Tkhaghalej" # Divinidad de la fertilidad y la agricultura
  khabzism_fertility_god_name_possessive: "de Tkhaghalej"
- khabzism_wealth_god_name: "Maze" #Мазэ
+ khabzism_wealth_god_name: "Maze"
  khabzism_wealth_god_name_possessive: "de Maze"
- khabzism_household_god_name: "Worser" #Орсэр
+ khabzism_household_god_name: "Worser"
  khabzism_household_god_name_possessive: "de Worser"
- khabzism_fate_god_name: "Tkhashyrupkh" #Тхьэшырыпхъу
+ khabzism_fate_god_name: "Tkhashyrupkh"
  khabzism_fate_god_name_possessive: "de Tkhashyrupkh"
  khabzism_knowledge_god_name: "Chygh Guashe"
  khabzism_knowledge_god_name_possessive: "de Chygh Guashe"
- khabzism_war_god_name: "Zek’otkha" #ЗэкӀотхьэ
+ khabzism_war_god_name: "Zek’otkha"
  khabzism_war_god_name_possessive: "de Zek’otkha"
- khabzism_trickster_god_name: "Peqo" #Пэкъо
+ khabzism_trickster_god_name: "Peqo"
  khabzism_trickster_god_name_possessive: "de Peqo"
  khabzism_night_god_name: "Maze"
  khabzism_night_god_name_possessive: "de Maze"
- khabzism_water_god_name: "Qodesch" #Къодэшъ
+ khabzism_water_god_name: "Qodesch"
  khabzism_water_god_name_possessive: "de Qodesch"
- khabzism_house_of_worship: "templo"
- khabzism_house_of_worship_plural: "templos"
- khabzism_house_of_worship_2: "$khabzism_house_of_worship$" # Optional translation alt
- khabzism_house_of_worship_3: "$khabzism_house_of_worship$" # Optional translation alt
- khabzism_religious_symbol: "Cruz del Martillo"
- khabzism_religious_symbol_2: "Rueda zichiana" # Optional translation alt
- khabzism_religious_symbol_3: "$khabzism_religious_symbol$" # Optional translation alt
- khabzism_religious_text: "relatos sagrados"
- khabzism_religious_text_2: "sagas de los nartos" # Optional translation alt
- khabzism_religious_text_3: "$khabzism_religious_text$" # Optional translation alt
- khabzism_religious_head_title: "Gran Tkhamade"
- khabzism_religious_head_title_name: "Khase" #Хасэ
+ khabzism_house_of_worship: "lugar sagrado"
+ khabzism_house_of_worship_plural: "lugares sagrados"
+ khabzism_house_of_worship_2: "$khabzism_house_of_worship$"
+ khabzism_house_of_worship_3: "$khabzism_house_of_worship$"
+ khabzism_religious_symbol: "cruz del martillo"
+ khabzism_religious_symbol_2: "rueda zichiana"
+ khabzism_religious_symbol_3: "$khabzism_religious_symbol$"
+ khabzism_religious_text: "tradiciones orales"
+ khabzism_religious_text_2: "sagas de los nartos"
+ khabzism_religious_text_3: "$khabzism_religious_text$"
+ khabzism_religious_head_title: "Gran tkhamade"
+ khabzism_religious_head_title_name: "Khase"
  khabzism_devotee: "devoto"
- khabzism_priest: "Tkhamade"
- khabzism_priest_plural: "Tkhamades"
- khabzism_priest_alternate_plural: "Tkhamades"
+ khabzism_priest: "tkhamade"
+ khabzism_priest_plural: "tkhamades"
+ khabzism_priest_alternate_plural: "tkhamades"
  khabzism_divine_realm: "Hadrikhe"
- khabzism_divine_realm_2: "$khabzism_divine_realm$" # Optional translation alt
- khabzism_divine_realm_3: "$paganism_divine_realm$" # Optional translation alt
+ khabzism_divine_realm_2: "$khabzism_divine_realm$"
+ khabzism_divine_realm_3: "$paganism_divine_realm$"
  khabzism_afterlife: "Hadrikhe"
- khabzism_afterlife_2: "$khabzism_afterlife$" # Optional translation alt
- khabzism_afterlife_3: "$khabzism_afterlife$" # Optional translation alt
-
- # Mordvino
- mordvin_religion: "Paganismo mordvino"
- mordvin_religion_adj: "Paganismo mordvino"
- mordvin_religion_adherent: "Pagano mordvino"
- mordvin_religion_adherent_plural: "Paganos mordvinos"
- mordvin_religion_desc: "Las religiones tradicionales de los pueblos mordvinos, especialmente los erzias y mokshas, comprenden la veneración de divinidades celestiales, espíritus tutelares y fuerzas sagradas vinculadas a la naturaleza. Las comunidades reconocen a una divinidad suprema asociada con la creación y el orden del universo, junto a numerosos espíritus que protegen los bosques, las aguas, los campos y los hogares. Los antepasados continúan formando parte de la vida espiritual de sus descendientes y reciben ofrendas destinadas a conservar su protección. Las ceremonias colectivas, dirigidas por ancianos y especialistas rituales, reúnen a las familias y los clanes en arboledas y otros lugares sagrados, donde se celebran plegarias, sacrificios y festividades relacionadas con los ciclos agrícolas y la prosperidad de la comunidad."
- mordvin_religious_symbol: "símbolo mordvino"
-
- # Pérmico
- permic_religion: "Paganismo pérmico"
- permic_religion_adj: "Paganismo pérmico"
- permic_religion_adherent: "Pagano pérmico"
- permic_religion_adherent_plural: "Paganos pérmicos"
- permic_religion_desc: "Las religiones tradicionales de los pueblos pérmicos, entre ellos los komis y los udmurtos, se fundamentan en la veneración de divinidades celestiales, espíritus de la naturaleza y protectores ancestrales. Entre los komis, Jen representa una autoridad divina vinculada al cielo y la creación, mientras que los udmurtos reconocen a Inmar como una de sus principales divinidades celestiales. Otras entidades espirituales ejercen su influencia sobre los bosques, los ríos, los campos y los hogares, interviniendo en la salud, la fertilidad y la prosperidad de las comunidades. Los clanes y las familias honran a sus antepasados mediante plegarias, ofrendas y sacrificios, mientras que los lugares naturales consagrados sirven como espacios de reunión para las ceremonias colectivas y las celebraciones estacionales."
+ khabzism_afterlife_2: "$khabzism_afterlife$"
+ khabzism_afterlife_3: "$khabzism_afterlife$"
 
  # Druidismo
  druidism_religion: "Druidismo"
  druidism_religion_adj: "Druidismo"
- druidism_religion_adherent: "Druidista"
- druidism_religion_adherent_plural: "Druidistas"
- druidism_religion_desc: "Las religiones tradicionales de los pueblos celtas comprenden numerosas divinidades, creencias y prácticas rituales vinculadas a la naturaleza, la soberanía, la guerra y la fertilidad. Los druidas ocupan un lugar destacado como sacerdotes, maestros, jueces y consejeros de los gobernantes, y conservan los conocimientos religiosos mediante la enseñanza y la tradición oral. Los bosques, los manantiales y otros lugares sagrados acogen ceremonias, sacrificios y ofrendas destinadas a obtener el favor de las divinidades. La interpretación de los presagios, la veneración de los antepasados y las creencias sobre la continuidad del alma forman parte de las distintas tradiciones espirituales de las comunidades celtas."
+ druidism_religion_adherent: "druida"
+ druidism_religion_adherent_plural: "druidas"
+ druidism_religion_desc: "El druidismo comprende las tradiciones religiosas de diversos pueblos celtas de la Antigüedad, caracterizadas por la veneración de numerosas divinidades vinculadas a la naturaleza, la soberanía, la guerra, la fertilidad y la protección de las comunidades. Los druidas ocupan un lugar destacado como especialistas religiosos, maestros, jueces y consejeros de los gobernantes, y transmiten sus conocimientos principalmente mediante la enseñanza oral. Los bosques, los manantiales y otros lugares sagrados acogen ceremonias, sacrificios y ofrendas destinadas a obtener el favor de las divinidades. La interpretación de los presagios, la veneración de los antepasados y las creencias sobre la supervivencia del alma forman parte de las distintas tradiciones espirituales de las comunidades celtas. Aunque estas creencias comparten numerosos elementos, sus divinidades y prácticas varían considerablemente entre pueblos y regiones."
 
  # Druidismo común
- druidism: "Druidismo"
+ druidism: "Druidismo común"
  druidism_adj: "Druidismo"
- druidism_adherent: "Druidista"
- druidism_adherent_plural: "Druidistas"
- druidism_desc: "El druidismo reúne las tradiciones religiosas de los pueblos celtas, caracterizadas por la veneración de numerosas divinidades asociadas con el cielo, la naturaleza, la guerra, la fertilidad y la soberanía. Los druidas desempeñan importantes funciones como sacerdotes, jueces, maestros y guardianes de los conocimientos sagrados, transmitidos principalmente mediante la tradición oral. Su autoridad se extiende a la interpretación de los presagios, la celebración de sacrificios y la resolución de disputas entre las comunidades. Los bosques, los manantiales y otros lugares naturales constituyen espacios de culto donde se realizan ceremonias y ofrendas para honrar a las divinidades y preservar la armonía con el mundo espiritual. La veneración de los antepasados y las creencias sobre la continuidad del alma refuerzan los vínculos entre los vivos, sus linajes y el Otro Mundo."
+ druidism_adherent: "druida"
+ druidism_adherent_plural: "druidas"
+ druidism_desc: "El druidismo común representa las tradiciones religiosas compartidas por diversos pueblos celtas, fundamentadas en la veneración de las divinidades, los espíritus de la naturaleza y los antepasados. Taranis, asociado con el trueno y las fuerzas celestiales, ocupa un lugar destacado junto a Toutatis, protector de las comunidades, y Esus, una divinidad cuyas atribuciones permanecen inciertas. Los druidas desempeñan importantes funciones como sacerdotes, jueces, maestros y guardianes de los conocimientos sagrados, transmitidos principalmente mediante la tradición oral. Su autoridad comprende la interpretación de los presagios, la celebración de sacrificios y la resolución de disputas entre las comunidades. Los bosques, los manantiales y otros lugares naturales constituyen espacios de culto donde se realizan ceremonias y ofrendas para honrar a las divinidades. Las creencias sobre la continuidad del alma y la existencia del Otro Mundo reflejan una concepción religiosa en la que la vida, la muerte y las fuerzas sobrenaturales permanecen estrechamente relacionadas."
  druidism_high_god_name: "Taranis"
  druidism_high_god_name_possessive: "de Taranis"
  druidism_high_god_name_alternate: "Padre Cielo"
@@ -10756,68 +10736,74 @@
  druidism_good_god_father_sky: "$druidism_high_god_name$"
  druidism_good_god_protection: "Toutatis"
  druidism_good_god_sailors: "Esus"
- druidism_devil_name: "Cernunnos"
- druidism_devil_name_possessive: "de Cernunnos"
- druidism_devil_herselfhimself: "a sí mismo"
- druidism_devil_herhis: "su"
- druidism_devil_shehe: "él"
+ druidism_devil_name: "espíritus malévolos"
+ druidism_devil_name_possessive: "de los espíritus malévolos"
+ druidism_devil_herselfhimself: "a sí mismos"
+ druidism_devil_herhis: "sus"
+ druidism_devil_shehe: "ellos"
  druidism_evil_god_decay: "plaga"
  druidism_evil_god_decay_possessive: "de la plaga"
  druidism_evil_god_drought: "sequía"
- druidism_death_deity_name: "Vellaunus"
- druidism_death_deity_name_possessive: "de Vellaunus"
+ druidism_death_deity_name: "Dis Pater"
+ druidism_death_deity_name_possessive: "de Dis Pater"
  druidism_death_deity_herhis: "su"
  druidism_pantheon_gods: "los dioses"
  druidism_creator_god_name: "las Matronae"
  druidism_creator_god_name_possessive: "de las Matronae"
- druidism_health_god_name: "$druidism_high_god_name$"
- druidism_health_god_name_possessive: "$druidism_high_god_name_possessive$"
- druidism_fertility_god_name: "$druidism_high_god_name$"
- druidism_fertility_god_name_possessive: "$druidism_high_god_name_possessive$"
- druidism_wealth_god_name: "$druidism_high_god_name$"
- druidism_wealth_god_name_possessive: "$druidism_high_god_name_possessive$"
- druidism_household_god_name: "$druidism_high_god_name$"
- druidism_household_god_name_possessive: "$druidism_high_god_name_possessive$"
+ druidism_health_god_name: "Belenos"
+ druidism_health_god_name_possessive: "de Belenos"
+ druidism_fertility_god_name: "Cernunnos"
+ druidism_fertility_god_name_possessive: "de Cernunnos"
+ druidism_wealth_god_name: "Cernunnos"
+ druidism_wealth_god_name_possessive: "de Cernunnos"
+ druidism_household_god_name: "las Matronae"
+ druidism_household_god_name_possessive: "de las Matronae"
  druidism_fate_god_name: "$druidism_creator_god_name$"
  druidism_fate_god_name_possessive: "$druidism_creator_god_name_possessive$"
  druidism_knowledge_god_name: "Brigid"
  druidism_knowledge_god_name_possessive: "de Brigid"
  druidism_war_god_name: "Lug"
  druidism_war_god_name_possessive: "de Lug"
- druidism_trickster_god_name: "Padre Cielo"
- druidism_trickster_god_name_possessive: "del Padre Cielo"
- druidism_night_god_name: "$druidism_trickster_god_name$"
- druidism_night_god_name_possessive: "$druidism_trickster_god_name_possessive$"
- druidism_water_god_name: "$druidism_high_god_name$"
- druidism_water_god_name_possessive: "$druidism_high_god_name_possessive$"
+ druidism_trickster_god_name: "Lug"
+ druidism_trickster_god_name_possessive: "de Lug"
+ druidism_night_god_name: "Dis Pater"
+ druidism_night_god_name_possessive: "de Dis Pater"
+ druidism_water_god_name: "Danu"
+ druidism_water_god_name_possessive: "de Danu"
  druidism_house_of_worship: "bosque sagrado"
  druidism_house_of_worship_plural: "bosques sagrados"
  druidism_religious_symbol: "triquetra"
- druidism_religious_text: "relatos sagrados"
- druidism_religious_head_title: "Alto Druida"
- druidism_religious_head_title_name: "Consejo Druídico"
+ druidism_religious_text: "tradiciones orales"
+ druidism_religious_head_title: "Alto druida"
+ druidism_religious_head_title_name: "Consejo druídico"
  druidism_devotee: "vate"
- druidism_priest: "bardo"
- druidism_priest_plural: "bardos"
- druidism_priest_alternate_plural: "druidas"
+ druidism_priest: "druida"
+ druidism_priest_plural: "druidas"
+ druidism_priest_alternate_plural: "bardos"
  druidism_divine_realm: "los cielos"
  druidism_afterlife: "el Otro Mundo"
 
- # Finoúgrico
+ # Druidismo antiguo
+ druidism_old: "Druidismo antiguo"
+ druidism_old_adj: "Druidismo antiguo"
+ druidism_old_adherent: "Druidista antiguo"
+ druidism_old_adherent_plural: "Druidistas antiguos"
+ druidism_old_desc: "$druidism_desc$"
+
+ # Paganismo finoúgrico
  finno_ugric_religion: "Paganismo finoúgrico"
  finno_ugric_religion_adj: "Paganismo finoúgrico"
- finno_ugric_religion_adherent: "Pagano finoúgrico"
- finno_ugric_religion_adherent_plural: "Paganos finoúgricos"
- finno_ugric_religion_desc: "Las religiones tradicionales de los pueblos finoúgricos de las regiones del golfo de Finlandia, el lago Ládoga y el mar Blanco reconocen numerosas divinidades y espíritus vinculados a las fuerzas de la naturaleza. Ukko, Uku y otras figuras celestiales gobiernan el cielo, la lluvia y el trueno según las tradiciones de cada comunidad, mientras que los bosques, las aguas, los campos y los hogares albergan espíritus tutelares. Los fieles celebran ofrendas y ceremonias en arboledas, piedras y manantiales sagrados para obtener protección, salud y prosperidad. Los especialistas rituales conservan los conocimientos ancestrales mediante cantos, invocaciones y prácticas de adivinación y curación, manteniendo los vínculos entre las comunidades humanas y el mundo espiritual."
+ finno_ugric_religion_adherent: "pagano finoúgrico"
+ finno_ugric_religion_adherent_plural: "paganos finoúgricos"
+ finno_ugric_religion_desc: "El paganismo finoúgrico comprende las tradiciones religiosas de diversos pueblos finoúgricos del norte y el este de Europa, especialmente de las regiones del golfo de Finlandia, el lago Ládoga y el mar Blanco. Estas creencias reconocen numerosas divinidades y espíritus vinculados a las fuerzas de la naturaleza, los antepasados y la protección de las comunidades. Ukko, Uku y otras figuras celestiales ocupan lugares destacados según las tradiciones de cada pueblo, mientras que los bosques, las aguas, los campos y los hogares albergan espíritus tutelares. Las comunidades celebran ofrendas y ceremonias en arboledas, junto a piedras veneradas y manantiales sagrados para obtener protección, salud y prosperidad. Los especialistas rituales conservan los conocimientos ancestrales mediante cantos, invocaciones y prácticas de adivinación y curación, manteniendo los vínculos entre el mundo humano y el espiritual."
+ finno_ugric_religion_desc_desc: "Los pueblos finoúgricos conservan diversas tradiciones religiosas fundamentadas en la veneración de las divinidades, los espíritus de la naturaleza y los antepasados. Las ceremonias, los cantos y las ofrendas celebrados en lugares sagrados mantienen los vínculos entre las comunidades humanas y el mundo espiritual."
 
- finno_ugric_religion_desc_desc: "Los pueblos finoúgricos veneran a numerosas divinidades de la naturaleza y conservan tradiciones espirituales ancestrales. Consideran sagrada la relación entre el mundo terrenal y el espiritual, que mantienen mediante ceremonias, cantos y ofrendas celebradas en arboledas, junto a piedras veneradas y en las proximidades de lagos y ríos."
-
- # Paganismo estonio: Maausk
- estonian_pagan: "Maausk"
- estonian_pagan_adj: "Maausk"
- estonian_pagan_adherent: "Maausuline"
- estonian_pagan_adherent_plural: "Maausulised"
- estonian_pagan_desc: "$uku_desc$"
+ # Paganismo estonio
+ estonian_pagan: "Paganismo estonio"
+ estonian_pagan_adj: "Maausquismo"
+ estonian_pagan_adherent: "maausquista"
+ estonian_pagan_adherent_plural: "maausquistas"
+ estonian_pagan_desc: "El paganismo estonio comprende las creencias tradicionales de las comunidades estonias, conocidas en la actualidad mediante la denominación Maausk, que significa aproximadamente «fe de la tierra». Estas tradiciones se fundamentan en la veneración de las divinidades celestiales, los espíritus de la naturaleza y los antepasados. Uku, asociado con el cielo y las fuerzas atmosféricas, ocupa un lugar destacado junto a Taara y otras figuras conservadas en las tradiciones populares. Los bosques, los manantiales, las piedras y las arboledas sagradas, conocidas como hiis, constituyen lugares de culto donde las comunidades celebran ofrendas y ceremonias destinadas a obtener protección y prosperidad. Los especialistas rituales emplean cantos, encantamientos y prácticas de adivinación para relacionarse con las fuerzas sobrenaturales. La veneración de los antepasados y las creencias sobre los distintos ámbitos espirituales reflejan una concepción del mundo en la que la naturaleza y la vida humana permanecen estrechamente vinculadas."
  estonian_divine_realm: "Linnutee"
  estonian_house_of_worship: "hiis"
  estonian_house_of_worship_plural: "hiisi"
@@ -10845,7 +10831,7 @@
  estonian_religious_head_title: "Vanem"
  estonian_religious_head_title_name: "Vanadus"
  estonian_religious_symbol: "ohvrikivi"
- estonian_religious_text: "rahvaluule" #folclore
+ estonian_religious_text: "tradiciones orales" # Folclore
  estonian_creator_god_name: "$estonian_good_god_Maajumal$"
  estonian_creator_god_name_possessive: "de $estonian_good_god_Maajumal$"
  estonian_death_deity_name: "$estonian_evil_god_Mana$"
@@ -10877,47 +10863,47 @@
  estonian_wealth_god_name: "$estonian_high_god_name$"
  estonian_wealth_god_name_possessive: "$estonian_high_god_name_possessive$"
  estonian_witch_god_name: "$estonian_good_god_Rougutaja$"
- estonian_good_god_Ahto: "Ahto" #dios del mar
- estonian_good_god_Aio: "Äio" #dios de los sueños
- estonian_good_god_Jumal: "Jumal" #dios
- estonian_good_god_Jutta: "Jutta" #diosa de las aves, hija de Uku
- estonian_good_god_Kou: "Kõu" #dios del trueno, hijo de Uku
- estonian_good_god_Lemming: "Lemming" #dios de la caza
- estonian_good_god_Linda: "Linda" #diosa de las aves, hija de Uku
- estonian_good_god_Maaema: "Maaema" #madre tierra
- estonian_good_god_Maaisa: "Maaisa" #padre tierra
- estonian_good_god_Maajumal: "Maajumal" #dios de la tierra
- estonian_good_god_Majahaldjas: "Majahaldjas" #espíritu del hogar
- estonian_good_god_Metsavana: "Metsavana" #dios del bosque
- estonian_good_god_Peko: "Peko" #dios de la fertilidad de los setos
- estonian_good_god_Pikker: "Pikker" #dios del relámpago, hijo de Uku
- estonian_good_god_Rougutaja: "Rõugutaja" #diosa de las mujeres y los niños
- estonian_good_god_Tonn: "Tõnn" #dios de la fertilidad
- estonian_good_god_Taara: "Taara" #divinidad comparable a Thor
- estonian_good_god_Vanemuine: "Vanemuine" #dios del canto
- estonian_evil_god_Ilmatutar: "Ilmatütar" #diosa del tiempo atmosférico
- estonian_evil_god_Kurat: "Kurat" #diablo
- estonian_evil_god_Luupainaja: "Luupainaja" #espíritu de las pesadillas
- estonian_evil_god_Mana: "Mana" #dios del inframundo
- estonian_evil_god_Paharet: "Paharet" #ayudante del diablo
- estonian_evil_god_Purgu_Vanaeit: "Põrgu Vanaeit" #diosa del inframundo
- estonian_evil_god_Sarvik: "Sarvik" #dios del inframundo
- estonian_evil_god_Ussikuningas: "Ussikuningas" #dios de las serpientes
- estonian_evil_god_Vana_Tuhi: "Vana Tühi" #dios del inframundo
+ estonian_good_god_Ahto: "Ahto" # Dios del mar
+ estonian_good_god_Aio: "Äio" # Figura asociada con los sueños
+ estonian_good_god_Jumal: "Jumal" # Divinidad
+ estonian_good_god_Jutta: "Jutta" # Figura del folclore estonio
+ estonian_good_god_Kou: "Kõu" # Personificación del trueno
+ estonian_good_god_Lemming: "Lemming" # Figura de la tradición épica
+ estonian_good_god_Linda: "Linda" # Figura de la tradición épica
+ estonian_good_god_Maaema: "Maaema" # Madre Tierra
+ estonian_good_god_Maaisa: "Maaisa" # Padre Tierra
+ estonian_good_god_Maajumal: "Maajumal" # Divinidad de la tierra
+ estonian_good_god_Majahaldjas: "Majahaldjas" # Espíritu del hogar
+ estonian_good_god_Metsavana: "Metsavana" # Espíritu del bosque
+ estonian_good_god_Peko: "Peko" # Divinidad de la fertilidad y las cosechas
+ estonian_good_god_Pikker: "Pikker" # Personificación del trueno y el relámpago
+ estonian_good_god_Rougutaja: "Rõugutaja" # Protectora de las mujeres y los niños
+ estonian_good_god_Tonn: "Tõnn" # Espíritu protector de la prosperidad
+ estonian_good_god_Taara: "Taara" # Divinidad venerada en las tradiciones estonias
+ estonian_good_god_Vanemuine: "Vanemuine" # Figura asociada con el canto
+ estonian_evil_god_Ilmatutar: "Ilmatütar" # Figura asociada con el cielo
+ estonian_evil_god_Kurat: "Kurat" # Diablo
+ estonian_evil_god_Luupainaja: "Luupainaja" # Espíritu de las pesadillas
+ estonian_evil_god_Mana: "Mana" # Figura asociada con el inframundo
+ estonian_evil_god_Paharet: "Paharet" # Espíritu maligno
+ estonian_evil_god_Purgu_Vanaeit: "Põrgu Vanaeit" # Anciana del inframundo
+ estonian_evil_god_Sarvik: "Sarvik" # Figura demoníaca del folclore
+ estonian_evil_god_Ussikuningas: "Ussikuningas" # Rey de las serpientes
+ estonian_evil_god_Vana_Tuhi: "Vana Tühi" # Figura demoníaca del folclore
 
- # Maausk antiguo
- estonian_pagan_old: "Maausk antiguo"
- estonian_pagan_old_adj: "Maausk antiguo"
- estonian_pagan_old_adherent: "Maausuline antiguo"
- estonian_pagan_old_adherent_plural: "Maausulised antiguos"
+ # Paganismo estonio antiguo
+ estonian_pagan_old: "Paganismo estonio antiguo"
+ estonian_pagan_old_adj: "Maausquismo antiguo"
+ estonian_pagan_old_adherent: "maausquista antiguo"
+ estonian_pagan_old_adherent_plural: "maausquistas antiguos"
  estonian_pagan_old_desc: "$estonian_pagan_desc$"
 
- # Paganismo oeseliano: Taarausk
- osilian_pagan: "Taarausk"
- osilian_pagan_adj: "Taarausk"
- osilian_pagan_adherent: "Taarausuline"
- osilian_pagan_adherent_plural: "Taarausulised"
- osilian_pagan_desc: "$tharapita_desc$"
+ # Paganismo oeseliano
+ osilian_pagan: "Paganismo oeseliano"
+ osilian_pagan_adj: "Taarausquismo"
+ osilian_pagan_adherent: "taarausquista"
+ osilian_pagan_adherent_plural: "taarausquistas"
+ osilian_pagan_desc: "El paganismo oeseliano comprende las creencias tradicionales de las comunidades de la isla de Ösel, conocida actualmente como Saaremaa, y de otras regiones occidentales de Estonia. Estas tradiciones comparten numerosos elementos con las creencias de los pueblos estonios continentales, aunque conservan prácticas y lugares de culto propios. Taara, identificado en las fuentes medievales con el nombre de Tharapita, ocupa un lugar destacado entre las divinidades veneradas por estas comunidades. Las arboledas, las piedras y determinados lugares naturales reciben ofrendas y sacrificios destinados a obtener la protección de las fuerzas sobrenaturales. Los especialistas rituales dirigen ceremonias comunitarias y conservan las tradiciones mediante cantos, invocaciones y prácticas de adivinación. La veneración de las divinidades y los antepasados mantiene los vínculos entre los linajes, los territorios y el mundo espiritual. La denominación Taarausk, utilizada en época moderna para designar una tradición religiosa centrada en Taara, no constituye un nombre medieval documentado de estas creencias."
  osilian_divine_realm: "Ebaveremägi"
  osilian_house_of_worship: "hiis"
  osilian_house_of_worship_plural: "hiisi"
@@ -10944,8 +10930,8 @@
  osilian_priest_neuter_plural: "nõiad"
  osilian_religious_head_title: "Vanem"
  osilian_religious_head_title_name: "Vanadus"
- osilian_religious_symbol: "urituli" #fuego sagrado
- osilian_religious_text: "rahvaluule" #folclore
+ osilian_religious_symbol: "urituli" # Fuego sagrado
+ osilian_religious_text: "tradiciones orales" # Folclore
  osilian_creator_god_name: "$osilian_high_god_name$"
  osilian_creator_god_name_possessive: "$osilian_high_god_name_possessive$"
  osilian_death_deity_name: "$osilian_high_god_name$"
@@ -10978,19 +10964,19 @@
  osilian_wealth_god_name_possessive: "$osilian_high_god_name_possessive$"
  osilian_witch_god_name: "$osilian_devil_name$"
 
- # Taarausk antiguo
- osilian_pagan_old: "Taarausk antiguo"
- osilian_pagan_old_adj: "Taarausk antiguo"
- osilian_pagan_old_adherent: "Taarausuline antiguo"
- osilian_pagan_old_adherent_plural: "Taarausulised antiguos"
+ # Paganismo oeseliano antiguo
+ osilian_pagan_old: "Paganismo oeseliano antiguo"
+ osilian_pagan_old_adj: "Taarausquismo antiguo"
+ osilian_pagan_old_adherent: "taarausquista antiguo"
+ osilian_pagan_old_adherent_plural: "taarausquistas antiguos"
  osilian_pagan_old_desc: "$osilian_pagan_desc$"
 
- # Paganismo bjármico: Jómalinusko
- bjarmian_pagan: "Jómalinusko"
- bjarmian_pagan_adj: "Jómalinusko"
- bjarmian_pagan_adherent: "Jómalinusko"
- bjarmian_pagan_adherent_plural: "Jómalinuskos"
- bjarmian_pagan_desc: "$jomali_desc$"
+ # Paganismo bjármico
+ bjarmian_pagan: "Paganismo bjármico"
+ bjarmian_pagan_adj: "Jómalinusquismo"
+ bjarmian_pagan_adherent: "jómalinusquista"
+ bjarmian_pagan_adherent_plural: "jómalinusquistas"
+ bjarmian_pagan_desc: "El paganismo bjármico comprende las creencias atribuidas a los bjarmios, un pueblo conocido principalmente a través de los relatos escandinavos sobre las regiones próximas al mar Blanco. Las fuentes nórdicas mencionan la veneración de Jómali, una divinidad asociada con un santuario que custodiaba importantes ofrendas y riquezas. Aunque la naturaleza precisa de sus creencias permanece incierta, estas tradiciones suelen relacionarse con las prácticas religiosas de los pueblos finoúgricos del norte de Europa. Los bosques, los ríos y los lugares sagrados desempeñan un papel importante en la relación entre las comunidades y las fuerzas sobrenaturales. Las ofrendas, los sacrificios y las ceremonias comunitarias procuran asegurar la protección de las divinidades y la prosperidad de los linajes. La denominación Jómalinusko constituye una reconstrucción convencional inspirada en el nombre de Jómali y en las tradiciones lingüísticas fínicas, no un nombre histórico documentado de la religión bjármica."
  bjarmian_pagan_high_god_name: "Jómali"
  bjarmian_pagan_high_god_name_possessive: "de Jómali"
  bjarmian_pagan_high_god_name_alternate: "Jómali"
@@ -11009,7 +10995,7 @@
  bjarmian_pagan_death_deity_name: "Tuoni"
  bjarmian_pagan_death_deity_name_possessive: "de Tuoni"
  bjarmian_pagan_religious_symbol: "Jómali"
- bjarmian_pagan_religious_text: "relatos épicos"
+ bjarmian_pagan_religious_text: "tradiciones orales"
  bjarmian_pagan_afterlife: "Tuonela"
  bjarmian_pagan_creator_god_name: "$bjarmian_pagan_high_god_name$"
  bjarmian_pagan_creator_god_name_possessive: "$bjarmian_pagan_high_god_name_possessive$"
@@ -11034,26 +11020,84 @@
  bjarmian_pagan_water_god_name: "Jómali"
  bjarmian_pagan_water_god_name_possessive: "de Jómali"
 
- # Jómalinusko antiguo
- bjarmian_pagan_old: "Jómalinusko antiguo"
- bjarmian_pagan_old_adj: "Jómalinusko antiguo"
- bjarmian_pagan_old_adherent: "Jómalinusko antiguo"
- bjarmian_pagan_old_adherent_plural: "Jómalinuskos antiguos"
+ # Paganismo bjármico antiguo
+ bjarmian_pagan_old: "Paganismo bjármico antiguo"
+ bjarmian_pagan_old_adj: "Jómalinusquismo antiguo"
+ bjarmian_pagan_old_adherent: "jómalinusquista antiguo"
+ bjarmian_pagan_old_adherent_plural: "jómalinusquistas antiguos"
  bjarmian_pagan_old_desc: "$bjarmian_pagan_desc$"
 
- # Paganismo udmurto
- udmurt_religion: "Religión udmurta"
- udmurt_religion_adj: "Religión udmurta"
- udmurt_religion_adherent: "Udmurto"
- udmurt_religion_adherent_plural: "Udmurtos"
- udmurt_religion_desc: "La religión tradicional de los udmurtos se fundamenta en la veneración de las divinidades y los espíritus que gobiernan el mundo natural. Inmar, dios celestial, ocupa un lugar destacado junto a Kildisin, vinculado a la fertilidad y la protección de la vida, y Kuaz, asociado a las fuerzas atmosféricas. Los bosques, las aguas, los campos y las viviendas albergan espíritus tutelares que intervienen en la prosperidad y el bienestar de las comunidades. Los fieles celebran ceremonias colectivas, sacrificios y ofrendas en arboledas y lugares sagrados, donde los especialistas rituales dirigen las plegarias destinadas a obtener el favor divino. La veneración de los antepasados y la conservación de las costumbres tradicionales mantienen los vínculos entre los vivos, sus linajes y el mundo espiritual."
+ # Paganismo pérmico
+ permic_religion: "Paganismo pérmico"
+ permic_religion_adj: "Paganismo pérmico"
+ permic_religion_adherent: "pagano pérmico"
+ permic_religion_adherent_plural: "paganos pérmicos"
+ permic_religion_desc: "El paganismo pérmico comprende las tradiciones religiosas de los pueblos pérmicos, especialmente los komis y los udmurtos, fundamentadas en la veneración de las divinidades celestiales, los espíritus de la naturaleza y los antepasados. Entre los komis, Jen ocupa un lugar destacado como divinidad vinculada al cielo y la creación, mientras que los udmurtos reconocen a Inmar como una de sus principales divinidades celestiales. Numerosos espíritus tutelares habitan los bosques, los ríos, los campos y las viviendas, donde intervienen en la salud, la fertilidad y la prosperidad de las comunidades. Las familias y los clanes celebran plegarias, sacrificios y ofrendas en arboledas y otros lugares sagrados, mientras que las ceremonias colectivas y las festividades estacionales mantienen los vínculos entre los vivos, sus antepasados y las fuerzas sobrenaturales."
 
- # Inmarismo
- udmurt_pagan: "Inmarismo"
+ # Paganismo komi
+ komi_pagan: "Paganismo komi"
+ komi_pagan_adj: "Važeskömismo"
+ komi_pagan_adherent: "važeskömista"
+ komi_pagan_adherent_plural: "važeskömistas"
+ komi_pagan_desc: "El paganismo komi comprende las creencias tradicionales de los pueblos komi de las cuencas del Kama y del Vychegda, fundamentadas en la veneración de las divinidades celestiales, los espíritus de la naturaleza y los antepasados. En, asociado con el cielo y la creación, ocupa un lugar destacado junto a otras entidades que gobiernan los bosques, los ríos, los animales y las actividades humanas. Omöl representa las fuerzas adversas del mundo espiritual, mientras que numerosas entidades tutelares protegen los hogares, los linajes y los territorios. Las comunidades celebran ofrendas y sacrificios en arboledas, junto a árboles venerados y otros lugares sagrados, donde los especialistas rituales interpretan los presagios y procuran obtener el favor de las divinidades y los espíritus. Las ceremonias estacionales y el culto a los antepasados mantienen los vínculos entre las generaciones y las fuerzas que gobiernan la naturaleza."
+ komi_pagan_high_god_name: "En"
+ komi_pagan_high_god_name_possessive: "de En"
+ komi_pagan_high_god_name_alternate: "En"
+ komi_pagan_high_god_name_alternate_possessive: "de En"
+ komi_pagan_good_god_zarni: "Zarni Ań"
+ komi_pagan_good_god_kuaz: "En"
+ komi_pagan_good_god_kyldys: "En"
+ komi_pagan_devil_name: "Kul"
+ komi_pagan_devil_name_possessive: "de Kul"
+ komi_pagan_evil_god_omol: "Omöl"
+ komi_pagan_death_deity_name: "Omöl"
+ komi_pagan_death_deity_name_possessive: "de Omöl"
+ komi_pagan_religious_symbol: "símbolo komi"
+ komi_pagan_religious_text: "relatos sagrados"
+ komi_pagan_afterlife: "el inframundo"
+ komi_pagan_creator_god_name: "$komi_pagan_high_god_name$"
+ komi_pagan_creator_god_name_possessive: "$komi_pagan_high_god_name_possessive$"
+ komi_pagan_health_god_name: "Zarni Ań"
+ komi_pagan_health_god_name_possessive: "de Zarni Ań"
+ komi_pagan_fertility_god_name: "Zarni Ań"
+ komi_pagan_fertility_god_name_possessive: "de Zarni Ań"
+ komi_pagan_wealth_god_name: "En"
+ komi_pagan_wealth_god_name_possessive: "de En"
+ komi_pagan_household_god_name: "En"
+ komi_pagan_household_god_name_possessive: "de En"
+ komi_pagan_fate_god_name: "En"
+ komi_pagan_fate_god_name_possessive: "de En"
+ komi_pagan_knowledge_god_name: "En"
+ komi_pagan_knowledge_god_name_possessive: "de En"
+ komi_pagan_war_god_name: "En"
+ komi_pagan_war_god_name_possessive: "de En"
+ komi_pagan_trickster_god_name: "Omöl"
+ komi_pagan_trickster_god_name_possessive: "de Omöl"
+ komi_pagan_night_god_name: "Voipel"
+ komi_pagan_night_god_name_possessive: "de Voipel"
+ komi_pagan_water_god_name: "Omöl"
+ komi_pagan_water_god_name_possessive: "de Omöl"
+
+ # Važeskömismo antiguo
+ komi_pagan_old: "Paganismo komi antiguo"
+ komi_pagan_old_adj: "Važeskömismo antiguo"
+ komi_pagan_old_adherent: "važeskömista antiguo"
+ komi_pagan_old_adherent_plural: "važeskömistas antiguos"
+ komi_pagan_old_desc: "$komi_pagan_desc$"
+
+ # Paganismo udmurto
+ udmurt_religion: "Paganismo udmurto"
+ udmurt_religion_adj: "Paganismo udmurto"
+ udmurt_religion_adherent: "pagano udmurto"
+ udmurt_religion_adherent_plural: "paganos udmurtos"
+ udmurt_religion_desc: "El paganismo udmurto comprende las tradiciones religiosas ancestrales del pueblo udmurto, fundamentadas en la veneración de las divinidades celestiales, los espíritus de la naturaleza y los antepasados. Inmar, asociado con el cielo y la creación, ocupa un lugar destacado junto a Kildisin, vinculado a la fertilidad y la protección de la vida, y Kuaz, relacionado con las fuerzas atmosféricas. Los bosques, las aguas, los campos y las viviendas albergan espíritus tutelares que intervienen en la prosperidad y el bienestar de las comunidades. Las arboledas sagradas constituyen importantes lugares de culto, donde los especialistas rituales dirigen plegarias, sacrificios y ofrendas destinados a obtener el favor de las divinidades. Las ceremonias agrícolas, la veneración de los antepasados y la conservación de las costumbres tradicionales mantienen los vínculos entre los vivos, sus linajes y el mundo espiritual."
+
+ # Paganismo udmurto: Inmarismo
+ udmurt_pagan: "Paganismo udmurto"
  udmurt_pagan_adj: "Inmarismo"
- udmurt_pagan_adherent: "Inmarista"
- udmurt_pagan_adherent_plural: "Inmaristas"
- udmurt_pagan_desc: "$vos_desc$"
+ udmurt_pagan_adherent: "inmarista"
+ udmurt_pagan_adherent_plural: "inmaristas"
+ udmurt_pagan_desc: "El inmarismo comprende las creencias tradicionales del pueblo udmurto, centradas en la veneración de Inmar, divinidad celestial asociada con la creación y el orden del universo. Junto a él, Kildisin protege la fertilidad y el desarrollo de la vida, mientras que Kuaz representa las fuerzas atmosféricas. Numerosos espíritus tutelares habitan los bosques, los ríos, los campos y las viviendas, donde reciben ofrendas destinadas a asegurar la prosperidad de las familias y sus cosechas. Las comunidades celebran ceremonias colectivas en arboledas sagradas y otros recintos rituales, donde los sacerdotes dirigen plegarias y sacrificios de animales para obtener el favor divino. La veneración de los antepasados, las festividades agrícolas y las prácticas transmitidas por tradición oral mantienen la armonía entre las comunidades humanas, las divinidades y las fuerzas de la naturaleza."
  udmurt_pagan_good_god_kildisin: "Kildisin"
  udmurt_pagan_good_god_kuaz: "Kuaz"
  udmurt_pagan_good_god_kyldys: "Kyldys"
@@ -11093,26 +11137,26 @@
  udmurt_pagan_water_god_name: "Vumurt"
  udmurt_pagan_water_god_name_possessive: "de Vumurt"
 
- # Inmarismo antiguo
- udmurt_pagan_old: "Inmarismo antiguo"
+ # Paganismo udmurto antiguo
+ udmurt_pagan_old: "Paganismo udmurto antiguo"
  udmurt_pagan_old_adj: "Inmarismo antiguo"
- udmurt_pagan_old_adherent: "Inmarista antiguo"
- udmurt_pagan_old_adherent_plural: "Inmaristas antiguos"
+ udmurt_pagan_old_adherent: "inmarista antiguo"
+ udmurt_pagan_old_adherent_plural: "inmaristas antiguos"
  udmurt_pagan_old_desc: "$udmurt_pagan_desc$"
 
- # Paganismo samoyedo y nenets
- samoyedic_religion: "Religión samoyeda"
- samoyedic_religion_adj: "Religión samoyeda"
- samoyedic_religion_adherent: "Samoyedo"
- samoyedic_religion_adherent_plural: "Samoyedos"
- samoyedic_religion_desc: "Las tradiciones religiosas de los pueblos samoyedos se fundamentan en la veneración de las divinidades celestiales, los espíritus de la naturaleza y los antepasados. Entre los nenets, Num gobierna el mundo superior, mientras que Nga está asociado con las regiones inferiores y las fuerzas de la muerte. Los especialistas rituales actúan como intermediarios entre los seres humanos y el mundo espiritual mediante invocaciones, ceremonias y el empleo de tambores. Los lugares sagrados, las ofrendas y los sacrificios de renos permiten mantener la armonía entre las comunidades, sus territorios y las potencias invisibles."
+ # Chamanismo samoyedo
+ samoyedic_religion: "Chamanismo samoyedo"
+ samoyedic_religion_adj: "Chamanismo samoyedo"
+ samoyedic_religion_adherent: "chamanista samoyedo"
+ samoyedic_religion_adherent_plural: "chamanistas samoyedos"
+ samoyedic_religion_desc: "El chamanismo samoyedo comprende las tradiciones religiosas de los pueblos samoyedos del norte de Eurasia, fundamentadas en la veneración de las divinidades celestiales, los espíritus de la naturaleza y los antepasados. Entre los nenets, Num ocupa un lugar destacado como divinidad suprema del mundo superior, mientras que Nga está asociado con el mundo inferior y las fuerzas de la muerte. Los especialistas rituales actúan como intermediarios entre los seres humanos y el mundo espiritual mediante cantos, invocaciones, ceremonias y el empleo de tambores. Los lugares sagrados, las ofrendas y los sacrificios de renos permiten mantener los vínculos entre las comunidades, sus antepasados y las fuerzas sobrenaturales."
 
- # Numismo
- nenets_pagan: "Numismo"
+ # Paganismo nenets
+ nenets_pagan: "Paganismo nenets"
  nenets_pagan_adj: "Numismo"
- nenets_pagan_adherent: "Numista"
- nenets_pagan_adherent_plural: "Numistas"
- nenets_pagan_desc: "El numismo comprende las creencias tradicionales de los nenets de la tundra y de otras comunidades samoyedas del norte de Eurasia, que reconocen a Num como la divinidad celestial suprema y señor del mundo superior. Nga gobierna las regiones inferiores y está vinculado a la muerte y las fuerzas perjudiciales, mientras que Ya-Nebya, la Madre Tierra, representa la fertilidad y la protección de la vida. Los espíritus tutelares, conocidos como khekhe, habitan determinados lugares y objetos sagrados, donde reciben ofrendas y sacrificios destinados a asegurar la prosperidad de las familias y sus rebaños. Los especialistas rituales, llamados tadebya, utilizan tambores, cantos e invocaciones para comunicarse con las entidades espirituales, interpretar los presagios y procurar la curación de las enfermedades. Los sacrificios de renos y las ceremonias celebradas en los santuarios de la tundra expresan los vínculos entre los hombres, sus antepasados y las fuerzas que gobiernan el universo."
+ nenets_pagan_adherent: "numista"
+ nenets_pagan_adherent_plural: "numistas"
+ nenets_pagan_desc: "El paganismo nenets comprende las creencias tradicionales del pueblo nenets de las regiones septentrionales de Eurasia, fundamentadas en la veneración de las divinidades celestiales, los espíritus de la naturaleza y los antepasados. Num ocupa un lugar destacado como divinidad suprema del cielo y del mundo superior, mientras que Nga está asociado con el mundo inferior, la muerte y las fuerzas perjudiciales. Ya-Nebya, la Madre Tierra, representa la fertilidad y la protección de la vida. Los espíritus tutelares, conocidos como khekhe, están vinculados a determinados lugares y objetos sagrados, donde reciben ofrendas y sacrificios destinados a asegurar la prosperidad de las familias y sus rebaños. Los especialistas rituales, llamados tadebya, emplean tambores, cantos e invocaciones para comunicarse con las entidades espirituales, interpretar los presagios y procurar la curación de las enfermedades. Los sacrificios de renos y las ceremonias celebradas en los lugares sagrados de la tundra expresan los vínculos entre las comunidades, sus antepasados y las fuerzas que gobiernan el universo."
  nenets_pagan_high_god_name: "Num"
  nenets_pagan_high_god_name_possessive: "de Num"
  nenets_pagan_high_god_name_alternate: "Num"
@@ -11160,18 +11204,18 @@
  nenets_pagan_old_desc: "$nenets_pagan_desc$"
 
  # Paganismo nurágico de Cerdeña
- sardinian_pagan_old: "Nuragismo antiguo"
- sardinian_pagan_old_adj: "Nuragismo antiguo"
- sardinian_pagan_old_adherent: "Nurágico antiguo"
- sardinian_pagan_old_adherent_plural: "Nurágicos antiguos"
- sardinian_pagan_old_desc: "$sardinian_pagan_desc$"
-
- # Nuragismo
- sardinian_pagan: "Nuragismo"
+ sardinian_pagan: "Paganismo nurágico"
  sardinian_pagan_adj: "Nuragismo"
- sardinian_pagan_adherent: "Nurágico"
- sardinian_pagan_adherent_plural: "Nurágicos"
- sardinian_pagan_desc: "El nuragismo comprende las tradiciones religiosas de los pueblos indígenas de Cerdeña, estrechamente vinculadas con la naturaleza, la fertilidad, la veneración de los antepasados y los lugares sagrados del territorio. Los símbolos del toro, las representaciones de animales y las figuras humanas ocupan un lugar destacado en sus manifestaciones rituales, aunque las atribuciones precisas de muchas de sus divinidades permanecen inciertas. Los pozos y manantiales sagrados constituyen importantes centros ceremoniales donde las comunidades depositan ofrendas y celebran ritos relacionados con el agua y la renovación de la vida. Los santuarios, los recintos comunitarios y los monumentos funerarios expresan los vínculos entre el culto, la memoria de los linajes y la organización de las comunidades. La veneración de las fuerzas naturales y las ceremonias colectivas mantienen la relación entre los fieles, sus antepasados y el mundo divino."
+ sardinian_pagan_adherent: "nuragista"
+ sardinian_pagan_adherent_plural: "nuragistas"
+ sardinian_pagan_desc: "El paganismo nurágico comprende las tradiciones religiosas de las comunidades indígenas de Cerdeña durante la civilización nurágica, estrechamente vinculadas con las fuerzas de la naturaleza, la fertilidad, la veneración de los antepasados y los lugares sagrados del territorio. Las representaciones de toros, animales y figuras humanas ocupan un lugar destacado en sus manifestaciones rituales, aunque la identidad y las atribuciones de sus divinidades permanecen en gran medida desconocidas. Los pozos y manantiales sagrados constituyen importantes centros ceremoniales donde las comunidades depositan ofrendas y celebran ritos vinculados al agua. Los santuarios, los recintos comunitarios y los monumentos funerarios reflejan la importancia de las prácticas religiosas, la memoria de los linajes y la organización de las comunidades. Las ceremonias colectivas y la veneración de los lugares sagrados expresan los vínculos entre los seres humanos, sus antepasados y las fuerzas sobrenaturales."
+
+ # Paganismo nurágico antiguo
+ sardinian_pagan_old: "Paganismo nurágico antiguo"
+ sardinian_pagan_old_adj: "Nuragismo antiguo"
+ sardinian_pagan_old_adherent: "nuragista antiguo"
+ sardinian_pagan_old_adherent_plural: "nuragistas antiguos"
+ sardinian_pagan_old_desc: "$sardinian_pagan_desc$"
 
  # Paganismo mari
  mari_pagan: "Čimarij Jüla"
@@ -11228,184 +11272,32 @@
  mari_pagan_old_adherent_plural: "Seguidores del antiguo Čimarij Jüla"
  mari_pagan_old_desc: "$mari_pagan_desc$"
 
- # Religión mari
- mari_religion: "Religión mari"
- mari_religion_adj: "Religión mari"
- mari_religion_adherent: "Mari"
- mari_religion_adherent_plural: "Maris"
- mari_religion_desc: "La religión tradicional del pueblo mari se fundamenta en la veneración de las divinidades celestiales, los espíritus de la naturaleza y los antepasados. Kugu Jumo, el Gran Dios, ocupa un lugar destacado junto a numerosas entidades vinculadas a los bosques, los campos, las aguas y la vida doméstica. Las arboledas sagradas constituyen los principales lugares de culto, donde los sacerdotes, conocidos como kart, dirigen plegarias colectivas, sacrificios de animales y ofrendas destinadas a obtener la protección y la prosperidad de las comunidades. Las divinidades tutelares intervienen en la fertilidad de la tierra, la salud de las familias y el bienestar de los rebaños, mientras que las celebraciones estacionales acompañan los ciclos agrícolas. La veneración de los antepasados y la conservación de las ceremonias tradicionales mantienen la armonía entre los seres humanos, sus linajes y las fuerzas espirituales."
+ # Paganismo mari
+ mari_religion: "Paganismo mari"
+ mari_religion_adj: "Čimarijülismo"
+ mari_religion_adherent: "čimarijülista"
+ mari_religion_adherent_plural: "čimarijülistas"
+ mari_religion_desc: "El paganismo mari, conocido tradicionalmente como Čimarii jüla, comprende las creencias ancestrales del pueblo mari, fundamentadas en la veneración de las divinidades celestiales, los espíritus de la naturaleza y los antepasados. Kugu Jumo, el Gran Dios, ocupa un lugar destacado entre las divinidades, junto a numerosas entidades espirituales vinculadas a los bosques, los campos, las aguas y la vida doméstica. Las arboledas sagradas constituyen los principales lugares de culto, donde los sacerdotes, conocidos como kart, dirigen plegarias colectivas, sacrificios de animales y ofrendas destinadas a obtener la protección divina y asegurar la prosperidad de las comunidades. Las divinidades tutelares intervienen en la fertilidad de la tierra, la salud de las familias y el bienestar de los rebaños, mientras que las celebraciones estacionales acompañan los ciclos agrícolas. La veneración de los antepasados y la conservación de las ceremonias tradicionales mantienen la armonía entre los seres humanos, sus linajes y las fuerzas espirituales."
  mari_religious_symbol: "símbolo mari"
  mari_priest: "kart"
  mari_priest_alternate: "kuguza"
  mari_priest_plural: "karts"
  mari_priest_alternate_plural: "kuguzas"
 
- # Paganismo komi
- komi_pagan: "Važesköm"
- komi_pagan_adj: "Važesköm"
- komi_pagan_adherent: "Seguidor de Važesköm"
- komi_pagan_adherent_plural: "Seguidores de Važesköm"
- komi_pagan_desc: "El Važesköm comprende las creencias tradicionales de los pueblos komi de las cuencas del Kama y del Vychegda, fundamentadas en la veneración de las divinidades celestiales, los espíritus de la naturaleza y los antepasados. En, asociado con el cielo y la creación, ocupa un lugar destacado junto a otras entidades que gobiernan los bosques, los ríos, los animales y las actividades humanas. Omöl representa las fuerzas adversas del mundo espiritual, mientras que numerosas divinidades tutelares protegen los hogares, los linajes y los territorios. Las comunidades celebran ofrendas y sacrificios en arboledas, junto a árboles venerados y otros lugares sagrados, donde los especialistas rituales interpretan los presagios y procuran obtener el favor de los espíritus. Las ceremonias estacionales y el culto a los antepasados mantienen los vínculos entre las generaciones y las fuerzas que gobiernan la naturaleza."
- komi_pagan_high_god_name: "En"
- komi_pagan_high_god_name_possessive: "de En"
- komi_pagan_high_god_name_alternate: "En"
- komi_pagan_high_god_name_alternate_possessive: "de En"
- komi_pagan_good_god_zarni: "Zarni Ań"
- komi_pagan_good_god_kuaz: "En"
- komi_pagan_good_god_kyldys: "En"
- komi_pagan_devil_name: "Kul"
- komi_pagan_devil_name_possessive: "de Kul"
- komi_pagan_evil_god_omol: "Omöl"
- komi_pagan_death_deity_name: "Omöl"
- komi_pagan_death_deity_name_possessive: "de Omöl"
- komi_pagan_religious_symbol: "símbolo komi"
- komi_pagan_religious_text: "relatos sagrados"
- komi_pagan_afterlife: "el inframundo"
- komi_pagan_creator_god_name: "$komi_pagan_high_god_name$"
- komi_pagan_creator_god_name_possessive: "$komi_pagan_high_god_name_possessive$"
- komi_pagan_health_god_name: "Zarni Ań"
- komi_pagan_health_god_name_possessive: "de Zarni Ań"
- komi_pagan_fertility_god_name: "Zarni Ań"
- komi_pagan_fertility_god_name_possessive: "de Zarni Ań"
- komi_pagan_wealth_god_name: "En"
- komi_pagan_wealth_god_name_possessive: "de En"
- komi_pagan_household_god_name: "En"
- komi_pagan_household_god_name_possessive: "de En"
- komi_pagan_fate_god_name: "En"
- komi_pagan_fate_god_name_possessive: "de En"
- komi_pagan_knowledge_god_name: "En"
- komi_pagan_knowledge_god_name_possessive: "de En"
- komi_pagan_war_god_name: "En"
- komi_pagan_war_god_name_possessive: "de En"
- komi_pagan_trickster_god_name: "Omöl"
- komi_pagan_trickster_god_name_possessive: "de Omöl"
- komi_pagan_night_god_name: "Voipel"
- komi_pagan_night_god_name_possessive: "de Voipel"
- komi_pagan_water_god_name: "Omöl"
- komi_pagan_water_god_name_possessive: "de Omöl"
+ # Paganismo mordvino
+ mordvin_religion: "Paganismo mordvino"
+ mordvin_religion_adj: "Paganismo mordvino"
+ mordvin_religion_adherent: "pagano mordvino"
+ mordvin_religion_adherent_plural: "paganos mordvinos"
+ mordvin_religion_desc: "El paganismo mordvino comprende las tradiciones religiosas de los pueblos erzya y moksha, fundamentadas en la veneración de las divinidades celestiales, los espíritus de la naturaleza y los antepasados. Aunque ambas comunidades comparten numerosos elementos religiosos, conservan denominaciones, divinidades y prácticas particulares. Las fuerzas sagradas vinculadas a los bosques, las aguas, los campos y los hogares intervienen en la protección y la prosperidad de las familias. Las ceremonias colectivas, dirigidas por ancianos y especialistas rituales, reúnen a las comunidades en arboledas y otros lugares sagrados, donde se celebran plegarias, sacrificios y ofrendas relacionados con los ciclos agrícolas y la continuidad de los linajes. La veneración de los antepasados mantiene los vínculos entre los vivos, sus territorios y el mundo espiritual."
+ mordvin_religious_symbol: "símbolo mordvino"
 
- # Važesköm antiguo
- komi_pagan_old: "Važesköm antiguo"
- komi_pagan_old_adj: "Važesköm antiguo"
- komi_pagan_old_adherent: "Seguidor del antiguo Važesköm"
- komi_pagan_old_adherent_plural: "Seguidores del antiguo Važesköm"
- komi_pagan_old_desc: "$komi_pagan_desc$"
-
- # Paganismo mordvino: Erzya
- erzya_pagan: "Pazon Koy"
- erzya_pagan_adj: "Pazon Koy"
- erzya_pagan_adherent: "Seguidor de Pazon Koy"
- erzya_pagan_adherent_plural: "Seguidores de Pazon Koy"
- erzya_pagan_desc: "$nishke_desc$"
- erzya_pagan_high_god_name: "Ineshkipaz"
- erzya_pagan_high_god_name_possessive: "de Ineshkipaz"
- erzya_pagan_high_god_name_alternate: "Nishkepaz"
- erzya_pagan_high_god_name_alternate_possessive: "de Nishkepaz"
- erzya_pagan_devil_name: "Idemevs"
- erzya_pagan_devil_name_possessive: "de Idemevs"
- erzya_pagan_death_deity_name: "Mastorpaz"
- erzya_pagan_death_deity_name_possessive: "de Mastorpaz"
- erzya_pagan_religious_symbol: "shtatol"
- erzya_pagan_religious_text: "relatos sagrados"
- erzya_pagan_afterlife: "el inframundo"
- erzya_pagan_good_god_purginepaz: "Purginepaz" # Dios del trueno
- erzya_pagan_good_god_yondolpaz: "Yondolpaz" # Dios del relámpago
- erzya_pagan_good_god_varmava: "Varmava" # Espíritu del viento
- erzya_pagan_good_god_viryava: "Viryava" # Espíritu del bosque
- erzya_pagan_creator_god_name: "$erzya_pagan_high_god_name$"
- erzya_pagan_creator_god_name_possessive: "$erzya_pagan_high_god_name_possessive$"
- erzya_pagan_health_god_name: "Mastorava" # Diosa de la tierra
- erzya_pagan_health_god_name_possessive: "de Mastorava"
- erzya_pagan_fertility_god_name: "Vedyava" # Divinidad del agua y la fertilidad
- erzya_pagan_fertility_god_name_possessive: "de Vedyava"
- erzya_pagan_wealth_god_name: "Paksyava" # Diosa de los campos
- erzya_pagan_wealth_god_name_possessive: "de Paksyava"
- erzya_pagan_household_god_name: "Yurtava"
- erzya_pagan_household_god_name_possessive: "de Yurtava"
- erzya_pagan_fate_god_name: "$erzya_pagan_high_god_name$"
- erzya_pagan_fate_god_name_possessive: "$erzya_pagan_high_god_name_possessive$"
- erzya_pagan_knowledge_god_name: "Tyushtya"
- erzya_pagan_knowledge_god_name_possessive: "de Tyushtya"
- erzya_pagan_war_god_name: "Tyushtya"
- erzya_pagan_war_god_name_possessive: "de Tyushtya"
- erzya_pagan_trickster_god_name: "Idemevs"
- erzya_pagan_trickster_god_name_possessive: "de Idemevs"
- erzya_pagan_night_god_name: "Tyushtya"
- erzya_pagan_night_god_name_possessive: "de Tyushtya"
- erzya_pagan_water_god_name: "Vedyava"
- erzya_pagan_water_god_name_possessive: "de Vedyava"
- erzya_pagan_house_of_worship: "keremet" # Arboleda sagrada
- erzya_pagan_house_of_worship_plural: "keremets" # Arboledas sagradas
- erzya_pagan_house_of_worship_2: "$erzya_pagan_house_of_worship$" # Optional translation alt
- erzya_pagan_house_of_worship_3: "$erzya_pagan_house_of_worship$" # Optional translation alt
-
- # Pazon Koy antiguo
- erzya_pagan_old: "Pazon Koy antiguo"
- erzya_pagan_old_adj: "Pazon Koy antiguo"
- erzya_pagan_old_adherent: "Seguidor del antiguo Pazon Koy"
- erzya_pagan_old_adherent_plural: "Seguidores del antiguo Pazon Koy"
- erzya_pagan_old_desc: "$erzya_pagan_desc$"
-
- # Paganismo mordvino: Moksha
- moksha_pagan: "Shkaísmo"
- moksha_pagan_adj: "Shkaísmo"
- moksha_pagan_adherent: "Shkaísta"
- moksha_pagan_adherent_plural: "Shkaístas"
- moksha_pagan_desc: "$shkai_desc$"
- moksha_pagan_high_god_name: "Shkay"
- moksha_pagan_high_god_name_possessive: "de Shkay"
- moksha_pagan_high_god_name_alternate: "Viarde Skai"
- moksha_pagan_high_god_name_alternate_possessive: "de Viarde Skai"
- moksha_pagan_devil_name: "Idemyavoz"
- moksha_pagan_devil_name_possessive: "de Idemyavoz"
- moksha_pagan_death_deity_name: "Mastorava"
- moksha_pagan_death_deity_name_possessive: "de Mastorava"
- moksha_pagan_religious_symbol: "shtatol"
- moksha_pagan_religious_text: "relatos sagrados"
- moksha_pagan_afterlife: "el inframundo"
- moksha_pagan_good_god_atyamshkay: "Atyamshkay" # Dios del trueno
- moksha_pagan_good_god_varmava: "Varmava" # Divinidad del viento
- moksha_pagan_good_god_viryava: "Viryava" # Divinidad del bosque
- moksha_pagan_creator_god_name: "$moksha_pagan_high_god_name$"
- moksha_pagan_creator_god_name_possessive: "$moksha_pagan_high_god_name_possessive$"
- moksha_pagan_health_god_name: "Modava" # Diosa de la tierra
- moksha_pagan_health_god_name_possessive: "de Modava"
- moksha_pagan_fertility_god_name: "Vedyava" # Divinidad del agua y la fertilidad
- moksha_pagan_fertility_god_name_possessive: "de Vedyava"
- moksha_pagan_wealth_god_name: "Vazava" # Diosa del ganado
- moksha_pagan_wealth_god_name_possessive: "de Vazava"
- moksha_pagan_household_god_name: "Yurkhtava"
- moksha_pagan_household_god_name_possessive: "de Yurkhtava"
- moksha_pagan_fate_god_name: "$moksha_pagan_high_god_name$"
- moksha_pagan_fate_god_name_possessive: "$moksha_pagan_high_god_name_possessive$"
- moksha_pagan_knowledge_god_name: "Tyushtya"
- moksha_pagan_knowledge_god_name_possessive: "de Tyushtya"
- moksha_pagan_war_god_name: "Tyushtya"
- moksha_pagan_war_god_name_possessive: "de Tyushtya"
- moksha_pagan_trickster_god_name: "Idemyavoz"
- moksha_pagan_trickster_god_name_possessive: "de Idemyavoz"
- moksha_pagan_night_god_name: "Kovava" # Diosa de la luna
- moksha_pagan_night_god_name_possessive: "de Kovava"
- moksha_pagan_water_god_name: "Vedyava"
- moksha_pagan_water_god_name_possessive: "de Vedyava"
- moksha_pagan_house_of_worship: "repeshtye" # Arboleda sagrada
- moksha_pagan_house_of_worship_plural: "repeshtyes" # Arboledas sagradas
- moksha_pagan_house_of_worship_2: "$moksha_pagan_house_of_worship$" # Optional translation alt
- moksha_pagan_house_of_worship_3: "$moksha_pagan_house_of_worship$" # Optional translation alt
-
- # Shkaísmo antiguo
- moksha_pagan_old: "Shkaísmo antiguo"
- moksha_pagan_old_adj: "Shkaísmo antiguo"
- moksha_pagan_old_adherent: "Shkaísta antiguo"
- moksha_pagan_old_adherent_plural: "Shkaístas antiguos"
- moksha_pagan_old_desc: "$moksha_pagan_desc$"
-
- # Paganismo mordvino: Mastorava
- mordvin_pagan: "Mastorava"
- mordvin_pagan_adj: "Mastorava"
- mordvin_pagan_adherent: "Seguidor de Mastorava"
- mordvin_pagan_adherent_plural: "Seguidores de Mastorava"
- mordvin_pagan_desc: "Las tradiciones religiosas mordvinas de los pueblos erzya y moksha se fundamentan en la veneración de las divinidades celestiales, los espíritus de la naturaleza y los antepasados. Mastorava, la Madre Tierra, representa la fecundidad, la protección del territorio y los vínculos sagrados entre las comunidades y el mundo natural. Las divinidades celestiales gobiernan el orden del universo, mientras que numerosas entidades espirituales habitan los bosques, los ríos, los campos y las viviendas. Las familias y los clanes celebran plegarias, sacrificios y ofrendas en arboledas y otros lugares sagrados, donde los mayores y especialistas rituales procuran obtener la protección divina. Las ceremonias agrícolas, la veneración de los antepasados y las festividades comunitarias mantienen la armonía entre los vivos, sus linajes y las fuerzas espirituales."
+ # Paganismo mordvino
+ mordvin_pagan: "Paganismo mordvino"
+ mordvin_pagan_adj: "Mastoravismo"
+ mordvin_pagan_adherent: "mastoravista"
+ mordvin_pagan_adherent_plural: "mastoravistas"
+ mordvin_pagan_desc: "El paganismo mordvino comprende las creencias tradicionales compartidas por las comunidades erzya y moksha, caracterizadas por la veneración de las divinidades celestiales, los espíritus tutelares y los antepasados. Mastorava, la Madre Tierra, representa la fertilidad, la protección del territorio y los vínculos sagrados entre las comunidades y el mundo natural. Las divinidades celestiales gobiernan el orden del universo, mientras que numerosas entidades espirituales habitan los bosques, los ríos, los campos y las viviendas. Las familias y los clanes celebran plegarias, sacrificios y ofrendas en arboledas y otros lugares sagrados, donde los ancianos y especialistas rituales procuran obtener la protección divina. Las ceremonias agrícolas, la veneración de los antepasados y las festividades comunitarias mantienen la armonía entre los vivos, sus linajes y las fuerzas espirituales."
  mordvin_pagan_high_god_name: "Viarde Skai"
  mordvin_pagan_high_god_name_possessive: "de Viarde Skai"
  mordvin_pagan_high_god_name_alternate: "Nishke-Paz"
@@ -11422,7 +11314,7 @@
  mordvin_pagan_death_deity_name: "Mastoratia"
  mordvin_pagan_death_deity_name_possessive: "de Mastoratia"
  mordvin_pagan_religious_symbol: "símbolo mordvino"
- mordvin_pagan_religious_text: "relatos sagrados"
+ mordvin_pagan_religious_text: "tradiciones orales"
  mordvin_pagan_afterlife: "el inframundo"
  mordvin_pagan_creator_god_name: "$mordvin_pagan_high_god_name$"
  mordvin_pagan_creator_god_name_possessive: "$mordvin_pagan_high_god_name_possessive$"
@@ -11447,28 +11339,137 @@
  mordvin_pagan_water_god_name: "Ved'mastorpaz"
  mordvin_pagan_water_god_name_possessive: "de Ved'mastorpaz"
 
- # Mastorava antiguo
- mordvin_pagan_old: "Mastorava antiguo"
- mordvin_pagan_old_adj: "Mastorava antiguo"
- mordvin_pagan_old_adherent: "Seguidor del antiguo Mastorava"
- mordvin_pagan_old_adherent_plural: "Seguidores del antiguo Mastorava"
+ # Paganismo mordvino antiguo
+ mordvin_pagan_old: "Paganismo mordvino antiguo"
+ mordvin_pagan_old_adj: "Mastoravismo antiguo"
+ mordvin_pagan_old_adherent: "mastoravista antiguo"
+ mordvin_pagan_old_adherent_plural: "mastoravistas antiguos"
  mordvin_pagan_old_desc: "$mordvin_pagan_desc$"
 
- # Paganismo sami
- sami_religion: "Religión sami"
- sami_religion_adj: "Religión sami"
- sami_religion_adherent: "Sami"
- sami_religion_adherent_plural: "Samis"
- sami_religion_desc: "La religión tradicional de los pueblos samis se fundamenta en la veneración de las divinidades y los espíritus presentes en las montañas, los lagos, los bosques y otros elementos de la naturaleza. Los sieidi, lugares y objetos sagrados, reciben ofrendas de renos, peces y otros recursos obtenidos mediante la caza y la pesca. El sol, el trueno y las divinidades protectoras de la maternidad y el nacimiento ocupan un lugar destacado en sus creencias. Los noaidi, especialistas rituales, emplean tambores para comunicarse con el mundo espiritual, mientras que Saivo representa uno de los ámbitos asociados con los espíritus y los difuntos."
- sami_religious_symbol: "tambor chamánico"
+ # Paganismo erzya
+ erzya_pagan: "Paganismo erzya"
+ erzya_pagan_adj: "Pazonkoísmo"
+ erzya_pagan_adherent: "pazonkoísta"
+ erzya_pagan_adherent_plural: "pazonkoístas"
+ erzya_pagan_desc: "El paganismo erzya comprende las creencias tradicionales del pueblo erzya, conocidas mediante la expresión Pazon Koy, vinculada a las costumbres y prácticas religiosas ancestrales. Ineshkipaz, también llamado Nishkepaz, ocupa un lugar destacado como divinidad suprema y creadora, mientras que Purginepaz y Yondolpaz están asociados con el trueno y el relámpago. Numerosos espíritus tutelares protegen los bosques, las aguas, los campos y las viviendas, entre ellos Viryava, Vedyava, Paksyava y Yurtava. Las comunidades celebran plegarias, sacrificios y ofrendas en arboledas y lugares sagrados, donde procuran obtener el favor de las divinidades y asegurar la prosperidad de sus familias y cosechas. La veneración de los antepasados, las ceremonias agrícolas y las festividades comunitarias mantienen los vínculos entre los linajes, la naturaleza y las fuerzas sobrenaturales."
+ erzya_pagan_high_god_name: "Ineshkipaz"
+ erzya_pagan_high_god_name_possessive: "de Ineshkipaz"
+ erzya_pagan_high_god_name_alternate: "Nishkepaz"
+ erzya_pagan_high_god_name_alternate_possessive: "de Nishkepaz"
+ erzya_pagan_devil_name: "Idemevs"
+ erzya_pagan_devil_name_possessive: "de Idemevs"
+ erzya_pagan_death_deity_name: "Mastorpaz"
+ erzya_pagan_death_deity_name_possessive: "de Mastorpaz"
+ erzya_pagan_religious_symbol: "shtatol"
+ erzya_pagan_religious_text: "tradiciones orales"
+ erzya_pagan_afterlife: "el inframundo"
+ erzya_pagan_good_god_purginepaz: "Purginepaz" # Dios del trueno
+ erzya_pagan_good_god_yondolpaz: "Yondolpaz" # Dios del relámpago
+ erzya_pagan_good_god_varmava: "Varmava" # Espíritu del viento
+ erzya_pagan_good_god_viryava: "Viryava" # Espíritu del bosque
+ erzya_pagan_creator_god_name: "$erzya_pagan_high_god_name$"
+ erzya_pagan_creator_god_name_possessive: "$erzya_pagan_high_god_name_possessive$"
+ erzya_pagan_health_god_name: "Mastorava" # Madre Tierra
+ erzya_pagan_health_god_name_possessive: "de Mastorava"
+ erzya_pagan_fertility_god_name: "Vedyava" # Divinidad del agua y la fertilidad
+ erzya_pagan_fertility_god_name_possessive: "de Vedyava"
+ erzya_pagan_wealth_god_name: "Paksyava" # Espíritu de los campos
+ erzya_pagan_wealth_god_name_possessive: "de Paksyava"
+ erzya_pagan_household_god_name: "Yurtava"
+ erzya_pagan_household_god_name_possessive: "de Yurtava"
+ erzya_pagan_fate_god_name: "$erzya_pagan_high_god_name$"
+ erzya_pagan_fate_god_name_possessive: "$erzya_pagan_high_god_name_possessive$"
+ erzya_pagan_knowledge_god_name: "Tyushtya"
+ erzya_pagan_knowledge_god_name_possessive: "de Tyushtya"
+ erzya_pagan_war_god_name: "Tyushtya"
+ erzya_pagan_war_god_name_possessive: "de Tyushtya"
+ erzya_pagan_trickster_god_name: "Idemevs"
+ erzya_pagan_trickster_god_name_possessive: "de Idemevs"
+ erzya_pagan_night_god_name: "Tyushtya"
+ erzya_pagan_night_god_name_possessive: "de Tyushtya"
+ erzya_pagan_water_god_name: "Vedyava"
+ erzya_pagan_water_god_name_possessive: "de Vedyava"
+ erzya_pagan_house_of_worship: "keremet" # Lugar sagrado
+ erzya_pagan_house_of_worship_plural: "keremets" # Lugares sagrados
+ erzya_pagan_house_of_worship_2: "$erzya_pagan_house_of_worship$"
+ erzya_pagan_house_of_worship_3: "$erzya_pagan_house_of_worship$"
+
+ # Paganismo erzya antiguo
+ erzya_pagan_old: "Paganismo erzya antiguo"
+ erzya_pagan_old_adj: "Pazonkoísmo antiguo"
+ erzya_pagan_old_adherent: "pazonkoísta antiguo"
+ erzya_pagan_old_adherent_plural: "pazonkoístas antiguos"
+ erzya_pagan_old_desc: "$erzya_pagan_desc$"
+
+ # Paganismo moksha
+ moksha_pagan: "Paganismo moksha"
+ moksha_pagan_adj: "Shkaísmo"
+ moksha_pagan_adherent: "shkaísta"
+ moksha_pagan_adherent_plural: "shkaístas"
+ moksha_pagan_desc: "El paganismo moksha comprende las creencias tradicionales del pueblo moksha, fundamentadas en la veneración de las divinidades celestiales, los espíritus de la naturaleza y los antepasados. Shkay, divinidad suprema asociada con la creación y el orden del universo, ocupa un lugar central junto a otras entidades que gobiernan el trueno, los vientos, los bosques y las aguas. Las arboledas y los lugares sagrados constituyen espacios de reunión donde las comunidades celebran plegarias, sacrificios y ofrendas para obtener la protección divina y asegurar la prosperidad de sus familias y cosechas. Los espíritus tutelares de los hogares y los espacios naturales intervienen en la vida cotidiana, mientras que la veneración de los antepasados mantiene los vínculos entre las generaciones. Las ceremonias agrícolas, las festividades estacionales y los rituales comunitarios expresan una concepción del mundo en la que las divinidades, la naturaleza y los seres humanos permanecen estrechamente relacionados."
+ moksha_pagan_high_god_name: "Shkay"
+ moksha_pagan_high_god_name_possessive: "de Shkay"
+ moksha_pagan_high_god_name_alternate: "Viarde Skai"
+ moksha_pagan_high_god_name_alternate_possessive: "de Viarde Skai"
+ moksha_pagan_devil_name: "Idemyavoz"
+ moksha_pagan_devil_name_possessive: "de Idemyavoz"
+ moksha_pagan_death_deity_name: "Mastorava"
+ moksha_pagan_death_deity_name_possessive: "de Mastorava"
+ moksha_pagan_religious_symbol: "shtatol"
+ moksha_pagan_religious_text: "tradiciones orales"
+ moksha_pagan_afterlife: "el inframundo"
+ moksha_pagan_good_god_atyamshkay: "Atyamshkay" # Dios del trueno
+ moksha_pagan_good_god_varmava: "Varmava" # Espíritu del viento
+ moksha_pagan_good_god_viryava: "Viryava" # Espíritu del bosque
+ moksha_pagan_creator_god_name: "$moksha_pagan_high_god_name$"
+ moksha_pagan_creator_god_name_possessive: "$moksha_pagan_high_god_name_possessive$"
+ moksha_pagan_health_god_name: "Modava" # Madre Tierra
+ moksha_pagan_health_god_name_possessive: "de Modava"
+ moksha_pagan_fertility_god_name: "Vedyava" # Divinidad del agua y la fertilidad
+ moksha_pagan_fertility_god_name_possessive: "de Vedyava"
+ moksha_pagan_wealth_god_name: "Vazava" # Protectora del ganado
+ moksha_pagan_wealth_god_name_possessive: "de Vazava"
+ moksha_pagan_household_god_name: "Yurkhtava"
+ moksha_pagan_household_god_name_possessive: "de Yurkhtava"
+ moksha_pagan_fate_god_name: "$moksha_pagan_high_god_name$"
+ moksha_pagan_fate_god_name_possessive: "$moksha_pagan_high_god_name_possessive$"
+ moksha_pagan_knowledge_god_name: "Tyushtya"
+ moksha_pagan_knowledge_god_name_possessive: "de Tyushtya"
+ moksha_pagan_war_god_name: "Tyushtya"
+ moksha_pagan_war_god_name_possessive: "de Tyushtya"
+ moksha_pagan_trickster_god_name: "Idemyavoz"
+ moksha_pagan_trickster_god_name_possessive: "de Idemyavoz"
+ moksha_pagan_night_god_name: "Kovava" # Divinidad lunar
+ moksha_pagan_night_god_name_possessive: "de Kovava"
+ moksha_pagan_water_god_name: "Vedyava"
+ moksha_pagan_water_god_name_possessive: "de Vedyava"
+ moksha_pagan_house_of_worship: "repeshtye" # Lugar sagrado
+ moksha_pagan_house_of_worship_plural: "repeshtyes" # Lugares sagrados
+ moksha_pagan_house_of_worship_2: "$moksha_pagan_house_of_worship$"
+ moksha_pagan_house_of_worship_3: "$moksha_pagan_house_of_worship$"
+
+ # Paganismo moksha antiguo
+ moksha_pagan_old: "Paganismo moksha antiguo"
+ moksha_pagan_old_adj: "Shkaísmo antiguo"
+ moksha_pagan_old_adherent: "shkaísta antiguo"
+ moksha_pagan_old_adherent_plural: "shkaístas antiguos"
+ moksha_pagan_old_desc: "$moksha_pagan_desc$"
+
+ # Chamanismo sami
+ sami_religion: "Chamanismo sami"
+ sami_religion_adj: "Chamanismo sami"
+ sami_religion_adherent: "chamanista sami"
+ sami_religion_adherent_plural: "chamanistas samis"
+ sami_religion_desc: "El chamanismo sami comprende las tradiciones religiosas de los pueblos samis, fundamentadas en la veneración de las divinidades, los antepasados y los espíritus presentes en las montañas, los lagos, los bosques y otros elementos de la naturaleza. Los sieidi, lugares y objetos sagrados, reciben ofrendas de renos, peces y otros recursos obtenidos mediante la caza y la pesca. El sol, el trueno y las divinidades protectoras de la maternidad y el nacimiento ocupan un lugar destacado en sus creencias. Los noaidi, especialistas rituales, emplean tambores, cantos e invocaciones para comunicarse con el mundo espiritual, mientras que Saivo representa uno de los ámbitos asociados con los espíritus y los difuntos."
+ sami_religious_symbol: "tambor ritual"
  sami_death_deity_name_possessive: "de Ruohtta"
 
- # Noaidevuohta
- sami_pagan: "Noaidevuohta"
- sami_pagan_adj: "Noaidevuohta"
- sami_pagan_adherent: "Noaidevuotista"
- sami_pagan_adherent_plural: "Noaidevuotistas"
- sami_pagan_desc: "El Noaidevuohta comprende las creencias tradicionales de los pueblos samis del extremo septentrional de Europa, caracterizadas por la veneración de las divinidades celestiales, los espíritus de la naturaleza y los antepasados. Tiermes gobierna el trueno y las tormentas, Beaivi representa al sol y Radien ocupa un lugar destacado entre las divinidades celestiales. Máttaráhkká y sus hijas Sáhráhkká, Juksáhkká y Uksáhkká protegen distintos aspectos de la concepción, el nacimiento y la vida familiar. Los sieidi, piedras y lugares naturales considerados sagrados, reciben ofrendas de renos, peces y otros bienes destinados a obtener el favor de las fuerzas espirituales. Los noaidi, especialistas rituales, emplean tambores, cantos e invocaciones para comunicarse con los espíritus, interpretar los presagios y procurar la curación de las enfermedades. Saivo constituye un ámbito espiritual vinculado a los difuntos y a determinados lugares sagrados, donde se manifiestan las relaciones entre el mundo humano y el sobrenatural."
+ # Paganismo sami
+ sami_pagan: "Paganismo sami"
+ sami_pagan_adj: "Noaidevuotismo"
+ sami_pagan_adherent: "noaidevuotista"
+ sami_pagan_adherent_plural: "noaidevuotistas"
+ sami_pagan_desc: "El paganismo sami comprende las creencias tradicionales de los pueblos samis del extremo septentrional de Europa, caracterizadas por la veneración de las divinidades celestiales, los espíritus de la naturaleza y los antepasados. Tiermes gobierna el trueno y las tormentas, Beaivi representa al sol y Radien ocupa un lugar destacado entre las divinidades celestiales. Máttaráhkká y sus hijas Sáhráhkká, Juksáhkká y Uksáhkká protegen distintos aspectos de la concepción, el nacimiento y la vida familiar. Los sieidi, piedras y lugares naturales considerados sagrados, reciben ofrendas de renos, peces y otros bienes destinados a obtener el favor de las fuerzas espirituales. Los noaidi, especialistas rituales, emplean tambores, cantos e invocaciones para comunicarse con los espíritus, interpretar los presagios y procurar la curación de las enfermedades. Saivo constituye un ámbito espiritual vinculado a los difuntos y a determinados lugares sagrados, donde se manifiestan las relaciones entre el mundo humano y el sobrenatural."
  sami_pagan_high_god_name: "Tiermes"
  sami_pagan_high_god_name_possessive: "de Tiermes"
  sami_pagan_high_god_name_alternate: "Radien"
@@ -11513,10 +11514,10 @@
 
  # Paganismo obiugrio
  khanty_pagan: "Paganismo obiugrio"
- khanty_pagan_adj: "Paganismo obiugrio"
- khanty_pagan_adherent: "Pagano obiugrio"
- khanty_pagan_adherent_plural: "Paganos obiugrios"
- khanty_pagan_desc: "Las tradiciones religiosas de los pueblos obiugrios, principalmente los janty y los mansi, se fundamentan en la veneración de las divinidades celestiales, los espíritus de la naturaleza y los antepasados. Num-Torum ocupa un lugar destacado entre las deidades celestiales, mientras que Kaltes-Ekwa y Mir-Susne-Hum intervienen en la protección de la vida, los linajes y las comunidades humanas. Los bosques, los ríos, los animales y determinados lugares naturales albergan espíritus tutelares que reciben ofrendas y sacrificios en santuarios familiares y comunitarios. El oso posee una especial importancia religiosa y protagoniza ceremonias destinadas a honrar su espíritu y preservar la armonía entre los cazadores y las fuerzas sobrenaturales. Los especialistas rituales interpretan los presagios y mantienen las relaciones con las divinidades mediante plegarias, sacrificios y celebraciones transmitidas por las generaciones anteriores."
+ khanty_pagan_adj: "Obiugrismo"
+ khanty_pagan_adherent: "pagano obiugrio"
+ khanty_pagan_adherent_plural: "paganos obiugrios"
+ khanty_pagan_desc: "El paganismo obiugrio comprende las creencias tradicionales de los pueblos obiugrios, principalmente los janty y los mansi, fundamentadas en la veneración de las divinidades celestiales, los espíritus de la naturaleza y los antepasados. Num-Torum ocupa un lugar destacado entre las divinidades celestiales, mientras que Kaltes-Ekwa y Mir-Susne-Hum intervienen en la protección de la vida, los linajes y las comunidades humanas. Los bosques, los ríos, los animales y determinados lugares naturales albergan espíritus tutelares que reciben ofrendas y sacrificios en santuarios familiares y comunitarios. El oso posee una especial importancia religiosa y protagoniza ceremonias destinadas a honrar su espíritu y preservar la armonía entre los cazadores y las fuerzas sobrenaturales. Los especialistas rituales interpretan los presagios y mantienen los vínculos con las divinidades mediante plegarias, sacrificios y ceremonias transmitidas de generación en generación."
  khanty_pagan_high_god_name: "Num-Torum"
  khanty_pagan_high_god_name_possessive: "de Num-Torum"
  khanty_pagan_high_god_name_alternate: "el Viejo"
@@ -11563,11 +11564,11 @@
  khanty_pagan_old_desc: "$khanty_pagan_desc$"
 
  # Paganismo fínico
- finnish_pagan: "Suomenusko"
- finnish_pagan_adj: "Suomenusko"
- finnish_pagan_adherent: "Suomenuskista"
- finnish_pagan_adherent_plural: "Suomenuskistas"
- finnish_pagan_desc: "El Suomenusko comprende las creencias tradicionales de los pueblos fínicos, especialmente finlandeses, tavastianos, carelios y otras comunidades emparentadas de las regiones septentrionales del Báltico. Ukko, señor del cielo, el trueno y la lluvia, ocupa un lugar destacado entre las divinidades, mientras que otras figuras como Ilmarinen, Äkräs y Ahto gobiernan distintos aspectos de la naturaleza y las actividades humanas. Los bosques, los lagos, los campos y las viviendas albergan espíritus tutelares que reciben ofrendas destinadas a asegurar la protección y la prosperidad de las comunidades. Los tietäjä, especialistas rituales y conocedores de las tradiciones ancestrales, emplean cantos, encantamientos e invocaciones para sanar enfermedades, interpretar presagios y relacionarse con las fuerzas sobrenaturales. Las ceremonias estacionales, el culto a los antepasados y las creencias sobre Tuonela, el reino de los muertos, forman parte de una concepción del universo en la que los mundos humano y espiritual permanecen estrechamente vinculados."
+ finnish_pagan: "Paganismo fínico"
+ finnish_pagan_adj: "Suomenusquismo"
+ finnish_pagan_adherent: "pagano fínico"
+ finnish_pagan_adherent_plural: "paganos fínicos"
+ finnish_pagan_desc: "El paganismo fínico comprende las creencias tradicionales de los pueblos fínicos, especialmente finlandeses, tavastianos, carelios y otras comunidades emparentadas de las regiones septentrionales del Báltico. Ukko, señor del cielo, el trueno y la lluvia, ocupa un lugar destacado entre las divinidades, mientras que otras figuras como Ilmarinen, Äkräs y Ahto gobiernan distintos aspectos de la naturaleza y las actividades humanas. Los bosques, los lagos, los campos y las viviendas albergan espíritus tutelares que reciben ofrendas destinadas a asegurar la protección y la prosperidad de las comunidades. Los tietäjä, especialistas rituales y conocedores de las tradiciones ancestrales, emplean cantos, encantamientos e invocaciones para sanar enfermedades, interpretar presagios y relacionarse con las fuerzas sobrenaturales. Las ceremonias estacionales, el culto a los antepasados y las creencias sobre Tuonela, el reino de los muertos, forman parte de una concepción del universo en la que los mundos humano y espiritual permanecen estrechamente vinculados."
  finnish_pagan_priest_male: "tietäjä"
  finnish_pagan_priest_male_plural: "tietäjät"
  finnish_pagan_priest_female: "tietäjätär"
@@ -11615,19 +11616,20 @@
  finnish_pagan_water_god_name: "Ahto"
  finnish_pagan_water_god_name_possessive: "de Ahto"
 
- # Suomenusko antiguo
- finnish_pagan_old: "Suomenusko antiguo"
- finnish_pagan_old_adj: "Suomenusko antiguo"
- finnish_pagan_old_adherent: "Suomenuskista antiguo"
- finnish_pagan_old_adherent_plural: "Suomenuskistas antiguos"
+ # Paganismo fínico antiguo
+ finnish_pagan_old: "Paganismo fínico antiguo"
+ finnish_pagan_old_adj: "Paganismo fínico antiguo"
+ finnish_pagan_old_adherent: "pagano fínico antiguo"
+ finnish_pagan_old_adherent_plural: "paganos fínicos antiguos"
  finnish_pagan_old_desc: "$finnish_pagan_desc$"
 
  # Paganismo gótico
- gothic_pagan: "Blótan"
- gothic_pagan_adj: "Blótan"
- gothic_pagan_adherent: "Blotista"
- gothic_pagan_adherent_plural: "Blotistas"
- gothic_pagan_desc: "El Blótan comprende las tradiciones religiosas de los antiguos godos y otros pueblos germánicos orientales, fundamentadas en la veneración de las divinidades, los espíritus de la naturaleza y los antepasados. Gapt ocupa un lugar destacado entre las figuras ancestrales de los linajes góticos, mientras que otras divinidades, relacionadas con la fertilidad, la guerra y las fuerzas naturales, reflejan las creencias compartidas con otros pueblos germánicos. Los sacrificios, las ofrendas y las ceremonias comunitarias permiten mantener los vínculos entre los fieles y las potencias sobrenaturales. Los juramentos, la lealtad a los linajes y el respeto por las costumbres ancestrales poseen una especial importancia religiosa y social. Aunque buena parte de sus tradiciones se conserva de forma fragmentaria, el culto gótico mantiene características propias dentro del conjunto de las antiguas religiones germánicas."
+ gothic_pagan: "Paganismo gótico"
+ gothic_pagan_adj: "Blótanismo"
+ gothic_pagan_adherent: "blotista"
+ gothic_pagan_adherent_plural: "blotistas"
+ gothic_pagan_desc: "El paganismo gótico comprende las tradiciones religiosas de los antiguos godos y otros pueblos germánicos orientales, fundamentadas en la veneración de las divinidades, los espíritus de la naturaleza y los antepasados. Gapt ocupa un lugar destacado entre las figuras ancestrales de los linajes góticos, mientras que otras divinidades, relacionadas con la fertilidad, la guerra y las fuerzas naturales, reflejan las creencias compartidas con otros pueblos germánicos. Los sacrificios, las ofrendas y las ceremonias comunitarias permiten mantener los vínculos entre los fieles y las potencias sobrenaturales. Los juramentos, la lealtad a los linajes y el respeto por las costumbres ancestrales poseen una especial importancia religiosa y social. Aunque buena parte de sus tradiciones se conserva de forma fragmentaria, el culto gótico mantiene características propias dentro del conjunto de las antiguas religiones germánicas."
+
  gothic_high_god_name: "Gapt"
  gothic_high_god_name_possessive: "de Gapt"
  gothic_good_god_fairguneis: "Fairguneis"
@@ -11648,19 +11650,19 @@
  gothic_water_god_name: "Donaws"
  gothic_water_god_name_possessive: "de Donaws"
 
- # Blótan antiguo
- gothic_pagan_old: "Blótan antiguo"
- gothic_pagan_old_adj: "Blótan antiguo"
- gothic_pagan_old_adherent: "Blotista antiguo"
- gothic_pagan_old_adherent_plural: "Blotistas antiguos"
+ # Paganismo gótico antiguo
+ gothic_pagan_old: "Paganismo gótico antiguo"
+ gothic_pagan_old_adj: "Paganismo gótico antiguo"
+ gothic_pagan_old_adherent: "pagano gótico antiguo"
+ gothic_pagan_old_adherent_plural: "paganos góticos antiguos"
  gothic_pagan_old_desc: "$gothic_pagan_desc$"
 
  # Paganismo sajón
  saxon_pagan: "Paganismo sajón"
- saxon_pagan_adj: "Paganismo sajón"
- saxon_pagan_adherent: "Pagano sajón"
- saxon_pagan_adherent_plural: "Paganos sajones"
- saxon_pagan_desc: "El paganismo sajón comprende las tradiciones religiosas de los antiguos sajones, fundamentadas en la veneración de las divinidades germánicas, los espíritus de la naturaleza y los antepasados. Woden, asociado con la sabiduría, la soberanía y la guerra, ocupa un lugar destacado junto a Thunor, señor del trueno y protector frente a las fuerzas perjudiciales, y Seaxneat, divinidad vinculada a las tradiciones del pueblo sajón. Los bosques, los manantiales y otros lugares sagrados acogen sacrificios, ofrendas y ceremonias comunitarias destinadas a obtener el favor de los dioses. El Irminsul, venerado como un importante símbolo sagrado, representa la relación entre el mundo humano y el orden divino. Los juramentos, la fidelidad a los linajes, el valor guerrero y el respeto por las costumbres ancestrales forman parte de una tradición religiosa estrechamente vinculada a la organización de las comunidades sajonas."
+ saxon_pagan_adj: "Irminsulismo"
+ saxon_pagan_adherent: "irminsulista"
+ saxon_pagan_adherent_plural: "irminsulistas"
+ saxon_pagan_desc: "El paganismo sajón comprende las tradiciones religiosas de los antiguos sajones continentales, fundamentadas en la veneración de las divinidades germánicas, los espíritus de la naturaleza y los antepasados. Woden, asociado con la sabiduría, la soberanía y la guerra, ocupa un lugar destacado junto a Thunor, señor del trueno y protector frente a las fuerzas perjudiciales, y Seaxneat, divinidad vinculada con las tradiciones del pueblo sajón. Los bosques, los manantiales y otros lugares sagrados acogen sacrificios, ofrendas y ceremonias comunitarias destinadas a obtener el favor de los dioses. El Irminsul, descrito en las fuentes medievales como un importante objeto de veneración de los sajones, simboliza la relación entre el mundo humano y el orden celestial. Los juramentos, la fidelidad a los linajes, el valor guerrero y el respeto por las costumbres ancestrales forman parte de una tradición religiosa estrechamente vinculada con la organización de las comunidades sajonas."
  saxon_pagan_high_god_name: "Woden"
  saxon_pagan_high_god_name_possessive: "de Woden"
  saxon_pagan_high_god_alternate: "Padre de Todos"
@@ -11690,17 +11692,17 @@
 
  # Paganismo sajón antiguo
  saxon_pagan_old: "Paganismo sajón antiguo"
- saxon_pagan_old_adj: "Paganismo sajón antiguo"
- saxon_pagan_old_adherent: "Pagano sajón antiguo"
- saxon_pagan_old_adherent_plural: "Paganos sajones antiguos"
+ saxon_pagan_old_adj: "Irminsulismo antiguo"
+ saxon_pagan_old_adherent: "irminsulista antiguo"
+ saxon_pagan_old_adherent_plural: "irminsulistas antiguos"
  saxon_pagan_old_desc: "$saxon_pagan_desc$"
 
  # Paganismo germánico central
- central_pagan: "Irminismo"
+ central_pagan: "Paganismo germánico central"
  central_pagan_adj: "Irminismo"
- central_pagan_adherent: "Irminista"
- central_pagan_adherent_plural: "Irministas"
- central_pagan_desc: "El irminismo comprende las tradiciones religiosas de los pueblos germánicos de las regiones centrales de Europa, especialmente los francos y otras comunidades asentadas en las tierras del Rin y Germania. Irmin ocupa un lugar destacado entre las figuras divinas asociadas con el orden celestial y la protección de los pueblos, junto a Woden, Thunaer, Ziu y otras divinidades vinculadas con la guerra, la fertilidad, la justicia y las fuerzas de la naturaleza. Los bosques, los árboles venerados, los manantiales y otros lugares sagrados acogen sacrificios, ofrendas y ceremonias comunitarias destinadas a obtener el favor de los dioses. Los juramentos, la fidelidad a los linajes y el respeto por las costumbres ancestrales forman parte de una tradición religiosa estrechamente relacionada con la autoridad de los gobernantes y la organización de las comunidades."
+ central_pagan_adherent: "irminista"
+ central_pagan_adherent_plural: "irministas"
+ central_pagan_desc: "El paganismo germánico central comprende las tradiciones religiosas de los pueblos germánicos establecidos en las regiones centrales de Europa, especialmente los francos y otras comunidades de las tierras del Rin y Germania. Sus creencias se fundamentan en la veneración de divinidades vinculadas con el cielo, la guerra, la fertilidad, la justicia y las fuerzas de la naturaleza. Entre ellas destacan Woden, asociado con la soberanía y la sabiduría, Thunaer, señor del trueno, y Ziu, relacionado con la guerra y el orden jurídico. Irmin, figura cuyo significado religioso permanece incierto, se vincula en algunas interpretaciones con las tradiciones sagradas de los pueblos germánicos y la concepción del orden celestial. Los bosques, los árboles venerados, los manantiales y otros lugares sagrados acogen sacrificios, ofrendas y ceremonias comunitarias destinadas a obtener el favor de las divinidades. Los juramentos, la fidelidad a los linajes y el respeto por las costumbres ancestrales forman parte de una tradición estrechamente relacionada con la autoridad de los gobernantes y la organización de las comunidades."
  central_pagan_high_god_name: "Irmin"
  central_pagan_high_god_name_possessive: "de Irmin"
  central_pagan_high_god_alternate: "Woden"
@@ -11728,25 +11730,18 @@
  central_pagan_war_god_name: "Ziu"
  central_pagan_war_god_name_possessive: "de Ziu"
 
- # Irminismo antiguo
- central_pagan_old: "Irminismo antiguo"
+ # Paganismo germánico central antiguo
+ central_pagan_old: "Paganismo germánico central antiguo"
  central_pagan_old_adj: "Irminismo antiguo"
- central_pagan_old_adherent: "Irminista antiguo"
- central_pagan_old_adherent_plural: "Irministas antiguos"
+ central_pagan_old_adherent: "irminista antiguo"
+ central_pagan_old_adherent_plural: "irministas antiguos"
  central_pagan_old_desc: "$central_pagan_desc$"
-
- # Druidismo antiguo
- druidism_old: "Druidismo antiguo"
- druidism_old_adj: "Druidismo antiguo"
- druidism_old_adherent: "Druidista antiguo"
- druidism_old_adherent_plural: "Druidistas antiguos"
- druidism_old_desc: "$druidism_desc$"
 
  # Paganismo gaélico
  irish_druidism: "Paganismo gaélico"
- irish_druidism_adj: "Paganismo gaélico"
- irish_druidism_adherent: "Pagano gaélico"
- irish_druidism_adherent_plural: "Paganos gaélicos"
+ irish_druidism_adj: "Druidismo gaélico"
+ irish_druidism_adherent: "druida gaélico"
+ irish_druidism_adherent_plural: "druidas gaélicos"
  irish_druidism_desc: "El paganismo gaélico comprende las tradiciones religiosas de los antiguos pueblos de Irlanda y otras comunidades de lengua gaélica, caracterizadas por la veneración de numerosas divinidades, espíritus de la naturaleza y antepasados. Los Tuatha Dé Danann ocupan un lugar destacado en sus relatos tradicionales, junto a figuras como el Dagda, asociado con la abundancia y la soberanía, Brígida, vinculada con la poesía y las artes, y Lugh, reconocido por sus múltiples habilidades. Los druidas desempeñan funciones sacerdotales, conservan los conocimientos sagrados e interpretan los presagios mediante prácticas transmitidas por la tradición oral. Los bosques, los manantiales, los pozos y otros lugares naturales reciben ofrendas y acogen ceremonias relacionadas con los ciclos estacionales. Las festividades de Samhain, Imbolc, Beltane y Lughnasadh marcan importantes momentos del año y expresan los vínculos entre las comunidades, la fertilidad de la tierra y el Otro Mundo."
  irish_druidism_high_god_name: "el Dagda"
  irish_druidism_high_god_name_possessive: "del Dagda"
@@ -11788,31 +11783,31 @@
 
  # Paganismo gaélico antiguo
  irish_druidism_old: "Paganismo gaélico antiguo"
- irish_druidism_old_adj: "Paganismo gaélico antiguo"
- irish_druidism_old_adherent: "Pagano gaélico antiguo"
- irish_druidism_old_adherent_plural: "Paganos gaélicos antiguos"
+ irish_druidism_old_adj: "Druidismo gaélico antiguo"
+ irish_druidism_old_adherent: "druida gaélico antiguo"
+ irish_druidism_old_adherent_plural: "druidas gaélicos antiguos"
  irish_druidism_old_desc: "$irish_druidism_desc$"
 
  # Paganismo picto
  pictish_druidism: "Paganismo picto"
- pictish_druidism_adj: "Paganismo picto"
- pictish_druidism_adherent: "Pagano picto"
- pictish_druidism_adherent_plural: "Paganos pictos"
+ pictish_druidism_adj: "Druidismo picto"
+ pictish_druidism_adherent: "druida picto"
+ pictish_druidism_adherent_plural: "druidas pictos"
  pictish_druidism_desc: "El paganismo picto comprende las antiguas tradiciones religiosas de los pueblos del norte de Britania, cuyas creencias se relacionan con las prácticas espirituales de otras comunidades celtas y con la veneración de las fuerzas de la naturaleza. Los ríos, los manantiales, los bosques y determinados lugares del paisaje poseen un carácter sagrado y constituyen espacios de culto y celebración comunitaria. Las piedras decoradas con figuras animales, símbolos geométricos y otros motivos reflejan aspectos de la cultura picta, aunque el significado religioso de muchas de estas representaciones permanece incierto. Las ofrendas, los ritos funerarios y la veneración de los antepasados mantienen los vínculos entre los clanes, sus territorios y las fuerzas sobrenaturales. La transmisión de las costumbres ancestrales conserva la identidad espiritual de las comunidades y su relación con los lugares sagrados."
 
  # Paganismo picto antiguo
  pictish_druidism_old: "Paganismo picto antiguo"
- pictish_druidism_old_adj: "Paganismo picto antiguo"
- pictish_druidism_old_adherent: "Pagano picto antiguo"
- pictish_druidism_old_adherent_plural: "Paganos pictos antiguos"
+ pictish_druidism_old_adj: "Druidismo picto antiguo"
+ pictish_druidism_old_adherent: "druida picto antiguo"
+ pictish_druidism_old_adherent_plural: "druidas pictos antiguos"
  pictish_druidism_old_desc: "$pictish_druidism_desc$"
 
  # Paganismo galo
- gaulish_pagan: "Politeísmo galo"
- gaulish_pagan_adj: "Politeísmo galo"
- gaulish_pagan_adherent: "Politeísta galo"
- gaulish_pagan_adherent_plural: "Politeístas galos"
- gaulish_pagan_desc: "El politeísmo galo comprende las tradiciones religiosas de los pueblos celtas de la Galia, caracterizadas por la veneración de numerosas divinidades locales y regionales vinculadas con la naturaleza, la soberanía, la guerra, la fertilidad y la prosperidad. Entre sus dioses destacan Taranis, asociado con el trueno, Lugus, relacionado con diversas habilidades y funciones soberanas, y Epona, protectora de los caballos. Otras divinidades, como Grannus, Rosmerta y Sequana, reciben culto por su relación con la curación, la abundancia y las aguas sagradas. Los druidas desempeñan importantes funciones sacerdotales, judiciales y educativas, conservando los conocimientos religiosos mediante la tradición oral. Los bosques, los manantiales y los santuarios constituyen espacios de culto donde se celebran sacrificios, ofrendas y ceremonias comunitarias. La veneración de los antepasados y las creencias sobre la continuidad del alma refuerzan los vínculos entre las comunidades, sus linajes y el mundo sobrenatural."
+ gaulish_pagan: "Paganismo galo"
+ gaulish_pagan_adj: "Druidismo galo"
+ gaulish_pagan_adherent: "druida galo"
+ gaulish_pagan_adherent_plural: "druidas galos"
+ gaulish_pagan_desc: "El paganismo galo comprende las tradiciones religiosas de los pueblos celtas de la Galia, caracterizadas por la veneración de numerosas divinidades locales y regionales vinculadas con la naturaleza, la soberanía, la guerra, la fertilidad y la prosperidad. Entre sus dioses destacan Taranis, asociado con el trueno, Lugus, relacionado con diversas habilidades y funciones soberanas, y Epona, protectora de los caballos. Otras divinidades, como Grannus, Rosmerta y Sequana, reciben culto por su relación con la curación, la abundancia y las aguas sagradas. Los druidas desempeñan importantes funciones sacerdotales, judiciales y educativas, conservando los conocimientos religiosos mediante la tradición oral. Los bosques, los manantiales y los santuarios constituyen espacios de culto donde se celebran sacrificios, ofrendas y ceremonias comunitarias. La veneración de los antepasados y las creencias sobre la continuidad del alma refuerzan los vínculos entre las comunidades, sus linajes y el mundo sobrenatural."
  gaulish_high_god_name: "Ambisagrus"
  gaulish_high_god_name_possessive: "de Ambisagrus"
  gaulish_high_god_name_alternate: "Dios del Trueno"
@@ -11861,74 +11856,63 @@
  gaulish_evil_god_ankou: "Ankou"
  gaulish_evil_god_aereda: "Aereda"
  gaulish_religious_symbol: "trisquel"
- gaulish_religious_text: "Senchanúlói Cochrávan"
+ gaulish_religious_text: "tradiciones orales"
  gaulish_divine_realm: "el Otro Mundo"
  gaulish_positive_afterlife_name: "el Otro Mundo"
  gaulish_negative_afterlife_name: "el inframundo"
  gaulish_death_deity_name: "Vellaunus"
  gaulish_death_deity_name_possessive: "de Vellaunus"
 
- # Politeísmo galo antiguo
- gaulish_pagan_old: "Politeísmo galo antiguo"
- gaulish_pagan_old_adj: "Politeísmo galo antiguo"
- gaulish_pagan_old_adherent: "Politeísta galo antiguo"
- gaulish_pagan_old_adherent_plural: "Politeístas galos antiguos"
+ # Paganismo galo antiguo
+ gaulish_pagan_old: "Paganismo galo antiguo"
+ gaulish_pagan_old_adj: "Druidismo galo antiguo"
+ gaulish_pagan_old_adherent: "druida galo antiguo"
+ gaulish_pagan_old_adherent_plural: "druidas galos antiguos"
  gaulish_pagan_old_desc: "$gaulish_pagan_desc$"
 
- # Sincretismo celtohelénico
- celto_hellenic_syncretism: "Taranismo"
- celto_hellenic_syncretism_adj: "Taranismo"
- celto_hellenic_syncretism_adherent: "Taranista"
- celto_hellenic_syncretism_adherent_plural: "Taranistas"
- celto_hellenic_syncretism_desc: "El taranismo representa una tradición religiosa sincrética que combina las creencias de los pueblos celtas con elementos del politeísmo helénico y romano. Sus seguidores identifican determinadas divinidades celtas con dioses grecorromanos de funciones semejantes, dando lugar a cultos compartidos y nuevas interpretaciones de sus atributos. Taranis, asociado con el trueno y el poder celestial, se identifica con Júpiter, mientras que otras divinidades reciben veneración bajo nombres y representaciones procedentes de distintas culturas. Los templos, los santuarios naturales, los sacrificios y las ceremonias comunitarias reflejan la convivencia de las prácticas religiosas celtas y mediterráneas. Esta tradición expresa la integración de los cultos indígenas en el mundo romano sin abandonar por completo sus antiguas identidades religiosas."
- celto_hellenic_syncretism_high_god_name: "Júpiter Taranis"
- celto_hellenic_syncretism_high_god_name_alternate: "Júpiter Poeninus"
- celto_hellenic_syncretism_high_god_name_possesive: "de Júpiter Taranis"
- celto_hellenic_syncretism_high_god_name_alternate_possesive: "de Júpiter Poeninus"
- celto_hellenic_syncretism_creator_god_name: "Dis Pater"
- celto_hellenic_syncretism_creator_god_name_possessive: "de Dis Pater"
- celto_hellenic_syncretism_health_god_name: "Apolo Belenus"
- celto_hellenic_syncretism_health_god_name_possessive: "de Apolo Belenus"
- celto_hellenic_syncretism_fertility_god_name: "Epona"
- celto_hellenic_syncretism_fertility_god_name_possessive: "de Epona"
- celto_hellenic_syncretism_wealth_god_name: "Mercurio Visucio"
- celto_hellenic_syncretism_wealth_god_name_possessive: "de Mercurio Visucio"
- celto_hellenic_syncretism_household_god_name: "los Lares"
- celto_hellenic_syncretism_household_god_name_possessive: "de los Lares"
- celto_hellenic_syncretism_knowledge_god_name: "Minerva Brigantia"
- celto_hellenic_syncretism_knowledge_god_name_possessive: "de Minerva Brigantia"
- celto_hellenic_syncretism_war_god_name: "Marte Lugus"
- celto_hellenic_syncretism_war_god_name_possessive: "de Marte Lugus"
- celto_hellenic_syncretism_trickster_god_name: "$celto_hellenic_syncretism_wealth_god_name$"
- celto_hellenic_syncretism_trickster_god_name_possessive: "$celto_hellenic_syncretism_wealth_god_name_possessive$"
- celto_hellenic_syncretism_night_god_name: "Trivia"
- celto_hellenic_syncretism_night_god_name_possessive: "de Trivia"
- celto_hellenic_syncretism_water_god_name: "Neptuno Nodens"
- celto_hellenic_syncretism_water_god_name_possessive: "de Neptuno Nodens"
- celto_hellenic_syncretism_pantheon_term: "Dioses Consentes"
- celto_hellenic_syncretism_devil_name: "Plutón"
- celto_hellenic_syncretism_devil_name_possessive: "de Plutón"
- celto_hellenic_syncretism_devil_herselfhimself: "sí mismo"
- celto_hellenic_syncretism_devil_herhis: "su"
- celto_hellenic_syncretism_devil_shehe: "él"
- celto_hellenic_syncretism_death_deity_name: "$celto_hellenic_syncretism_devil_name$"
- celto_hellenic_syncretism_death_deity_name_possessive: "$celto_hellenic_syncretism_devil_name_possessive$"
- celto_hellenic_syncretism_death_deity_herhis: "$celto_hellenic_syncretism_devil_herhis$"
- celto_hellenic_syncretism_house_of_worship: "templo"
+ # Paganismo britano
+ briton_pagan: "Paganismo britano"
+ briton_pagan_adj: "Hen Ciuirismo"
+ briton_pagan_adherent: "henciuirista"
+ briton_pagan_adherent_plural: "henciuiristas"
+ briton_pagan_desc: "El paganismo britano comprende las tradiciones religiosas de los pueblos britanos anteriores a la expansión del cristianismo y a la influencia de los cultos romanos. Sus seguidores veneran a numerosas divinidades y espíritus asociados con los bosques, los ríos, los manantiales, las montañas y otros elementos del mundo natural. Entre las figuras veneradas destacan Nodens, vinculado con la curación y la protección, y Sulis, asociada con las aguas sagradas. Los santuarios naturales reciben ofrendas y acogen ceremonias destinadas a obtener el favor de las divinidades y preservar la prosperidad de las comunidades. Los relatos sobre el Otro Mundo, la veneración de los antepasados y las enseñanzas transmitidas por la tradición oral mantienen los vínculos entre los clanes, sus territorios y las fuerzas sobrenaturales. El valor, el honor, la hospitalidad y la fidelidad a los juramentos ocupan un lugar destacado entre las virtudes tradicionales de sus seguidores. La denominación Yr Hen Cywir, «la antigua verdad», constituye una interpretación religiosa propia de esta tradición dentro del mod."
+ briton_pagan_health_god_name: "Nodens"
+ briton_pagan_health_god_name_possessive: "de Nodens"
+ briton_pagan_fertility_god_name: "Epona"
+ briton_pagan_fertility_god_name_possessive: "de Epona"
+ briton_pagan_wealth_god_name: "Borvo"
+ briton_pagan_wealth_god_name_possessive: "de Borvo"
+ briton_pagan_household_god_name: "Conrebis"
+ briton_pagan_household_god_name_possessive: "de Conrebis"
+ briton_pagan_trickster_god_name: "Gwydion"
+ briton_pagan_trickster_god_name_possessive: "de Gwydion"
+ briton_pagan_night_god_name: "Rhiannon"
+ briton_pagan_night_god_name_possessive: "de Rhiannon"
+ briton_pagan_water_god_name: "Sulis"
+ briton_pagan_water_god_name_possessive: "de Sulis"
+ briton_pagan_devil_name: "Arawn"
+ briton_pagan_devil_name_possessive: "de Arawn"
+ briton_pagan_devil_herselfhimself: "a sí mismo"
+ briton_pagan_devil_herhis: "su"
+ briton_pagan_devil_shehe: "él"
+ briton_pagan_death_deity_name: "$briton_pagan_devil_name$"
+ briton_pagan_death_deity_name_possessive: "$briton_pagan_devil_name_possessive$"
+ briton_pagan_death_deity_herhis: "$briton_pagan_devil_herhis$"
+ briton_pagan_afterlife: "Annwn"
 
- # Taranismo antiguo
- celto_hellenic_syncretism_old: "Taranismo antiguo"
- celto_hellenic_syncretism_old_adj: "Taranismo antiguo"
- celto_hellenic_syncretism_old_adherent: "Taranista antiguo"
- celto_hellenic_syncretism_old_adherent_plural: "Taranistas antiguos"
- celto_hellenic_syncretism_old_desc: "$celto_hellenic_syncretism_desc$"
+ # Paganismo britano antiguo
+ briton_pagan_old: "Paganismo britano antiguo"
+ briton_pagan_old_adj: "Hen Ciuirismo antiguo"
+ briton_pagan_old_adherent: "henciuirista antiguo"
+ briton_pagan_old_adherent_plural: "henciuiristas antiguos"
+ briton_pagan_old_desc: "$briton_pagan_desc$"
 
  # Paganismo britanorromano
- britano_roman_pagan: "Yr Cywir"
- britano_roman_pagan_adj: "Yr Cywir"
- britano_roman_pagan_adherent: "Ciuirista"
- britano_roman_pagan_adherent_plural: "Ciuiristas"
- britano_roman_pagan_desc: "Yr Cywir, la Verdad, representa una tradición religiosa britanorromana que combina las antiguas creencias de los pueblos britanos con elementos del politeísmo romano. Sus seguidores veneran a divinidades indígenas como Brigantia, Sulis y Nodens, junto con dioses incorporados mediante el contacto con el mundo mediterráneo. La identificación de las divinidades locales con figuras del panteón romano permite la convivencia de distintas prácticas religiosas, mientras que los templos, los manantiales sagrados y otros santuarios constituyen importantes centros de culto. Los sacrificios, las ofrendas y las ceremonias comunitarias expresan los vínculos entre los fieles y las fuerzas sobrenaturales. El valor, el honor, la honestidad, la hospitalidad y la lealtad forman parte de las virtudes que sus seguidores consideran esenciales para preservar la armonía entre las comunidades y el orden divino."
+ britano_roman_pagan: "Paganismo britanorromano"
+ britano_roman_pagan_adj: "Ciuirismo"
+ britano_roman_pagan_adherent: "ciuirista"
+ britano_roman_pagan_adherent_plural: "ciuiristas"
+ britano_roman_pagan_desc: "El paganismo britanorromano representa una tradición religiosa que combina las antiguas creencias de los pueblos britanos con elementos del politeísmo romano. Sus seguidores veneran a divinidades indígenas como Brigantia, Sulis y Nodens, junto con dioses incorporados mediante el contacto con el mundo mediterráneo. La identificación de las divinidades locales con figuras del panteón romano permite la convivencia de distintas prácticas religiosas, mientras que los templos, los manantiales sagrados y otros santuarios constituyen importantes centros de culto. Los sacrificios, las ofrendas y las ceremonias comunitarias expresan los vínculos entre los fieles y las fuerzas sobrenaturales. El valor, el honor, la honestidad, la hospitalidad y la lealtad forman parte de las virtudes que sus seguidores consideran esenciales para preservar la armonía entre las comunidades y el orden divino. La denominación Yr Cywir, «la verdad», representa la identidad particular atribuida a esta tradición dentro del mod."
  britano_roman_pagan_high_god_name: "Brigantia"
  britano_roman_pagan_high_god_name_alternate: "Brigantia"
  britano_roman_pagan_high_god_name_possesive: "de Brigantia"
@@ -11958,7 +11942,7 @@
  britano_roman_pagan_pantheon_term: "los dioses"
  britano_roman_pagan_devil_name: "$britano_roman_pagan_night_god_name$"
  britano_roman_pagan_devil_name_possessive: "$britano_roman_pagan_night_god_name_possessive$"
- britano_roman_pagan_devil_herselfhimself: "sí mismo"
+ britano_roman_pagan_devil_herselfhimself: "a sí mismo"
  britano_roman_pagan_devil_herhis: "su"
  britano_roman_pagan_devil_shehe: "él"
  britano_roman_pagan_death_deity_name: "$britano_roman_pagan_devil_name$"
@@ -11968,66 +11952,77 @@
  britano_roman_pagan_house_of_worship_plural: "fanos"
  britano_roman_pagan_witch_god_name: "Ceridwen"
 
- # Yr Cywir antiguo
- britano_roman_pagan_old: "Yr Cywir antiguo"
- britano_roman_pagan_old_adj: "Yr Cywir antiguo"
- britano_roman_pagan_old_adherent: "Ciuirista antiguo"
- britano_roman_pagan_old_adherent_plural: "Ciuiristas antiguos"
+ # Paganismo britanorromano antiguo
+ britano_roman_pagan_old: "Paganismo britanorromano antiguo"
+ britano_roman_pagan_old_adj: "Ciuirismo antiguo"
+ britano_roman_pagan_old_adherent: "ciuirista antiguo"
+ britano_roman_pagan_old_adherent_plural: "ciuiristas antiguos"
  britano_roman_pagan_old_desc: "$britano_roman_pagan_desc$"
 
- # Paganismo britano
- briton_pagan: "Yr Hen Cywir"
- briton_pagan_adj: "Yr Hen Cywir"
- briton_pagan_adherent: "Henciuirista"
- briton_pagan_adherent_plural: "Henciuiristas"
- briton_pagan_desc: "Yr Hen Cywir, la Antigua Verdad, comprende las tradiciones religiosas de los pueblos britanos anteriores a la expansión del cristianismo y a la influencia de los cultos romanos. Sus seguidores veneran a numerosas divinidades y espíritus asociados con los bosques, los ríos, los manantiales, las montañas y otros elementos del mundo natural. Entre las figuras veneradas destacan Nodens, vinculado con la curación y la protección, Epona, relacionada con los caballos y la fertilidad, y Sulis, asociada con las aguas sagradas. Los santuarios naturales reciben ofrendas y acogen ceremonias destinadas a obtener el favor de las divinidades y preservar la prosperidad de las comunidades. Los relatos sobre el Otro Mundo, la veneración de los antepasados y las enseñanzas transmitidas por la tradición oral mantienen los vínculos entre los clanes, sus territorios y las fuerzas sobrenaturales. El valor, el honor, la hospitalidad y la fidelidad a los juramentos ocupan un lugar destacado entre las virtudes tradicionales de sus seguidores."
- briton_pagan_health_god_name: "Nodens"
- briton_pagan_health_god_name_possessive: "de Nodens"
- briton_pagan_fertility_god_name: "Epona"
- briton_pagan_fertility_god_name_possessive: "de Epona"
- briton_pagan_wealth_god_name: "Borvo"
- briton_pagan_wealth_god_name_possessive: "de Borvo"
- briton_pagan_household_god_name: "Conrebis"
- briton_pagan_household_god_name_possessive: "de Conrebis"
- briton_pagan_trickster_god_name: "Gwydion"
- briton_pagan_trickster_god_name_possessive: "de Gwydion"
- briton_pagan_night_god_name: "Rhiannon"
- briton_pagan_night_god_name_possessive: "de Rhiannon"
- briton_pagan_water_god_name: "Sulis"
- briton_pagan_water_god_name_possessive: "de Sulis"
- briton_pagan_devil_name: "Arawn"
- briton_pagan_devil_name_possessive: "de Arawn"
- briton_pagan_devil_herselfhimself: "sí mismo"
- briton_pagan_devil_herhis: "su"
- briton_pagan_devil_shehe: "él"
- briton_pagan_death_deity_name: "$briton_pagan_devil_name$"
- briton_pagan_death_deity_name_possessive: "$briton_pagan_devil_name_possessive$"
- briton_pagan_death_deity_herhis: "$briton_pagan_devil_herhis$"
- briton_pagan_afterlife: "Annwn"
+ # Sincretismo celtohelénico
+ celto_hellenic_syncretism: "Sincretismo celtohelénico"
+ celto_hellenic_syncretism_adj: "Taranismo"
+ celto_hellenic_syncretism_adherent: "taranista"
+ celto_hellenic_syncretism_adherent_plural: "taranistas"
+ celto_hellenic_syncretism_desc: "El taranismo representa una tradición religiosa sincrética que combina las creencias de los pueblos celtas con elementos del politeísmo grecorromano. Sus seguidores identifican determinadas divinidades celtas con dioses mediterráneos de funciones semejantes, dando lugar a cultos compartidos y nuevas interpretaciones de sus atributos. Taranis, asociado con el trueno y el poder celestial, se identifica con Júpiter, mientras que otras divinidades reciben veneración bajo nombres y representaciones procedentes de distintas culturas. Los templos, los santuarios naturales, los sacrificios y las ceremonias comunitarias reflejan la convivencia de las prácticas religiosas celtas y mediterráneas. Esta tradición representa la integración de cultos indígenas en el mundo romano sin abandonar por completo sus antiguas identidades religiosas. El nombre Taranismo constituye una denominación convencional para este sincretismo."
+ celto_hellenic_syncretism_high_god_name: "Júpiter Taranis"
+ celto_hellenic_syncretism_high_god_name_alternate: "Júpiter Poeninus"
+ celto_hellenic_syncretism_high_god_name_possesive: "de Júpiter Taranis"
+ celto_hellenic_syncretism_high_god_name_alternate_possesive: "de Júpiter Poeninus"
+ celto_hellenic_syncretism_creator_god_name: "Dis Pater"
+ celto_hellenic_syncretism_creator_god_name_possessive: "de Dis Pater"
+ celto_hellenic_syncretism_health_god_name: "Apolo Belenus"
+ celto_hellenic_syncretism_health_god_name_possessive: "de Apolo Belenus"
+ celto_hellenic_syncretism_fertility_god_name: "Epona"
+ celto_hellenic_syncretism_fertility_god_name_possessive: "de Epona"
+ celto_hellenic_syncretism_wealth_god_name: "Mercurio Visucio"
+ celto_hellenic_syncretism_wealth_god_name_possessive: "de Mercurio Visucio"
+ celto_hellenic_syncretism_household_god_name: "los Lares"
+ celto_hellenic_syncretism_household_god_name_possessive: "de los Lares"
+ celto_hellenic_syncretism_knowledge_god_name: "Minerva Brigantia"
+ celto_hellenic_syncretism_knowledge_god_name_possessive: "de Minerva Brigantia"
+ celto_hellenic_syncretism_war_god_name: "Marte Lugus"
+ celto_hellenic_syncretism_war_god_name_possessive: "de Marte Lugus"
+ celto_hellenic_syncretism_trickster_god_name: "$celto_hellenic_syncretism_wealth_god_name$"
+ celto_hellenic_syncretism_trickster_god_name_possessive: "$celto_hellenic_syncretism_wealth_god_name_possessive$"
+ celto_hellenic_syncretism_night_god_name: "Trivia"
+ celto_hellenic_syncretism_night_god_name_possessive: "de Trivia"
+ celto_hellenic_syncretism_water_god_name: "Neptuno Nodens"
+ celto_hellenic_syncretism_water_god_name_possessive: "de Neptuno Nodens"
+ celto_hellenic_syncretism_pantheon_term: "los dioses consentes"
+ celto_hellenic_syncretism_devil_name: "Plutón"
+ celto_hellenic_syncretism_devil_name_possessive: "de Plutón"
+ celto_hellenic_syncretism_devil_herselfhimself: "a sí mismo"
+ celto_hellenic_syncretism_devil_herhis: "su"
+ celto_hellenic_syncretism_devil_shehe: "él"
+ celto_hellenic_syncretism_death_deity_name: "$celto_hellenic_syncretism_devil_name$"
+ celto_hellenic_syncretism_death_deity_name_possessive: "$celto_hellenic_syncretism_devil_name_possessive$"
+ celto_hellenic_syncretism_death_deity_herhis: "$celto_hellenic_syncretism_devil_herhis$"
+ celto_hellenic_syncretism_house_of_worship: "templo"
 
- # Yr Hen Cywir antiguo
- briton_pagan_old: "Yr Hen Cywir antiguo"
- briton_pagan_old_adj: "Yr Hen Cywir antiguo"
- briton_pagan_old_adherent: "Henciuirista antiguo"
- briton_pagan_old_adherent_plural: "Henciuiristas antiguos"
- briton_pagan_old_desc: "$briton_pagan_desc$"
+ # Sincretismo celtohelénico antiguo
+ celto_hellenic_syncretism_old: "Sincretismo celtohelénico antiguo"
+ celto_hellenic_syncretism_old_adj: "Taranismo antiguo"
+ celto_hellenic_syncretism_old_adherent: "taranista antiguo"
+ celto_hellenic_syncretism_old_adherent_plural: "taranistas antiguos"
+ celto_hellenic_syncretism_old_desc: "$celto_hellenic_syncretism_desc$"
 
- # Paganismo naj: Dalismo
- nakh_pagan: "Dalismo"
+ # Paganismo naj
+ nakh_pagan: "Paganismo naj"
  nakh_pagan_adj: "Dalismo"
- nakh_pagan_adherent: "Dalista"
- nakh_pagan_adherent_plural: "Dalistas"
- nakh_pagan_desc: "El dalismo comprende las creencias tradicionales de los pueblos naj del Cáucaso, principalmente chechenos e ingusetios. Sus seguidores veneran a numerosas divinidades y espíritus asociados con las montañas, los bosques, la fertilidad, las fuerzas naturales y la protección de las comunidades. Dal, vinculado con la divinidad suprema Dela, ocupa un lugar destacado en esta tradición, mientras que otras entidades tutelares gobiernan distintos aspectos del mundo natural y de la existencia humana. Los árboles, las montañas y otros lugares considerados sagrados reciben ofrendas y acogen ceremonias destinadas a obtener el favor de las fuerzas sobrenaturales. El respeto por los antepasados, la hospitalidad y la observancia de las costumbres ancestrales mantienen los vínculos entre los linajes, sus territorios y el mundo espiritual."
- nakh_pagan_high_god_name: "Dal"
- nakh_pagan_high_god_name_possessive: "de Dal"
+ nakh_pagan_adherent: "dalista"
+ nakh_pagan_adherent_plural: "dalistas"
+ nakh_pagan_desc: "El paganismo naj comprende las creencias tradicionales de los pueblos naj del Cáucaso septentrional, principalmente chechenos e ingusetios. Sus seguidores veneran a numerosas divinidades y espíritus asociados con las montañas, los bosques, la fertilidad, las fuerzas naturales y la protección de las comunidades. Dela, divinidad suprema vinculada con la creación y el orden del universo, ocupa un lugar destacado junto a otras entidades tutelares que gobiernan distintos aspectos de la naturaleza y de la existencia humana. Los árboles, las montañas y otros lugares considerados sagrados reciben ofrendas y acogen ceremonias destinadas a obtener el favor de las fuerzas sobrenaturales. El respeto por los antepasados, la hospitalidad y la observancia de las costumbres ancestrales mantienen los vínculos entre los linajes, sus territorios y el mundo espiritual."
+ nakh_pagan_high_god_name: "Dela"
+ nakh_pagan_high_god_name_possessive: "de Dela"
  nakh_pagan_high_god_name_alternate: "Dal"
  nakh_pagan_high_god_name_alternate_possessive: "de Dal"
- nakh_pagan_high_god_name_2: "$nakh_pagan_high_god_name$" # Traducción alternativa opcional
+ nakh_pagan_high_god_name_2: "$nakh_pagan_high_god_name$"
  nakh_pagan_good_god_father_sky: "Kars"
  nakh_pagan_good_god_ancestors: "los antepasados"
  nakh_pagan_devil_name: "Sela"
  nakh_pagan_devil_name_possessive: "de Sela"
- nakh_pagan_devil_herselfhimself: "sí mismo"
+ nakh_pagan_devil_herselfhimself: "a sí mismo"
  nakh_pagan_devil_herhis: "su"
  nakh_pagan_devil_shehe: "él"
  nakh_pagan_evil_god_decay: "la plaga"
@@ -12058,52 +12053,52 @@
  nakh_pagan_night_god_name_possessive: "$nakh_pagan_trickster_god_name_possessive$"
  nakh_pagan_water_god_name: "$nakh_pagan_high_god_name$"
  nakh_pagan_water_god_name_possessive: "$nakh_pagan_high_god_name_possessive$"
- nakh_pagan_house_of_worship: "templo"
- nakh_pagan_house_of_worship_plural: "templos"
- nakh_pagan_house_of_worship_2: "$nakh_pagan_house_of_worship$" # Traducción alternativa opcional
- nakh_pagan_house_of_worship_3: "$nakh_pagan_house_of_worship$" # Traducción alternativa opcional
+ nakh_pagan_house_of_worship: "lugar sagrado"
+ nakh_pagan_house_of_worship_plural: "lugares sagrados"
+ nakh_pagan_house_of_worship_2: "$nakh_pagan_house_of_worship$"
+ nakh_pagan_house_of_worship_3: "$nakh_pagan_house_of_worship$"
  nakh_pagan_religious_symbol: "símbolo naj"
- nakh_pagan_religious_symbol_2: "$nakh_pagan_religious_symbol$" # Traducción alternativa opcional
- nakh_pagan_religious_symbol_3: "$nakh_pagan_religious_symbol$" # Traducción alternativa opcional
- nakh_pagan_religious_text: "relatos sagrados"
- nakh_pagan_religious_text_2: "$nakh_pagan_religious_text$" # Traducción alternativa opcional
- nakh_pagan_religious_text_3: "$nakh_pagan_religious_text$" # Traducción alternativa opcional
- nakh_pagan_religious_head_title: "Alto Qanoy"
+ nakh_pagan_religious_symbol_2: "$nakh_pagan_religious_symbol$"
+ nakh_pagan_religious_symbol_3: "$nakh_pagan_religious_symbol$"
+ nakh_pagan_religious_text: "tradiciones orales"
+ nakh_pagan_religious_text_2: "$nakh_pagan_religious_text$"
+ nakh_pagan_religious_text_3: "$nakh_pagan_religious_text$"
+ nakh_pagan_religious_head_title: "Alto qanoy"
  nakh_pagan_religious_head_title_name: "Mekhk-Khkhel"
  nakh_pagan_devotee: "devoto"
  nakh_pagan_priest: "qanoy"
  nakh_pagan_priest_plural: "qanoys"
  nakh_pagan_priest_alternate_plural: "qanoys"
  nakh_pagan_divine_realm: "los cielos"
- nakh_pagan_divine_realm_2: "$nakh_pagan_divine_realm$" # Traducción alternativa opcional
- nakh_pagan_divine_realm_3: "$nakh_pagan_divine_realm$" # Traducción alternativa opcional
+ nakh_pagan_divine_realm_2: "$nakh_pagan_divine_realm$"
+ nakh_pagan_divine_realm_3: "$nakh_pagan_divine_realm$"
  nakh_pagan_afterlife: "el inframundo"
- nakh_pagan_afterlife_2: "$nakh_pagan_afterlife$" # Traducción alternativa opcional
- nakh_pagan_afterlife_3: "$nakh_pagan_afterlife$" # Traducción alternativa opcional
+ nakh_pagan_afterlife_2: "$nakh_pagan_afterlife$"
+ nakh_pagan_afterlife_3: "$nakh_pagan_afterlife$"
 
- # Dalismo antiguo
- nakh_pagan_old: "Dalismo antiguo"
+ # Paganismo naj antiguo
+ nakh_pagan_old: "Paganismo naj antiguo"
  nakh_pagan_old_adj: "Dalismo antiguo"
- nakh_pagan_old_adherent: "Dalista antiguo"
- nakh_pagan_old_adherent_plural: "Dalistas antiguos"
+ nakh_pagan_old_adherent: "dalista antiguo"
+ nakh_pagan_old_adherent_plural: "dalistas antiguos"
  nakh_pagan_old_desc: "$nakh_pagan_desc$"
 
- # Paganismo abjasio: Apsuara
- apsuara: "Apsuara"
- apsuara_adj: "Apsuara"
- apsuara_adherent: "Apsuarista"
- apsuara_adherent_plural: "Apsuaristas"
- apsuara_desc: "El apsuara comprende las tradiciones espirituales y las costumbres ancestrales del pueblo abjasio, fundamentadas en la veneración de Antsua, divinidad suprema asociada con la creación y el orden del universo. Sus seguidores reconocen también a numerosas entidades protectoras vinculadas con las montañas, los bosques, los animales, las aguas y las actividades humanas. Los santuarios naturales, los árboles venerados y otros lugares sagrados acogen plegarias, sacrificios y ceremonias destinadas a obtener el favor de las fuerzas divinas. Los ancianos y especialistas rituales preservan las prácticas transmitidas por las generaciones anteriores, mientras que el respeto por los antepasados, la hospitalidad, el honor y la observancia de las costumbres tradicionales constituyen principios fundamentales de la vida comunitaria."
+ # Paganismo abjasio
+ apsuara: "Paganismo abjasio"
+ apsuara_adj: "Apsuarismo"
+ apsuara_adherent: "apsuarista"
+ apsuara_adherent_plural: "apsuaristas"
+ apsuara_desc: "El paganismo abjasio comprende las tradiciones espirituales y las costumbres ancestrales del pueblo abjasio, fundamentadas en la veneración de Antsua, divinidad suprema asociada con la creación y el orden del universo. Sus seguidores reconocen también a numerosas entidades protectoras vinculadas con las montañas, los bosques, los animales, las aguas y las actividades humanas. Los santuarios naturales, los árboles venerados y otros lugares sagrados acogen plegarias, sacrificios y ceremonias destinadas a obtener el favor de las fuerzas divinas. Los ancianos y especialistas rituales preservan las prácticas transmitidas por las generaciones anteriores, mientras que el respeto por los antepasados, la hospitalidad, el honor y la observancia de las costumbres tradicionales constituyen principios fundamentales de la vida comunitaria. Estas prácticas religiosas forman parte de la tradición cultural conocida como Apsuara."
  apsuara_high_god_name: "Antsua"
  apsuara_high_god_name_possessive: "de Antsua"
  apsuara_high_god_name_alternate: "Antsua"
  apsuara_high_god_name_alternate_possessive: "de Antsua"
- apsuara_high_god_name_2: "$paganism_high_god_name$" # Traducción alternativa opcional
+ apsuara_high_god_name_2: "$paganism_high_god_name$"
  apsuara_good_god_father_sky: "Antsua"
  apsuara_good_god_ancestors: "los antepasados"
  apsuara_devil_name: "la corrupción"
  apsuara_devil_name_possessive: "de la corrupción"
- apsuara_devil_herselfhimself: "sí misma"
+ apsuara_devil_herselfhimself: "a sí misma"
  apsuara_devil_herhis: "su"
  apsuara_devil_shehe: "ella"
  apsuara_evil_god_decay: "la plaga"
@@ -12134,116 +12129,125 @@
  apsuara_night_god_name_possessive: "de Amza"
  apsuara_water_god_name: "Dzyzlan"
  apsuara_water_god_name_possessive: "de Dzyzlan"
- apsuara_house_of_worship: "templo"
- apsuara_house_of_worship_plural: "templos"
- apsuara_house_of_worship_2: "$apsuara_house_of_worship$" # Traducción alternativa opcional
- apsuara_house_of_worship_3: "$apsuara_house_of_worship$" # Traducción alternativa opcional
+ apsuara_house_of_worship: "santuario"
+ apsuara_house_of_worship_plural: "santuarios"
+ apsuara_house_of_worship_2: "$apsuara_house_of_worship$"
+ apsuara_house_of_worship_3: "$apsuara_house_of_worship$"
  apsuara_religious_symbol: "la mano"
- apsuara_religious_symbol_2: "la mano" # Traducción alternativa opcional
- apsuara_religious_symbol_3: "$apsuara_religious_symbol$" # Traducción alternativa opcional
- apsuara_religious_text: "relatos sagrados"
- apsuara_religious_text_2: "$apsuara_religious_text$" # Traducción alternativa opcional
- apsuara_religious_text_3: "$apsuara_religious_text$" # Traducción alternativa opcional
- apsuara_religious_head_title: "Gran Anciano"
- apsuara_religious_head_title_name: "Consejo"
+ apsuara_religious_symbol_2: "la mano"
+ apsuara_religious_symbol_3: "$apsuara_religious_symbol$"
+ apsuara_religious_text: "tradiciones orales"
+ apsuara_religious_text_2: "$apsuara_religious_text$"
+ apsuara_religious_text_3: "$apsuara_religious_text$"
+ apsuara_religious_head_title: "Gran anciano"
+ apsuara_religious_head_title_name: "Consejo de ancianos"
  apsuara_devotee: "devoto"
  apsuara_priest: "anciano"
  apsuara_priest_plural: "ancianos"
  apsuara_priest_alternate_plural: "ancianos"
  apsuara_divine_realm: "el reino divino"
- apsuara_divine_realm_2: "$apsuara_divine_realm$" # Traducción alternativa opcional
- apsuara_divine_realm_3: "$paganism_divine_realm$" # Traducción alternativa opcional
+ apsuara_divine_realm_2: "$apsuara_divine_realm$"
+ apsuara_divine_realm_3: "$paganism_divine_realm$"
  apsuara_afterlife: "el reino divino"
- apsuara_afterlife_2: "$apsuara_afterlife$" # Traducción alternativa opcional
- apsuara_afterlife_3: "$apsuara_afterlife$" # Traducción alternativa opcional
+ apsuara_afterlife_2: "$apsuara_afterlife$"
+ apsuara_afterlife_3: "$apsuara_afterlife$"
 
- # Apsuara antiguo
- apsuara_old: "Apsuara antiguo"
- apsuara_old_adj: "Apsuara antiguo"
- apsuara_old_adherent: "Apsuarista antiguo"
- apsuara_old_adherent_plural: "Apsuaristas antiguos"
+ # Paganismo abjasio antiguo
+ apsuara_old: "Paganismo abjasio antiguo"
+ apsuara_old_adj: "Apsuarismo antiguo"
+ apsuara_old_adherent: "apsuarista antiguo"
+ apsuara_old_adherent_plural: "apsuaristas antiguos"
  apsuara_old_desc: "$apsuara_desc$"
 
+ # Druidismo
  witchgodname_druidism_the_shadow: "la Sombra"
 
+ # Paganismo gaélico
  witchgodname_irish_ruidism_the_shadow: "la Cailleach"
 
+ # Sincretismo celtohelénico
  celto_hellenic_bad_afterlife: "el Tártaro"
-
  celto_hellenic_good_afterlife: "los Campos Elíseos"
 
+ # Paganismo britanorromano
  britano_roman_pagan_bad_afterlife: "Annwn"
-
  britano_roman_pagan_good_afterlife: "Annwn"
 
+ # Paganismo fínico
  finnish_priest_0: "noaidi"
  finnish_priest_plural: "tietäjät"
  finnish_priest_female: "tietäjätär"
  finnish_priest_plural_female: "tietäjättäret"
  finnish_religious_symbol: "cisne"
 
+ # Paganismo jantio
  khanty_religious_symbol: "reno"
 
+ # Paganismo sami
  realm_priest_sami: "noaidi"
  realm_priest_f_sami: "noaidi"
-
  sami_good_pagan_afterlife: "Jábmiidáibmu"
-
  sami_bad_pagan_afterlife: "Jábmiidáibmu"
 
- erzya_priest_male: "ozatya" # Padre que dirige las plegarias
+ # Paganismo erzya
+ erzya_priest_male: "ozatya" # Anciano que dirige las plegarias
  erzya_priest_male_plural: "ozatyas"
  erzya_priest_female: "ozyiy"
  erzya_priest_female_plural: "ozyiys"
- erzya_priest_neuter: "ozyiy" # Forma neutra
+ erzya_priest_neuter: "ozyiy"
  erzya_priest_neuter_plural: "ozyiys"
 
- moksha_priest_male: "inyatya" # Sacerdote
+ # Paganismo moksha
+ moksha_priest_male: "inyatya"
  moksha_priest_male_plural: "inyatyas"
  moksha_priest_female: "inyatya"
  moksha_priest_female_plural: "inyatyas"
  moksha_priest_neuter: "inyatya"
  moksha_priest_neuter_plural: "inyatyas"
 
+ # Paganismo komi
  komi_religious_symbol: "sol"
 
+ # Paganismo bjármico
  bjarmian_priest_0: "noaidi"
  bjarmian_priest_plural: "tietäjät"
  bjarmian_priest_female: "tietäjätär"
  bjarmian_priest_plural_female: "tietäjättäret"
 
+ # Cristianismo circasiano
  khabzismchrist_fertility_god_name: "la Virgen María"
  khabzismchrist_fertility_god_name_possessive: "de la Virgen María"
  khabzismchrist_household_god_name: "Wuneguashe" # Унэгуащэ
  khabzismchrist_household_god_name_possessive: "de Wuneguashe"
-
  christen_war_god_name: "Awushidjer" # Аущыджэр
  christen_war_god_name_possessive: "de Awushidjer"
 
+ # Paganismo circasiano
  khabzeism_bishop: "tkhamade"
  khabzeism_bishop_plural: "tkhamades"
-
  khabzeist_priest_male: "shodjen"
  khabzeist_priest_male_plural: "shodjens"
  khabzeist_priest_female: "shodjen"
  khabzeist_priest_female_plural: "shodjens"
  khabzeist_priest_neuter: "shodjen"
  khabzeist_priest_neuter_plural: "shodjens"
-
  witchgodname_khabzism_the_shadow: "Worser"
  witchgodname_khabzism_the_shadow_possessive: "de Worser"
 
+ # Paganismo naj
  witchgodname_nakh_pagan_the_shadow: "la Sombra"
  witchgodname_nakh_pagan_the_shadow_possessive: "de la Sombra"
 
+ # Paganismo abjasio
  witchgodname_apsuara_the_shadow: "la Sombra"
  witchgodname_apsuara_the_shadow_possessive: "de la Sombra"
 
- nishke: "Nishke"
- nishke_adj: "Nishke"
- nishke_adherent: "Nishkista"
- nishke_adherent_plural: "Nishkistas"
- nishke_desc: "El culto de Nishke comprende las creencias tradicionales del pueblo erzya, fundamentadas en la veneración de las divinidades celestiales, los espíritus de la naturaleza y las madres protectoras de los distintos ámbitos de la existencia. Nishke, también conocido como Ineshkipaz, ocupa un lugar destacado como creador y divinidad suprema, mientras que Chipaz, asociado con el sol, favorece la maduración de las cosechas y Purginepaz gobierna el trueno y las lluvias. Mastorava protege la tierra, Vedava las aguas, Viryava los bosques, Varmava los vientos y Kudava el hogar. Tyushtya, considerado el primer rey de los erzya, representa la autoridad ancestral y la continuidad de sus tradiciones. Durante los ozks, ceremonias de oración comunitaria y familiar, los especialistas rituales encienden las velas shtatol y presentan ofrendas y sacrificios de animales para obtener la protección de las divinidades y asegurar la prosperidad de sus comunidades."
+ # Paganismo erzya: Nishkeísmo
+ nishke: "Paganismo erzya"
+ nishke_adj: "Nishkeísmo"
+ nishke_adherent: "nishkeísta"
+ nishke_adherent_plural: "nishkeístas"
+ nishke_desc: "El paganismo erzya comprende las creencias tradicionales del pueblo erzya, fundamentadas en la veneración de las divinidades celestiales, los espíritus de la naturaleza y las madres protectoras de los distintos ámbitos de la existencia. Nishke, también conocido como Ineshkipaz, ocupa un lugar destacado como creador y divinidad suprema, mientras que Chipaz, asociado con el sol, favorece la maduración de las cosechas y Purginepaz gobierna el trueno y las lluvias. Mastorava protege la tierra, Vedava las aguas, Viryava los bosques, Varmava los vientos y Kudava el hogar. Tyushtya, considerado el primer rey de los erzya, representa la autoridad ancestral y la continuidad de sus tradiciones. Durante los ozks, ceremonias de oración comunitaria y familiar, los especialistas rituales encienden las velas shtatol y presentan ofrendas y sacrificios para obtener la protección de las divinidades y asegurar la prosperidad de sus comunidades."
  nishke_high_god_name: "Nishke"
  nishke_high_god_name_possessive: "de Nishke"
  nishke_high_god_name_alternate: "Ineshkipaz"
@@ -12270,18 +12274,18 @@
  nishke_night_god_name_possessive: "de Kovava"
  nishke_water_god_name: "Vedava"
  nishke_water_god_name_possessive: "de Vedava"
- nishke_pantheon: "Nishke y las madres"
+ nishke_pantheon: "Nishke y las madres protectoras"
  nishke_devil_name: "Idemevs"
  nishke_devil_name_possessive: "de Idemevs"
- nishke_devil_herselfhimself: "sí mismo"
+ nishke_devil_herselfhimself: "a sí mismo"
  nishke_house_of_worship: "arboleda sagrada"
  nishke_house_of_worship_plural: "arboledas sagradas"
  nishke_religious_symbol: "shtatol"
  nishke_religious_text: "plegarias de los ozks"
- nishke_religious_head_title: "Gran Ozatya"
- nishke_religious_head_title_name: "Gran Ozatya"
- nishke_devotee: "nishkista"
- nishke_devotee_plural: "nishkistas"
+ nishke_religious_head_title: "Gran ozatya"
+ nishke_religious_head_title_name: "Consejo de ozatyas"
+ nishke_devotee: "nishkeísta"
+ nishke_devotee_plural: "nishkeístas"
  nishke_priest: "ozatya"
  nishke_priest_plural: "ozatyas"
  nishke_bishop: "gran ozatya"
@@ -12293,11 +12297,13 @@
  nishke_death_name_possessive: "de Mastorava"
  nishke_witch_god_name: "los hechiceros"
  nishke_witch_god_name_possessive: "de los hechiceros"
- shkai: "Shkai"
- shkai_adj: "Shkaísta"
- shkai_adherent: "seguidor de Shkai"
- shkai_adherent_plural: "seguidores de Shkai"
- shkai_desc: "La religión tradicional del pueblo moksha reconoce a Shkai como divinidad suprema y creador del mundo. Ange Patyai, madre protectora de los nacimientos, favorece la fertilidad de las mujeres y los rebaños, mientras que las madres tutelares de la tierra, los campos, las aguas, los bosques, los vientos y los hogares protegen los distintos ámbitos de la existencia. Tyushtya, considerado el primer rey de los mordvinos, representa la autoridad ancestral. Las comunidades y los clanes se reúnen en arboledas sagradas y junto a los manantiales para celebrar los ozks, grandes ceremonias de oración acompañadas de ofrendas, cantos y banquetes en torno a la vela ritual shtatol."
+
+ # Paganismo moksha: Shkaísmo
+ shkai: "Paganismo moksha"
+ shkai_adj: "Shkaísmo"
+ shkai_adherent: "shkaísta"
+ shkai_adherent_plural: "shkaístas"
+ shkai_desc: "El paganismo moksha comprende las tradiciones religiosas del pueblo moksha, centradas en la veneración de Shkai como divinidad suprema y creador del mundo. Ange Patyai, madre protectora de los nacimientos, favorece la fertilidad de las mujeres y los rebaños, mientras que las madres tutelares de la tierra, los campos, las aguas, los bosques, los vientos y los hogares protegen los distintos ámbitos de la existencia. Tyushtya, considerado el primer rey de los mordvinos, representa la autoridad ancestral y la continuidad de sus tradiciones. Las comunidades y los clanes se reúnen en arboledas sagradas y junto a los manantiales para celebrar los ozks, ceremonias colectivas de oración acompañadas de ofrendas, cantos y banquetes rituales. Las plegarias, la veneración de los antepasados y las prácticas transmitidas por tradición oral mantienen los vínculos entre los vivos, sus linajes y las fuerzas sobrenaturales."
  shkai_high_god_name: "Shkai"
  shkai_high_god_name_possessive: "de Shkai"
  shkai_high_god_name_alternate: "Vyarde Shkai"
@@ -12324,22 +12330,22 @@
  shkai_night_god_name_possessive: "de Kovava"
  shkai_water_god_name: "Vedyava"
  shkai_water_god_name_possessive: "de Vedyava"
- shkai_pantheon: "Shkai y las madres"
+ shkai_pantheon: "Shkai y las madres protectoras"
  shkai_devil_name: "Shaitán"
  shkai_devil_name_possessive: "de Shaitán"
- shkai_devil_herselfhimself: "sí mismo"
- shkai_house_of_worship: "bosque sagrado"
- shkai_house_of_worship_plural: "bosques sagrados"
+ shkai_devil_herselfhimself: "a sí mismo"
+ shkai_house_of_worship: "arboleda sagrada"
+ shkai_house_of_worship_plural: "arboledas sagradas"
  shkai_religious_symbol: "shtatol"
- shkai_religious_text: "las plegarias de los ozks"
- shkai_religious_head_title: "Gran Ozatya"
- shkai_religious_head_title_name: "Gran Ozatya"
- shkai_devotee: "seguidor de Shkai"
- shkai_devotee_plural: "seguidores de Shkai"
- shkai_priest: "ozatya"
- shkai_priest_plural: "ozatyas"
- shkai_bishop: "gran ozatya"
- shkai_bishop_plural: "grandes ozatyas"
+ shkai_religious_text: "plegarias de los ozks"
+ shkai_religious_head_title: "Gran inyatya"
+ shkai_religious_head_title_name: "Consejo de inyatyas"
+ shkai_devotee: "shkaísta"
+ shkai_devotee_plural: "shkaístas"
+ shkai_priest: "inyatya"
+ shkai_priest_plural: "inyatyas"
+ shkai_bishop: "gran inyatya"
+ shkai_bishop_plural: "grandes inyatyas"
  shkai_divine_realm: "el cielo de Shkai"
  shkai_positive_afterlife: "el pueblo de los muertos"
  shkai_negative_afterlife: "el reino de Shaitán"
@@ -12348,11 +12354,12 @@
  shkai_witch_god_name: "los hechiceros"
  shkai_witch_god_name_possessive: "de los hechiceros"
 
- kugu_jumo: "Kugu Jumo"
- kugu_jumo_adj: "Kuguyumista"
- kugu_jumo_adherent: "seguidor de Kugu Jumo"
- kugu_jumo_adherent_plural: "seguidores de Kugu Jumo"
- kugu_jumo_desc: "La religión tradicional de los pueblos mari y meria reconoce a Kugu Jumo, el Gran Dios Blanco, como señor del cielo. Junto a él se encuentran Küdõrčö, divinidad del trueno, Pürõžö, que determina el destino de cada persona, y Šočõn Ava, protectora de los nacimientos, mientras que Kijamat gobierna el mundo de los muertos. Los keremets son espíritus vinculados con los antepasados y otras figuras veneradas, entre ellas Chumbylat, príncipe de Kokshar. Los sacerdotes conocidos como karts presiden las ceremonias comunitarias en bosques sagrados donde está prohibido talar árboles. Durante estas celebraciones se presentan ofrendas y sacrificios de caballos, reses, ovejas y gansos para obtener el favor de las divinidades."
+ # Paganismo mari: Čimarijülismo
+ kugu_jumo: "Paganismo mari"
+ kugu_jumo_adj: "Čimarijülismo"
+ kugu_jumo_adherent: "čimarijülista"
+ kugu_jumo_adherent_plural: "čimarijülistas"
+ kugu_jumo_desc: "El paganismo mari comprende las tradiciones religiosas de los pueblos mari, fundamentadas en la veneración de Kugu Jumo, el Gran Dios Blanco, como divinidad suprema vinculada con el cielo y la creación. Junto a él se encuentran Küdõrčö, divinidad del trueno, Pürõžö, que determina el destino de cada persona, y Šočõn Ava, protectora de los nacimientos, mientras que Kijamat gobierna el mundo de los muertos. Los keremets son entidades espirituales vinculadas con determinados lugares, antepasados y figuras veneradas, entre ellas Chumbylat, personaje ancestral de la tradición mari. Los sacerdotes conocidos como karts presiden las ceremonias comunitarias en arboledas sagradas, donde se preservan los árboles y se realizan plegarias y ofrendas. Durante estas celebraciones se presentan sacrificios de animales y banquetes rituales destinados a obtener el favor de las divinidades, asegurar la fertilidad de la tierra y mantener la prosperidad de las comunidades."
  kugu_jumo_high_god_name: "Kugu Jumo"
  kugu_jumo_high_god_name_possessive: "de Kugu Jumo"
  kugu_jumo_high_god_name_alternate: "Oš Kugu Jumo"
@@ -12382,15 +12389,15 @@
  kugu_jumo_pantheon: "Kugu Jumo y los jumos"
  kugu_jumo_devil_name: "Targõltõš"
  kugu_jumo_devil_name_possessive: "de Targõltõš"
- kugu_jumo_devil_herselfhimself: "sí mismo"
- kugu_jumo_house_of_worship: "bosque sagrado"
- kugu_jumo_house_of_worship_plural: "bosques sagrados"
+ kugu_jumo_devil_herselfhimself: "a sí mismo"
+ kugu_jumo_house_of_worship: "arboleda sagrada"
+ kugu_jumo_house_of_worship_plural: "arboledas sagradas"
  kugu_jumo_religious_symbol: "árbol sagrado"
- kugu_jumo_religious_text: "las plegarias de los karts"
- kugu_jumo_religious_head_title: "Kugu Kart"
- kugu_jumo_religious_head_title_name: "Kugu Kart"
- kugu_jumo_devotee: "seguidor de Kugu Jumo"
- kugu_jumo_devotee_plural: "seguidores de Kugu Jumo"
+ kugu_jumo_religious_text: "plegarias de los karts"
+ kugu_jumo_religious_head_title: "Kugu kart"
+ kugu_jumo_religious_head_title_name: "Consejo de karts"
+ kugu_jumo_devotee: "čimarijülista"
+ kugu_jumo_devotee_plural: "čimarijülistas"
  kugu_jumo_priest: "kart"
  kugu_jumo_priest_plural: "karts"
  kugu_jumo_bishop: "kugu kart"
@@ -12403,11 +12410,12 @@
  kugu_jumo_witch_god_name: "los hechiceros"
  kugu_jumo_witch_god_name_possessive: "de los hechiceros"
 
- ukko: "Ukko"
- ukko_adj: "Ukkista"
- ukko_adherent: "seguidor de Ukko"
- ukko_adherent_plural: "seguidores de Ukko"
- ukko_desc: "La religión tradicional de los finlandeses y carelios reconoce a Ukko, el anciano señor del cielo, como divinidad del trueno y de las lluvias, acompañado por Rauni, considerada su esposa en algunas tradiciones. Tapio gobierna los bosques y los animales de caza, mientras que Ahti protege las aguas y sus peces. Väinämöinen representa la sabiduría y el poder de los cantos, Ilmarinen destaca por sus habilidades como herrero y los tonttu custodian los hogares. Los tietäjät, especialistas rituales y conocedores de los antiguos encantamientos, practican ceremonias de curación y protección mediante recitaciones y cantos. Las ofrendas se depositan en arboledas sagradas y piedras ceremoniales, mientras que las festividades primaverales dedicadas a Ukko acompañan el comienzo de las labores agrícolas."
+ # Paganismo fínico: Suomenusquismo
+ ukko: "Paganismo fínico"
+ ukko_adj: "Suomenusquismo"
+ ukko_adherent: "suomenusquista"
+ ukko_adherent_plural: "suomenusquistas"
+ ukko_desc: "El paganismo fínico comprende las tradiciones religiosas de los antiguos finlandeses y carelios, caracterizadas por la veneración de numerosas divinidades, espíritus tutelares y fuerzas de la naturaleza. Ukko, el anciano señor del cielo, gobierna el trueno y las lluvias, mientras que Tapio protege los bosques y los animales de caza y Ahti ejerce su influencia sobre las aguas y sus criaturas. Väinämöinen representa la sabiduría y el poder de los cantos, Ilmarinen destaca por sus habilidades como herrero y los tonttu custodian los hogares. Los tietäjät, especialistas rituales conocedores de los antiguos encantamientos, practican ceremonias de curación y protección mediante recitaciones y cantos. Las ofrendas se depositan en arboledas, piedras y otros lugares sagrados, mientras que las celebraciones estacionales acompañan los ciclos agrícolas y expresan los vínculos entre las comunidades humanas, las divinidades y el mundo espiritual."
  ukko_high_god_name: "Ukko"
  ukko_high_god_name_possessive: "de Ukko"
  ukko_high_god_name_alternate: "Jumala"
@@ -12437,15 +12445,15 @@
  ukko_pantheon: "Ukko y los haltijat"
  ukko_devil_name: "Lempo"
  ukko_devil_name_possessive: "de Lempo"
- ukko_devil_herselfhimself: "sí mismo"
- ukko_house_of_worship: "bosque hiisi"
- ukko_house_of_worship_plural: "bosques hiisi"
+ ukko_devil_herselfhimself: "a sí mismo"
+ ukko_house_of_worship: "bosque sagrado"
+ ukko_house_of_worship_plural: "bosques sagrados"
  ukko_religious_symbol: "piedra de ofrendas"
- ukko_religious_text: "los cantos antiguos"
- ukko_religious_head_title: "Gran Tietäjä"
- ukko_religious_head_title_name: "Gran Tietäjä"
- ukko_devotee: "seguidor de Ukko"
- ukko_devotee_plural: "seguidores de Ukko"
+ ukko_religious_text: "cantos antiguos"
+ ukko_religious_head_title: "Gran tietäjä"
+ ukko_religious_head_title_name: "Consejo de tietäjät"
+ ukko_devotee: "suomenusquista"
+ ukko_devotee_plural: "suomenusquistas"
  ukko_priest: "tietäjä"
  ukko_priest_plural: "tietäjät"
  ukko_bishop: "gran tietäjä"
@@ -12458,11 +12466,12 @@
  ukko_witch_god_name: "Louhi"
  ukko_witch_god_name_possessive: "de Louhi"
 
- jomali: "Jómali"
- jomali_adj: "Jomalismo"
- jomali_adherent: "seguidor de Jómali"
- jomali_adherent_plural: "seguidores de Jómali"
- jomali_desc: "El culto de Jómali constituye una tradición religiosa de los bjarmianos establecidos en las costas del mar Blanco y en la región del río Dviná. Según los relatos nórdicos, una imagen de Jómali se alza en un recinto sagrado del bosque, custodiada por guardianes y adornada con un collar de oro. Sobre sus rodillas descansa un cuenco de plata lleno de monedas. Cuando muere una persona acaudalada, parte de sus riquezas se entrega al dios y se deposita en el recinto funerario, donde las ofrendas acumuladas manifiestan la veneración de la comunidad por su divinidad protectora."
+ # Paganismo bjármico: Jómalinusquismo
+ jomali: "Paganismo bjármico"
+ jomali_adj: "Jómalinusquismo"
+ jomali_adherent: "jómalinusquista"
+ jomali_adherent_plural: "jómalinusquistas"
+ jomali_desc: "El paganismo bjármico comprende las tradiciones religiosas de las comunidades establecidas en las costas del mar Blanco y en la región del río Dviná, conocidas por los navegantes y comerciantes escandinavos como bjarmianos. Según los relatos nórdicos, sus habitantes veneran a Jómali, divinidad cuya imagen se encuentra en un recinto sagrado del bosque, custodiada por guardianes y adornada con objetos preciosos. Las ofrendas de oro, plata y otros bienes manifiestan la importancia del culto y los vínculos entre la riqueza, la protección divina y las costumbres funerarias. Aunque las fuentes conservadas ofrecen información limitada sobre las creencias de estas comunidades, el culto a Jómali refleja la persistencia de tradiciones espirituales relacionadas con los pueblos finoúgricos del norte de Europa."
  jomali_high_god_name: "Jómali"
  jomali_high_god_name_possessive: "de Jómali"
  jomali_high_god_name_alternate: "Jumala"
@@ -12492,15 +12501,15 @@
  jomali_pantheon: "Jómali y los espíritus"
  jomali_devil_name: "Lempo"
  jomali_devil_name_possessive: "de Lempo"
- jomali_devil_herselfhimself: "sí mismo"
+ jomali_devil_herselfhimself: "a sí mismo"
  jomali_house_of_worship: "recinto sagrado"
  jomali_house_of_worship_plural: "recintos sagrados"
  jomali_religious_symbol: "cuenco de plata"
- jomali_religious_text: "los cantos antiguos"
- jomali_religious_head_title: "Gran Noita"
- jomali_religious_head_title_name: "Gran Noita"
- jomali_devotee: "seguidor de Jómali"
- jomali_devotee_plural: "seguidores de Jómali"
+ jomali_religious_text: "relatos sagrados"
+ jomali_religious_head_title: "Gran noita"
+ jomali_religious_head_title_name: "Consejo de noitas"
+ jomali_devotee: "jómalinusquista"
+ jomali_devotee_plural: "jómalinusquistas"
  jomali_priest: "noita"
  jomali_priest_plural: "noitas"
  jomali_bishop: "gran noita"
