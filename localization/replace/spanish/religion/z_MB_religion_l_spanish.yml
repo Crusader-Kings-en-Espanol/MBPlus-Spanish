@@ -12809,6 +12809,79 @@
  dievs_witch_god_name: "las raganas"
  dievs_witch_god_name_possessive: "de las raganas"
 
+# Rito sami
+ sami_rite_high_god_name: "Tiermes"
+ sami_rite_high_god_name_possessive: "de Tiermes"
+ sami_rite_high_god_name_alternate: "Horagalles"
+ sami_rite_high_god_name_alternate_possessive: "de Horagalles"
+ sami_rite_creator_god_name: "Radien"
+ sami_rite_creator_god_name_possessive: "de Radien"
+ sami_rite_health_god_name: "Beaivi"
+ sami_rite_health_god_name_possessive: "de Beaivi"
+ sami_rite_fertility_god_name: "Sarakka"
+ sami_rite_fertility_god_name_possessive: "de Sarakka"
+ sami_rite_wealth_god_name: "Leaibolmmái"
+ sami_rite_wealth_god_name_possessive: "de Leaibolmmái"
+ sami_rite_household_god_name: "Uksakka"
+ sami_rite_household_god_name_possessive: "de Uksakka"
+ sami_rite_fate_god_name: "Maderakka"
+ sami_rite_fate_god_name_possessive: "de Maderakka"
+ sami_rite_knowledge_god_name: "$sami_rite_high_god_name$"
+ sami_rite_knowledge_god_name_possessive: "$sami_rite_high_god_name_possessive$"
+ sami_rite_war_god_name: "$sami_rite_high_god_name$"
+ sami_rite_war_god_name_possessive: "$sami_rite_high_god_name_possessive$"
+ sami_rite_trickster_god_name: "Stállu"
+ sami_rite_trickster_god_name_possessive: "de Stállu"
+ sami_rite_night_god_name: "Mánnu"
+ sami_rite_night_god_name_possessive: "de Mánnu"
+ sami_rite_water_god_name: "Čáhcealmmái"
+ sami_rite_water_god_name_possessive: "de Čáhcealmmái"
+ sami_rite_pantheon: "los ipmilat"
+ sami_rite_devil_name: "Ruohtta"
+ sami_rite_devil_name_possessive: "de Ruohtta"
+ sami_rite_devil_herselfhimself: "sí mismo"
+ sami_rite_house_of_worship: "sieidi"
+ sami_rite_house_of_worship_plural: "sieiddit"
+ sami_rite_religious_symbol: "goavddis"
+ sami_rite_religious_text: "los joiks"
+ sami_rite_religious_head_title: "Gran Noaidi"
+ sami_rite_religious_head_title_name: "Gran Noaidi"
+ sami_rite_devotee: "seguidor del noaidi"
+ sami_rite_devotee_plural: "seguidores de los noaidi"
+ sami_rite_priest: "noaidi"
+ sami_rite_priest_plural: "noaidit"
+ sami_rite_bishop: "gran noaidi"
+ sami_rite_bishop_plural: "grandes noaidit"
+ sami_rite_divine_realm: "el cielo de Radien"
+ sami_rite_positive_afterlife: "Saivo"
+ sami_rite_negative_afterlife: "el reino de Ruohtta"
+ sami_rite_death_name: "Jábmiidáhkká"
+ sami_rite_death_name_possessive: "de Jábmiidáhkká"
+ sami_rite_witch_god_name: "los hechiceros"
+ sami_rite_witch_god_name_possessive: "de los hechiceros"
+
+# Paganismo prusiano
+ prussian_pagan: "Paganismo prusiano"
+ prussian_pagan_adj: "Romovismo"
+ prussian_pagan_adherent: "romovista"
+ prussian_pagan_adherent_plural: "romovistas"
+ prussian_pagan_desc: "El paganismo prusiano comprende las tradiciones religiosas de los antiguos prusianos y otros pueblos bálticos occidentales, fundamentadas en la veneración de las divinidades asociadas con el cielo, el trueno, la fertilidad, las fuerzas de la naturaleza y los antepasados. Entre las divinidades mencionadas en las fuentes destacan Perkūns, señor del trueno, Patrimps, relacionado con la fertilidad y las aguas, y Patolls, vinculado con el mundo de los muertos. Los bosques, los árboles venerados, los manantiales y otros lugares sagrados acogen sacrificios, ofrendas y ceremonias comunitarias destinadas a obtener el favor de las fuerzas divinas. Según las crónicas medievales, Romow constituye un importante centro religioso asociado con la autoridad del sacerdote conocido como Kriwe, aunque la naturaleza y extensión de esta institución permanecen sujetas a debate. Los ritos funerarios, la veneración de los antepasados y la observancia de las costumbres ancestrales mantienen los vínculos entre los linajes, sus territorios y el mundo espiritual."
+
+# Paganismo letón
+ latvian_pagan: "Paganismo letón"
+ latvian_pagan_adj: "Dievturismo"
+ latvian_pagan_adherent: "dievturista"
+ latvian_pagan_adherent_plural: "dievturistas"
+ latvian_pagan_desc: "El paganismo letón comprende las tradiciones religiosas de los antiguos pueblos bálticos orientales establecidos en las tierras de la actual Letonia, fundamentadas en la veneración de las divinidades celestiales, los espíritus de la naturaleza y los antepasados. Dievs, divinidad del cielo y del orden universal, ocupa un lugar destacado junto a Pērkons, señor del trueno y protector frente a las fuerzas perjudiciales, y Laima, asociada con el destino, los nacimientos y la prosperidad. Māra representa la protección maternal y diversos aspectos de la naturaleza y de la vida cotidiana, mientras que otras entidades tutelares gobiernan los bosques, las aguas, los campos y los hogares. Los árboles venerados, las arboledas, las piedras y otros lugares sagrados acogen ofrendas y ceremonias vinculadas con los ciclos agrícolas y las festividades estacionales. Los cantos tradicionales, la veneración de los antepasados y las costumbres transmitidas entre generaciones mantienen los vínculos entre las comunidades, sus territorios y las fuerzas sobrenaturales."
+
+ # Paganismo eslavo
+ slavic_religion: "Slovianska Pravda"
+ slavic_religion_adj: "Paganismo eslavo"
+ slavic_religion_adherent: "eslavo"
+ slavic_religion_adherent_plural: "eslavos"
+ slavic_religion_desc: "Haciendo hincapié en el deber personal, moralidad y conformidad, el paganismo eslavo es el término general que engloba la mayoría de religiones nativas del centro y este de Europa. La comunidad es una parte importante de la mayoría de dichas religiones y las ceremonias religiosas son a menudo reuniones públicas donde se celebra la belleza y la alegría."
+
+# Tradición de Dazhbog
  dazhbog: "Dazhbog"
  dazhbog_adj: "Dazhbogismo"
  dazhbog_adherent: "nieto de Dazhbog"
@@ -12864,6 +12937,14 @@
  dazhbog_witch_god_name: "las vedmy"
  dazhbog_witch_god_name_possessive: "de las vedmy"
 
+# Paganismo eslavo oriental
+ slavic_east: "Paganismo eslavo oriental"
+ slavic_east_adj: "Dazhbogismo"
+ slavic_east_adherent: "dazhbogista"
+ slavic_east_adherent_plural: "dazhbogistas"
+ slavic_east_desc: "El paganismo eslavo oriental comprende las tradiciones religiosas de los pueblos eslavos establecidos en las tierras de la Rus y las regiones orientales de Europa. Sus creencias se fundamentan en la veneración de numerosas divinidades vinculadas con el cielo, el sol, el trueno, la fertilidad y las fuerzas de la naturaleza. Dazhbog, asociado con el sol y la prosperidad, ocupa un lugar destacado junto a Perun, señor del trueno y protector de los guerreros, y Veles, relacionado con el ganado, la riqueza y el mundo de los muertos. Los bosques, los ríos, los manantiales y otros lugares sagrados acogen sacrificios, ofrendas y ceremonias comunitarias destinadas a obtener el favor de las divinidades. La veneración de los antepasados, las festividades estacionales y las prácticas transmitidas por tradición oral mantienen los vínculos entre las comunidades, sus linajes y las fuerzas sobrenaturales."
+
+# Tradición de Perun
  perun: "Perun"
  perun_adj: "Perunismo"
  perun_adherent: "seguidor de Perun"
@@ -12919,6 +13000,14 @@
  perun_witch_god_name: "las vještice"
  perun_witch_god_name_possessive: "de las vještice"
 
+# Paganismo eslavo meridional
+ slavic_south: "Paganismo eslavo meridional"
+ slavic_south_adj: "Perunismo"
+ slavic_south_adherent: "perunista"
+ slavic_south_adherent_plural: "perunistas"
+ slavic_south_desc: "El paganismo eslavo meridional comprende las tradiciones religiosas de los pueblos eslavos establecidos en los Balcanes y las regiones meridionales de Europa. Sus creencias se fundamentan en la veneración de divinidades asociadas con el cielo, el trueno, la fertilidad, las aguas y los ciclos de la naturaleza. Perun, señor del trueno y protector de los guerreros, ocupa un lugar destacado como divinidad vinculada con el orden celestial, los juramentos y la autoridad. Junto a él, Veles representa las fuerzas relacionadas con el ganado, la riqueza y el mundo subterráneo, mientras que otras entidades tutelares protegen los bosques, los ríos, los campos y los hogares. Las comunidades celebran ofrendas, sacrificios y ceremonias estacionales en arboledas y otros lugares sagrados para obtener la protección divina y asegurar la prosperidad de sus cosechas. La veneración de los antepasados y la conservación de las costumbres ancestrales mantienen los vínculos entre los vivos, sus linajes y el mundo espiritual."
+
+# Tradición de Zutibure
  zutibure: "Zutibure"
  zutibure_adj: "Zutiburismo"
  zutibure_adherent: "seguidor del bosque santo"
@@ -12974,6 +13063,14 @@
  zutibure_witch_god_name: "las czarownice"
  zutibure_witch_god_name_possessive: "de las czarownice"
 
+# Paganismo eslavo occidental
+ slavic_west: "Paganismo eslavo occidental"
+ slavic_west_adj: "Zutiburismo"
+ slavic_west_adherent: "zutiburista"
+ slavic_west_adherent_plural: "zutiburistas"
+ slavic_west_desc: "El paganismo eslavo occidental comprende las tradiciones religiosas de los pueblos eslavos establecidos entre los ríos Elba, Óder y Vístula, caracterizadas por la veneración de divinidades locales y regionales vinculadas con la guerra, la fertilidad, la soberanía y las fuerzas de la naturaleza. Zutibure, mencionado en las fuentes medievales como una divinidad venerada por determinadas comunidades eslavas, representa una de las manifestaciones de estos cultos regionales. Otras divinidades, como Svantevit, Svarozic y Triglav, reciben veneración en santuarios donde los sacerdotes custodian imágenes sagradas, interpretan presagios y dirigen sacrificios comunitarios. Los bosques, los manantiales y los templos constituyen importantes lugares de culto, mientras que las festividades estacionales, los juramentos y la veneración de los antepasados mantienen los vínculos entre las comunidades, sus territorios y las fuerzas sobrenaturales."
+
+# Culto de Svantevit
  svantevit: "Svantevit"
  svantevit_adj: "Svantevitismo"
  svantevit_adherent: "seguidor de Svantevit"
@@ -13029,6 +13126,14 @@
  svantevit_witch_god_name: "los hechiceros"
  svantevit_witch_god_name_possessive: "de los hechiceros"
 
+# Fe eslava de Svantevit
+ slavic_svantevit: "Culto de Svantevit"
+ slavic_svantevit_adj: "Svantevitismo"
+ slavic_svantevit_adherent: "svantevitista"
+ slavic_svantevit_adherent_plural: "svantevitistas"
+ slavic_svantevit_desc: "El svantevitismo comprende las tradiciones religiosas centradas en la veneración de Svantevit, divinidad de los eslavos occidentales asociada con la guerra, la prosperidad y la adivinación. Su principal santuario se encuentra en Arkona, en la isla de Rügen, donde una gran imagen de cuatro cabezas representa al dios y recibe las ofrendas de las comunidades rugias. Los sacerdotes custodian el templo, administran sus riquezas e interpretan los presagios mediante un caballo blanco consagrado a la divinidad. Durante las ceremonias anuales se presentan sacrificios y se consulta el cuerno que sostiene la imagen sagrada para conocer la prosperidad de las futuras cosechas. La veneración de Svantevit constituye un importante elemento de cohesión religiosa y política para las comunidades eslavas del litoral báltico, cuyos gobernantes buscan su protección antes de emprender campañas militares."
+
+# Culto de Svarožic
  svarozic: "Svarožic"
  svarozic_adj: "Svarozicismo"
  svarozic_adherent: "seguidor de Svarožic"
@@ -13084,6 +13189,14 @@
  svarozic_witch_god_name: "los hechiceros"
  svarozic_witch_god_name_possessive: "de los hechiceros"
 
+# Fe eslava de Svarožic
+ slavic_svarozic: "Culto de Svarozic"
+ slavic_svarozic_adj: "Svarozicismo"
+ slavic_svarozic_adherent: "svarozicista"
+ slavic_svarozic_adherent_plural: "svarozicistas"
+ slavic_svarozic_desc: "El svarozicismo comprende las tradiciones religiosas centradas en la veneración de Svarozic, divinidad de los eslavos occidentales asociada con el fuego sagrado y el poder divino. Su culto ocupa un lugar destacado entre los pueblos luticios, especialmente en el santuario de Rethra, donde los sacerdotes custodian las imágenes de las divinidades y celebran ceremonias destinadas a obtener su protección. Los sacrificios, las ofrendas y la interpretación de presagios mediante caballos sagrados desempeñan importantes funciones en la vida religiosa y política de las comunidades. Los gobernantes y guerreros buscan el favor de los dioses antes de emprender campañas militares, mientras que las ceremonias colectivas refuerzan los vínculos entre las distintas tribus. La veneración de Svarozic expresa la estrecha relación entre la autoridad religiosa, la defensa de los territorios y las tradiciones ancestrales de los eslavos del Elba."
+
+# Culto de Triglav
  triglav: "Triglav"
  triglav_adj: "Triglavismo"
  triglav_adherent: "seguidor de Triglav"
@@ -13139,6 +13252,14 @@
  triglav_witch_god_name: "los hechiceros"
  triglav_witch_god_name_possessive: "de los hechiceros"
 
+# Fe eslava de Triglav
+ slavic_triglav: "Culto de Triglav"
+ slavic_triglav_adj: "Triglavismo"
+ slavic_triglav_adherent: "triglavista"
+ slavic_triglav_adherent_plural: "triglavistas"
+ slavic_triglav_desc: "El triglavismo comprende las tradiciones religiosas centradas en la veneración de Triglav, divinidad de tres cabezas cuyo culto se encuentra especialmente extendido entre las comunidades eslavas de Pomerania. Sus tres rostros representan, según las interpretaciones transmitidas por las fuentes medievales, su dominio sobre el cielo, la tierra y el mundo subterráneo. En ciudades como Szczecin, los santuarios dedicados a Triglav albergan imágenes sagradas y objetos ceremoniales custodiados por sacerdotes. Un caballo negro consagrado al dios participa en los rituales de adivinación, mediante los cuales se busca conocer la voluntad divina antes de emprender campañas militares y otras decisiones importantes. Los sacrificios, las ofrendas y las ceremonias comunitarias expresan los vínculos entre las divinidades, los gobernantes y las comunidades que preservan las tradiciones religiosas de sus antepasados."
+
+# Culto de Prove
  prove: "Prove"
  prove_adj: "Provismo"
  prove_adherent: "seguidor de Prove"
@@ -13194,91 +13315,12 @@
  prove_witch_god_name: "los hechiceros"
  prove_witch_god_name_possessive: "de los hechiceros"
 
- sami_rite_high_god_name: "Tiermes"
- sami_rite_high_god_name_possessive: "de Tiermes"
- sami_rite_high_god_name_alternate: "Horagalles"
- sami_rite_high_god_name_alternate_possessive: "de Horagalles"
- sami_rite_creator_god_name: "Radien"
- sami_rite_creator_god_name_possessive: "de Radien"
- sami_rite_health_god_name: "Beaivi"
- sami_rite_health_god_name_possessive: "de Beaivi"
- sami_rite_fertility_god_name: "Sarakka"
- sami_rite_fertility_god_name_possessive: "de Sarakka"
- sami_rite_wealth_god_name: "Leaibolmmái"
- sami_rite_wealth_god_name_possessive: "de Leaibolmmái"
- sami_rite_household_god_name: "Uksakka"
- sami_rite_household_god_name_possessive: "de Uksakka"
- sami_rite_fate_god_name: "Maderakka"
- sami_rite_fate_god_name_possessive: "de Maderakka"
- sami_rite_knowledge_god_name: "$sami_rite_high_god_name$"
- sami_rite_knowledge_god_name_possessive: "$sami_rite_high_god_name_possessive$"
- sami_rite_war_god_name: "$sami_rite_high_god_name$"
- sami_rite_war_god_name_possessive: "$sami_rite_high_god_name_possessive$"
- sami_rite_trickster_god_name: "Stállu"
- sami_rite_trickster_god_name_possessive: "de Stállu"
- sami_rite_night_god_name: "Mánnu"
- sami_rite_night_god_name_possessive: "de Mánnu"
- sami_rite_water_god_name: "Čáhcealmmái"
- sami_rite_water_god_name_possessive: "de Čáhcealmmái"
- sami_rite_pantheon: "los ipmilat"
- sami_rite_devil_name: "Ruohtta"
- sami_rite_devil_name_possessive: "de Ruohtta"
- sami_rite_devil_herselfhimself: "sí mismo"
- sami_rite_house_of_worship: "sieidi"
- sami_rite_house_of_worship_plural: "sieiddit"
- sami_rite_religious_symbol: "goavddis"
- sami_rite_religious_text: "los joiks"
- sami_rite_religious_head_title: "Gran Noaidi"
- sami_rite_religious_head_title_name: "Gran Noaidi"
- sami_rite_devotee: "seguidor del noaidi"
- sami_rite_devotee_plural: "seguidores de los noaidi"
- sami_rite_priest: "noaidi"
- sami_rite_priest_plural: "noaidit"
- sami_rite_bishop: "gran noaidi"
- sami_rite_bishop_plural: "grandes noaidit"
- sami_rite_divine_realm: "el cielo de Radien"
- sami_rite_positive_afterlife: "Saivo"
- sami_rite_negative_afterlife: "el reino de Ruohtta"
- sami_rite_death_name: "Jábmiidáhkká"
- sami_rite_death_name_possessive: "de Jábmiidáhkká"
- sami_rite_witch_god_name: "los hechiceros"
- sami_rite_witch_god_name_possessive: "de los hechiceros"
-
- slavic_svantevit: "$svantevit$"
- slavic_svantevit_adj: "$svantevit_adj$"
- slavic_svantevit_adherent: "$svantevit_adherent$"
- slavic_svantevit_adherent_plural: "$svantevit_adherent_plural$"
- slavic_svantevit_desc: "$svantevit_desc$"
-
- slavic_svarozic: "$svarozic$"
- slavic_svarozic_adj: "$svarozic_adj$"
- slavic_svarozic_adherent: "$svarozic_adherent$"
- slavic_svarozic_adherent_plural: "$svarozic_adherent_plural$"
- slavic_svarozic_desc: "$svarozic_desc$"
-
- slavic_triglav: "$triglav$"
- slavic_triglav_adj: "$triglav_adj$"
- slavic_triglav_adherent: "$triglav_adherent$"
- slavic_triglav_adherent_plural: "$triglav_adherent_plural$"
- slavic_triglav_desc: "$triglav_desc$"
-
- slavic_prove: "$prove$"
- slavic_prove_adj: "$prove_adj$"
- slavic_prove_adherent: "$prove_adherent$"
- slavic_prove_adherent_plural: "$prove_adherent_plural$"
- slavic_prove_desc: "$prove_desc$"
-
- prussian_pagan: "$romow$"
- prussian_pagan_adj: "$romow_adj$"
- prussian_pagan_adherent: "$romow_adherent$"
- prussian_pagan_adherent_plural: "$romow_adherent_plural$"
- prussian_pagan_desc: "$romow_desc$"
-
- latvian_pagan: "$dievs$"
- latvian_pagan_adj: "$dievs_adj$"
- latvian_pagan_adherent: "$dievs_adherent$"
- latvian_pagan_adherent_plural: "$dievs_adherent_plural$"
- latvian_pagan_desc: "$dievs_desc$"
+# Fe eslava de Prove
+ slavic_prove: "Culto de Prove"
+ slavic_prove_adj: "Provismo"
+ slavic_prove_adherent: "provista"
+ slavic_prove_adherent_plural: "provistas"
+ slavic_prove_desc: "El provismo comprende las tradiciones religiosas centradas en la veneración de Prove, divinidad de los eslavos occidentales mencionada en las fuentes medievales entre los pueblos de la región de Wagria. Su culto se desarrolla principalmente en arboledas sagradas, donde los árboles venerados y los espacios naturales constituyen lugares de reunión ceremonial. Los sacerdotes dirigen sacrificios, ofrendas y plegarias destinadas a obtener el favor divino y preservar la prosperidad de las comunidades. Las fuentes relacionan su veneración con determinados lugares sagrados protegidos por normas religiosas, cuya observancia refuerza la autoridad de los especialistas rituales y el respeto por las costumbres ancestrales. Aunque las atribuciones específicas de Prove permanecen inciertas, su culto refleja la importancia de los santuarios naturales y de las divinidades tutelares en las tradiciones religiosas de los eslavos del noroeste."
 
  # Paganismo germánico
  germanic_bishop_female: "hofgyðja"
@@ -13976,38 +14018,38 @@
 
  # Tengrismo túrquico
  turk_tengri: "Tengrismo túrquico"
- turk_tengri_adj: "Tengrista túrquico"
- turk_tengri_adherent: "Tengrista túrquico"
- turk_tengri_adherent_plural: "Tengristas túrquicos"
- turk_tengri_desc: "El tengrismo túrquico reúne las creencias tradicionales de los pueblos de las estepas euroasiáticas, especialmente de los göktürks, uigures, oguz y carlucos, que reconocen a Tengri, el Cielo Eterno, como la autoridad suprema del orden cósmico y terrenal. Tengri concede a los jaganes el qut, el favor celestial que legitima su gobierno y del que dependen la prosperidad y la fortuna de sus pueblos. Umay protege a las madres, los niños y la continuidad de los linajes, mientras que Yer-Sub representa las tierras y aguas sagradas, cuyos espíritus tutelares custodian los territorios ancestrales. Los soberanos celebran sacrificios de animales, libaciones y ceremonias en montañas, cuevas y santuarios consagrados, especialmente en Ötüken, considerado el centro espiritual de la autoridad túrquica. La veneración de los antepasados, los monumentos funerarios y las inscripciones conmemorativas expresan la continuidad entre los linajes gobernantes, la memoria de sus pueblos y la voluntad del Cielo. Los chamanes y especialistas rituales intervienen en la comunicación con los espíritus y en las ceremonias destinadas a preservar la armonía entre las comunidades humanas y las fuerzas sobrenaturales."
+ turk_tengri_adj: "Tengrismo"
+ turk_tengri_adherent: "tengrista"
+ turk_tengri_adherent_plural: "tengristas"
+ turk_tengri_desc: "El tengrismo túrquico comprende las creencias tradicionales de los pueblos túrquicos de las estepas euroasiáticas, especialmente los göktürks, uigures, oguz y carlucos, que reconocen a Tengri, el Cielo Eterno, como autoridad suprema del orden celestial y terrenal. Tengri concede a los jaganes el qut, el favor divino que legitima su gobierno y del que dependen la prosperidad y la fortuna de sus pueblos. Umay protege a las madres, los niños y la continuidad de los linajes, mientras que Yer-Sub representa las tierras y aguas sagradas, cuyos espíritus tutelares custodian los territorios ancestrales. Los soberanos celebran sacrificios de animales, libaciones y ceremonias en montañas y otros lugares consagrados para honrar al Cielo y solicitar su protección. La veneración de los antepasados, los monumentos funerarios y las inscripciones conmemorativas expresan la continuidad entre los linajes gobernantes, la memoria de sus pueblos y la voluntad celestial. Los especialistas rituales intervienen en las ceremonias destinadas a comunicarse con los espíritus y preservar la armonía entre las comunidades humanas y las fuerzas sobrenaturales."
 
- # Etügen
- etugen: "Etügen"
- etugen_adj: "Etügeniano"
- etugen_adherent: "Etügeniano"
- etugen_adherent_plural: "Etügenianos"
- etugen_desc: "Las creencias tradicionales de los pueblos mongoles reconocen a Möngke Tengri, el Cielo Eterno, como la autoridad suprema que gobierna el destino del mundo y concede a los kanes el mandato celestial para dirigir a sus pueblos. Junto a él, Etügen, la Madre Tierra, representa la fertilidad, la abundancia y las fuerzas que sustentan la vida, recibiendo ofrendas y libaciones destinadas a asegurar la prosperidad de las familias, los rebaños y los territorios. Los espíritus ancestrales, venerados mediante representaciones sagradas conocidas como ongon, protegen los hogares y mantienen los vínculos entre los vivos y sus antepasados. Los chamanes böö y las sacerdotisas udgan actúan como intermediarios con el mundo sobrenatural mediante cantos, tambores, invocaciones y estados de trance, buscando la protección de los espíritus y la curación de las enfermedades. Los montículos rituales de piedras, conocidos como ovoo, señalan montañas, pasos y lugares sagrados donde los viajeros depositan ofrendas para obtener el favor de las potencias tutelares. Desde las estepas del Onón y el Kerulen hasta los bosques del Jangái y las orillas del Baikal, la veneración del Cielo, la Tierra y los antepasados constituye un fundamento de la vida religiosa y de la autoridad de los linajes mongoles."
+ # Paganismo mongol
+ etugen: "Paganismo mongol"
+ etugen_adj: "Etügenismo"
+ etugen_adherent: "etügenista"
+ etugen_adherent_plural: "etügenistas"
+ etugen_desc: "El paganismo mongol comprende las creencias tradicionales de los pueblos mongoles, fundamentadas en la veneración de Tengri, el Cielo Eterno, de las fuerzas de la naturaleza y de los antepasados. Möngke Tengri representa la autoridad celestial suprema que gobierna el destino del mundo y concede a los kanes el favor divino para dirigir a sus pueblos. Etügen, la Madre Tierra, personifica la fertilidad, la abundancia y las fuerzas que sustentan la vida, recibiendo ofrendas y libaciones destinadas a asegurar la prosperidad de las familias, los rebaños y los territorios. Los espíritus ancestrales, venerados mediante representaciones sagradas conocidas como ongon, protegen los hogares y mantienen los vínculos entre los vivos y sus antepasados. Los chamanes böö y las especialistas rituales udgan actúan como intermediarios con el mundo sobrenatural mediante cantos, tambores e invocaciones, buscando la protección de los espíritus y la curación de las enfermedades. Los montículos ceremoniales de piedras, conocidos como ovoo, señalan montañas, pasos y otros lugares sagrados donde los viajeros presentan ofrendas a las potencias tutelares. La veneración del Cielo, la Tierra y los antepasados constituye un fundamento de la vida religiosa y de la autoridad de los linajes mongoles."
 
- # Kaira
- kayra: "Kaira"
- kayra_adj: "Kairano"
- kayra_adherent: "Kairano"
- kayra_adherent_plural: "Kairanos"
- kayra_desc: "Las creencias tradicionales de los pueblos túrquicos del Altái, los montes Sayanes y la cuenca del Yeniséi reconocen a Kayra Kan como una divinidad primordial vinculada a la creación y al orden del universo. En los distintos planos del mundo espiritual, Ülgen gobierna las alturas celestiales, mientras que Erlik ejerce su dominio sobre el inframundo. Los chamanes, conocidos como kam, actúan como intermediarios entre los hombres, las divinidades y los espíritus mediante invocaciones, sacrificios y ceremonias acompañadas por el sonido ritual de sus tambores. Durante las grandes ceremonias, el ascenso simbólico por un árbol sagrado representa el viaje espiritual del chamán hacia los cielos y su comunicación con las potencias superiores. Las montañas, los ríos, los bosques y las extensiones de taiga albergan espíritus tutelares, conocidos como eezi, a quienes se ofrecen plegarias y sacrificios para asegurar la protección de las comunidades. Entre los pueblos de la región del Baikal, las libaciones de kumis, la veneración de los antepasados y las celebraciones estacionales expresan los vínculos entre el mundo humano y las fuerzas espirituales."
+ # Paganismo altaico
+ kayra: "Paganismo altaico"
+ kayra_adj: "Kairismo"
+ kayra_adherent: "kairista"
+ kayra_adherent_plural: "kairistas"
+ kayra_desc: "El paganismo altaico comprende las tradiciones religiosas de diversos pueblos túrquicos de los montes Altái, los Sayanes y las regiones vecinas de Siberia meridional. Sus creencias reconocen a Kayra Kan como una divinidad celestial primordial vinculada con la creación y el orden del universo, aunque sus atribuciones varían entre las distintas tradiciones. Ülgen gobierna las regiones celestiales y representa las fuerzas benéficas, mientras que Erlik ejerce su dominio sobre el inframundo y los espíritus relacionados con la muerte y la enfermedad. Los chamanes, conocidos como kam, actúan como intermediarios entre los hombres, las divinidades y los espíritus mediante invocaciones, sacrificios y ceremonias acompañadas por el sonido ritual de sus tambores. Durante determinados rituales, el ascenso simbólico por un árbol sagrado representa el viaje espiritual del chamán hacia los distintos planos del universo. Las montañas, los ríos, los bosques y las extensiones de taiga albergan espíritus tutelares, conocidos como eezi, a quienes se presentan ofrendas para asegurar la protección de las comunidades, la prosperidad de los rebaños y el éxito de las actividades de caza. La veneración de los antepasados y las ceremonias estacionales mantienen los vínculos entre los linajes, sus territorios y las fuerzas espirituales."
 
- # Ötüken
- otuken_yish: "Ötüken"
- otuken_yish_adj: "Otükeniano"
- otuken_yish_adherent: "Otükeniano"
- otuken_yish_adherent_plural: "Otükenianos"
- otuken_yish_desc: "Las creencias tradicionales de los pueblos túrquicos de las estepas reconocen a Ötüken, la región montañosa y boscosa del alto Orjón, como el centro sagrado de su mundo y fundamento espiritual de la autoridad de sus soberanos. Tengri, el Cielo Eterno, gobierna el orden celestial y concede a los jaganes el qut, el favor divino que legitima su derecho a gobernar y asegura la prosperidad de sus pueblos. Umay protege a las madres, los niños y la continuidad de los linajes, mientras que Yer-Sub representa las tierras y aguas sagradas, cuyos espíritus tutelares custodian montañas, ríos y territorios ancestrales. Los jaganes celebran sacrificios de animales, libaciones y ceremonias en lugares consagrados para honrar al Cielo, solicitar su protección y preservar la armonía entre los hombres y las fuerzas espirituales. La veneración de los antepasados, los monumentos funerarios y las inscripciones conmemorativas refuerzan los vínculos entre la autoridad política, la memoria de los linajes y el orden divino. Estas tradiciones forman parte de la vida religiosa de los göktürks, uigures, oguz, carlucos y otros pueblos túrquicos que reconocen la autoridad del Cielo y la importancia sagrada de sus territorios ancestrales."
+ # Culto de Ötüken
+ otuken_yish: "Culto de Ötüken"
+ otuken_yish_adj: "Ötükenismo"
+ otuken_yish_adherent: "ötükenista"
+ otuken_yish_adherent_plural: "ötükenistas"
+ otuken_yish_desc: "El culto de Ötüken comprende las tradiciones religiosas de los pueblos túrquicos que reconocen la región montañosa y boscosa del alto Orjón como centro sagrado de su mundo y fundamento espiritual de la autoridad de sus soberanos. Ötüken representa la tierra ancestral desde la cual los jaganes reciben la legitimidad necesaria para gobernar y preservar la prosperidad de sus pueblos. Tengri, el Cielo Eterno, concede a los soberanos el qut, el favor divino que sostiene su autoridad, mientras que Umay protege a las madres, los niños y la continuidad de los linajes. Yer-Sub representa las tierras y aguas sagradas, cuyos espíritus tutelares custodian las montañas, los ríos y los territorios ancestrales. Los gobernantes celebran sacrificios de animales, libaciones y ceremonias en lugares consagrados para honrar al Cielo y mantener la armonía con las fuerzas espirituales. La veneración de los antepasados, los monumentos funerarios y las inscripciones conmemorativas refuerzan los vínculos entre la autoridad política, la memoria de los linajes y el territorio sagrado. Estas tradiciones ocupan un lugar destacado entre los göktürks y otros pueblos túrquicos vinculados con las antiguas tierras imperiales del Orjón."
 
- # Numi-Torum
- numi_torum: "Numi-Torum"
- numi_torum_adj: "Torumiano"
- numi_torum_adherent: "Torumiano"
- numi_torum_adherent_plural: "Torumianos"
- numi_torum_desc: "Las creencias tradicionales de los pueblos janty y mansi, asentados en las cuencas del Obi y sus afluentes, reconocen a Numi-Torum como señor del cielo supremo y autoridad divina que gobierna el orden del universo. Kaltash-Ekva, la madre celestial, protege la maternidad, concede los hijos y determina la duración de la vida humana, mientras que Mir-Susne-Khum, el Hombre que Vigila el Mundo, recorre la tierra montado en un caballo blanco para observar las acciones de los hombres y velar por su bienestar. Khul-Otyr ejerce su dominio sobre el inframundo y los espíritus asociados a la muerte y la enfermedad. Los bosques, ríos y territorios de caza albergan divinidades y espíritus tutelares a quienes las comunidades ofrecen sacrificios y ofrendas para asegurar la prosperidad, la salud y la abundancia de animales. La organización tradicional en las fratrías Mos y Por mantiene vínculos con los antepasados y las obligaciones rituales de cada linaje. El oso ocupa un lugar especialmente sagrado, pues se considera descendiente de Numi-Torum, y su caza exige ceremonias de varias noches con cantos, danzas y representaciones enmascaradas destinadas a honrar su espíritu y propiciar su retorno al mundo celestial."
+ # Paganismo obiugrio
+ numi_torum: "Paganismo obiugrio"
+ numi_torum_adj: "Torumismo"
+ numi_torum_adherent: "torumista"
+ numi_torum_adherent_plural: "torumistas"
+ numi_torum_desc: "El paganismo obiugrio comprende las tradiciones religiosas de los pueblos janty y mansi, establecidos en las cuencas del Obi y sus afluentes, en Siberia occidental. Sus creencias reconocen a Numi-Torum como señor del cielo supremo y autoridad divina vinculada con el orden del universo. Kaltash-Ekva, figura maternal asociada con el destino y el nacimiento, protege la maternidad y determina la duración de la vida humana, mientras que Mir-Susne-Khum, el Hombre que Vigila el Mundo, recorre la tierra montado en un caballo blanco para observar las acciones de los hombres y velar por su bienestar. Khul-Otyr ejerce su dominio sobre las fuerzas del inframundo y los espíritus relacionados con la muerte y la enfermedad. Los bosques, los ríos y los territorios de caza albergan divinidades y espíritus tutelares a quienes las comunidades presentan sacrificios y ofrendas para asegurar la prosperidad, la salud y la abundancia de animales. Entre los janty y los mansi, las divisiones tradicionales en los grupos Mos y Por mantienen vínculos con los antepasados y las obligaciones rituales de los linajes. El oso ocupa un lugar especialmente sagrado, pues se considera vinculado con el mundo celestial, y su caza exige ceremonias de varios días con cantos, danzas y representaciones destinadas a honrar su espíritu y propiciar su retorno al mundo divino."
 
  numi_torum_high_god_name: "Numi-Torum"
  numi_torum_high_god_name_possessive: "de Numi-Torum"
@@ -14176,24 +14218,20 @@
 
  # Samoyédico
  samoyedic_group: "Samoyédico"
-
  witchgodname_alan_saubarag: "Saubarag"
 
 ############################## RELIGIONES TRADICIONALES DE ASIA Y OCEANÍA ##############################
 
  ## Doctrinas y principios
-
  tenet_headhunting_dayak_name: "Ngayau"
 
  tenet_headhunting_filipino_name: "Pugot"
 
  # Restricciones y denominaciones
  faith_conversion_blocked_ALB: "No puedes convertirte a esta fe porque es una representación simbólica y no una confesión religiosa independiente."
-
  is_alb_faith_name: "Antes de la Fitna"
 
  ## Fes, dioses y términos religiosos
-
  # Peristaní
  peristani_religion: "Peristaní"
  peristani_religion_adj: "Peristaní"
