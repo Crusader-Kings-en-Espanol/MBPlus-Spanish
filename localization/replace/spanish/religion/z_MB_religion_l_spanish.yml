@@ -2487,12 +2487,25 @@
  finnish_orthodox_adherent_plural: "Cristianos ortodoxos finlandeses"
  finnish_orthodox_desc: "El rito finlandés representa una tradición litúrgica del cristianismo oriental arraigada entre las comunidades finesas y carelias, especialmente en las regiones próximas al lago Ládoga y las tierras orientales de Finlandia. Sus fieles profesan las doctrinas de la ortodoxia oriental y conservan la liturgia bizantina, aunque sus prácticas religiosas incorporan elementos propios de la cultura y las tradiciones finocarelias. La vida espiritual se organiza en torno a parroquias, monasterios y comunidades religiosas vinculadas a la jerarquía ortodoxa, donde los sacerdotes y monjes desempeñan un papel fundamental en la enseñanza de la fe y la celebración de los sacramentos. La veneración de los iconos, el culto a los santos, las festividades litúrgicas y las prácticas ascéticas constituyen aspectos esenciales de su identidad religiosa. Su tradición combina la herencia espiritual bizantina con las lenguas y costumbres locales, manteniendo estrechos vínculos eclesiásticos con la ortodoxia de las tierras de la Rus."
 
+ # Rito fraticelo
+ fraticelli_rite_name: "Fraticellismo"
+ fraticelli_rite_name_adj: "Rito Fraticelli"
+ fraticelli_rite_name_adherent: "fraticelo"
+ fraticelli_rite_name_adherent_plural: "fraticelos"
+
  # Fraticelismo
+ fraticelli: "Fraticelismo"
+ fraticelli_adj: "Fraticellismo"
+ fraticelli_adherent: "fraticelo"
+ fraticelli_adherent_plural: "fraticelos"
+ fraticelli_desc: "El fraticelismo es una corriente del cristianismo occidental surgida a finales del siglo XIII entre los franciscanos espirituales, cuyos seguidores defienden una interpretación rigurosa de la pobreza evangélica y consideran que la renuncia absoluta a la propiedad constituye un principio esencial de las enseñanzas de Jesucristo. Sus fieles toman como modelo la vida de Cristo y los apóstoles, a quienes atribuyen una existencia desprovista de posesiones individuales y comunitarias, y sostienen que la Iglesia debe conservar esa misma pobreza para mantenerse fiel al Evangelio. Inspirados por los ideales de san Francisco de Asís y las enseñanzas de figuras como Angelo Clareno, rechazan la acumulación de riquezas por parte del clero y denuncian la corrupción de las instituciones eclesiásticas. Algunas comunidades, especialmente aquellas que se enfrentan a las condenas pontificias del siglo XIV, cuestionan la legitimidad de los papas que rechazan la doctrina de la pobreza absoluta de Cristo y los apóstoles. Sus seguidores consideran que la verdadera Iglesia debe conservar la humildad, la penitencia y la renuncia a los bienes materiales que caracterizan al cristianismo apostólico. La oración, la predicación, la mendicidad y la vida comunitaria constituyen los fundamentos de su espiritualidad, mientras que la observancia estricta de la regla franciscana representa el camino hacia la restauración de la pureza evangélica."
+
+ # Fraticelismo (rito)
  fraticelli_rite: "Fraticelismo"
- fraticelli_rite_adj: "Rito fraticelo"
- fraticelli_rite_adherent: "Fraticelista"
- fraticelli_rite_adherent_plural: "Fraticelistas"
- fraticelli_rite_desc: "Los fraticelistas, también conocidos como «hermanos menores», representan una corriente del cristianismo franciscano que defiende una interpretación rigurosa de la pobreza evangélica y de las enseñanzas de san Francisco de Asís. Consideran que Cristo y los apóstoles carecían de toda propiedad, tanto individual como colectiva, y que la renuncia absoluta a los bienes materiales constituye una obligación fundamental para quienes aspiran a seguir verdaderamente el Evangelio. Sostienen que la regla franciscana expresa directamente la voluntad divina y que ninguna autoridad eclesiástica, incluido el papa, puede dispensar de su cumplimiento. Sus comunidades practican la austeridad, la mendicidad, la predicación y la vida contemplativa, rechazando la acumulación de riquezas y los privilegios materiales del clero. Organizados en pequeñas fraternidades y comunidades eremíticas, conceden especial importancia a la obediencia a sus ideales religiosos y a la fraternidad entre los creyentes. Su defensa de la pobreza apostólica los lleva a cuestionar la legitimidad de las autoridades eclesiásticas que consideran alejadas de las enseñanzas de Cristo, pues sostienen que la verdadera Iglesia debe fundamentarse en la humildad, la renuncia material y la fidelidad al Evangelio."
+ fraticelli_rite_adj: "Rito Fraticelli"
+ fraticelli_rite_adherent: "fraticelo"
+ fraticelli_rite_adherent_plural: "fraticelos"
+ fraticelli_rite_desc: "El fraticelismo representa las comunidades religiosas vinculadas con los franciscanos espirituales que defienden la observancia estricta de la pobreza apostólica y la fidelidad a las enseñanzas de san Francisco de Asís. Sus seguidores consideran que Cristo y los apóstoles carecían de toda propiedad, tanto individual como comunitaria, y sostienen que la renuncia a los bienes materiales constituye una obligación esencial de la vida cristiana. Rechazan la riqueza y los privilegios del clero, pues consideran que la acumulación de posesiones contradice el ejemplo de humildad establecido por los primeros cristianos. Sus comunidades conservan las principales creencias y prácticas sacramentales del cristianismo latino, aunque algunas cuestionan la autoridad de los pontífices que condenan sus interpretaciones de la pobreza evangélica. Organizados en pequeñas fraternidades y comunidades eremíticas, sus fieles practican la oración, la penitencia, la mendicidad y la predicación, concediendo especial importancia a la observancia de la regla franciscana. Sus dirigentes espirituales defienden que ninguna autoridad eclesiástica puede dispensar de los principios que consideran establecidos por el Evangelio. La fidelidad a la pobreza apostólica, la fraternidad entre los creyentes y el rechazo de los privilegios materiales constituyen los fundamentos de su identidad religiosa."
 
  # Hermanos del Espíritu Libre
  free_spirit_rite: "Hermanos del Espíritu Libre"
@@ -3025,14 +3038,14 @@
  # Paulicianismo
  paulician: "Paulicianismo"
  paulician_adj: "Pauliciano"
- paulician_adherent: "Cristiano pauliciano"
- paulician_adherent_plural: "Cristianos paulicianos"
- paulician_desc: "El paulicianismo es una corriente cristiana de origen armenio que defiende una interpretación de las Escrituras centrada especialmente en los Evangelios y las epístolas de san Pablo. Sus seguidores consideran que la verdadera Iglesia debe conservar la sencillez de las primeras comunidades apostólicas y rechazan numerosas prácticas de las jerarquías eclesiásticas establecidas. Se oponen a la veneración de la cruz, las imágenes religiosas y las reliquias, pues consideran que estos objetos desvían la devoción que corresponde exclusivamente a Dios. Cuestionan la autoridad del sacerdocio tradicional y la eficacia de determinados sacramentos, concediendo mayor importancia a la predicación, la lectura de las Escrituras y la vida comunitaria. Sus adversarios les atribuyen doctrinas dualistas que contraponen el mundo material al espiritual, aunque la naturaleza exacta de estas creencias es objeto de controversia. Su identidad religiosa se fundamenta en la autoridad de las enseñanzas apostólicas y en el rechazo de las instituciones y ceremonias que consideran ajenas al cristianismo primitivo."
- paulician_rite: "$paulician$"
- paulician_rite_adj: "$paulician_adj$"
- paulician_rite_adherent: "$paulician_adherent$"
- paulician_rite_adherent_plural: "$paulician_adherent_plural$"
- paulician_rite_desc: "$paulician_desc$"
+ paulician_adherent: "pauliciano"
+ paulician_adherent_plural: "paulicianos"
+ paulician_desc: "El paulicianismo es una corriente cristiana surgida en las regiones orientales del Imperio romano, especialmente en Armenia y Anatolia, que defiende una interpretación de las Escrituras centrada en los Evangelios y las epístolas de san Pablo. Sus seguidores consideran que la verdadera Iglesia debe conservar la sencillez de las primeras comunidades apostólicas y rechazan numerosas prácticas de las jerarquías eclesiásticas establecidas. Se oponen a la veneración de la cruz, las imágenes religiosas y las reliquias, pues consideran que estos objetos desvían la devoción que corresponde exclusivamente a Dios. Cuestionan la autoridad del sacerdocio tradicional y determinadas prácticas sacramentales, concediendo especial importancia a la predicación, las enseñanzas apostólicas y la vida comunitaria. Sus adversarios bizantinos les atribuyen doctrinas dualistas que contraponen el mundo material al espiritual, aunque la naturaleza exacta de sus creencias permanece sujeta a debate debido a la procedencia predominantemente hostil de las fuentes conservadas. Perseguidos por las autoridades imperiales y eclesiásticas, los paulicianos establecen comunidades independientes en las fronteras orientales de Bizancio y posteriormente se extienden hacia los Balcanes. Su identidad religiosa se fundamenta en la autoridad de las enseñanzas apostólicas y en el rechazo de las instituciones y ceremonias que consideran ajenas al cristianismo primitivo."
+ paulician_rite: "Rito pauliciano"
+ paulician_rite_adj: "Pauliciano"
+ paulician_rite_adherent: "pauliciano"
+ paulician_rite_adherent_plural: "paulicianos"
+ paulician_rite_desc: "El rito pauliciano representa las prácticas religiosas de las comunidades cristianas paulicianas, surgidas en Armenia y Anatolia durante la Alta Edad Media. Sus fieles fundamentan su doctrina en las enseñanzas de Cristo y los apóstoles, especialmente en las epístolas de san Pablo, y defienden una organización religiosa alejada de las jerarquías eclesiásticas tradicionales. Rechazan la veneración de imágenes, cruces y reliquias, así como determinadas ceremonias y prácticas sacramentales de las Iglesias establecidas. La predicación, la interpretación de las Escrituras y la reunión de los creyentes constituyen elementos fundamentales de su vida comunitaria. Sus dirigentes religiosos preservan las enseñanzas apostólicas y mantienen la cohesión de las comunidades frente a las autoridades imperiales y eclesiásticas. Aunque sus adversarios les atribuyen doctrinas dualistas y otras creencias consideradas heréticas, la naturaleza exacta de su teología permanece discutida. Las comunidades paulicianas conservan sus tradiciones religiosas tanto en las regiones orientales del Imperio romano como en los territorios balcánicos donde se establecen posteriormente."
 
  # Cristeniga
  circassian_christianity: "Cristeniga"
@@ -3142,7 +3155,6 @@
  donatist_christian_water_god_name_possessive: "de Parmeniano"
 
  hebrews_religious_text: "Evangelio según los Hebreos"
-
  ebionite_religious_text: "Evangelio de los ebionitas"
 
  # Cristianismo nasrani
@@ -3153,13 +3165,6 @@
  indian_catholic_desc: "El cristianismo nasrani es una tradición religiosa arraigada entre las comunidades cristianas de la costa de Malabar, en el sur de la India, cuyos fieles atribuyen sus orígenes a la predicación del apóstol santo Tomás. Sus comunidades conservan una identidad cristiana propia, caracterizada por la influencia de las tradiciones litúrgicas siríacas y por la integración de numerosas costumbres culturales de la sociedad india. La celebración de la Eucaristía, la veneración de la cruz, el culto a los santos y la observancia de los ayunos y festividades cristianas ocupan un lugar fundamental en su espiritualidad. El siríaco constituye una lengua litúrgica de especial importancia, mientras que las lenguas locales se emplean en la vida cotidiana y en la transmisión de las enseñanzas religiosas. Sus comunidades mantienen vínculos históricos con las Iglesias orientales de Mesopotamia, de las que reciben influencias doctrinales, litúrgicas y eclesiásticas, aunque algunas reconocen la autoridad del obispo de Roma y conservan su patrimonio ritual oriental dentro de la comunión católica. Su organización religiosa combina la autoridad de los obispos con las instituciones comunitarias tradicionales, mientras que sus prácticas matrimoniales, familiares y sociales reflejan la convivencia entre la herencia cristiana y las costumbres de Malabar. Su identidad se fundamenta en la continuidad de la tradición apostólica atribuida a santo Tomás, la conservación de su patrimonio litúrgico y la integración del cristianismo en la sociedad india."
  indian_catholic_religious_head_title: "Pērāyar"
  indian_catholic_religious_head_title_name: "$indian_catholic_religious_head_title$"
-
- # Fraticelismo
- fraticelli: "Fraticelismo"
- fraticelli_adj: "Fraticelli"
- fraticelli_adherent: "Cristiano fraticelo"
- fraticelli_adherent_plural: "Cristianos fraticelos"
- fraticelli_desc: "El fraticelismo es una corriente del cristianismo occidental surgida entre los franciscanos espirituales que defienden una interpretación rigurosa de la pobreza evangélica y consideran que la renuncia absoluta a la propiedad constituye un principio esencial de las enseñanzas de Jesucristo. Sus seguidores toman como modelo la vida de Cristo y los apóstoles, a quienes atribuyen una existencia desprovista de posesiones individuales y comunitarias, y sostienen que la Iglesia debe conservar esa misma pobreza para mantenerse fiel al Evangelio. Inspirados por los ideales de san Francisco de Asís y las enseñanzas de figuras como Angelo Clareno, rechazan la acumulación de riquezas por parte del clero y denuncian la corrupción de las instituciones eclesiásticas. Algunas comunidades cuestionan la autoridad de los pontífices que condenan la pobreza absoluta y consideran que la verdadera Iglesia está representada por quienes perseveran en la humildad, la penitencia y la renuncia a los bienes materiales. Su espiritualidad concede especial importancia a la vida comunitaria, la predicación, la oración y la observancia estricta de los ideales franciscanos, entendidos como una restauración de la sencillez y la pureza del cristianismo apostólico."
 
  # Cristianismo carolingio
  carolingian_christianity: "Rito carolingio"
@@ -3564,12 +3569,6 @@
  patron_saint_blaise: "San Blas de Sebaste"
  patron_saint_anastasius: "San Anastasio de Constantinopla"
  patron_saint_charlemagne: "Beato Carlomagno"
-
- # Rito fraticelli
- fraticelli_rite_name: "Rito fraticelli"
- fraticelli_rite_name_adj: "Fraticelli"
- fraticelli_rite_name_adherent: "Fraticello"
- fraticelli_rite_name_adherent_plural: "Fraticellos"
 
  # Rito tondraquiano
  tondrakian_rite_name: "Rito tondraquiano"
