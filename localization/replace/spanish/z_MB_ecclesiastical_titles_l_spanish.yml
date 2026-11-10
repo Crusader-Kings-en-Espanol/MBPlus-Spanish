@@ -491,8 +491,8 @@
  RIGA: "Riga"
  Rongzhao: "Rongzhao"
  Rongzhao_adj: "Rongzhao"
- SAXONY_STEM: "Saxony"
- SAXONY_WITTENBURG: "Sachsen-Wittenberg"
+ SAXONY_STEM: "Sajonia"
+ SAXONY_WITTENBURG: "Sajonia-Wittenberg"
  SEOHAE: "Seohae"
  SEOHAE_adj: "Seohae"
  SHANCHAN: "Shànchǎn"
@@ -1149,7 +1149,7 @@
  b_Songwaicheng: "Songwaicheng"
  b_Suicheng_Yi: "Suicheng"
  b_Suide: "Suide"
- b_Suidej: "Suídéjūn"  #REVISAR
+ b_Suidej: "Suídéjūn"  
  b_Suining: "Suining"
  b_Suizhou: "Suizhou"
  b_SuizhouShanhe: "Suizhou Shanhe"
@@ -1861,7 +1861,7 @@
  b_air_route: "Ruta de Air"
  b_air_sugihan: "Air Sugihan"
  b_airag: "Airag"
- b_airbulat: "Airbulat"  #REVISAR
+ b_airbulat: "Airbulat"  
  b_aire: "Thérouanne"
  b_airkhan: "Airkhan"
  b_airyk: "Airyk"
@@ -3111,7 +3111,7 @@
  b_aykino: "Aykino"
  b_ayl_kharaqana: "Ayl Kharaqana"
  b_aylesbury: "Aylesbury"
- b_ayni: "Ayni"  #REVISAR
+ b_ayni: "Ayni"  
  b_ayodhya: "Ayodhya"
  b_ayrtau: "Ayrtau"
  b_ayrybaba: "Aýrybaba"
@@ -3829,7 +3829,7 @@
  b_beauvais: "Beauvais"
  b_bebadi: "Bebadi"
  b_bebristsikhe: "Bebris Tsikhe"
- b_beccar: "Beccar"  #REVISAR
+ b_beccar: "Beccar"  
  b_bechar: "Béchar "
  b_bechyne: "Bechyně"
  b_becse: "Becse"
@@ -3890,7 +3890,7 @@
  b_belchite: "Belchite"
  b_belcoo: "Belcoo"
  b_belebey: "Belebey"
- b_belen_ana: "Belen-Ana"  #REVISAR
+ b_belen_ana: "Belen-Ana"  
  b_belene: "Belene"
  b_belenyes: "Belényes"
  b_belesa: "Belesa"
@@ -3911,7 +3911,7 @@
  b_bellac: "Bellac"
  b_belley: "Belley"
  b_bellinzona: "Bellinzona"
- b_belluno: "Belluno"  #REVISAR
+ b_belluno: "Belluno"  
  b_belogorye: "Belogorye"
  b_belogradchik: "Belogradchik"
  b_beloozero: "Beloozero"
@@ -3952,7 +3952,7 @@
  b_benin-city: "Ubinu"
  b_benin: "Mahin"
  b_benin_marshes: "Gwato"
- b_benin_marshes_article: "el "  #REVISAR
+ b_benin_marshes_article: "el "  
  b_benisaf: "Beni Saf"
  b_benissa: "Benissa"
  b_benitajjit: "Beni Tajjit"
@@ -4457,7 +4457,7 @@
  b_borjia_china: "Borjia"
  b_borkou: "Borkou"
  b_borkum: "Borkum"
- b_bormio: "Bormio"  #REVISAR
+ b_bormio: "Bormio"  
  b_boro: "Börö"
  b_boro_burgasu: "Boro Burgasu"
  b_borobudur: "Borobudur"
@@ -5405,7 +5405,7 @@
  b_chengmai: "Chengmai"
  b_chengmu_TEMP: "Chengmu"
  b_chengping_china: "Chengping"
- b_shengwei: "Chéngwéixiàn"  #REVISAR
+ b_shengwei: "Chéngwéixiàn"  
  b_chengzhoushanglu_china: "Chengzhoushanglu"
  b_chenliu_china: "Chenliu"
  b_chenok: "Chenok"
@@ -5633,7 +5633,7 @@
  b_chuxiong: "Lung Dung"
  b_chuxiong_2: "Chuxiong"
  b_chuya: "Chuya"
- b_chuya_china: "Chuya"  #REVISAR
+ b_chuya_china: "Chuya"  
  b_chuzhou_qingliu_china: "Chuzhou"
  b_chynov: "Chýnov"
  b_chyorny_yar: "Chyorny Yar"
@@ -6012,7 +6012,7 @@
  b_damme: "Damme"
  b_damoh: "Damoh"
  b_damot-west: "Damot Oeste"
- b_damot: "Damot"  #REVISAR
+ b_damot: "Damot"  
  b_damqan: "Damqan"
  b_damquka: "Damquka"
  b_damqwat: "Damqwat"
@@ -6435,7 +6435,7 @@
  b_dingwall: "Dingwall"
  b_dingxiang_china: "Dingxiang"
  b_dingyuanying: "Dingyuanying"
- b_baojing: "Dìngyuǎn"  #REVISAR
+ b_baojing: "Dìngyuǎn"  
  b_dingzhouanxi_china: "Dingzhouanxi"
  b_dinh_ca: "Dinh Ca"
  b_dinkot: "Dinkot"
@@ -6872,7 +6872,7 @@
  b_edmonton: "Edmonton"
  b_ednam: "Ednam"
  b_edo: "Uromi" 
- b_toshima: "Edo"  #REVISAR
+ b_toshima: "Edo"  
  b_edrei: "Edreï"
  b_eej_khairkhan: "Eej Khairkhan"
  b_eferi: "Eferi"
@@ -7804,7 +7804,7 @@
  b_ghur: "Ghur"
  b_gia_phuc: "Gia Phuc"
  b_gia_vien: "Gia Viễn"
- b_IDO_Bedulu: "Gianyar"  #REVISAR
+ b_IDO_Bedulu: "Gianyar"  
  b_gibe_innarya: "Gibe Innarya"
  b_gibelet: "Gibelet"
  b_gibeletcastle: "Château de Gibelet"
@@ -7952,7 +7952,7 @@
  b_gongbo: "Gongbo"
  b_gonggar: "Gonggar"
  b_gongju: "Gongju"
- b_gongju_buyeo_sibi: "Gongju"  #REVISAR
+ b_gongju_buyeo_sibi: "Gongju"  
  b_gonglung: "Gönlung"
  b_gongola: "Kalam"
  b_gongshan: "Gongshan"
@@ -8215,7 +8215,7 @@
  b_gurma: "Gurma"
  b_gurramkonda: "Gurramkonda"
  b_gursi: "Gursi"
- b_IDO_Lombok: "Gurun"  #REVISAR
+ b_IDO_Lombok: "Gurun"  
  b_gurunsi: "Gurunsi"
  b_guryev: "Atyrau"
  b_gurzivan: "Gurzivan"
@@ -8907,7 +8907,7 @@
  b_huihe_huangbailing_china: "Huihe"
  b_huili: "Huili"
  b_huining: "Huining"
- b_huairong_2: "Huìníngxiàn"  #REVISAR
+ b_huairong_2: "Huìníngxiàn"  
  b_huize: "Huize"
  b_huizhou_guishan_china: "Huizhou"
  b_huju: "Huju"
@@ -9781,7 +9781,7 @@
  b_kaek: "Kaek"
  b_kaen: "Kaen"
  b_kaerji: "Kaerji"
- b_Goryeo_Gaeseong_Gaeseong: "Songak"  #REVISAR
+ b_Goryeo_Gaeseong_Gaeseong: "Songak"  
  b_kafa: "Kafa"
  b_kafagway: "Kafagway"
  b_kafartab: "Kafartab"
@@ -11634,7 +11634,7 @@
  b_kyngarga: "Kyngarga"
  b_kyongsong: "Kyongsong"
  b_kyonpyaw: "Kyonpyaw"
- b_kyo: "Heian-Kyō"  #REVISAR
+ b_kyo: "Heian-Kyō"  
  b_kypsela: "Kypsela"
  b_kyrenia: "Kyrenia"
  b_kyrkmolla: "Kyrkmolla"
@@ -12536,7 +12536,7 @@
  b_lukoml: "Lukoml"
  b_lukow: "Łuków"
  b_lulea: "Luleå"
- b_luling: "Lúlíngxiàn"  #REVISAR
+ b_luling: "Lúlíngxiàn"  
  b_lulong_pingzhou_china: "Lulong"
  b_lumajang: "Lumajang"
  b_lumbini: "Lumbini"
@@ -13011,7 +13011,7 @@
  b_manzurka: "Manzurka"
  b_mao_darfur: "Mao-Darfur"
  b_mao_lam: "Mao Lâm"
- b_zhangqiu: "Máoshān"  #REVISAR
+ b_zhangqiu: "Máoshān"  
  b_maowun: "Maowün"
  b_mapa: "Mapa"
  b_mapan: "Mapan"
@@ -14005,7 +14005,7 @@
  b_muluvagil: "Muluvagil"
  b_mumo: "Mumo"
  b_muna: "Muna"
- b_hakata: "Hakata"  #REVISAR
+ b_hakata: "Hakata"  
  b_muncheberg: "Müncheberg"
  b_munchen: "Múnich"
  b_munchsmunster: "Münchsmünster"
@@ -15357,7 +15357,7 @@
  b_palau: "Koror"
  b_palaw: "Palaw"
  b_palayamcottai: "Palayamcottai"
- b_SUM_Palembang: "Palembang"  #REVISAR
+ b_SUM_Palembang: "Palembang"  
  b_palembang_2: "Palembang"
  b_palembang_3: "Palembang"
  b_palembang_4: "Palembang"
@@ -15823,7 +15823,7 @@
  b_pielinen: "Pielinen"
  b_pienza: "Pienza"
  b_pieszew: "Pieszew"
- b_pieve: "Pieve"  #REVISAR
+ b_pieve: "Pieve"  
  b_pigai: "Pigai"
  b_pikalyovo: "Pikalyovo"
  b_pikatan: "Pikatan"
@@ -17764,7 +17764,7 @@
  b_seongeyong: "Seongeyong"
  b_seoni: "Seoni"
  b_seonju: "Seonju"
- b_sepinang: "Sepinang"  #REVISAR
+ b_sepinang: "Sepinang"  
  b_sepla: "Sepla"
  b_seponh: "Seponh"
  b_sepsiszentgyorgy: "Sepsiszentgyörgy"
@@ -18071,7 +18071,7 @@
  b_shiwa: "Shiwa"
  b_shiya: "Shiya"
  b_shiz: "Shiz"
- b_huaiyuan: "Luōbǎo"  #REVISAR
+ b_huaiyuan: "Luōbǎo"  
  b_shklou: "Shklou"
  b_sholapur: "Sholapur"
  b_shoma: "Shoma"
@@ -18989,7 +18989,7 @@
  b_sungai_batang: "Sungai Batang"
  b_sungai_berbak: "Sungai Berbak"
  b_sungai_cemara: "Sungai Cemara"
- b_sungai_lati: "Sungai Lati"  #REVISAR
+ b_sungai_lati: "Sungai Lati"  
  b_sungai_menang: "Sungai Menang"
  b_sungai_pagu: "Sungai Pagu"
  b_sungai_raya: "Sungai Raya"
@@ -19064,7 +19064,7 @@
  b_suzak: "Suzak"
  b_suzdal: "Suzdal"
  b_suzhou: "Suzhou"
- b_wu: "Wúxiàn"  #REVISAR
+ b_wu: "Wúxiàn"  
  b_suzivanovo: "Ivanovo"
  b_suzstarodub: "Starodub"
  b_suzuka: "Suzuka"
@@ -19241,7 +19241,7 @@
  b_tain: "Tain"
  b_taipale: "Taipale"
  b_taiqinggong_china: "Taiqinggong"
- b_qianfeng: "Qiánfēngxiàn"  #REVISAR
+ b_qianfeng: "Qiánfēngxiàn"  
  b_taisugan: "Taisugan"
  b_taivoa: "Taivoa"
  b_taiwi: "Taiwi"
@@ -19325,7 +19325,7 @@
  b_tall_hamid: "Tall Hamid"
  b_tall_mahra: "Tall Mahra"
  b_tall_mauzan: "Tall Mauzan"
- b_talmas_ata: "Talmas-Ata"  #REVISAR
+ b_talmas_ata: "Talmas-Ata"  
  b_talmont: "Talmont"
  b_talolong: "Talolong"
  b_taloqan: "Taloqan"
@@ -19469,7 +19469,7 @@
  b_tarapur: "Tarapur"
  b_tarascon: "Tarascon"
  b_tarasova: "Tarasova"
- b_tarasp: "Tarasp"  #REVISAR
+ b_tarasp: "Tarasp"  
  b_taratarini: "Taratarini"
  b_taraz: "Taraz"
  b_tarazki: "Tarazki"
@@ -19855,7 +19855,7 @@
  b_tiabis: "Tiabis"
  b_tiace: "Tiace"
  b_tiagba: "Tiagba"
- b_tiande: "Tiāndéjūn"  #REVISAR
+ b_tiande: "Tiāndéjūn"  
  b_tiandeng: "Tiandeng"
  b_tiane_luanzhou_china: "Tiane"
  b_tianguhun_TEMP: "Tianguhun"
@@ -21533,7 +21533,7 @@
  b_weinan_china: "Weinan"
  b_weinheim: "Weinheim"
  b_weinsberg: "Weinsberg"
- b_fengan: "Wèirúshuǐ"  #REVISAR
+ b_fengan: "Wèirúshuǐ"  
  b_weishi_china: "Weishi"
  b_weissenburg: "Weissenburg"
  b_weitou: "Weitou"
@@ -21722,7 +21722,7 @@
  b_wschowa: "Wschowa"
  b_wuchang_fangang_china: "Wuchang"
  b_wucheng_beizhou_china: "Wucheng"
- b_helan: "Tānliángchéng"  #REVISAR
+ b_helan: "Tānliángchéng"  
  b_wudang_china: "Wudang"
  b_wudangshan_china: "Wudangshan"
  b_wudi_cangzhou_china: "Wudi"
@@ -21748,7 +21748,7 @@
  b_wuliji: "Wuliji"
  b_wuling_china: "Wuling"
  b_wulong_china: "Wulong"
- b_jiuyuan: "Jiǔyuánxiàn"  #REVISAR
+ b_jiuyuan: "Jiǔyuánxiàn"  
  b_wuluhuiriver_tuershan_china: "Wuluhui"
  b_wuluohou_xingguo: "Wuluohou"
  b_wuluohou_xingguo_china: "Wuluohou"
@@ -21825,7 +21825,7 @@
  b_xianyang_china: "Xianyang"
  b_xianyin_TEMP: "Xianyin"
  b_xianzhou_dongmou_china: "Xianzhou"
- b_pinggao: "Xiāoguān"  #REVISAR
+ b_pinggao: "Xiāoguān"  
  b_xiapi_china: "Xiapi"
  b_xiaxian_china: "Xiaxian"
  b_xiba: "Xiba"
@@ -21857,7 +21857,7 @@
  b_xinghuabeian_china: "Xinghuabeian"
  b_xingning_china: "Xingning"
  b_xingongshen_TEMP: "Xingongshen"
- b_huile: "Xīngqìng"  #REVISAR
+ b_huile: "Xīngqìng"  
  b_xingxingxia: "Xingxingxia"
  b_xingyang_china: "Xingyang"
  b_xingzhoulonggang_china: "Xingzhoulonggang"
@@ -21873,7 +21873,7 @@
  b_xinyu_yuanzhou_china: "Xinyu"
  b_xinzheng_china: "Xinzheng"
  b_xinzhouwuchang_china: "Xinzhouwuchang"
- b_yaode: "Huílè"  #REVISAR
+ b_yaode: "Huílè"  
  b_xishan: "Xishan"
  b_xitiantuluoguo_jianzhou_china: "Xitiantuluoguo"
  b_xiurong_china: "Xiurong"
@@ -21999,7 +21999,7 @@
  b_yangwu_china: "Yangwu"
  b_yangxieme: "Yangxieme"
  b_yangzhen_TEMP: "Yangzhen"
- b_jiangdu: "Jiāngdūxiàn"  #REVISAR
+ b_jiangdu: "Jiāngdūxiàn"  
  b_yangzhou_xixiang_china: "Yangzhou"
  b_yanheng_TEMP: "Yanheng"
  b_yanjin: "Yanjin"
@@ -22165,7 +22165,7 @@
  b_yingpan: "Yingpan"
  b_yingshang_china: "Yingshang"
  b_yingzhou_bohai_china: "Yingzhou"
- b_jincheng: "Jǐnchéngxiàn"  #REVISAR
+ b_jincheng: "Jǐnchéngxiàn"  
  b_yingzhou_dushang_china: "Yingzhou"
  b_yingzhou_ruyin_china: "Yingzhou"
  b_yingzhouhejian_china: "Yingzhouhejian"
@@ -22660,7 +22660,7 @@
  b_zwolle: "Zwolle"
  b_zynna: "Zynna"
  b_zyryan: "Zyryan"
- b_danluo: "Danluo"  #REVISAR
+ b_danluo: "Danluo"  
  b_HaeinsaTemple: "Haeinsa"
 
  # C_ titles
@@ -22815,7 +22815,7 @@
  c_akhadid_adj: "ajadidí"
  c_aki: "Aki"
  c_aki_adj: "Aki"
- c_nushiro: "Akita"  #REVISAR
+ c_nushiro: "Akita"  
  c_akkel: "Akkel"
  c_akkel_adj: "akkelense"
  c_akkityk: "Akkityk"
@@ -23752,8 +23752,8 @@
  c_belitung_adj: "Belitung"
  c_bellac: "Bellac"
  c_bellac_adj: "bellaciano"
- c_belluno: "Belluno"  #REVISAR
- c_belluno_adj: "belluno"  #REVISAR
+ c_belluno: "Belluno"  
+ c_belluno_adj: "belluno"  
  c_belogorje: "Belogorje"
  c_belogorje_adj: "belogorjiano"
  c_beloozero: "Beloozero"
@@ -23782,8 +23782,8 @@
  c_bentheim: "Bentheim"
  c_beograd: "Beograd"
  c_beograd_adj: "beogradense"
- c_BOR_berau: "Berau"  #REVISAR
- c_BOR_berau_adj: "berau"  #REVISAR
+ c_BOR_berau: "Berau"  
+ c_BOR_berau_adj: "berau"  
  c_berbera: "Berbera"
  c_berbera_adj: "berberawí"
  c_berchtesgaden: "Berchtesgaden"
@@ -23851,7 +23851,7 @@
  c_biak: "Biak"
  c_biak_adj: "Biak"
  c_bianzhou: "Bianzhou"
- c_bianzhou_adj: "biànzhōu"  #REVISAR
+ c_bianzhou_adj: "biànzhōu"  
  c_bichu: "Bichu"
  c_bichu_adj: "Bichu"
  c_bicol: "Bikol"
@@ -24198,8 +24198,8 @@
  c_burubur_adj: "Burubur"
  c_burugu_aallar: "Burugu Aallar"
  c_burugu_aallar_adj: "Burugu Aallar"
- c_BOR_brunei: "Burune"  #REVISAR
- c_BOR_brunei_adj: "burune"  #REVISAR
+ c_BOR_brunei: "Burune"  
+ c_BOR_brunei_adj: "burune"  
  c_buruwai: "Buruwai"
  c_buruwai_adj: "Buruwai"
  c_busaso: "Boosaaso"
@@ -24300,7 +24300,7 @@
  c_cao_bang: "Cao Bang"
  c_cao_bang_adj: "Cao Bang"
  c_caozhou: "Caozhou"
- c_caozhou_adj: "cáozhōu"  #REVISAR
+ c_caozhou_adj: "cáozhōu"  
  c_cappadocia: "Capadocia"
  c_cappadocia_adj: "capadocio"
  c_capua: "Aversa"
@@ -24393,8 +24393,8 @@
  c_changamju: "Changamju"
  c_changamju_adj: "Changamju"
  c_changan: "Jingzhou"
- c_jingzhao: "Jīngzhào"  #REVISAR
- c_jingzhao_adj: "jīngzhào"  #REVISAR
+ c_jingzhao: "Jīngzhào"  
+ c_jingzhao_adj: "jīngzhào"  
  c_changchun: "Changchun"
  c_changchun_china: "Changchun"
  c_changchun_china_adj: "Changchun"
@@ -24454,7 +24454,7 @@
  c_chelminskie: "Chelminskie"
  c_chelminskie_adj: "chelminskiano"
  c_chengdu: "Chengdu"
- c_chengdu_adj: "Chéngdū"  #REVISAR
+ c_chengdu_adj: "Chéngdū"  
  c_chengjie: "Chengjie"
  c_chengle: "Chengle"
  c_chengle_adj: "Chengle"
@@ -25680,7 +25680,7 @@
  c_gorz_adj: "gorizano"
  c_gostyninska: "Gostynin"
  c_gostyninska_adj: "gostinita"
- c_gothia: "Gothia"  #REVISAR
+ c_gothia: "Gothia"  
  c_gothia_adj: "Gothio"
  c_gotland: "Gotland"
  c_gotland_adj: "gotlandés"
@@ -26527,8 +26527,8 @@
  c_jingzhou_xia_china: "Jingzhou"
  c_jingzhou_xia_china_adj: "Jingzhou"
  c_jinling: "Jinling"
- c_jiangning: "Jiāngníngfǔ"  #REVISAR
- c_jiangning_adj: "Jiāngníngfǔ"  #REVISAR
+ c_jiangning: "Jiāngníngfǔ"  
+ c_jiangning_adj: "Jiāngníngfǔ"  
  c_jinlongzhou: "Jinlongzhou"
  c_jinlongzhou_china: "Jinlongzhou"
  c_jinlongzhou_china_adj: "Jinlongzhou"
@@ -27867,8 +27867,8 @@
  c_litomerice_adj: "litomeriense"
  c_liuqiu: "Liuqiu"
  c_liuzhou: "Liuzhou"
- c_xiangzhou_laibin_china: "Xiàngzhōu"  #REVISAR
- c_xiangzhou_laibin_china_adj: "xiàngzhōu"  #REVISAR
+ c_xiangzhou_laibin_china: "Xiàngzhōu"  
+ c_xiangzhou_laibin_china_adj: "xiàngzhōu"  
  c_livs: "Sakala"
  c_livs_adj: "sakalés"
  c_liwang: "Liwang"
@@ -28123,8 +28123,8 @@
  c_madoi_adj: "madoi"
  c_madrid: "Madrid"
  c_madrid_adj: "madrileño"
- c_JAV_madura: "Madura"  #REVISAR
- c_JAV_madura_adj: "madura"  #REVISAR
+ c_JAV_madura: "Madura"  
+ c_JAV_madura_adj: "madura"  
  c_madurai: "Madurai"
  c_madurai_adj: "maduraí"
  c_mae_hong_son: "Mae Hong Son"
@@ -28770,7 +28770,7 @@
  c_mugan_adj: "muganiano"
  c_mugodzhar_hills: "Mugodzhar"
  c_mugodzhar_hills_adj: "mugodzhari"
- c_mugodzhar_hills_article: "el "  #REVISAR
+ c_mugodzhar_hills_article: "el "  
  c_mui: "Mui"
  c_mui_adj: "Mui"
  c_muile: "Mull"
@@ -28982,8 +28982,8 @@
  c_nangqen: "Nangqên"
  c_nangqen_adj: "nangqên"
  c_nanhai: "Nanhai"
- c_guangzhou_1: "Guǎngzhōu"  #REVISAR
- c_guangzhou_1_adj: "guǎngzhōu"  #REVISAR
+ c_guangzhou_1: "Guǎngzhōu"  
+ c_guangzhou_1_adj: "guǎngzhōu"  
  c_nanhai_okjeo_china: "Nanhai"
  c_nanhai_okjeo_china_adj: "Nanhai"
  c_nanhanseong: "Jujangseong"
@@ -28998,9 +28998,9 @@
  c_nantes_adj: "nantés"
  c_nanumba: "Nanumba"
  c_nanumba_adj: "nanumbano"
- c_nanjianzhou: "Nánjiànzhōu"  #REVISAR
- c_ucinaa: "Nanzan"  #REVISAR
- c_ucinaa_adj: "nanzano"  #REVISAR
+ c_nanjianzhou: "Nánjiànzhōu"  
+ c_ucinaa: "Nanzan"  
+ c_ucinaa_adj: "nanzano"  
  c_nanzheng: "Nanzheng"
  c_nanzheng_china: "Nanzheng"
  c_nanzheng_china_adj: "Nanzheng"
@@ -29016,8 +29016,8 @@
  c_narbonne_adj: "narbonés"
  c_narim: "Narim"
  c_narim_adj: "narimiano"
- c_nariz: "Nariz"  #REVISAR
- c_nariz_adj: "narizi"  #REVISAR
+ c_nariz: "Nariz"  
+ c_nariz_adj: "narizi"  
  c_narke: "Neeric"
  c_narke_adj: "narkiano"
  c_narva: "Virumaa"
@@ -29294,7 +29294,7 @@
  c_odishi_adj: "odisiano"
  c_odoyev: "Odoyev"
  c_odoyev_adj: "odoyevita"
- c_tokisara: "Ogachi"  #REVISAR
+ c_tokisara: "Ogachi"  
  c_ogan_komering_ulu: "Ogan Komering Ulu"
  c_ogan_komering_ulu_adj: "Ogan Komering Ulu"
  c_ogrash: "Ogrash"
@@ -30116,8 +30116,8 @@
  c_quzhou_ba: "Quzhou"
  c_quzhou_ba_china: "Quzhou"
  c_quzhou_ba_china_adj: "Quzhou"
- c_quzhou_1_china: "Qúzhōu"  #REVISAR
- c_quzhou_1_china_adj: "qúzhōu"  #REVISAR
+ c_quzhou_1_china: "Qúzhōu"  
+ c_quzhou_1_china_adj: "qúzhōu"  
  c_quzhou_china: "Quzhou"
  c_quzhou_china_adj: "Quzhou"
  c_qwivir: "Qwivir"
@@ -30580,7 +30580,7 @@
  c_saptagrama_adj: "saptagrama"
  c_saqsin: "Saqsin"
  c_saqsin_adj: "saqsiniano"
- c_sarai: "Sarāy"  #REVISAR
+ c_sarai: "Sarāy"  
  c_sarai_adj: "Sarāyī" # Sarāy -> Sarāyī
  c_sarakhs: "Sarakhs"
  c_saran: "Saran"
@@ -30622,7 +30622,7 @@
  c_sarykamysh: "Sarykamysh"
  c_sarykamysh_adj: "sarykamyshi"
  c_sarysu: "Sarysu"
- c_sarysu_adj: "sarysu"  #REVISAR
+ c_sarysu_adj: "sarysu"  
  c_sarysyn: "Sarysyn"
  c_sarysyn_adj: "sarisino"
  c_sasaram: "Sasaram"
@@ -31260,8 +31260,8 @@
  c_suenik_adj: "suenikiano"
  c_suffolk: "Suffolk"
  c_suffolk_adj: "suffolkiano"
- c_PHI_sulu: "Sug"  #REVISAR
- c_PHI_sulu_adj: "sug"  #REVISAR
+ c_PHI_sulu: "Sug"  
+ c_PHI_sulu_adj: "sug"  
  c_sugbu: "Sugbu"
  c_sugbu_adj: "Sugbu"
  c_sugrov: "Sugrov"
@@ -31430,7 +31430,7 @@
  c_tadmekka_adj: "tadmekkano"
  c_tadmor: "Hilla"
  c_tadmor_adj: "tadmoriano"
- c_korehari: "Taga"  #REVISAR
+ c_korehari: "Taga"  
  c_tagadur: "Tagadur"
  c_tagadur_adj: "tagaduriano"
  c_tagali: "Alays"
@@ -32357,8 +32357,8 @@
  c_uzen_adj: "uzenio"
  c_uzen_jp: "Uzen"
  c_uzen_jp_adj: "Uzen"
- c_uzen_verchina: "Verchina Uzen"  #REVISAR
- c_uzen_verchina_adj: "uzen"  #REVISAR
+ c_uzen_verchina: "Verchina Uzen"  
+ c_uzen_verchina_adj: "uzen"  
  c_uzens: "Uzens"
  c_uzens_adj: "uzense"
  c_uzgend_KARA: "Uzgend"
@@ -32392,8 +32392,8 @@
  c_valladolid_adj: "vallisoletano"
  c_valois: "Valois"
  c_valois_adj: "valois"
- c_valtelline: "Valtellina"  #REVISAR
- c_valtelline_adj: "valtellina"  #REVISAR
+ c_valtelline: "Valtellina"  
+ c_valtelline_adj: "valtellina"  
  c_vamino: "Vamino"
  c_vamino_adj: "Vamino"
  c_van_ban: "Văn Bàn"
@@ -32812,8 +32812,8 @@
  c_wuhou_china_adj: "Wuhou"
  c_wuli: "Wuli"
  c_wuli_adj: "wulio"
- c_langshan: "Fēngzhōu"  #REVISAR
- c_langshan_adj: "fēngzhōu"  #REVISAR
+ c_langshan: "Fēngzhōu"  
+ c_langshan_adj: "fēngzhōu"  
  c_wulv: "Wulv"
  c_wulv_china: "Wulv"
  c_wulv_china_adj: "Wulv"
@@ -32895,8 +32895,8 @@
  c_xinzhou_wu_china: "Xinzhou"
  c_xinzhou_wu_china_adj: "Xinzhou"
  c_xiongshanzhou: "Xiongshanzhou"
- c_xiuzhou: "Xiùzhōu"  #REVISAR
- c_xiuzhou_adj: "xiùzhōu"  #REVISAR
+ c_xiuzhou: "Xiùzhōu"  
+ c_xiuzhou_adj: "xiùzhōu"  
  c_xizhou_dongchuan: "Xizhou"
  c_xizhou_dongchuan_china: "Xizhou"
  c_xizhou_dongchuan_china_adj: "Xizhou"
@@ -33373,7 +33373,7 @@
  d_adrianopolis_adj: "adrianopolitano"
  d_aegean_islands: "Islas del Egeo"
  d_aegean_islands_adj: "egeo"
- d_aegean_islands_article: "el "  #REVISAR
+ d_aegean_islands_article: "el "  
  d_afar: "Afar"
  d_afar_adj: "afar"
  d_agder: "Egðafylki"
@@ -33433,14 +33433,14 @@
  d_altai: "Altai"
  d_altaigobi: "Altaigobi"
  d_altay: "Altái"
- d_alupa: "Alupa"  #REVISAR
- d_alupa_adj: "alupano"  #REVISAR
+ d_alupa: "Alupa"  
+ d_alupa_adj: "alupano"  
  d_alwa: "Alwa"
  d_alwa_adj: "alwani"
  d_amalfi: "Amalfi"
  d_amalfi_adj: "amalfitano"
- d_indrapura: "Amaravati"  #REVISAR
- d_indrapura_adj: "amaravati"  #REVISAR
+ d_indrapura: "Amaravati"  
+ d_indrapura_adj: "amaravati"  
  d_amdo: "Amdo"
  d_amdo_adj: "amdo"
  d_amgun: "Amgun"
@@ -33596,8 +33596,8 @@
  d_baekje_adj: "Baekje"
  d_baghdad: "Bagdad"
  d_baghdad_adj: "bagdadí"
- d_baghela: "Baghela"  #REVISAR
- d_baghela_adj: "baghelano"  #REVISAR
+ d_baghela: "Baghela"  
+ d_baghela_adj: "baghelano"  
  d_baguirmi: "Baguirmi"
  d_baguirmi_adj: "baguirmí"
  d_bahrain: "Baréin"
@@ -33699,7 +33699,7 @@
  d_bejaia_adj: "bugío"
  d_bektashi: "Orden bektashí"
  d_bektashi_adj: "bektashí"
- d_bektashi_article: "el "  #REVISAR
+ d_bektashi_article: "el "  
  d_belaga: "Belaga"
  d_belgrade: "Belgrado"
  d_belgrade_adj: "belgradense"
@@ -33731,7 +33731,7 @@
  d_bhumilka_adj: "Saurashtran"
  d_bianjing: "Jingji"
  d_biansong: "Biansong"
- d_biansong_adj: "biànsòng"  #REVISAR
+ d_biansong_adj: "biànsòng"  
  d_biarmia: "Biarmia"
  d_biarmia_adj: "biarmense"
  d_bicol: "Bikol"
@@ -33742,8 +33742,8 @@
  d_bikol_adj: "Bikol"
  d_bima: "Bima"
  d_bima_adj: "Bima"
- d_binnaka: "Binnaka"  #REVISAR
- d_binnaka_adj: "binnaka"  #REVISAR
+ d_binnaka: "Binnaka"  
+ d_binnaka_adj: "binnaka"  
  d_binning: "Binning"
  d_binning_china: "Binning"
  d_binning_china_adj: "Binning"
@@ -33890,8 +33890,8 @@
  d_calabria_adj: "calabrés"
  d_campania: "Campania"
  d_campania_adj: "campano"
- d_baigaur: "Kottinagara"  #REVISAR
- d_baigaur_adj: "kottinagara"  #REVISAR
+ d_baigaur: "Kottinagara"  
+ d_baigaur_adj: "kottinagara"  
  d_canarias: "Guañac"
  d_canarias_adj: "Guañacs"
  d_canasapura: "Canasapura"
@@ -34070,8 +34070,8 @@
  d_curonian_adj: "Curonio"
  d_currezia: "Raetia"
  d_currezia_adj: "curreziano"
- d_nghe_an: "Cửu Chân"  #REVISAR
- d_nghe_an_adj: "Cửu Chân"  #REVISAR
+ d_nghe_an: "Cửu Chân"  
+ d_nghe_an_adj: "Cửu Chân"  
  d_cuu_duc: "Cuu Duc"
  d_cuu_duc_adj: "Cuu Duc"
  d_cyprus: "Chipre"
@@ -34146,7 +34146,7 @@
  d_dehong_adj: "Dehong"
  d_delta: "Delta"
  d_delta_adj: "deltaico"
- d_delta_article: "el "  #REVISAR
+ d_delta_article: "el "  
  d_deltuvians: "Deltuvianos"
  d_deltuvians_adj: "Deltuviano"
  d_dendi: "Dendi"
@@ -34240,17 +34240,17 @@
  d_dzungar: "Dzungar"
  d_east_bisaya: "Sinirangan"
  d_east_bisaya_adj: "Sinirangan"
- d_east_franconia: "Francia Oriental"
- d_east_franconia_adj: "franconio oriental"
+ d_east_franconia: "Franconia"
+ d_east_franconia_adj: "franconio"
  d_east_kalimantan: "Kutai"
- d_east_bando: "Higashi-Bandō"  #REVISAR
+ d_east_bando: "Higashi-Bandō"  
  d_east_sulawesi: "Sulawesi Oriental"
  d_east_sulawesi_adj: "Sulawesi"
  d_east_thailand: "Kuankraburi"
  d_east_thailand_adj: "Kuankraburi"
  d_eastern_desert: "Desierto oriental"
  d_eastern_desert_adj: "oriental"
- d_eastern_desert_article: "el "  #REVISAR
+ d_eastern_desert_article: "el "  
  d_eastern_sayan: "Sayan Oriental"
  d_eastern_sayan_adj: "Eastern Sayan"
  d_edessa: "Edesa"
@@ -34405,54 +34405,54 @@
  d_genoese_navy_adj: "ligur"
  d_georgia: "Lori"
  d_georgia_adj: "Loriano"
- d_bulgarian_patriarchate: "Bulgarian Church"  #REVISAR
- d_bulgarian_patriarchate_article: "el "  #REVISAR
- d_bulgarian_patriarchate_adj: "bulgario"  #REVISAR
- d_georgian_patriarchate: "Georgian Catholicosate"  #REVISAR
- d_georgian_patriarchate_article: "el "  #REVISAR
- d_georgian_patriarchate_adj: "georgio"  #REVISAR
- d_alexandrian_melkite_patriarchate: "Alexandrian Patriarchate"  #REVISAR
- d_alexandrian_melkite_patriarchate_article: "el "  #REVISAR
- d_alexandrian_melkite_patriarchate_adj: "alexandrio"  #REVISAR
- d_jerusalem_melkite_patriarchate: "Jerusalemite Patriarchate"  #REVISAR
- d_jerusalem_melkite_patriarchate_article: "el "  #REVISAR
- d_jerusalem_melkite_patriarchate_adj: "jerusalemite"  #REVISAR
- d_roman_patriarchate: "Roman Patriarchate"  #REVISAR
- d_roman_patriarchate_article: "el "  #REVISAR
- d_roman_patriarchate_adj: "romano"  #REVISAR
- d_serbian_patriarchate: "Serbian Church"  #REVISAR
- d_serbian_patriarchate_article: "el "  #REVISAR
- d_serbian_patriarchate_adj: "serbio"  #REVISAR
- d_cyprus_orthodox: "Church of Cyprus"  #REVISAR
- d_cyprus_orthodox_article: "el "  #REVISAR
- d_cyprus_orthodox_adj: "cypriot"  #REVISAR
- d_antioch_patriarchate_article: "el "  #REVISAR
- d_antioch_patriarchate: "Patriarchate of Antioch"  #REVISAR
- d_antioch_patriarchate_adj: "antiochene"  #REVISAR
- d_irenopolis_catholicosate_article: "el "  #REVISAR
- d_irenopolis_catholicosate: "Catholicosate of Irenopolis"  #REVISAR
- d_irenopolis_catholicosate_adj: "catholicosate"  #REVISAR
- d_romagyris_catholicosate_article: "el "  #REVISAR
- d_romagyris_catholicosate: "Catholicosate of Romagyris"  #REVISAR
- d_romagyris_catholicosate_adj: "catholicosate"  #REVISAR
- d_monothelite_patriarchate: "Monothelite Patriarchate"  #REVISAR
- d_monothelite_patriarchate_article: "el "  #REVISAR
- d_monothelite_patriarchate_adj: "monothelite"  #REVISAR
- d_cilician_patriarchate: "Cilician Patriarchate"  #REVISAR
- d_cilician_patriarchate_article: "el "  #REVISAR
- d_cilician_patriarchate_adj: "cilicio"  #REVISAR
- d_gaianite_patriarchate: "Gaianite Patriarchate"  #REVISAR
- d_gaianite_patriarchate_article: "el "  #REVISAR
- d_gaianite_patriarchate_adj: "gaianite"  #REVISAR
- d_julianist_patriarchate: "Julianist Patriarchate"  #REVISAR
- d_julianist_patriarchate_article: "el "  #REVISAR
- d_julianist_patriarchate_adj: "julianist"  #REVISAR
- d_maphrianate: "Maphrianate of the East"  #REVISAR
- d_maphrianate_article: "el "  #REVISAR
- d_maphrianate_adj: "maphrianate"  #REVISAR
- d_albanian_catholicosate_article: "el "  #REVISAR
- d_albanian_catholicosate: "Catholicosate of Aghvank"  #REVISAR
- d_albanian_catholicosate_adj: "catholicosate"  #REVISAR
+ d_bulgarian_patriarchate: "Bulgarian Church"  
+ d_bulgarian_patriarchate_article: "el "  
+ d_bulgarian_patriarchate_adj: "bulgario"  
+ d_georgian_patriarchate: "Georgian Catholicosate"  
+ d_georgian_patriarchate_article: "el "  
+ d_georgian_patriarchate_adj: "georgio"  
+ d_alexandrian_melkite_patriarchate: "Alexandrian Patriarchate"  
+ d_alexandrian_melkite_patriarchate_article: "el "  
+ d_alexandrian_melkite_patriarchate_adj: "alexandrio"  
+ d_jerusalem_melkite_patriarchate: "Jerusalemite Patriarchate"  
+ d_jerusalem_melkite_patriarchate_article: "el "  
+ d_jerusalem_melkite_patriarchate_adj: "jerusalemite"  
+ d_roman_patriarchate: "Roman Patriarchate"  
+ d_roman_patriarchate_article: "el "  
+ d_roman_patriarchate_adj: "romano"  
+ d_serbian_patriarchate: "Serbian Church"  
+ d_serbian_patriarchate_article: "el "  
+ d_serbian_patriarchate_adj: "serbio"  
+ d_cyprus_orthodox: "Church of Cyprus"  
+ d_cyprus_orthodox_article: "el "  
+ d_cyprus_orthodox_adj: "cypriot"  
+ d_antioch_patriarchate_article: "el "  
+ d_antioch_patriarchate: "Patriarchate of Antioch"  
+ d_antioch_patriarchate_adj: "antiochene"  
+ d_irenopolis_catholicosate_article: "el "  
+ d_irenopolis_catholicosate: "Catholicosate of Irenopolis"  
+ d_irenopolis_catholicosate_adj: "catholicosate"  
+ d_romagyris_catholicosate_article: "el "  
+ d_romagyris_catholicosate: "Catholicosate of Romagyris"  
+ d_romagyris_catholicosate_adj: "catholicosate"  
+ d_monothelite_patriarchate: "Monothelite Patriarchate"  
+ d_monothelite_patriarchate_article: "el "  
+ d_monothelite_patriarchate_adj: "monothelite"  
+ d_cilician_patriarchate: "Cilician Patriarchate"  
+ d_cilician_patriarchate_article: "el "  
+ d_cilician_patriarchate_adj: "cilicio"  
+ d_gaianite_patriarchate: "Gaianite Patriarchate"  
+ d_gaianite_patriarchate_article: "el "  
+ d_gaianite_patriarchate_adj: "gaianite"  
+ d_julianist_patriarchate: "Julianist Patriarchate"  
+ d_julianist_patriarchate_article: "el "  
+ d_julianist_patriarchate_adj: "julianist"  
+ d_maphrianate: "Maphrianate of the East"  
+ d_maphrianate_article: "el "  
+ d_maphrianate_adj: "maphrianate"  
+ d_albanian_catholicosate_article: "el "  
+ d_albanian_catholicosate: "Catholicosate of Aghvank"  
+ d_albanian_catholicosate_adj: "catholicosate"  
  d_germiyan: "Germiyan"
  d_germiyan_adj: "Germiyano"
  d_gerze: "Gêrzê"
@@ -34480,8 +34480,8 @@
  d_gloucester_adj: "hwiccano"
  d_gloucester_adj_english: "gloucesteriano"
  d_gloucester_adj_norman: "gloucesteriano"
- d_goa: "Goa"  #REVISAR
- d_goa_adj: "goano"  #REVISAR
+ d_goa: "Goa"  
+ d_goa_adj: "goano"  
  d_gobi_altai: "Gobi Altai"
  d_gobi_altai_adj: "Gobi Altai"
  d_gobir: "Gobir"
@@ -34647,8 +34647,8 @@
  d_hoewon_adj: "Hoewon"
  d_hokkai: "Hokkai"
  d_hokkai_adj: "Hokkai"
- d_hokurikudo: "Hokurikudō"  #REVISAR
- d_hokurikudo_adj: "hokuriku"  #REVISAR
+ d_hokurikudo: "Hokurikudō"  
+ d_hokurikudo_adj: "hokuriku"  
  d_holland: "Holanda"
  d_holland_adj: "holandés"
  d_holon: "Holon"
@@ -34664,7 +34664,7 @@
  d_honghe: "Honghe"
  d_honghe_adj: "Honghe"
  d_hormuz: "Ormuz"
- d_hormuz_adj: "hurmuzī"  #REVISAR
+ d_hormuz_adj: "hurmuzī"  
  d_horse_karelians: "Caballo Carelianos"
  d_horse_karelians_adj: "Careliano"
  d_houseofyngling: "House of Yngling"
@@ -34749,7 +34749,7 @@
  d_isfahan: "Isfahán"
  d_isfahan_adj: "isfahaní"
  d_ishaqiya: "Ishaaqi"
- d_ishaqiya_adj: "ishaaqi"  #REVISAR
+ d_ishaqiya_adj: "ishaaqi"  
  ishaqiya_religious_head_title: "Imán"
  ishaqiya_religious_head_title_name: "Ishaaqi Imamate"
  d_ishim: "Ishim"
@@ -34765,8 +34765,8 @@
  d_jaintia_adj: "Jaintia"
  d_jalmat: "Jalmat"
  d_jalmat_adj: "jalmatiano"
- d_SUM_jambi: "Jambi"  #REVISAR
- d_SUM_jambi_adj: "jambi"  #REVISAR
+ d_SUM_jambi: "Jambi"  
+ d_SUM_jambi_adj: "jambi"  
  d_jamtland: "Jamtaland"
  d_jamtland_adj: "jamtlandés"
  d_janggala: "Janggala"
@@ -34800,13 +34800,13 @@
  d_jiangxi: "Jiangxi"
  d_jiangxi_china: "Jiangxi"
  d_jiangxi_china_adj: "Jiangxi"
- d_jianchang: "Jiànchāng"  #REVISAR
- d_jianchang_adj: "Jiànchāng"  #REVISAR
+ d_jianchang: "Jiànchāng"  
+ d_jianchang_adj: "Jiànchāng"  
  d_jianxiong: "Jian Xiong"
  d_jilin: "Jilin"
  d_jilin_adj: "Jilin"
- d_jianning: "Jiànníng"  #REVISAR
- d_jianning_china: "Jiànníng"  #REVISAR
+ d_jianning: "Jiànníng"  
+ d_jianning_china: "Jiànníng"  
  d_jingnan: "Jingnan"
  d_jingnan_china: "Jingnan"
  d_jingnan_china_adj: "Jingnan"
@@ -34819,8 +34819,8 @@
  d_jinshang: "Jinshang"
  d_jinshang_china: "Jinshang"
  d_jinshang_china_adj: "Jinshang"
- d_jiruft: "Mokristan"  #REVISAR
- d_jiruft_adj: "mokristani"  #REVISAR
+ d_jiruft: "Mokristan"  
+ d_jiruft_adj: "mokristani"  
  d_johor: "Johor"
  d_johor_adj: "Johor"
  d_jomsvikings: "Jomsvikingos"
@@ -35149,16 +35149,16 @@
  d_kurgan_adj: "kurganita"
  d_kuril: "Kuril"
  d_kuril_adj: "Kuril"
- d_BOR_nan_sarunai: "Kuripan"  #REVISAR
- d_BOR_nan_sarunai_adj: "kuripano"  #REVISAR
+ d_BOR_nan_sarunai: "Kuripan"  
+ d_BOR_nan_sarunai_adj: "kuripano"  
  d_kurmanchal: "Kurmanchal"
  d_kurmanchal_adj: "kurmanchalí"
  d_kuru: "Kuru"
  d_kuru_adj: "kuruano"
  d_kush-murun: "Kush-Murun"
  d_kush-murun_adj: "kushmuruni"
- d_BOR_kutai: "Kutai"  #REVISAR
- d_BOR_kutai_adj: "kutai"  #REVISAR
+ d_BOR_kutai: "Kutai"  
+ d_BOR_kutai_adj: "kutai"  
  d_kutai_barat: "Kutai Barat"
  d_kutai_kartanegara: "Kutai Kartanegara"
  d_kutai_kartanegara_adj: "Kutai Kartanegara"
@@ -35184,8 +35184,8 @@
  d_lamta_adj: "Lemta"
  d_lamta_east: "Lemta"
  d_lamta_east_adj: "Lemta"
- d_SUM_aceh: "Lamuri"  #REVISAR
- d_SUM_aceh_adj: "lamuri"  #REVISAR
+ d_SUM_aceh: "Lamuri"  
+ d_SUM_aceh_adj: "lamuri"  
  d_lanao: "Lanao"
  d_lanao_adj: "Lanao"
  d_lancaster: "Lancaster"
@@ -35209,14 +35209,14 @@
  d_lata: "Lata"
  d_latgalians: "Latgalia"
  d_latgalians_adj: "Latgalo"
- d_latgalians_article: "el "  #REVISAR
+ d_latgalians_article: "el "  
  d_latium: "Latium"
  d_latium_adj: "latino"
- d_lauenburg: "Sachsen-Lauenburg"
- d_lausitz: "Lausitz"
+ d_lauenburg: "Sajonia-Lauenburg"
+ d_lausitz: "Lusacia"
  d_lausitz_adj: "lusaciano"
- d_lop_buri: "Lavapura"  #REVISAR
- d_lop_buri_adj: "lavapura"  #REVISAR
+ d_lop_buri: "Lavapura"  
+ d_lop_buri_adj: "lavapura"  
  d_lavo: "Lavo"
  d_lawata: "Laguatan"
  d_lawata_adj: "Laguatan"
@@ -35265,8 +35265,8 @@
  d_lingnan: "Lingnan"
  d_lingnan_china: "Lingnan"
  d_lingnan_china_adj: "Lingnan"
- d_lingling: "Línglíng"  #REVISAR
- d_lingling_adj: "Línglíng"  #REVISAR
+ d_lingling: "Línglíng"  
+ d_lingling_adj: "Línglíng"  
  d_lingnanxi: "Ling Nanxi"
  d_lingtsang: "Lingtsang"
  d_lingtsang_adj: "lingtsang"
@@ -35279,7 +35279,7 @@
  d_little_hat_company: "Compañía del sombrero"
  d_little_hat_company_adj: "sombrerero"
  d_liuqiu: "Liuqiu"
- d_liuqiu_adj: "liúqiú"  #REVISAR
+ d_liuqiu_adj: "liúqiú"  
  d_livgians: "Olonetes Carelianos"
  d_livgians_adj: "Oloneto"
  d_livonia: "Livonia"
@@ -35312,8 +35312,8 @@
  d_lothian: "Lothian"
  d_lower_bosna: "Baja Bosnia"
  d_lower_bosna_adj: "bajobosnio"
- d_lower_brittany: "Breizh-Izel"  #REVISAR
- d_lower_brittany_adj: "breton"  #REVISAR
+ d_lower_brittany: "Breizh-Izel"  
+ d_lower_brittany_adj: "breton"  
  d_lower_gurma: "Bajo Gurma"
  d_lower_gurma_adj: "bajogurmano"
  d_lower_lorraine: "Baja Lorena"
@@ -35323,8 +35323,8 @@
  d_luang_nam_tha: "Luang Nam Tha"
  d_luang_nam_tha_adj: "Luang Nam Tha"
  d_luang_namtha: "Luang Namtha"
- d_muang_sua: "Mường Súa"  #REVISAR
- d_muang_sua_adj: "muang sua"  #REVISAR
+ d_muang_sua: "Mường Súa"  
+ d_muang_sua_adj: "muang sua"  
  d_lubusz: "Lubusz"
  d_lucca: "Lucca"
  d_lucca_republic: "República de Lucca"
@@ -35360,8 +35360,8 @@
  d_lut_adj: "lutí"
  d_lutici: "Luticianos"
  d_lutici_adj: "Luticiano"
- d_SuMa_luwu: "Luwu"  #REVISAR
- d_SuMa_luwu_adj: "luwu"  #REVISAR
+ d_SuMa_luwu: "Luwu"  
+ d_SuMa_luwu_adj: "luwu"  
  d_luxembourg: "Luxemburgo"
  d_luxembourg_adj: "luxemburgués"
  d_luzhou: "Luzhou"
@@ -35412,8 +35412,8 @@
  d_malabarism_article: "el "
  d_malacca: "Malacca"
  d_maldives: "Maldivas"
- d_maldives_adj: "maldivio"  #REVISAR
- d_maldives_article: "el "  #REVISAR
+ d_maldives_adj: "maldivio"  
+ d_maldives_article: "el "  
  d_malgal: "Malgal"
  d_malgal_china: "Malgal"
  d_malgal_china_adj: "Malgal"
@@ -35477,8 +35477,8 @@
  d_masuria_adj: "masuriano"
  d_masuria_galindia: "Galindia"
  d_masuria_galindia_adj: "Galindiano"
- d_JAV_mataram: "Mataram"  #REVISAR
- d_JAV_mataram_adj: "mataram"  #REVISAR
+ d_JAV_mataram: "Mataram"  
+ d_JAV_mataram_adj: "mataram"  
  d_mathura: "Mathura"
  d_maynila: "Maynila"
  d_maynila_adj: "Maynila"
@@ -35551,9 +35551,9 @@
  d_milceni_adj: "Milceniano"
  d_min_usa: "Min Usa"
  d_min_usa_adj: "Min Usa"
- d_sum: "Minami Ezo"  #REVISAR
- d_SUM_minangkabau: "Dharmasaraya"  #REVISAR
- d_SUM_minangkabau_adj: "dharmasaraya"  #REVISAR
+ d_sum: "Minami Ezo"  
+ d_SUM_minangkabau: "Dharmasaraya"  
+ d_SUM_minangkabau_adj: "dharmasaraya"  
  d_mingrelia: "Samegrelo"
  d_mingrelia_adj: "Samegreliano"
  d_minsk: "Minsk"
@@ -35567,8 +35567,8 @@
  d_modena_republic_adj: "Republicano"
  d_mogadishu: "Xamar"
  d_mogadishu_adj: "Xamari"
- d_mogistan: "Mogistan"  #REVISAR
- d_mogistan_adj: "mogistani"  #REVISAR
+ d_mogistan: "Mogistan"  
+ d_mogistan_adj: "mogistani"  
  d_moldau: "Moldavia"
  d_moldau_adj: "moldavo"
  d_moldova: "Moldavia"
@@ -35616,7 +35616,7 @@
  d_muangthaeng: "Muang Thaeng"
  d_mugodzhar_hills: "Mugodzhar"
  d_mugodzhar_hills_adj: "mugodzhari"
- d_mugodzhar_hills_article: "el "  #REVISAR
+ d_mugodzhar_hills_article: "el "  
  d_muju: "Muju"
  d_mukah: "Mukah"
  d_multan: "Multán"
@@ -35683,7 +35683,7 @@
  d_nan_sarunai: "Nan Sarunai"
  d_nangqen: "Nangqên"
  d_nangqen_adj: "nangqên"
- d_nankaido: "Nankaidō"  #REVISAR
+ d_nankaido: "Nankaidō"  
  d_nankai_adj: "Nankai"
  d_napoli: "Nápoles"
  d_naqis: "Naqis"
@@ -35766,7 +35766,7 @@
  d_norse_pagan_reformed_article: "el"
  d_norshirakan: "Ūrmiya"
  d_norshirakan_adj: "Ūrmiya"
- d_north_saikaido: "Dazaifu"  #REVISAR
+ d_north_saikaido: "Dazaifu"  
  d_north_shan: "Hsenwi"
  d_north_shan_adj: "Hsenwi"
  d_northern_isles: "Islas del Norte"
@@ -35796,8 +35796,8 @@
  d_nupe: "Nupenci"
  d_nupe_adj: "Nupenci"
  d_nuremberg: "Nürnberg"
- d_nushki: "Nushki"  #REVISAR
- d_nushki_adj: "nushki"  #REVISAR
+ d_nushki: "Nushki"  
+ d_nushki_adj: "nushki"  
  d_nyima: "Nyima"
  d_nyima_adj: "nyimano"
  d_nyingchi: "Nyingchi"
@@ -35818,7 +35818,7 @@
  d_ogrash_old_adj: "Ogrash"
  d_oirat: "Oirad"
  d_oirat_adj: "Oirad"
- d_ruucuu: "Uchinaa"  #REVISAR
+ d_ruucuu: "Uchinaa"  
  d_okjeo: "Okjeo"
  d_okjeo_china: "Okjeo"
  d_okjeo_china_adj: "Okjeo"
@@ -35833,8 +35833,8 @@
  d_onggirad: "Onggirad"
  d_onggirad_adj: "Onggirad"
  d_onon: "Onon"
- d_EM_onon: "Onon Gol"  #REVISAR
- d_EM_onon_adj: "onon"  #REVISAR
+ d_EM_onon: "Onon Gol"  
+ d_EM_onon_adj: "onon"  
  d_ooni: "Ọọ̀ni"
  d_ooni_adj: "Ọọ̀nis"
  d_opava: "Opava"
@@ -35903,8 +35903,8 @@
  d_pahang_adj: "Pahang"
  d_palau: "Belau"
  d_palau_adj: "Belau"
- d_SUM_palembang: "Palembang"  #REVISAR
- d_SUM_palembang_adj: "palembang"  #REVISAR
+ d_SUM_palembang: "Palembang"  
+ d_SUM_palembang_adj: "palembang"  
  d_palestine: "Jerusalén"
  d_palestine_adj: "palestino"
  d_palmyra: "Palmira"
@@ -35938,9 +35938,9 @@
  d_patriarchate_in_the_east: "Patriarcado del Oriente"
  d_patriarchate_in_the_east_adj: "patriarcal"
  d_patriarchate_in_the_east_article: "el "
- d_jerusalem_patriarchate: "Patriarchate of Jerusalem"  #REVISAR
- d_jerusalem_patriarchate_adj: "patriarchal"  #REVISAR
- d_jerusalem_patriarchate_article: "el "  #REVISAR
+ d_jerusalem_patriarchate: "Patriarchate of Jerusalem"  
+ d_jerusalem_patriarchate_adj: "patriarchal"  
+ d_jerusalem_patriarchate_article: "el "  
  d_paulicians: "Paulicianis"
  d_paulicians_adj: "Pauliciani"
  d_pavia_republic: "República de Pavía"
@@ -36007,8 +36007,8 @@
  d_pomesanians_adj: "Pomesaniano"
  d_pommerania: "Pomerania"
  d_pommerania_adj: "pomerano"
- d_pommerania_stettin: "Pomerania-Stettin"  #REVISAR
- d_pommerania_stettin_adj: "pomeranio"  #REVISAR
+ d_pommerania_stettin: "Pomerania-Stettin"  
+ d_pommerania_stettin_adj: "pomeranio"  
  d_pommeranians: "Pomeranos"
  d_pommeranians_adj: "Pomerano"
  d_popel: "Popel"
@@ -36039,8 +36039,8 @@
  d_pucao: "Pucao"
  d_pucao_china: "Pucao"
  d_pucao_china_adj: "Pucao"
- d_PHI_sandao: "Sāndǎo"  #REVISAR
- d_PHI_sandao_adj: "Sāndǎoan"  #REVISAR
+ d_PHI_sandao: "Sāndǎo"  
+ d_PHI_sandao_adj: "Sāndǎoan"  
  d_purang: "Purang"
  d_purang_adj: "purang"
  d_pyongyang: "Pyongyang"
@@ -36064,7 +36064,7 @@
  d_qinghai: "Qing Hai"
  d_qinghuai: "Qing Huai"
  d_qingyuan: "Qing Yuan"
- d_qingyuan_adj: "qīngyuán"  #REVISAR
+ d_qingyuan_adj: "qīngyuán"  
  d_qiongya: "Qiongya"
  d_qiongya_china: "Qiongya"
  d_qiongya_china_adj: "Qiongya"
@@ -36146,8 +36146,8 @@
  d_rotalians: "Rotalianos"
  d_rotalians_adj: "Rotaliano"
  d_ruhunu: "Ruhunu"
- d_rukhkhaj: "Rukhkhaj"  #REVISAR
- d_rukhkhaj_adj: "rukhkhaji"  #REVISAR
+ d_rukhkhaj: "Rukhkhaj"  
+ d_rukhkhaj_adj: "rukhkhaji"  
  d_rus_band: "Banda de la Rus"
  d_rus_band_adj: "rus"
  d_rus_company: "Compañía de la Rus"
@@ -36170,7 +36170,7 @@
  d_saikai_adj: "Saikai"
  d_saint_addai: "Órden de san Tadeo"
  d_saint_addai_adj: "tadeísta"
- d_saint_addai_article: "el "  #REVISAR
+ d_saint_addai_article: "el "  
  d_saint_anthony: "Orden de san Antonio"
  d_saint_anthony_adj: "antoniano"
  d_saint_anthony_article: "la "
@@ -36190,8 +36190,8 @@
  d_salamat_adj: "salamati"
  d_salerno: "Salerno"
  d_salerno_adj: "salernitano"
- d_SuMa_tompotika: "Banggai"  #REVISAR
- d_SuMa_tompotika_adj: "banggai"  #REVISAR
+ d_SuMa_tompotika: "Banggai"  
+ d_SuMa_tompotika_adj: "banggai"  
  d_saluzzo: "Saluzzo"
  d_saluzzo_adj: "Saluzzano"
  d_salzburg: "Salzburgo"
@@ -36230,8 +36230,8 @@
  d_sanaa_adj: "sananí"
  d_sanaag: "Sanaag"
  d_sanaag_adj: "sanaagi"
- d_BOR_barune: "Sandakan"  #REVISAR
- d_BOR_barune_adj: "sandakano"  #REVISAR
+ d_BOR_barune: "Sandakan"  
+ d_BOR_barune_adj: "sandakano"  
  d_sandomiersk: "Sandomiersk"
  d_sandomiersk_adj: "sandomierskeño"
  d_sandomierz: "Sandomierz"
@@ -36242,13 +36242,13 @@
  d_sangju: "Sangju"
  d_sangkapura: "Sangkapura"
  d_sangkapura_adj: "Sangkapuran"
- d_east_sanindo: "Higashi-San'indō"  #REVISAR
+ d_east_sanindo: "Higashi-San'indō"  
  d_sanina: "Sanina"
  d_sanina_adj: "Sanina"
- d_BOR_santubong: "Santubong"  #REVISAR
- d_BOR_santubong_adj: "santubong"  #REVISAR
- d_east_sanyodo: "Higashi-San'yōdō"  #REVISAR
- d_east_sanyodo_adj: "sanyo"  #REVISAR
+ d_BOR_santubong: "Santubong"  
+ d_BOR_santubong_adj: "santubong"  
+ d_east_sanyodo: "Higashi-San'yōdō"  
+ d_east_sanyodo_adj: "sanyo"  
  d_sap: "Sap"
  d_sap_adj: "Sap"
  d_sapi: "Sapi"
@@ -36361,8 +36361,8 @@
  d_shanzhou_china_adj: "Shanzhou"
  d_sharka: "Hadya"
  d_sharka_adj: "Hadya"
- d_sharqiyah: "Al-Sharqiyah"  #REVISAR
- d_sharqiyah_adj: "al-sharqiyah"  #REVISAR
+ d_sharqiyah: "Al-Sharqiyah"  
+ d_sharqiyah_adj: "al-sharqiyah"  
  d_shazhou: "Shazhou"
  d_shazhou_adj: "shazhou"
  d_shewa: "Shewa"
@@ -36371,7 +36371,7 @@
  d_shicheng_adj: "Shicheng"
  d_shiite: "Califato chií"
  d_shiite_adj: "califal"
- d_shiite_article: "el "  #REVISAR
+ d_shiite_article: "el "  
  d_shiite_bedouin_company: "Compañía beduina"
  d_shiite_bedouin_company_adj: "beduina"
  d_shiite_berber_company: "Compañía tuareg"
@@ -36401,8 +36401,8 @@
  d_shuofang_china_adj: "Shuofang"
  d_si_cein: "Si Cein"
  d_si_cein_adj: "Si Cein"
- d_SUM_riau: "Siak"  #REVISAR
- d_SUM_riau_adj: "siak"  #REVISAR
+ d_SUM_riau: "Siak"  
+ d_SUM_riau_adj: "siak"  
  d_siber: "Siber"
  d_siber_china: "Siber"
  d_siber_china_adj: "Siber"
@@ -36481,7 +36481,7 @@
  d_son_nam: "Son Nam"
  d_son_nam_adj: "Son Nam"
  d_lam_tay: "Phong Châu" # was Sơn Tây (Lê/Nguyễn-era trấn, anachronistic); Phong Châu is the Tang-era châu matching Việt Trì/Lâm Thao, seat of the Hùng Kings
- d_lam_tay_adj: "Phong Châu"  #REVISAR
+ d_lam_tay_adj: "Phong Châu"  
  d_songhay: "Songhay"
  d_songualtai: "Songualtai"
  d_songualtai_adj: "Songualtai"
@@ -36493,11 +36493,11 @@
  d_soren: "Soren"
  d_soren_adj: "Soren"
  d_sous: "Sous"
- d_SuMa_konawe: "South Bungku"  #REVISAR
- d_SuMa_konawe_adj: "south bungku"  #REVISAR
+ d_SuMa_konawe: "South Bungku"  
+ d_SuMa_konawe_adj: "south bungku"  
  d_south_kalimantan: "Kalimantan Sur"
  d_south_kalimantan_adj: "Kalimantan"
- d_south_saikaido: "Minami-Saikaidō"  #REVISAR
+ d_south_saikaido: "Minami-Saikaidō"  
  d_south_shan: "Shan Sur"
  d_south_shan_adj: "Shan"
  d_south_sulawesi: "Sulawesi del Sur"
@@ -36545,8 +36545,8 @@
  d_sumo: "Sumo"
  d_sumo_china: "Sumo"
  d_sumo_china_adj: "Sumo"
- d_JAV_taruma: "Sunda"  #REVISAR
- d_JAV_taruma_adj: "sunda"  #REVISAR
+ d_JAV_taruma: "Sunda"  
+ d_JAV_taruma_adj: "sunda"  
  d_sunda_sunda: "Sunda"
  d_sunda_sunda_adj: "Sunda"
  d_sungai_musi: "Sungai Musi"
@@ -36643,8 +36643,8 @@
  d_tangiers_adj: "tingitano"
  d_tanintharyi: "Tanintharyi"
  d_tanintharyi_adj: "Tanintharyi"
- d_BOR_tanjungpura: "Tanjungpura"  #REVISAR
- d_BOR_tanjungpura_adj: "tanjungpura"  #REVISAR
+ d_BOR_tanjungpura: "Tanjungpura"  
+ d_BOR_tanjungpura_adj: "tanjungpura"  
  d_tannu-ola: "Tannu-ola"
  d_tannu-ola_adj: "Tannu-ola"
  d_tannu_ola: "Tannu Ola"
@@ -36705,9 +36705,9 @@
  d_tetun_adj: "Tetun"
  d_teutonic_order: "Orden teutónica"
  d_teutonic_order_adj: "teutónico"
- d_teutonic_order_article: "el "  #REVISAR
+ d_teutonic_order_article: "el "  
  d_thang_long: "Thăng Long"
- d_thang_long_adj: "thăng long"  #REVISAR
+ d_thang_long_adj: "thăng long"  
  d_thanh_hoa: "Thanh Hóa"
  d_thaton: "Thaton"
  d_thaton_adj: "Sadhuim"
@@ -36758,8 +36758,8 @@
  d_tohchen_china_adj: "Tohchen"
  d_toimians: "Toimianis"
  d_toimians_adj: "Toimiani"
- d_tokaido: "Tōkaidō"  #REVISAR
- d_tokaido_adj: "tōkai"  #REVISAR
+ d_tokaido: "Tōkaidō"  
+ d_tokaido_adj: "tōkai"  
  d_toledo: "Toledo"
  d_toledo_adj: "toledano"
  d_tolitoli: "Tolitoli"
@@ -37084,9 +37084,9 @@
  d_west_ajuraan_adj: "Luuq"
  d_west_darfur: "Darfur Oeste"
  d_west_darfur_adj: "darfurí occidental"
- d_west_franconia: "Rheinfranken"
- d_west_franconia_adj: "franconio occidental"
- d_west_bando: "Nishi-Bandō"  #REVISAR
+ d_west_franconia: "Renania"
+ d_west_franconia_adj: "renano"
+ d_west_bando: "Nishi-Bandō"  
  d_west_sulawesi: "Sulawesi Occidental"
  d_west_sulawesi_adj: "Sulawesi"
  d_western_isles: "Hébridas"
@@ -37126,8 +37126,8 @@
  d_xarmoron_china_adj: "Xarmoron"
  d_xia: "Xia"
  d_xia_adj: "xia"
- d_xia_china: "Xià"  #REVISAR
- d_xia_china_adj: "xià"  #REVISAR
+ d_xia_china: "Xià"  
+ d_xia_china_adj: "xià"  
  d_xiangkhouang: "Xiangkhouang"
  d_xiangkhouang_adj: "Xiangkhouang"
  d_xiangwei: "Xiangwei"
@@ -37173,8 +37173,8 @@
  d_yamama_adj: "yamamí"
  d_yamato_imperial: "Corte Imperial"
  d_yamato_imperial_adj: "Imperial"
- d_yamato_shogun: "Bakufu"  #REVISAR
- d_yamato_shogun_adj: "bakufu"  #REVISAR
+ d_yamato_shogun: "Bakufu"  
+ d_yamato_shogun_adj: "bakufu"  
  d_yanggwang: "Yanggwang"
  d_yanggwang_adj: "Yanggwang"
  d_yangju: "Yangju"
@@ -37337,8 +37337,8 @@
  d_zoroastrian_article: "la "
  d_zughba: "Banu Zughba"
  d_zughba_adj: "Banu Zughba"
- d_zuining: "Zhènníng"  #REVISAR
- d_zuining_adj: "Zhènníng"  #REVISAR
+ d_zuining: "Zhènníng"  
+ d_zuining_adj: "Zhènníng"  
  d_zun_warriors: "Caballeros del Sol"
  d_zun_warriors_adj: "solar"
  d_zun_warriors_article: "los "
@@ -37405,10 +37405,10 @@
  k_andhra: "Andhra"
  k_angara: "Angara"
  k_angara_adj: "Angara"
- k_viet: "Giao Châu"  #REVISAR
- k_viet_adj: "Giao Châu"  #REVISAR
- k_tay_bac: "Tây Bắc"  #REVISAR
- k_tay_bac_adj: "Tây Bắc"  #REVISAR
+ k_viet: "Giao Châu"  
+ k_viet_adj: "Giao Châu"  
+ k_tay_bac: "Tây Bắc"  
+ k_tay_bac_adj: "Tây Bắc"  
  k_annan: "Annan"
  k_antioch: "Antiocheia"
  k_antioch_adj: "Antioquía"
@@ -37471,8 +37471,8 @@
  k_banjar_adj: "Banjar"
  k_banzaland: "Banza Bakwai"
  k_banzaland_adj: "Banzawa"
- k_baraba: "Baraba"  #REVISAR
- k_baraba_adj: "barabano"  #REVISAR
+ k_baraba: "Baraba"  
+ k_baraba_adj: "barabano"  
  k_bashkiria: "Baskiria"
  k_bashkiria_adj: "baskirio"
  k_bastar: "Bastar"
@@ -37724,8 +37724,8 @@
  k_gandhara_adj: "gandharí"
  k_ganzhou: "ganzhou"
  k_ganzhou_adj: "Ganzhou"
- k_gapi: "Gapi"  #REVISAR
- k_gapi_adj: "gapi"  #REVISAR
+ k_gapi: "Gapi"  
+ k_gapi_adj: "gapi"  
  k_geats: "Götland"
  k_geats_adj: "Geatish"
  k_gelug: "Gelug"
@@ -37740,8 +37740,8 @@
  k_germiyan: "Germiyan"
  k_ghana: "Wagadu"
  k_ghana_adj: "Wagaduano"
- k_gharjistan: "Gharjistān"  #REVISAR
- k_gharjistan_adj: "Gharjistānī"  #REVISAR
+ k_gharjistan: "Gharjistān"  
+ k_gharjistan_adj: "Gharjistānī"  
  k_gilgit: "Gilgit"
  k_gilgitadj: "Gilgit"
  k_goguryeo: "Goguryeo"
@@ -37762,8 +37762,8 @@
  k_guangnanxi: "Guangnanxi"
  k_guangnanxi_adj: "Guangnanxi"
  k_guangxi: "Guangxi
- k_lizhouxi_china: "Lizhouxi"  #REVISAR
- k_lizhouxi_china_adj: "lizhouxi"  #REVISAR
+ k_lizhouxi_china: "Lizhouxi"  
+ k_lizhouxi_china_adj: "lizhouxi"  
  k_guge: "Gugé"
  k_guge_adj:2 "gugén"
  k_guilin: "Guilin"
@@ -37795,8 +37795,8 @@
  k_haripunjaya_adj: "Haripuñjayan"
  k_hausaland: "Hausa Bakwai"
  k_hausaland_adj: "Hausawa"
- k_liangzhexi: "Liǎngzhèxī"  #REVISAR
- k_liangzhexi_china_adj: "liǎngzhèxī"  #REVISAR
+ k_liangzhexi: "Liǎngzhèxī"  
+ k_liangzhexi_china_adj: "liǎngzhèxī"  
  k_hebeidong: "Hebeidong"
  k_hebeidong_adj: "Hebeidong"
  k_hebeixi: "Hebeixi"
@@ -37805,9 +37805,9 @@
  k_hedong_china_adj: "Hedong"
  k_hellas: "Morea"
  k_hellas_adj: "Morea"
- k_hellas_pre: "Helleno"  #REVISAR
- k_lizhoudong: "Lizhoudong"  #REVISAR
- k_lizhoudong_adj: "lizhoudong"  #REVISAR
+ k_hellas_pre: "Helleno"  
+ k_lizhoudong: "Lizhoudong"  
+ k_lizhoudong_adj: "lizhoudong"  
  k_henghai: "Henghai"
  k_henghai_adj: "Henghai"
  k_heshui: "Heshui"
@@ -37819,8 +37819,8 @@
  k_hitakami: "Ezo"
  k_hitakami_adj: "Ezo"
  k_huainan: "Huai Nan"
- k_liangzhedong: "Liǎngzhèdōng"  #REVISAR
- k_liangzhedong_adj: "liǎngzhèdōng"  #REVISAR
+ k_liangzhedong: "Liǎngzhèdōng"  
+ k_liangzhedong_adj: "liǎngzhèdōng"  
  k_huainandong: "Huainandong"
  k_huainandong_adj: "Huainandong"
  k_huainanxi: "Huainanxi"
@@ -37875,8 +37875,8 @@
  k_jangladesh: "Jangladesh"
  k_jangladesh_adj: "Jangladeshi"
  k_java: "Java"
- k_yavakadvipa: "Jawa"  #REVISAR
- k_yavakadvipa_adj: "jawa"  #REVISAR
+ k_yavakadvipa: "Jawa"  
+ k_yavakadvipa_adj: "jawa"  
  k_jazira: "Jazira"
  k_jazira_adj: "jazirí"
  k_jazira_article: "al-"
@@ -37988,7 +37988,7 @@
  k_khwarazm: "Corasmia"
  k_khwarazm_adj: "Khwarazmiano"
  k_khwarezmia: "Khorezm"
- k_khwarezmia_adj: "Khwārazmī"  #REVISAR
+ k_khwarezmia_adj: "Khwārazmī"  
  k_kimek: "Kimek"
  k_kimek_adj: "kimeko"
  k_kipchak: "Kimek"
@@ -38007,8 +38007,8 @@
  k_kuizhou_adj: "Kuizhou"
  k_kutch: "Kutch"
  k_kutch_adj: "Kutch"
- k_tsukushi: "Tsukushi"  #REVISAR
- k_tsukushi_adj: "tsukushi"  #REVISAR
+ k_tsukushi: "Tsukushi"  
+ k_tsukushi_adj: "tsukushi"  
  k_langkasuka: "Langkasuka"
  k_langkasuka_adj: "Langkasuka"
  k_lanka: "Lanka"
@@ -38027,7 +38027,7 @@
  k_leon_adj: "leonés"
  k_lhomon: "Lhomon"
  k_lhomon_adj: "lhomon"
- k_liang: "Liang"  #REVISAR
+ k_liang: "Liang"  
  k_liang_china: "Liang"
  k_liang_china_adj: "Liang"
  k_liangzhe: "Liangzhe"
@@ -38060,8 +38060,8 @@
  k_longxi: "Longyou"
  k_longxi_china: "Longxi"
  k_longxi_china_adj: "Longxi"
- k_yongxingjun_china: "Yǒngxìngjūn"  #REVISAR
- k_yongxingjun_china_china_adj: "Yǒngxìngjūn"  #REVISAR
+ k_yongxingjun_china: "Yǒngxìngjūn"  
+ k_yongxingjun_china_china_adj: "Yǒngxìngjūn"  
  k_lotharingia: "Lotaringia"
  k_lotharingia_adj: "lotaringio"
  k_lower_lorraine: "Baja Lorena"
@@ -38149,7 +38149,7 @@
  k_micronesia: "Micronesia"
  k_micronesia_adj: "Micronesia"
  k_min: "Fujian"
- k_min_adj: "mǐn"  #REVISAR
+ k_min_adj: "mǐn"  
  k_minangkabau: "Minankabau"
  k_minangkabau_adj: "Minankabau"
  k_ming: "Ming"
@@ -38219,7 +38219,7 @@
  k_oghuz_il_adj: "Turaniano"
  k_old_armenia: "Vieja Armenia"
  k_old_armenia_adj: "armenio"
- k_old_franconia: "Francia Oriental"
+ k_old_franconia: "Franconia"
  k_oman: "Omán"
  k_oman_adj: "Omaní"
  k_opolye: "Vladímir"
@@ -38324,7 +38324,7 @@
  k_qipchaq: "Qipchaqlar"
  k_qipchaq_adj: "Kipchak"
  k_qocho: "Qocho"
- k_qocho_adj: "kara-khoja"  #REVISAR
+ k_qocho_adj: "kara-khoja"  
  k_ragusa: "Dubrovnik"
  k_rajputana: "Rajputana"
  k_rajputana_adj: "rajput"
@@ -38341,7 +38341,7 @@
  k_rus_pre: "ruso"
  k_ruthenia: "Kiev"
  k_ruthenia_adj: "Kievita"
- k_ruucuu: "Rūchū"  #REVISAR
+ k_ruucuu: "Rūchū"  
  k_sagaing: "Sagaing"
  k_sagaing_adj: "Burmano"
  k_sahara: "Sáhara"
@@ -38385,8 +38385,8 @@
  k_serbia_pre: "Serbo"
  k_shan: "Shan"
  k_shan_adj: "Shan"
- k_mongnai: "Nam Kong"  #REVISAR
- k_mongnai_adj: "nam kong"  #REVISAR
+ k_mongnai: "Nam Kong"  
+ k_mongnai_adj: "nam kong"  
  k_shannandong_china: "Shannandong"
  k_shannandong_china_adj: "Shannandong"
  k_shannanxi_china: "Shannanxi"
@@ -38397,8 +38397,8 @@
  k_shirvan_adj: "Shirvano"
  k_shiwei: "Shiwei"
  k_shiwei_adj: "Shiwei"
- k_ergune: "Ergüne"  #REVISAR
- k_ergune_adj: "Ergüne"  #REVISAR
+ k_ergune: "Ergüne"  
+ k_ergune_adj: "Ergüne"  
  k_shu: "Jiannan"
  k_shu_china: "Shu"
  k_shu_china_adj: "Shu"
@@ -38485,8 +38485,8 @@
  k_tamilakam_adj: "tamilakami"
  k_tamna: "Tamna"
  k_tamna_adj: "Tamna"
- k_tanjungnagara: "Tanjungpura"  #REVISAR
- k_tanjungnagara_adj: "tanjungpura"  #REVISAR
+ k_tanjungnagara: "Tanjungpura"  
+ k_tanjungnagara_adj: "tanjungpura"  
  k_tarakan: "Tarakan"
  k_tarakan_adj: "Tarakan"
  k_taurica: "Taurica"
@@ -38517,14 +38517,14 @@
  k_tianping_adj: "Tianping"
  k_tiaret: "Tiáret"
  k_tiaret_adj: "Tiareto"
- k_tidore: "Tidore"  #REVISAR
- k_tidore_adj: "tidore"  #REVISAR
+ k_tidore: "Tidore"  
+ k_tidore_adj: "tidore"  
  k_timor: "Timor"
  k_timor_adj: "Timorese"
  k_toledo: "Toledo"
  k_toledo_adj: "Toledano"
- k_tondo: "Tondo"  #REVISAR
- k_tondo_adj: "tondo"  #REVISAR
+ k_tondo: "Tondo"  
+ k_tondo_adj: "tondo"  
  k_tongzhou: "Tongzhou"
  k_tongzhou_adj: "Tongzhou"
  k_toro: "Toro"
@@ -38542,8 +38542,8 @@
  k_tsongkha: "Qingtang"
  k_tsongkha_adj: "Qingtango"
  k_tungning: "Liuqiu"
- k_tunguse: "Tunguse"  #REVISAR
- k_tunguse_adj: "tungusico"  #REVISAR
+ k_tunguse: "Tunguse"  
+ k_tunguse_adj: "tungusico"  
  k_turkestan: "Turquestán"
  k_turkestan_adj: "turquestano"
  k_turkestan_pre: "turkmeno"
@@ -38554,8 +38554,8 @@
  k_tuscany_adj: "Toscano"
  k_tuva: "Tuva"
  k_tuva_adj: "Tuva"
- k_tyva: "Uvs Nuur"  #REVISAR
- k_tyva_adj: "uvs nuur"  #REVISAR
+ k_tyva: "Uvs Nuur"  
+ k_tyva_adj: "uvs nuur"  
  k_tuyuhun: "Tuyuhun"
  k_tuyuhun_adj: "tuyuhun"
  k_u: "Ü"
@@ -38717,13 +38717,13 @@
  e_byzantium: "Basileia Rhomaion"
  e_byzantium_adj: "Romano"
  e_byzantium_article: "el "
- e_cao: "Cao"  #REVISAR
+ e_cao: "Cao"  
  e_carpathia: "Carpatia"
  e_carpathia_adj: "cárpato"
  e_caspian-pontic_steppe: "Jazaria"
  e_caspian-pontic_steppe_adj: "jázaro"
- e_great_liao: "Yānliáo"  #REVISAR
- e_great_liao_adj: "Yānliáo"  #REVISAR
+ e_great_liao: "Yānliáo"  
+ e_great_liao_adj: "Yānliáo"  
  e_celebes: "Celebes"
  e_celebes_adj: "Celebico"
  e_celestia: "Imperio Celestial"
@@ -38734,7 +38734,7 @@
  e_chagatai: "Chagatai"
  e_chagatai_adj: "Chagatí"
  e_champa: "Nusantara"
- e_chen: "Chen"  #REVISAR
+ e_chen: "Chen"  
  e_china: "China"
  e_china_adj: "Chino"
  e_china_pre: "Sino"
@@ -38752,9 +38752,9 @@
  e_dai_co_viet_adj: "Đại Cồ Việt"
  e_dai_viet: "Đại Việt"
  e_dai_viet_adj: "Đại Việt"
- e_dakshina: "Dakshina Kosala"  #REVISAR
- e_dakshina_adj: "daksina kosalano"  #REVISAR
- e_dali: "Dali"  #REVISAR
+ e_dakshina: "Dakshina Kosala"  
+ e_dakshina_adj: "daksina kosalano"  
+ e_dali: "Dali"  
  e_deccan: "Damila"
  e_deccan_adj: "Damilan"
  e_eastern_roman_empire: "Imperio Romano de Oriente"
@@ -38772,8 +38772,8 @@
  e_germany: "Germania"
  e_germany_adj: "alemán"
  e_germany_pre: "germano"
- e_goryeo: "Goguryeo"  #REVISAR
- e_goryeo_adj: "goguryeo"  #REVISAR
+ e_goryeo: "Goguryeo"  
+ e_goryeo_adj: "goguryeo"  
  e_golden_horde: "Horda de Oro"
  e_golden_horde_adj: "mongol"
  e_golden_horde_article: "La "
@@ -38793,30 +38793,30 @@
  e_han: "Han"
  e_han_adj: "Han"
  e_han_article: "el "
- e_hexi: "Héxī"  #REVISAR
+ e_hexi: "Héxī"  
  e_himalaya: "Himalaya"
  e_himalaya_adj: "himalayo"
  e_horn: "Sulṭānato del Cuerno de Oro"
  e_horn_adj: "Cuerno de Oro"
  e_horn_article: "el "
- e_hre: "Heiliges Römisches Reich"
+ e_hre: "Sacro Imperio Romano"
  e_hre_adj: "sacrorromano"
- e_hre_article: "El "
+ e_hre_article: "el "
  e_hre_german: "Imperio Alemán"
  e_hre_german_adj: "imperial alemán"
  e_hre_german_article: "el "
  e_hre_roman: "Imperio Romano"
  e_hre_roman_adj: "romano"
  e_hre_roman_article: "el "
- e_hre_roman_german: "Imperio Romano-Germánico"
- e_hre_roman_german_adj: "romano-germánico"
+ e_hre_roman_german: "Heiliges Römisches Reich"
+ e_hre_roman_german_adj: "sacrorromano-germánico"
  e_hre_roman_german_article: "el "
  e_huang_qi: "Qi Cháo"
  e_huang_qi_adj: "Qi"
  e_ilkhanate: "Ilkanato"
  e_ilkhanate_article: "El "
  e_india: "India"
- e_india_adj: "indio"
+ e_india_adj: "indo"
  e_india_pre: "indo"
  e_iri-an: "Iri-an"
  e_iri-an_adj: "Iri-an"
@@ -38837,8 +38837,8 @@
  e_kalimantan_adj: "Kalimantan"
  e_kalinga: "Ganga"
  e_kalinga_adj: "Gangas"
- e_kambuja: "Kambujadesa"  #REVISAR
- e_kambuja_adj: "kambujadesa"  #REVISAR
+ e_kambuja: "Kambujadesa"  
+ e_kambuja_adj: "kambujadesa"  
  e_kanem_bornu: "Kanem-Bornu"
  e_kanem_bornu_adj: "kanembornués"
  e_kara_khitai: "Kara-Kitai"
@@ -38849,7 +38849,7 @@
  e_korea: "Imperio Coreano"
  e_korea_adj: "Coreano"
  e_korea_article: "el "
- e_lanxang: "Lanxang"  #REVISAR
+ e_lanxang: "Lanxang"  
  e_later_han: "Han Tardío"
  e_later_han_adj: "Han"
  e_later_han_article: "el "
@@ -38890,10 +38890,10 @@
  e_maharlika_adj: "Maharlika"
  e_majapahit: "Majapahit"
  e_majapahit_adj: "Majapahit"
- e_malayadvipa: "Malayadvipa"  #REVISAR
- e_malayadvipa_adj: "malayadvipano"  #REVISAR
+ e_malayadvipa: "Malayadvipa"  
+ e_malayadvipa_adj: "malayadvipano"  
  e_mali: "Mali"
- e_mali_adj: "malio"  #REVISAR
+ e_mali_adj: "malio"  
  e_maluku: "Maluku"
  e_maluku_adj: "Maluku"
  e_malwa: "Malwa"
@@ -38903,7 +38903,7 @@
  e_micronesia: "Micronesia"
  e_micronesia_adj: "Micronesia"
  e_mign_adj: "Ming"
- e_min: "Min"  #REVISAR
+ e_min: "Min"  
  e_ming: "Gran Ming"
  e_mongol_empire: "Imperio mongol"
  e_mongol_empire_adj: "mongol"
@@ -38949,8 +38949,8 @@
  e_persia_article: "El "
  e_persia_pre: "persa"
  e_pirates: "Piratas"
- e_pragjyotisha: "Pragjyotisha"  #REVISAR
- e_pragjyotisha_adj: "pragjyotishano"  #REVISAR
+ e_pragjyotisha: "Pragjyotisha"  
+ e_pragjyotisha_adj: "pragjyotishano"  
  e_qian: "Qian"
  e_qiang: "Qiang"
  e_qin: "Qin"
@@ -38959,8 +38959,8 @@
  e_qixi_adj: "Qixi"
  e_rajastan: "Gupta"
  e_rajastan_adj: "Guptan"
- e_ramanya: "Ramanya"  #REVISAR
- e_ramanya_adj: "ramanyano"  #REVISAR
+ e_ramanya: "Ramanya"  
+ e_ramanya_adj: "ramanyano"  
  e_rebels: "Rebeldes"
  e_rebels_adj: "rebelde"
  e_rhomaion: "Basileia Rhomaion"
@@ -38995,7 +38995,7 @@
  e_serbia_article: "el "
  e_serbia_pre: "Serbo"
  e_shang: "Shang"
- e_shang_adj: "shang cháo"  #REVISAR
+ e_shang_adj: "shang cháo"  
  e_shiite: "Califato chií"
  e_shiite_adj: "califal"
  e_shiite_article: "El "
@@ -39069,7 +39069,7 @@
  e_uyghur_khanate: "Kanato Uigur"
  e_uyghur_khanate_adj: "uigur"
  e_uyghur_khanate_article: "el "
- e_viet: "Viet"  #REVISAR
+ e_viet: "Viet"  
  e_volga-ural: "Volga y Ugria"
  e_volga-ural_adj: "volgourálico"
  e_weei: "Wei"
@@ -39096,10 +39096,10 @@
  e_yuan: "Yuan"
  e_yuan_adj: "Yuan"
  e_yuan_article: "el "
- e_zhao: "Zhao"  #REVISAR
- e_zhao_adj: "zhao cháo"  #REVISAR
+ e_zhao: "Zhao"  
+ e_zhao_adj: "zhao cháo"  
  e_zheng: "Zheng"
- e_zhongshan: "Zhongshan"  #REVISAR
+ e_zhongshan: "Zhongshan"  
  e_zhou: "Zhou
  e_zhou_adj: "Zhou"
  e_zomia: "Yunnan"
@@ -39109,368 +39109,368 @@
  
  k_gurgan: "Gurgan"
  
- b_Mianzhou_Hanchuan: "Hànchuānxiàn"  #REVISAR
- d_jiangzhou: "Jiāngzhōu"  #REVISAR
- d_jiangzhou_china: "Jiāngzhōu"  #REVISAR
- b_Wujiang: "Zhāopíng"  #REVISAR
- c_taiping: "Tàipíngzhōu"  #REVISAR
- b_Wuhu: "Wúhú"  #REVISAR
- b_Guantouzhai: "Guàntóuzhài"  #REVISAR
- c_waizao: "Huìzhōu"  #REVISAR
- c_dongguan: "Dōngguǎn"  #REVISAR
- d_anqing: "Shūzhōu"  #REVISAR
- d_bozhou_china: "Bózhōu"  #REVISAR
- k_jingji: "Jīngjī"  #REVISAR
- k_jingxi: "Jīngxī"  #REVISAR
- d_zizhou_china: "Zǐzhōu"  #REVISAR
- d_jiazhou_china: "Jiāzhōu"  #REVISAR
- d_yuzhou_china: "Yúzhōu"  #REVISAR
- d_hanyang_china: "Hànyáng"  #REVISAR
- b_linshui_china: "Línshuǐ"  #REVISAR
- c_kaizhou_china: "Kāizhōu"  #REVISAR
- b_gaoyang_shengshan_china: "Gāoyáng"  #REVISAR
- b_wushan_nanpu_china: "Wūshān"  #REVISAR
- b_linshui_dayin_china: "Línshuǐ"  #REVISAR
- b_tongzi_tongchuan_china: "Tóngzǐ"  #REVISAR
- c_dazhou_ba_china: "Dázhōu"  #REVISAR
- b_hepu_china: "Hépǔ"  #REVISAR
- c_zhaozhou_pingle_china: "Zhāozhōu"  #REVISAR
- c_tengzhou_gui_china: "Téngzhōu"  #REVISAR
- c_guancheng_china: "Gōngzhōu"  #REVISAR
- b_jintianzhen_china: "Jintianzhen"  #REVISAR
- c_xunzhou_gui_china: "Xúnzhōu"  #REVISAR
- b_pingnan_guiping_china: "Píngnán"  #REVISAR
- b_lingshan_beiliu_china: "Língshān"  #REVISAR
+ b_Mianzhou_Hanchuan: "Hànchuānxiàn"  
+ d_jiangzhou: "Jiāngzhōu"  
+ d_jiangzhou_china: "Jiāngzhōu"  
+ b_Wujiang: "Zhāopíng"  
+ c_taiping: "Tàipíngzhōu"  
+ b_Wuhu: "Wúhú"  
+ b_Guantouzhai: "Guàntóuzhài"  
+ c_waizao: "Huìzhōu"  
+ c_dongguan: "Dōngguǎn"  
+ d_anqing: "Shūzhōu"  
+ d_bozhou_china: "Bózhōu"  
+ k_jingji: "Jīngjī"  
+ k_jingxi: "Jīngxī"  
+ d_zizhou_china: "Zǐzhōu"  
+ d_jiazhou_china: "Jiāzhōu"  
+ d_yuzhou_china: "Yúzhōu"  
+ d_hanyang_china: "Hànyáng"  
+ b_linshui_china: "Línshuǐ"  
+ c_kaizhou_china: "Kāizhōu"  
+ b_gaoyang_shengshan_china: "Gāoyáng"  
+ b_wushan_nanpu_china: "Wūshān"  
+ b_linshui_dayin_china: "Línshuǐ"  
+ b_tongzi_tongchuan_china: "Tóngzǐ"  
+ c_dazhou_ba_china: "Dázhōu"  
+ b_hepu_china: "Hépǔ"  
+ c_zhaozhou_pingle_china: "Zhāozhōu"  
+ c_tengzhou_gui_china: "Téngzhōu"  
+ c_guancheng_china: "Gōngzhōu"  
+ b_jintianzhen_china: "Jintianzhen"  
+ c_xunzhou_gui_china: "Xúnzhōu"  
+ b_pingnan_guiping_china: "Píngnán"  
+ b_lingshan_beiliu_china: "Língshān"  
  c_liuzhou_china: "Liuzhou"
- c_hengzhou_gui_china: "Héngzhōu"  #REVISAR
- b_liujing_ningpu_china: "Liùjǐng"  #REVISAR
- b_kunlun_lingfang_china: "Kūnlún"  #REVISAR
- c_huazhou_china: "Huàzhōu"  #REVISAR
- b_shicheng_shilong_china: "Shíchéng"  #REVISAR
- b_xinyi_dianbai_china: "Xìnyí"  #REVISAR
- d_gaolei_china: "Gāoléi"  #REVISAR
- d_guiguan_liuzhou_china: "Liǔzhōu"  #REVISAR
- c_nanxiong_guang_china: "Xióngzhōu"  #REVISAR
- c_yingde: "Yīngzhōu"  #REVISAR
- b_hengshi_zhenyang_china: "Héngshí"  #REVISAR
- c_hezhou_guangzhou_china: "Hèzhōu"  #REVISAR
- b_wuzhou_cangwu1_china: "Wàngwū"  #REVISAR
- c_fengzhou_gui_china: "Fēngzhōu"  #REVISAR
- b_kaijian_fengchuan_china: "Kāijiàn"  #REVISAR
- b_dapo_tanjin_china: "Dàpō"  #REVISAR
- b_liujang_china: "Liǔjiāng"  #REVISAR
- b_yangchun_yangjiang_china: "Yángchūn"  #REVISAR
- c_nanenzhou_china: "Nán'ēnzhōu"  #REVISAR
- d_shaoguan_china: "Sháoguān"  #REVISAR
- d_duanzhou_china: "Duānzhōu"  #REVISAR
- c_yunzhou_jiangxi_china: "Yúnzhōu"  #REVISAR
- d_wenzhou_china: "Wēnzhōu"  #REVISAR
- c_didao_xizhou_china: "Xīzhōu"  #REVISAR
- c_pingliang_xia_china: "Wèizhōu"  #REVISAR
- c_xiezhou_china: "Xìezhōu"  #REVISAR
- c_huanzhou_china: "Huánzhōu"  #REVISAR
- c_yaozhou_china: "Yàozhōu"  #REVISAR
- c_xianzhou_china: "Xiànzhōu"  #REVISAR
- c_baozhou_china: "Bǎozhōu"  #REVISAR
- c_binzhou_china: "Bīnzhōu"  #REVISAR
- b_dezhou_putai_china: "Pútáixiàn"  #REVISAR
- b_dezhou_bohai_china: "Bóhǎi"  #REVISAR
- c_huayang_china: "Pīzhōu"  #REVISAR
- b_suqian_china: "Sùqiānxiàn"  #REVISAR
- d_songzhou_china: "Sòngzhōu"  #REVISAR
- b_qingyang_linhuai_china: "Qīngyáng"  #REVISAR
- b_qi_xiaqiu_china: "Qíxiàn"  #REVISAR
- b_lingting_china: "Língtíng"  #REVISAR
- b_tianchang_china: "Tiānchángxiàn"  #REVISAR
- c_hailing_china: "Tàizhōu"  #REVISAR
- b_laian_qingliu_china: "Láianxiàn"  #REVISAR
- c_nantong_china: "Tōngzhōu"  #REVISAR
- b_chongming_china: "Chóngmíngxiàn"  #REVISAR
- b_haian_china: "Hǎi'ānxiàn"  #REVISAR
- b_dingyuan_zhongli_fengyang_china: "Dìngyuǎn"  #REVISAR
- c_xuyi_huai_china: "Xūyí"  #REVISAR
- d_haizhou_china: "Hǎizhōu"  #REVISAR
- d_yangzhou_china: "Yángzhōu"  #REVISAR
- d_nanyang_china: "Nányáng"  #REVISAR
- k_liao_zhongjing: "Zhōngjīng"  #REVISAR
- k_liao_zhongjing_adj: "zhōngjīng"  #REVISAR
- k_liao_datong: "Xījīng"  #REVISAR
- k_liao_datong_adj: "xījīng"  #REVISAR
- d_fufang_yanzhou_china: "Yánzhōu"  #REVISAR
+ c_hengzhou_gui_china: "Héngzhōu"  
+ b_liujing_ningpu_china: "Liùjǐng"  
+ b_kunlun_lingfang_china: "Kūnlún"  
+ c_huazhou_china: "Huàzhōu"  
+ b_shicheng_shilong_china: "Shíchéng"  
+ b_xinyi_dianbai_china: "Xìnyí"  
+ d_gaolei_china: "Gāoléi"  
+ d_guiguan_liuzhou_china: "Liǔzhōu"  
+ c_nanxiong_guang_china: "Xióngzhōu"  
+ c_yingde: "Yīngzhōu"  
+ b_hengshi_zhenyang_china: "Héngshí"  
+ c_hezhou_guangzhou_china: "Hèzhōu"  
+ b_wuzhou_cangwu1_china: "Wàngwū"  
+ c_fengzhou_gui_china: "Fēngzhōu"  
+ b_kaijian_fengchuan_china: "Kāijiàn"  
+ b_dapo_tanjin_china: "Dàpō"  
+ b_liujang_china: "Liǔjiāng"  
+ b_yangchun_yangjiang_china: "Yángchūn"  
+ c_nanenzhou_china: "Nán'ēnzhōu"  
+ d_shaoguan_china: "Sháoguān"  
+ d_duanzhou_china: "Duānzhōu"  
+ c_yunzhou_jiangxi_china: "Yúnzhōu"  
+ d_wenzhou_china: "Wēnzhōu"  
+ c_didao_xizhou_china: "Xīzhōu"  
+ c_pingliang_xia_china: "Wèizhōu"  
+ c_xiezhou_china: "Xìezhōu"  
+ c_huanzhou_china: "Huánzhōu"  
+ c_yaozhou_china: "Yàozhōu"  
+ c_xianzhou_china: "Xiànzhōu"  
+ c_baozhou_china: "Bǎozhōu"  
+ c_binzhou_china: "Bīnzhōu"  
+ b_dezhou_putai_china: "Pútáixiàn"  
+ b_dezhou_bohai_china: "Bóhǎi"  
+ c_huayang_china: "Pīzhōu"  
+ b_suqian_china: "Sùqiānxiàn"  
+ d_songzhou_china: "Sòngzhōu"  
+ b_qingyang_linhuai_china: "Qīngyáng"  
+ b_qi_xiaqiu_china: "Qíxiàn"  
+ b_lingting_china: "Língtíng"  
+ b_tianchang_china: "Tiānchángxiàn"  
+ c_hailing_china: "Tàizhōu"  
+ b_laian_qingliu_china: "Láianxiàn"  
+ c_nantong_china: "Tōngzhōu"  
+ b_chongming_china: "Chóngmíngxiàn"  
+ b_haian_china: "Hǎi'ānxiàn"  
+ b_dingyuan_zhongli_fengyang_china: "Dìngyuǎn"  
+ c_xuyi_huai_china: "Xūyí"  
+ d_haizhou_china: "Hǎizhōu"  
+ d_yangzhou_china: "Yángzhōu"  
+ d_nanyang_china: "Nányáng"  
+ k_liao_zhongjing: "Zhōngjīng"  
+ k_liao_zhongjing_adj: "zhōngjīng"  
+ k_liao_datong: "Xījīng"  
+ k_liao_datong_adj: "xījīng"  
+ d_fufang_yanzhou_china: "Yánzhōu"  
 
- k_shandong_east: "Shāndōngdōng"  #REVISAR
- k_shandong_west: "Shāndōngxī"  #REVISAR
- k_bianjing: "Nánjīng"  #REVISAR
- k_jingzhaofu: "Jīngzhàofǔ"  #REVISAR
- k_hebei_east: "Héběidōng"  #REVISAR
- k_hebei_west: "Héběixī"  #REVISAR
- k_hedong_north: "Hédōngběi"  #REVISAR
- k_hedong_south: "Hédōngnán"  #REVISAR
- k_qingyuan: "Qìngyuán"  #REVISAR
- k_fuyan: "Fūyán"  #REVISAR
- k_ziqin: "Líntáo"  #REVISAR
- k_weibo_jin: "Dàmíngfǔ"  #REVISAR
- b_qixia_penglai_china: "Qīxiá"  #REVISAR
- b_weihaiwei_china: "Wēihǎiwèi"  #REVISAR
- c_ninghai_china: "Nínghǎizhōu"  #REVISAR
- c_yuzhou_qi_china: "Jǔzhōu"  #REVISAR
- d_bizhou_china: "Bīnzhōu"  #REVISAR
+ k_shandong_east: "Shāndōngdōng"  
+ k_shandong_west: "Shāndōngxī"  
+ k_bianjing: "Nánjīng"  
+ k_jingzhaofu: "Jīngzhàofǔ"  
+ k_hebei_east: "Héběidōng"  
+ k_hebei_west: "Héběixī"  
+ k_hedong_north: "Hédōngběi"  
+ k_hedong_south: "Hédōngnán"  
+ k_qingyuan: "Qìngyuán"  
+ k_fuyan: "Fūyán"  
+ k_ziqin: "Líntáo"  
+ k_weibo_jin: "Dàmíngfǔ"  
+ b_qixia_penglai_china: "Qīxiá"  
+ b_weihaiwei_china: "Wēihǎiwèi"  
+ c_ninghai_china: "Nínghǎizhōu"  
+ c_yuzhou_qi_china: "Jǔzhōu"  
+ d_bizhou_china: "Bīnzhōu"  
  
- c_weizhou_qi_china: "Wéizhōu"  #REVISAR
- b_gaomi_china: "Chāngyì"  #REVISAR
- b_zichuan_qingzhou_china: "Shòuguāng"  #REVISAR
+ c_weizhou_qi_china: "Wéizhōu"  
+ b_gaomi_china: "Chāngyì"  
+ b_zichuan_qingzhou_china: "Shòuguāng"  
  
- d_bode_china: "Bódé"  #REVISAR
- c_tengzhou_xu_china: "Téngzhōu"  #REVISAR
+ d_bode_china: "Bódé"  
+ c_tengzhou_xu_china: "Téngzhōu"  
  
- c_jizhou_china: "Jǐzhōu"  #REVISAR
- b_yanzhou_zoucheng_china: "Níngyáng"  #REVISAR
- b_jining_shan_china: "Jìníngxiàn"  #REVISAR
+ c_jizhou_china: "Jǐzhōu"  
+ b_yanzhou_zoucheng_china: "Níngyáng"  
+ b_jining_shan_china: "Jìníngxiàn"  
  
- c_danzhou_song_china: "Dānzhōu"  #REVISAR
- c_suzhou_song_china: "Sùzhōu"  #REVISAR
- b_shanxian_china: "Shànxiàn"  #REVISAR
- b_xiangyi_fuli_china: "Fúlí"  #REVISAR
- b_ningling_china: "Nínglíng"  #REVISAR
- d_suzhou_china: "Sùsì"  #REVISAR
- c_xizhou_xincai: "Xīzhōu"  #REVISAR
- b_zhengyang: "Zhèngyáng"  #REVISAR
- c_yuzhou_chu_china: "Yùzhōu"  #REVISAR
- c_shouzhou_song_china: "Shòuzhōu"  #REVISAR
- b_fengtai_china: "Fèngtái"  #REVISAR
- k_fengxian_jin: "Fèngxiáng"  #REVISAR
- d_lintao: "Xīlán"  #REVISAR
- d_gongmin: "Gǒngmín"  #REVISAR
- c_deshun_china: "Déshùnzhōu"  #REVISAR
- c_baoan_china: "Bǎo'ānzhōu"  #REVISAR
- d_hezhong1_china: "Hézhōng-Xiè"  #REVISAR
- d_jizhou_china: "Jìshēn"  #REVISAR
- c_qingzhou_hebei_china: "Qīngzhōu"  #REVISAR
- b_langfang_china: "Lángfáng"  #REVISAR
- c_lizhou_hebei_china: "Lǐzhōu"  #REVISAR
- b_lixian_gaoyang_china: "Gāoyángxiàn"  #REVISAR
- b_suning_china: "Sùníng"  #REVISAR
- c_jingzhou_wei_china: "Jǐngzhōu"  #REVISAR
- b_dongguan_jing_china: "Dōngguāng"  #REVISAR
- b_laoling_cangzhou_china: "Làolíng"  #REVISAR
- b_shanghe_china: "Shānghé"  #REVISAR
- c_qizhou_hebei_china: "Qízhōu"  #REVISAR
- b_shenxe_china: "Shēnzéxiàn"  #REVISAR
- b_jinxian_china: "Jìnxiàn"  #REVISAR
- c_luanzhou_yan_china: "Luánzhōu"  #REVISAR
- b_laoting_china: "Lètíngxiàn"  #REVISAR
- b_funing1_china: "Fǔníng"  #REVISAR
- c_xingzhong_liaoxi_china: "Xīngzhōng"  #REVISAR
- b_beipiao_china: "Běipiào"  #REVISAR
+ c_danzhou_song_china: "Dānzhōu"  
+ c_suzhou_song_china: "Sùzhōu"  
+ b_shanxian_china: "Shànxiàn"  
+ b_xiangyi_fuli_china: "Fúlí"  
+ b_ningling_china: "Nínglíng"  
+ d_suzhou_china: "Sùsì"  
+ c_xizhou_xincai: "Xīzhōu"  
+ b_zhengyang: "Zhèngyáng"  
+ c_yuzhou_chu_china: "Yùzhōu"  
+ c_shouzhou_song_china: "Shòuzhōu"  
+ b_fengtai_china: "Fèngtái"  
+ k_fengxian_jin: "Fèngxiáng"  
+ d_lintao: "Xīlán"  
+ d_gongmin: "Gǒngmín"  
+ c_deshun_china: "Déshùnzhōu"  
+ c_baoan_china: "Bǎo'ānzhōu"  
+ d_hezhong1_china: "Hézhōng-Xiè"  
+ d_jizhou_china: "Jìshēn"  
+ c_qingzhou_hebei_china: "Qīngzhōu"  
+ b_langfang_china: "Lángfáng"  
+ c_lizhou_hebei_china: "Lǐzhōu"  
+ b_lixian_gaoyang_china: "Gāoyángxiàn"  
+ b_suning_china: "Sùníng"  
+ c_jingzhou_wei_china: "Jǐngzhōu"  
+ b_dongguan_jing_china: "Dōngguāng"  
+ b_laoling_cangzhou_china: "Làolíng"  
+ b_shanghe_china: "Shānghé"  
+ c_qizhou_hebei_china: "Qízhōu"  
+ b_shenxe_china: "Shēnzéxiàn"  
+ b_jinxian_china: "Jìnxiàn"  
+ c_luanzhou_yan_china: "Luánzhōu"  
+ b_laoting_china: "Lètíngxiàn"  
+ b_funing1_china: "Fǔníng"  
+ c_xingzhong_liaoxi_china: "Xīngzhōng"  
+ b_beipiao_china: "Běipiào"  
  
- c_lizhou_liaoxi_china: "Lìzhōu"  #REVISAR
- b_jianchang_china: "Jiànchāng"  #REVISAR
- b_dachengzi_china: "Dàchéngzǐ"  #REVISAR
+ c_lizhou_liaoxi_china: "Lìzhōu"  
+ b_jianchang_china: "Jiànchāng"  
+ b_dachengzi_china: "Dàchéngzǐ"  
  
- c_ruizhou_liaoxi_china: "Ruìzhōu"  #REVISAR
- b_shanhai_china: "Shānhǎiguān"  #REVISAR
+ c_ruizhou_liaoxi_china: "Ruìzhōu"  
+ b_shanhai_china: "Shānhǎiguān"  
  
- b_liao_xingcheng_china: "Xīngchéng"  #REVISAR
- b_linghai_china: "Línghǎi"  #REVISAR
- c_yizhou_liaoxi_china: "Yízhōu"  #REVISAR
- b_yingzhou_liaoxi_china: "Yíngzhōu"  #REVISAR
+ b_liao_xingcheng_china: "Xīngchéng"  
+ b_linghai_china: "Línghǎi"  
+ c_yizhou_liaoxi_china: "Yízhōu"  
+ b_yingzhou_liaoxi_china: "Yíngzhōu"  
  
- b_beijing_tongzhou_china: "Zhuōzhōu"  #REVISAR
+ b_beijing_tongzhou_china: "Zhuōzhōu"  
  
- c_hongzhou_datong_china: "Hóngzhōu"  #REVISAR
- b_yonging_china: "Yǒngníngxiàn"  #REVISAR
- b_shunseng_china: "Shùnshèng"  #REVISAR
+ c_hongzhou_datong_china: "Hóngzhōu"  
+ b_yonging_china: "Yǒngníngxiàn"  
+ b_shunseng_china: "Shùnshèng"  
  
- c_xuandezhou1_china: "Xuāndézhōu"  #REVISAR
- b_wanquan_china: "Wànquán"  #REVISAR
+ c_xuandezhou1_china: "Xuāndézhōu"  
+ b_wanquan_china: "Wànquán"  
  
- d_xuandezhou_china: "Xuāndézhōu"  #REVISAR
- c_chengzhou_china: "Chéngzhōu"  #REVISAR
- b_haicheng_china: "Hǎichéngxiàn"  #REVISAR
- b_gungnae_china: "Gungnaeseong"  #REVISAR
- b_wulongshan_china: "Wǔlóng Shān"  #REVISAR
- b_chengmu_china: "Chéngmù"  #REVISAR
- b_xinmin_china: "Xīnmín"  #REVISAR
- c_shenzhou_liao_china: "Shěnzhōu"  #REVISAR
- b_fushan_china: "Fǔshùn"  #REVISAR
- c_guidezhou_china: "Guìdézhōu"  #REVISAR
- b_xian_china: "Xī'ān"  #REVISAR
- c_xianping_china: "Xiánpíng"  #REVISAR
- d_jilin_china: "Shěnliáo"  #REVISAR
- d_xianping_china: "Xiánpíng Fǔ"  #REVISAR
- b_seonju_china: "Seonju"  #REVISAR
- d_anar: "Anár"  #REVISAR
- d_perapoh: "Peräpohjola"  #REVISAR
- d_kvenland: "Kvenland"  #REVISAR
- k_kvenland: "Kvenland"  #REVISAR
- d_indian_catholic_papacy: "$indian_catholic_religious_head_title$ of St. Thomas"  #REVISAR
- d_indian_catholic_papacy_adj: "thomasine"  #REVISAR
+ d_xuandezhou_china: "Xuāndézhōu"  
+ c_chengzhou_china: "Chéngzhōu"  
+ b_haicheng_china: "Hǎichéngxiàn"  
+ b_gungnae_china: "Gungnaeseong"  
+ b_wulongshan_china: "Wǔlóng Shān"  
+ b_chengmu_china: "Chéngmù"  
+ b_xinmin_china: "Xīnmín"  
+ c_shenzhou_liao_china: "Shěnzhōu"  
+ b_fushan_china: "Fǔshùn"  
+ c_guidezhou_china: "Guìdézhōu"  
+ b_xian_china: "Xī'ān"  
+ c_xianping_china: "Xiánpíng"  
+ d_jilin_china: "Shěnliáo"  
+ d_xianping_china: "Xiánpíng Fǔ"  
+ b_seonju_china: "Seonju"  
+ d_anar: "Anár"  
+ d_perapoh: "Peräpohjola"  
+ d_kvenland: "Kvenland"  
+ k_kvenland: "Kvenland"  
+ d_indian_catholic_papacy: "$indian_catholic_religious_head_title$ of St. Thomas"  
+ d_indian_catholic_papacy_adj: "thomasine"  
  
- k_guangdong: "Guǎngdōng"  #REVISAR
- k_zhejiang: "Zhèjiāng"  #REVISAR
- k_jiangxi: "Jiāngxī"  #REVISAR
- k_south_zhili: "Nánzhílì"  #REVISAR
- k_huguang: "Húguǎng"  #REVISAR
- k_sichuan: "Sìchuān"  #REVISAR
- k_shaanxi: "Shǎnxī"  #REVISAR
- k_shanxi: "Shānxī"  #REVISAR
- k_henan: "Hénán"  #REVISAR
- k_shandong: "Shāndōng"  #REVISAR
- k_north_zhili: "Běizhílì"  #REVISAR
- k_jiangzhe: "Jiāngzhè"  #REVISAR
+ k_guangdong: "Guǎngdōng"  
+ k_zhejiang: "Zhèjiāng"  
+ k_jiangxi: "Jiāngxī"  
+ k_south_zhili: "Nánzhílì"  
+ k_huguang: "Húguǎng"  
+ k_sichuan: "Sìchuān"  
+ k_shaanxi: "Shǎnxī"  
+ k_shanxi: "Shānxī"  
+ k_henan: "Hénán"  
+ k_shandong: "Shāndōng"  
+ k_north_zhili: "Běizhílì"  
+ k_jiangzhe: "Jiāngzhè"  
  
- b_wola_china: "Wōlā"  #REVISAR
- b_yingzi_china: "Kāilíng"  #REVISAR
- c_hulan_china: "Wōlā"  #REVISAR
- b_simu_china: "Taju Simu"  #REVISAR
+ b_wola_china: "Wōlā"  
+ b_yingzi_china: "Kāilíng"  
+ c_hulan_china: "Wōlā"  
+ b_simu_china: "Taju Simu"  
  
  h_india: "Bharatavarsha" # 'India' is a pretty modern term and feels out of place. No Indian in this timeframe is going to name their hegemon after the Greek based name for the region
  h_india_adj: "bharatiya"
  h_india_pre: "bharatiya"
  
- d_BAL_yeojintang: "Jeongni"  #REVISAR
- d_BAL_anbian: "Anbyeon"  #REVISAR
- d_BAL_shuaibin: "Solbin"  #REVISAR
+ d_BAL_yeojintang: "Jeongni"  
+ d_BAL_anbian: "Anbyeon"  
+ d_BAL_shuaibin: "Solbin"  
  
- c_BAL_jeongni: "Dingzhou"  #REVISAR
- c_BAL_jeongni2: "Dìngli"  #REVISAR
+ c_BAL_jeongni: "Dingzhou"  
+ c_BAL_jeongni2: "Dìngli"  
  c_BAL_solbin: "Shuàibīn" # 率賓
- c_BAL_solbin2: "Jianzhou"  #REVISAR
+ c_BAL_solbin2: "Jianzhou"  
  
- d_latin_jerusalem: "Jersualem"  #REVISAR
- d_latin_antioch: "Antioch"  #REVISAR
- d_latin_constantinople: "Constantinople"  #REVISAR
- d_latin_alexandria: "Alexandria"  #REVISAR
+ d_latin_jerusalem: "Jersualem"  
+ d_latin_antioch: "Antioch"  
+ d_latin_constantinople: "Constantinople"  
+ d_latin_alexandria: "Alexandria"  
  
- k_guishi: "Shāzhōu"  #REVISAR
+ k_guishi: "Shāzhōu"  
  
- e_liangyi: "Bāshǔ"  #REVISAR
- e_lingnan: "Lǐngnán"  #REVISAR
- e_yongliang: "Guānzhōng"  #REVISAR
- e_zhongyuan: "Zhōngyuán"  #REVISAR
- e_jingyang: "Jīngyáng"  #REVISAR
+ e_liangyi: "Bāshǔ"  
+ e_lingnan: "Lǐngnán"  
+ e_yongliang: "Guānzhōng"  
+ e_zhongyuan: "Zhōngyuán"  
+ e_jingyang: "Jīngyáng"  
  
- e_guanzhong: "Guānzhōng"  #REVISAR
- e_shannan: "Shānnán"  #REVISAR
- e_hebei: "Héběi"  #REVISAR
- e_jiangnan: "Jiāngnán"  #REVISAR
- e_jingchu: "Jīngchǔ"  #REVISAR
- e_dongnan: "Dōngnán"  #REVISAR
- e_andong: "Āndōng"  #REVISAR
- e_andong_adj: "Āndōng"  #REVISAR
+ e_guanzhong: "Guānzhōng"  
+ e_shannan: "Shānnán"  
+ e_hebei: "Héběi"  
+ e_jiangnan: "Jiāngnán"  
+ e_jingchu: "Jīngchǔ"  
+ e_dongnan: "Dōngnán"  
+ e_andong: "Āndōng"  
+ e_andong_adj: "Āndōng"  
  
- k_dian: "Diān"  #REVISAR
- k_weichu: "Wēichǔ"  #REVISAR
- k_amur: "Mángmu"  #REVISAR
- k_warka: "Warka"  #REVISAR
+ k_dian: "Diān"  
+ k_weichu: "Wēichǔ"  
+ k_amur: "Mángmu"  
+ k_warka: "Warka"  
  
- d_SW_dashiweiguo: "Hailar"  #REVISAR
- d_SW_qingxingan: "Amba Hinggan"  #REVISAR
- d_SW_sushenguo: "Mudan"  #REVISAR
- d_SW_ruzheguo: "Sunggari"  #REVISAR
+ d_SW_dashiweiguo: "Hailar"  
+ d_SW_qingxingan: "Amba Hinggan"  
+ d_SW_sushenguo: "Mudan"  
+ d_SW_ruzheguo: "Sunggari"  
  
  
- d_eman_nivkhia: "Lafte"  #REVISAR
- d_eman_sikhotebei: "Sihote Alin"  #REVISAR
- d_eman_samagero: "Goryn"  #REVISAR
- d_eman_boli: "Buri"  #REVISAR
- d_eman_bureya: "Niman"  #REVISAR
- d_eman_amar: "Mángmu"  #REVISAR
+ d_eman_nivkhia: "Lafte"  
+ d_eman_sikhotebei: "Sihote Alin"  
+ d_eman_samagero: "Goryn"  
+ d_eman_boli: "Buri"  
+ d_eman_bureya: "Niman"  
+ d_eman_amar: "Mángmu"  
 
- d_SW_puyudao: "Naun"  #REVISAR
- d_SW_lingxiguo: "Hulun"  #REVISAR
- d_SW_heicheziguo: "Buir"  #REVISAR
- d_EM_wajiezi: "Šilka"  #REVISAR
- d_EM_yujuelu: "Kerülen"  #REVISAR
- d_em_wuguguo: "Tuul"  #REVISAR
- d_em_tataria: "Dundgovi"  #REVISAR
- d_gobi_dadaels: "Shiliin Gol"  #REVISAR
- d_gobi_shatuoguo: "Dariganga"  #REVISAR
+ d_SW_puyudao: "Naun"  
+ d_SW_lingxiguo: "Hulun"  
+ d_SW_heicheziguo: "Buir"  
+ d_EM_wajiezi: "Šilka"  
+ d_EM_yujuelu: "Kerülen"  
+ d_em_wuguguo: "Tuul"  
+ d_em_tataria: "Dundgovi"  
+ d_gobi_dadaels: "Shiliin Gol"  
+ d_gobi_shatuoguo: "Dariganga"  
     
- k_gobi: "Ömnögovi"  #REVISAR
- k_dornogovi: "Dornogovi"  #REVISAR
- k_hentii: "Hentii"  #REVISAR
- d_zavkhan: "Zavhan Gol"  #REVISAR
+ k_gobi: "Ömnögovi"  
+ k_dornogovi: "Dornogovi"  
+ k_hentii: "Hentii"  
+ d_zavkhan: "Zavhan Gol"  
  
- d_west_sanindo: "Nishi-San'indō"  #REVISAR
- k_pandya: "Pāṇṭiyamaṇṭalam"  #REVISAR
- c_meulaboh: "Meulaboh"  #REVISAR
- c_kualuh: "Kualuh"  #REVISAR
- c_senapelan: "Senapelen"  #REVISAR
- c_gunung: "Gunung Sahilan"  #REVISAR
- c_kunto: "Kunto"  #REVISAR
+ d_west_sanindo: "Nishi-San'indō"  
+ k_pandya: "Pāṇṭiyamaṇṭalam"  
+ c_meulaboh: "Meulaboh"  
+ c_kualuh: "Kualuh"  
+ c_senapelan: "Senapelen"  
+ c_gunung: "Gunung Sahilan"  
+ c_kunto: "Kunto"  
 
- c_cieza: "Cieza"  #REVISAR
- c_mondonedo: "Mondoñedo"  #REVISAR
- c_ourense: "Ourense"  #REVISAR
- c_aranda: "Aranda"  #REVISAR
- c_portalegre: "Portalegre"  #REVISAR
- c_sintra: "Sintra"  #REVISAR
- c_gudalajara: "Guadalajara"  #REVISAR
- c_medinaceli: "Medinaceli"  #REVISAR
- c_ocana: "Ocaña"  #REVISAR
- c_fraga_1: "Fraga"  #REVISAR
- c_benavente_1: "Benavente"  #REVISAR
- c_medinadelcampo: "Medina del Campo"  #REVISAR
- c_villa_real: "Vila Real"  #REVISAR
- c_lamego: "Lamego"  #REVISAR
- c_santiago_1: "Santiago"  #REVISAR
- c_andorra: "Seu d'Urgell"  #REVISAR
- c_huelva: "Huelva"  #REVISAR
- d_cuenca: "Cuenca"  #REVISAR
- d_gudalajara: "Gudalajara"  #REVISAR
- d_santiago: "Santiago de Compostela"  #REVISAR
- d_ourense: "Ourense"  #REVISAR
- d_estremadura: "Estremadura"  #REVISAR
- c_etampes: "Étampes"  #REVISAR
- c_veurne: "Veurne"  #REVISAR
- c_coutenay: "Courtenay"  #REVISAR
- c_barcelonnette: "Barcelonnette"  #REVISAR
- c_laon: "Laon"  #REVISAR
- c_coucy: "Coucy"  #REVISAR
- c_autun: "Autun"  #REVISAR
- c_cluny: "Cluny"  #REVISAR
- c_vitry_en_perthois: "Vitry-en-Perthois"  #REVISAR
- c_agde: "Agde"  #REVISAR
- c_astarac: "Astarac"  #REVISAR
- c_saintes: "Saintes"  #REVISAR
- c_parthenay: "Parthenay"  #REVISAR
- c_beveren: "Beveren"  #REVISAR
- c_oudenaarde: "Oudenaarde"  #REVISAR
- c_dowaai: "Douai"  #REVISAR
- c_courtrai: "Kortrijk"  #REVISAR
- c_tartas: "Tartas"  #REVISAR
- c_montreuil_sur_mer: "Montreuil"  #REVISAR
- c_embrun: "Embrun"  #REVISAR
- d_ile_de_france: "Île-de-France"  #REVISAR
- d_maine: "Maine"  #REVISAR
- d_saintonge: "Saintonge"  #REVISAR
- c_fecamp: "Fecamp"  #REVISAR
- d_la_marche: "La Marche"  #REVISAR
- d_albret: "Albret"  #REVISAR
- d_bearn: "Bearn"  #REVISAR
- d_foix: "Pyrenees"  #REVISAR
+ c_cieza: "Cieza"  
+ c_mondonedo: "Mondoñedo"  
+ c_ourense: "Ourense"  
+ c_aranda: "Aranda"  
+ c_portalegre: "Portalegre"  
+ c_sintra: "Sintra"  
+ c_gudalajara: "Guadalajara"  
+ c_medinaceli: "Medinaceli"  
+ c_ocana: "Ocaña"  
+ c_fraga_1: "Fraga"  
+ c_benavente_1: "Benavente"  
+ c_medinadelcampo: "Medina del Campo"  
+ c_villa_real: "Vila Real"  
+ c_lamego: "Lamego"  
+ c_santiago_1: "Santiago"  
+ c_andorra: "Seu d'Urgell"  
+ c_huelva: "Huelva"  
+ d_cuenca: "Cuenca"  
+ d_gudalajara: "Gudalajara"  
+ d_santiago: "Santiago de Compostela"  
+ d_ourense: "Ourense"  
+ d_estremadura: "Estremadura"  
+ c_etampes: "Étampes"  
+ c_veurne: "Veurne"  
+ c_coutenay: "Courtenay"  
+ c_barcelonnette: "Barcelonnette"  
+ c_laon: "Laon"  
+ c_coucy: "Coucy"  
+ c_autun: "Autun"  
+ c_cluny: "Cluny"  
+ c_vitry_en_perthois: "Vitry-en-Perthois"  
+ c_agde: "Agde"  
+ c_astarac: "Astarac"  
+ c_saintes: "Saintes"  
+ c_parthenay: "Parthenay"  
+ c_beveren: "Beveren"  
+ c_oudenaarde: "Oudenaarde"  
+ c_dowaai: "Douai"  
+ c_courtrai: "Kortrijk"  
+ c_tartas: "Tartas"  
+ c_montreuil_sur_mer: "Montreuil"  
+ c_embrun: "Embrun"  
+ d_ile_de_france: "Île-de-France"  
+ d_maine: "Maine"  
+ d_saintonge: "Saintonge"  
+ c_fecamp: "Fecamp"  
+ d_la_marche: "La Marche"  
+ d_albret: "Albret"  
+ d_bearn: "Bearn"  
+ d_foix: "Pyrenees"  
  k_toulouse: "Tolosa"
- d_forez: "Forez"  #REVISAR
- d_ponthieu: "Ponthieu"  #REVISAR
- c_porcien: "Porcien"  #REVISAR
- c_grandpre: "Grandpre"  #REVISAR
- c_brienne: "Brienne"  #REVISAR
- c_turenne: "Turenne"  #REVISAR
- c_chatellerault: "Châtellerault"  #REVISAR
- d_tras_montes: "Trás-os-Montes"  #REVISAR
- d_monaco: "Monaco"  #REVISAR
- d_ivrea: "Ivrea"  #REVISAR
- c_vercelli: "Vercelli"  #REVISAR
- c_turin_1: "Turin"  #REVISAR
- c_vicenza: "Vicenza"  #REVISAR
- c_farfa: "Farfa"  #REVISAR
- c_cuneo_1: "Cuneo"  #REVISAR
- c_forli: "Forli"  #REVISAR
- c_besalu: "Besalu"  #REVISAR
- c_croan: "Craon"  #REVISAR
- c_anduze: "Anduze"  #REVISAR
- c_montferrand: "Montferrand"  #REVISAR
+ d_forez: "Forez"  
+ d_ponthieu: "Ponthieu"  
+ c_porcien: "Porcien"  
+ c_grandpre: "Grandpre"  
+ c_brienne: "Brienne"  
+ c_turenne: "Turenne"  
+ c_chatellerault: "Châtellerault"  
+ d_tras_montes: "Trás-os-Montes"  
+ d_monaco: "Monaco"  
+ d_ivrea: "Ivrea"  
+ c_vercelli: "Vercelli"  
+ c_turin_1: "Turin"  
+ c_vicenza: "Vicenza"  
+ c_farfa: "Farfa"  
+ c_cuneo_1: "Cuneo"  
+ c_forli: "Forli"  
+ c_besalu: "Besalu"  
+ c_croan: "Craon"  
+ c_anduze: "Anduze"  
+ c_montferrand: "Montferrand"  
  d_murom: "Murom-Ryazan"
  d_uglich: "Uglich"
  xxxxx: "xxxxxx"
@@ -39606,112 +39606,112 @@
  
  #Landless Titles
  
- d_laamp_Snorri: "Keepers of the Sagas"  #REVISAR
- d_laamp_Snorri_article: "el "  #REVISAR
- d_laamp_Abelard1124: "Peripatetic Philosophers"  #REVISAR
- d_laamp_Abelard1124_article: "el "  #REVISAR
- d_laamp_Algais1211: "Lords of the Black Banner"  #REVISAR
- d_laamp_Algais1211_article: "el "  #REVISAR
- d_laamp_Averroes1171: "Guardians of Ancient Wisdom"  #REVISAR
- d_laamp_Averroes1171_article: "el "  #REVISAR
- d_laamp_Baghdad1211: "Witnesses of Calamity"  #REVISAR
- d_laamp_Baghdad1211_article: "el "  #REVISAR
- d_laamp_Ben1171: "Wayfarers of Sefarad"  #REVISAR
- d_laamp_Ben1171_article: "el "  #REVISAR
- d_laamp_Benkei1171: "Demon Warriors of the Bridge"  #REVISAR
- d_laamp_Benkei1171_article: "el "  #REVISAR
- d_laamp_Eustace1211: "Black Monks of the Channel"  #REVISAR
- d_laamp_Eustace1211_article: "el "  #REVISAR
- d_laamp_Fakhr1211: "Masters of Divine Wisdom"  #REVISAR
- d_laamp_Fakhr1211_article: "el "  #REVISAR
- d_laamp_Fan1171: "Scholars of Mountains and Waters"  #REVISAR
- d_laamp_Fan1171_article: "el "  #REVISAR
- d_laamp_Gharnati1144: "Wanderers of Wisdom"  #REVISAR
- d_laamp_Gharnati1144_article: "el "  #REVISAR
- d_laamp_Ghazali1099: "The Proof of Islam"  #REVISAR
- d_laamp_Ghazali1099_article: "el "  #REVISAR
- d_laamp_Idrisi1144: "Scribes of the World's Edge"  #REVISAR
- d_laamp_Idrisi1144_article: "el "  #REVISAR
- d_laamp_Maim1171: "Healers of Body and Soul"  #REVISAR
- d_laamp_Maim1171_article: "el "  #REVISAR
- d_laamp_Marco1267: "Merchants of the Eastern Star"  #REVISAR
- d_laamp_Marco1267_article: "el "  #REVISAR
- d_laamp_Marco1286: "Eyes of the Great Khan"  #REVISAR
- d_laamp_Marco1286_article: "el "  #REVISAR
- d_laamp_Marshal1171: "Flower of Chivalry"  #REVISAR
- d_laamp_Marshal1171_article: "el "  #REVISAR
- d_laamp_Minamoto1171: "Warriors of the Mountain Wolves"  #REVISAR
- d_laamp_Minamoto1171_article: "el "  #REVISAR
- d_laamp_Petac1171: "Wayfarers of the Eastern Roads"  #REVISAR
- d_laamp_Petac1171_article: "el "  #REVISAR
- d_laamp_Rayhan997: "Measurers of Earth and Stars"  #REVISAR
- d_laamp_Rayhan997_article: "el "  #REVISAR
- d_laamp_Strongbow1171: "Lords of the Western Shore"  #REVISAR
- d_laamp_Strongbow1171_article: "el "  #REVISAR
- d_laamp_Sverre1171: "Birkebeiner's Champion"  #REVISAR
- d_laamp_Sverre1171_article: "el "  #REVISAR
- d_laamp_Tyre1171: "Chroniclers of Outremer"  #REVISAR
- d_laamp_Tyre1171_article: "el "  #REVISAR
- d_laamp_Vitry1211: "Eyes of Christendom"  #REVISAR
- d_laamp_Vitry1211_article: "el "  #REVISAR
- d_laamp_Wessex1066: "Scions of Wessex"  #REVISAR
- d_laamp_Wessex1066_article: "el "  #REVISAR
- d_laamp_Wessex1081: "Scions of Wessex"  #REVISAR
- d_laamp_Wessex1081_article: "el "  #REVISAR
- d_laamp_Zhao1211: "Chroniclers of Distant Shores"  #REVISAR
- d_laamp_Zhao1211_article: "el "  #REVISAR
- d_laamp_alcuin769: "Masters of Letters"  #REVISAR
- d_laamp_alcuin769_article: "el "  #REVISAR
- d_laamp_calv1337: "Lions of Cheshire"  #REVISAR
- d_laamp_calv1337_article: "el "  #REVISAR
- d_laamp_cervole1337: "Archpriest's Brigade"  #REVISAR
- d_laamp_cervole1337_article: "el "  #REVISAR
- d_laamp_deacon769: "Keepers of Memory"  #REVISAR
- d_laamp_deacon769_article: "el "  #REVISAR
- d_laamp_fangguo1337: "Dragons of the Eastern Seas"  #REVISAR
- d_laamp_fangguo1337_article: "el "  #REVISAR
- d_laamp_hanshantong1337: "Heralds of Maitreya"  #REVISAR
- d_laamp_hanshantong1337_article: "el "  #REVISAR
- d_laamp_ibn1337: "Wayfarers of the Horizon"  #REVISAR
- d_laamp_ibn1337_article: "el "  #REVISAR
- d_laamp_marignoli1337: "Emissaries of the East"  #REVISAR
- d_laamp_marignoli1337_article: "el "  #REVISAR
- d_laamp_mingyuzhen1337: "Daxia Aspirants"  #REVISAR
- d_laamp_mingyuzhen1337_article: "el "  #REVISAR
- d_laamp_montfort1337: "Claimants of Brittany"  #REVISAR
- d_laamp_montfort1337_article: "el "  #REVISAR
- d_laamp_ockham1337: "Razors of Truth"  #REVISAR
- d_laamp_ockham1337_article: "el "  #REVISAR
- d_laamp_petrarch: "Humanist Circle"  #REVISAR
- d_laamp_petrarch_article: "el "  #REVISAR
- d_laamp_rienzo: "Tribune of the Roman People"  #REVISAR
- d_laamp_rienzo_article: "el "  #REVISAR
- d_laamp_roland769: "Guardians of the March"  #REVISAR
- d_laamp_roland769_article: "el "  #REVISAR
- d_laamp_shicheng1337: "Merchants of the Middle Kingdom"  #REVISAR
- d_laamp_shicheng1337_article: "el "  #REVISAR
- d_laamp_tokiyuki1337: "Shadows of Kamakura"  #REVISAR
- d_laamp_tokiyuki1337_article: "el "  #REVISAR
- d_laamp_turgeis769: "Ravens of the Western Sea"  #REVISAR
- d_laamp_turgeis769_article: "el "  #REVISAR
- d_laamp_umari1337: "Scribes of the Realms"  #REVISAR
- d_laamp_umari1337_article: "el "  #REVISAR
- d_laamp_virgil769: "Scholars of the Alps"  #REVISAR
- d_laamp_virgil769_article: "el "  #REVISAR
+ d_laamp_Snorri: "Keepers of the Sagas"  
+ d_laamp_Snorri_article: "el "  
+ d_laamp_Abelard1124: "Peripatetic Philosophers"  
+ d_laamp_Abelard1124_article: "el "  
+ d_laamp_Algais1211: "Lords of the Black Banner"  
+ d_laamp_Algais1211_article: "el "  
+ d_laamp_Averroes1171: "Guardians of Ancient Wisdom"  
+ d_laamp_Averroes1171_article: "el "  
+ d_laamp_Baghdad1211: "Witnesses of Calamity"  
+ d_laamp_Baghdad1211_article: "el "  
+ d_laamp_Ben1171: "Wayfarers of Sefarad"  
+ d_laamp_Ben1171_article: "el "  
+ d_laamp_Benkei1171: "Demon Warriors of the Bridge"  
+ d_laamp_Benkei1171_article: "el "  
+ d_laamp_Eustace1211: "Black Monks of the Channel"  
+ d_laamp_Eustace1211_article: "el "  
+ d_laamp_Fakhr1211: "Masters of Divine Wisdom"  
+ d_laamp_Fakhr1211_article: "el "  
+ d_laamp_Fan1171: "Scholars of Mountains and Waters"  
+ d_laamp_Fan1171_article: "el "  
+ d_laamp_Gharnati1144: "Wanderers of Wisdom"  
+ d_laamp_Gharnati1144_article: "el "  
+ d_laamp_Ghazali1099: "The Proof of Islam"  
+ d_laamp_Ghazali1099_article: "el "  
+ d_laamp_Idrisi1144: "Scribes of the World's Edge"  
+ d_laamp_Idrisi1144_article: "el "  
+ d_laamp_Maim1171: "Healers of Body and Soul"  
+ d_laamp_Maim1171_article: "el "  
+ d_laamp_Marco1267: "Merchants of the Eastern Star"  
+ d_laamp_Marco1267_article: "el "  
+ d_laamp_Marco1286: "Eyes of the Great Khan"  
+ d_laamp_Marco1286_article: "el "  
+ d_laamp_Marshal1171: "Flower of Chivalry"  
+ d_laamp_Marshal1171_article: "el "  
+ d_laamp_Minamoto1171: "Warriors of the Mountain Wolves"  
+ d_laamp_Minamoto1171_article: "el "  
+ d_laamp_Petac1171: "Wayfarers of the Eastern Roads"  
+ d_laamp_Petac1171_article: "el "  
+ d_laamp_Rayhan997: "Measurers of Earth and Stars"  
+ d_laamp_Rayhan997_article: "el "  
+ d_laamp_Strongbow1171: "Lords of the Western Shore"  
+ d_laamp_Strongbow1171_article: "el "  
+ d_laamp_Sverre1171: "Birkebeiner's Champion"  
+ d_laamp_Sverre1171_article: "el "  
+ d_laamp_Tyre1171: "Chroniclers of Outremer"  
+ d_laamp_Tyre1171_article: "el "  
+ d_laamp_Vitry1211: "Eyes of Christendom"  
+ d_laamp_Vitry1211_article: "el "  
+ d_laamp_Wessex1066: "Scions of Wessex"  
+ d_laamp_Wessex1066_article: "el "  
+ d_laamp_Wessex1081: "Scions of Wessex"  
+ d_laamp_Wessex1081_article: "el "  
+ d_laamp_Zhao1211: "Chroniclers of Distant Shores"  
+ d_laamp_Zhao1211_article: "el "  
+ d_laamp_alcuin769: "Masters of Letters"  
+ d_laamp_alcuin769_article: "el "  
+ d_laamp_calv1337: "Lions of Cheshire"  
+ d_laamp_calv1337_article: "el "  
+ d_laamp_cervole1337: "Archpriest's Brigade"  
+ d_laamp_cervole1337_article: "el "  
+ d_laamp_deacon769: "Keepers of Memory"  
+ d_laamp_deacon769_article: "el "  
+ d_laamp_fangguo1337: "Dragons of the Eastern Seas"  
+ d_laamp_fangguo1337_article: "el "  
+ d_laamp_hanshantong1337: "Heralds of Maitreya"  
+ d_laamp_hanshantong1337_article: "el "  
+ d_laamp_ibn1337: "Wayfarers of the Horizon"  
+ d_laamp_ibn1337_article: "el "  
+ d_laamp_marignoli1337: "Emissaries of the East"  
+ d_laamp_marignoli1337_article: "el "  
+ d_laamp_mingyuzhen1337: "Daxia Aspirants"  
+ d_laamp_mingyuzhen1337_article: "el "  
+ d_laamp_montfort1337: "Claimants of Brittany"  
+ d_laamp_montfort1337_article: "el "  
+ d_laamp_ockham1337: "Razors of Truth"  
+ d_laamp_ockham1337_article: "el "  
+ d_laamp_petrarch: "Humanist Circle"  
+ d_laamp_petrarch_article: "el "  
+ d_laamp_rienzo: "Tribune of the Roman People"  
+ d_laamp_rienzo_article: "el "  
+ d_laamp_roland769: "Guardians of the March"  
+ d_laamp_roland769_article: "el "  
+ d_laamp_shicheng1337: "Merchants of the Middle Kingdom"  
+ d_laamp_shicheng1337_article: "el "  
+ d_laamp_tokiyuki1337: "Shadows of Kamakura"  
+ d_laamp_tokiyuki1337_article: "el "  
+ d_laamp_turgeis769: "Ravens of the Western Sea"  
+ d_laamp_turgeis769_article: "el "  
+ d_laamp_umari1337: "Scribes of the Realms"  
+ d_laamp_umari1337_article: "el "  
+ d_laamp_virgil769: "Scholars of the Alps"  
+ d_laamp_virgil769_article: "el "  
  d_laamp_werner1337: "Great Company" #Technically founded in 1342
- d_laamp_werner1337_article: "el "  #REVISAR
- d_laamp_youliang1337: "Dragons of the Nine Rivers"  #REVISAR
- d_laamp_youliang1337_article: "el "  #REVISAR
- d_laamp_zongpu1337: "Twilight Court of the West"  #REVISAR
- d_laamp_zongpu1337_article: "el "  #REVISAR
- d_laamp_johan_sverker: "Exiles of the Sverker"  #REVISAR
- d_laamp_johan_sverker_article: "el "  #REVISAR
- d_laamp_rainulf_drengot: "Norman Lances"  #REVISAR
- d_laamp_rainulf_drengot_article: "el "  #REVISAR
- d_laamp_edward_confessor: "Heirs of Wessex"  #REVISAR
- d_laamp_edward_confessor_article: "el "  #REVISAR
- d_laamp_seljuk: "Riders of the Steppe"  #REVISAR
- d_laamp_seljuk_article: "el "  #REVISAR
+ d_laamp_werner1337_article: "el "  
+ d_laamp_youliang1337: "Dragons of the Nine Rivers"  
+ d_laamp_youliang1337_article: "el "  
+ d_laamp_zongpu1337: "Twilight Court of the West"  
+ d_laamp_zongpu1337_article: "el "  
+ d_laamp_johan_sverker: "Exiles of the Sverker"  
+ d_laamp_johan_sverker_article: "el "  
+ d_laamp_rainulf_drengot: "Norman Lances"  
+ d_laamp_rainulf_drengot_article: "el "  
+ d_laamp_edward_confessor: "Heirs of Wessex"  
+ d_laamp_edward_confessor_article: "el "  
+ d_laamp_seljuk: "Riders of the Steppe"  
+ d_laamp_seljuk_article: "el "  
  d_cd_via_lata: "Santa Maria in Via Lata"
  d_cd_santi_marcellino_e_pietro: "Santi Marcellino e Pietro"
  d_cd_aquiro: "Santa Maria in Aquiro"
