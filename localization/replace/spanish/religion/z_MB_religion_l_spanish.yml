@@ -2715,7 +2715,7 @@
 
  # Catolicismo
  catholic: "Iglesia católica romana"
- catholic_adj: "Cristianismo Católico"
+ catholic_adj: "Católicismo"
  catholic_adherent: "Cristiano Católico"
  catholic_adherent_plural: "Cristianos Católicos"
  catholic_desc: "La Iglesia católica romana se considera continuadora de la Iglesia una, santa, católica y apostólica, y afirma conservar la fe transmitida por los apóstoles, expresada en las Sagradas Escrituras, la Sagrada Tradición, las enseñanzas de los Padres de la Iglesia y las decisiones de los concilios ecuménicos. Sus fieles profesan la doctrina de la Santísima Trinidad y reconocen que Jesucristo posee dos naturalezas, divina y humana, unidas inseparablemente en una sola persona. Su vida religiosa se fundamenta en la celebración de los sacramentos, especialmente la Eucaristía, la veneración de la Virgen María y los santos, la observancia de los ayunos y la importancia de la vida monástica. Su organización eclesiástica se articula en torno a una jerarquía de obispos y arzobispos, bajo la autoridad del obispo de Roma, considerado sucesor de san Pedro y cabeza visible de la Iglesia. Fundamenta la primacía del pontífice romano en la misión confiada por Cristo al apóstol Pedro y reconoce su autoridad suprema sobre la Iglesia universal, considerando la comunión con la sede apostólica de Roma como principio fundamental de unidad doctrinal y eclesiástica."
@@ -2877,11 +2877,18 @@
  nestorian_desc: "El nestorianismo es una corriente del cristianismo oriental vinculada a la tradición teológica de Antioquía y a las enseñanzas de Nestorio y Teodoro de Mopsuestia, cuya influencia resulta especialmente importante en la Iglesia del Oriente. Sus seguidores distinguen cuidadosamente la divinidad y la humanidad de Jesucristo, afirmando la integridad de ambas naturalezas y su unión en una sola persona, sin confusión ni alteración de sus propiedades. Su doctrina rechaza aquellas formulaciones cristológicas que consideran que comprometen la plena humanidad o divinidad de Cristo y prefiere reconocer a la Virgen María como Madre de Cristo antes que emplear el título de Madre de Dios sin las precisiones teológicas correspondientes. Su organización eclesiástica se vincula históricamente a la Iglesia del Oriente, encabezada por un catolicós-patriarca y dotada de una jerarquía independiente de las sedes episcopales del Imperio romano. Su culto sigue la tradición litúrgica siríaca oriental, especialmente la liturgia de Addai y Mari, mientras que las escuelas de Edesa y Nisibis desempeñan un papel fundamental en la interpretación de las Escrituras y la formación del clero. La vida monástica, la predicación y la actividad misionera contribuyen a extender sus comunidades por Persia, Asia Central, la India y China. Su identidad religiosa se fundamenta en la conservación de la tradición teológica antioquena, la autonomía eclesiástica y la defensa de una interpretación cristológica diferenciada de las doctrinas calcedonianas y miafisitas."
 
  # Ambrosianismo
- ambrosian: "Ambrosianismo"
- ambrosian_adj: "Rito ambrosiano"
+ ambrosian: "Iglesia Ambrosiana"
+ ambrosian_adj: "Ambrosianismo"
  ambrosian_adherent: "Cristiano ambrosiano"
  ambrosian_adherent_plural: "Cristianos ambrosianos"
  ambrosian_desc: "El rito ambrosiano representa una tradición litúrgica del cristianismo latino arraigada en la Iglesia de Milán y vinculada a la figura de san Ambrosio. Sus fieles comparten la doctrina de la Iglesia católica y reconocen la autoridad espiritual del papa de Roma, pero conservan ceremonias, oraciones, cantos y costumbres eclesiásticas propias que distinguen su culto del rito romano. Su calendario litúrgico presenta particularidades en la celebración del Adviento, la Cuaresma y determinadas festividades religiosas, mientras que el canto ambrosiano constituye una de las expresiones más características de su espiritualidad. La celebración de la Eucaristía conserva una estructura ceremonial propia, enriquecida por plegarias y tradiciones vinculadas a la antigua liturgia milanesa. El arzobispo de Milán desempeña un papel fundamental en la conservación de estas prácticas, que se transmiten mediante las instituciones eclesiásticas y las comunidades religiosas de su jurisdicción. Su identidad religiosa se fundamenta en la continuidad de las tradiciones litúrgicas milanesas dentro de la comunión de la Iglesia católica."
+
+ # Rito ambrosiano
+ ambrosian_rite: "Rito ambrosiano"
+ ambrosian_rite_adj: "Rito ambrosiano"
+ ambrosian_rite_adherent: "Cristiano ambrosiano"
+ ambrosian_rite_adherent_plural: "Cristianos ambrosianos"
+ ambrosian_rite_desc: "El rito ambrosiano es la tradición litúrgica propia de la Iglesia de Milán, vinculada a la figura de san Ambrosio y a las antiguas costumbres cristianas del norte de Italia. Aunque comparte la doctrina y los sacramentos de la cristiandad latina, conserva una organización particular de la misa, un calendario religioso propio y ceremonias que lo distinguen del rito romano. Entre sus características destacan las seis semanas de Adviento, las particularidades de las celebraciones cuaresmales y un orden propio de lecturas, oraciones y cantos. Su tradición musical, conocida como canto ambrosiano, acompaña las celebraciones religiosas y constituye una expresión fundamental de la identidad espiritual milanesa. Los obispos y el clero de Milán preservan estas costumbres como parte de su herencia apostólica y de la autonomía litúrgica de su Iglesia."
 
  # Iglesia de Cartago
  african_church: "Iglesia de Cartago"
@@ -2999,7 +3006,7 @@
 
  # Cristianismo ortodoxo
  orthodox: "Iglesia católica ortodoxa"
- orthodox_adj: "Cristianismo Ortodoxo"
+ orthodox_adj: "Ortodoxia"
  orthodox_adherent: "Cristiano Ortodoxo"
  orthodox_adherent_plural: "Cristianos Ortodoxos"
  orthodox_desc: "La Iglesia católica ortodoxa se considera continuadora de la Iglesia una, santa, católica y apostólica, y afirma conservar íntegramente la fe transmitida por los apóstoles, expresada en las Sagradas Escrituras, la Sagrada Tradición, las enseñanzas de los Padres de la Iglesia y las decisiones de los siete concilios ecuménicos. Sus fieles profesan la doctrina de la Santísima Trinidad y reconocen que Jesucristo posee dos naturalezas, divina y humana, unidas inseparablemente en una sola persona. Su vida religiosa se desarrolla principalmente según la tradición litúrgica bizantina, caracterizada por la celebración de la Divina Liturgia, la veneración de los iconos, la intercesión de los santos, la observancia de los ayunos y la importancia de la vida monástica. Su organización eclesiástica se fundamenta en la comunión de Iglesias gobernadas por obispos, metropolitanos y patriarcas, unidos por una misma fe y tradición sacramental. Reconoce la primacía de honor entre las sedes patriarcales, pero rechaza la jurisdicción universal de un único obispo sobre toda la Iglesia, defendiendo la autoridad colegiada del episcopado y de los concilios ecuménicos."
@@ -3243,15 +3250,16 @@
  hereford_rite_adherent_plural: "Cristianos herefordenses"
  hereford_rite_desc: "El rito de Hereford fue una variante del rito romano conservada en la catedral y diócesis de Hereford. Su calendario concedía especial importancia a san Etelberto, rey y patrono de la catedral, y a santo Tomás de Cantilupe, obispo entre 1275 y 1282 y canonizado en 1320. El obispo Pedro de Aigueblanche llevó algunas de sus costumbres a Saboya, donde las introdujo en su iglesia de Aiguebelle. Su misal fue impreso en 1502 y su breviario en 1505."
 
- # Rito de Esztergom
- esztergom_rite: "Rito de Esztergom"
- esztergom_rite_adj: "Rito estrigoniense"
- esztergom_rite_adherent: "Cristiano estrigoniense"
- esztergom_rite_adherent_plural: "Cristianos estrigonienses"
- esztergom_rite_desc: "El rito de Esztergom fue la tradición litúrgica de la sede primada de Hungría, observada en Esztergom, Buda, Presburgo y buena parte del centro y norte del reino. Sus orígenes se remontan a la influencia del pontifical romano-germánico, y sus primeros testimonios incluyen el Benedicional de Esztergom, compuesto entre 1075 y 1083, y el Códice de las Oraciones del siglo XII. Su calendario honra especialmente a los santos húngaros Esteban, Emerico y Gerardo, canonizados en 1083, y Ladislao, canonizado en 1192. Alcanzó su forma clásica durante los siglos XIII y XIV y constituyó la variante mejor documentada de una tradición litúrgica húngara más amplia, compartida con los ritos de Kalocsa, Transilvania, Várad y Zagreb. La mayor parte del reino adoptó posteriormente el rito romano mediante los sínodos de 1630 a 1633, aunque Zagreb conservó sus antiguas costumbres hasta 1788."
+# Cristianismo húngaro
+# Iglesia de Hungría
+ esztergom_rite: "Iglesia de Hungría"
+ esztergom_rite_adj: "Rito de Estrigonia"
+ esztergom_rite_adherent: "Cristiano húngaro"
+ esztergom_rite_adherent_plural: "Cristianos húngaros"
+ esztergom_rite_desc: "La Iglesia de Hungría mantiene una tradición litúrgica propia, articulada en torno a la sede primada de Estrigonia y extendida por buena parte del reino. Su liturgia sigue las costumbres del rito latino y conserva influencias del pontifical romano-germánico. Su calendario destaca por la veneración de los santos vinculados a la cristianización y consolidación del reino, entre ellos Esteban, Emerico, Gerardo y Ladislao. La celebración de la Divina Liturgia, la observancia de las festividades religiosas y la veneración de los santos ocupan un lugar central en su vida espiritual. Aunque comparte los fundamentos doctrinales y sacramentales de la Iglesia latina, conserva particularidades ceremoniales y litúrgicas que expresan la identidad religiosa del reino húngaro."
 
  # Rito bizantino
- byzantine_rite: "Rito griego"
+ byzantine_rite: "Rito Constantinopolitano"
  byzantine_rite_adj: "Rito griego"
  byzantine_rite_adherent: "Constantinopolitano"
  byzantine_rite_adherent_plural: "Constantinopolitanos"
@@ -3281,7 +3289,7 @@
  # Cristianismo armenio
  # Cristianismo apostólico armenio
  armenian_apostolic: "Iglesia apostólica armenia"
- armenian_apostolic_adj: "Cristianismo Apostólico armenio"
+ armenian_apostolic_adj: "Apostolicismo armenio"
  armenian_apostolic_adherent: "Cristiano apostólico armenio"
  armenian_apostolic_adherent_plural: "Cristianos apostólicos armenios"
  armenian_apostolic_desc: "La Iglesia apostólica armenia se considera heredera de la predicación de los apóstoles Tadeo y Bartolomé, y reconoce en san Gregorio el Iluminador al principal evangelizador de Armenia, cuya labor conduce a la conversión del rey Tiridates III y a la adopción del cristianismo como religión del reino. Su tradición se fundamenta en las Sagradas Escrituras, las enseñanzas de los Padres de la Iglesia y los tres primeros concilios ecuménicos, y pertenece a la comunión de las Iglesias ortodoxas orientales. Rechaza las definiciones cristológicas del Concilio de Calcedonia y profesa una doctrina miafisita, según la cual las naturalezas divina y humana de Jesucristo permanecen unidas en una sola naturaleza encarnada, sin confusión ni separación. Su vida religiosa se caracteriza por la celebración de la Divina Liturgia según el rito armenio, la veneración de los santos, la observancia de los ayunos y la importancia de la vida monástica. La creación del alfabeto armenio por Mesrop Mashtots y la traducción de las Escrituras fortalecen su identidad religiosa y cultural. Su organización eclesiástica se articula en torno a una jerarquía de obispos bajo la autoridad de los catolicós, quienes preservan la continuidad de su tradición apostólica y la autonomía de la Iglesia frente a las autoridades eclesiásticas extranjeras."
@@ -3303,13 +3311,6 @@
  monothelitism_adherent: "Monotelita"
  monothelitism_adherent_plural: "Monotelitas"
  monothelitism_desc: "El monotelismo es una doctrina cristológica que sostiene que Jesucristo posee dos naturalezas, divina y humana, unidas en una sola persona, pero que ambas actúan conforme a una única voluntad. Surgida en el Imperio bizantino durante el siglo VII, esta enseñanza busca reconciliar las diferencias entre las comunidades calcedonias y aquellas que rechazan las conclusiones del Concilio de Calcedonia. Sus principales defensores, entre ellos el patriarca Sergio de Constantinopla y el emperador Heraclio, consideran que la unidad de la voluntad de Cristo garantiza la perfecta concordancia entre su divinidad y su humanidad. Esta interpretación encuentra respaldo en la Éctesis imperial del año 638, aunque suscita controversias entre los teólogos que defienden la existencia de dos voluntades naturales correspondientes a las dos naturalezas de Cristo. Los monotelitas mantienen las tradiciones sacramentales y litúrgicas del cristianismo oriental, distinguiéndose principalmente por su interpretación de la voluntad y las operaciones de Jesucristo."
-
- # Rito ambrosiano
- ambrosian_rite: "Rito ambrosiano"
- ambrosian_rite_adj: "Ambrosiano"
- ambrosian_rite_adherent: "Cristiano ambrosiano"
- ambrosian_rite_adherent_plural: "Cristianos ambrosianos"
- ambrosian_rite_desc: "El rito ambrosiano es la tradición litúrgica propia de la Iglesia de Milán, vinculada a la figura de san Ambrosio y a las antiguas costumbres cristianas del norte de Italia. Aunque comparte la doctrina y los sacramentos de la cristiandad latina, conserva una organización particular de la misa, un calendario religioso propio y ceremonias que lo distinguen del rito romano. Entre sus características destacan las seis semanas de Adviento, las particularidades de las celebraciones cuaresmales y un orden propio de lecturas, oraciones y cantos. Su tradición musical, conocida como canto ambrosiano, acompaña las celebraciones religiosas y constituye una expresión fundamental de la identidad espiritual milanesa. Los obispos y el clero de Milán preservan estas costumbres como parte de su herencia apostólica y de la autonomía litúrgica de su Iglesia."
 
  # Rito beneventino
  beneventan_rite: "Rito beneventino"
@@ -4370,241 +4371,235 @@
  denawar_witch_god_name: "los yäks"
  denawar_witch_god_name_possessive: "de los yäks"
 
- # Mutazilismo
- mutazila: "Mutazilismo"
- mutazila_adj: "Mutazilí"
- mutazila_adherent: "Mutazilí"
- mutazila_adherent_plural: "Mutazilíes"
- mutazila_desc: "Los mutazilíes de Basora, seguidores de Wasil ibn Ata y Amr ibn Ubayd, defendían la unidad y justicia absolutas de Dios, cuyos atributos no podían separarse de su esencia. Sostenían que el Corán había sido creado, que los seres humanos poseían libre albedrío y eran responsables de sus actos, y que quien cometía un pecado grave ocupaba una posición intermedia entre la fe y la incredulidad. El califa al-Mamún convirtió sus doctrinas en fundamento de la política religiosa del califato e inició la mihna, una inquisición doctrinal que sus sucesores mantuvieron hasta su abolición bajo al-Mutawákkil. Sus enseñanzas perduraron entre los hanafíes de Corasmia, en Juzestán y Basora, y entre algunas comunidades amaziges próximas a Tahert."
+ # Sunismo
+ sunni: "Islam sunita"
+ sunni_adj: "Sunismo"
+ sunni_adherent: "Musulmán suní"
+ sunni_adherent_plural: "Musulmanes suníes"
+ sunni_desc: "El sunismo es una de las principales corrientes del islam. Sus seguidores reconocen la sunna, el conjunto de enseñanzas, dichos y actos atribuidos a Mahoma, como referencia fundamental junto con el Corán. La jurisprudencia suní se desarrolla mediante distintas escuelas jurídicas que interpretan estas fuentes y recurren también al consenso de los juristas y al razonamiento por analogía."
 
- # Awzaísmo
- awzai: "Awzaísmo"
- awzai_adj: "Awzaí"
+ # Escuelas jurídicas suníes
+ awzai: "Escuela awzaí"
+ awzai_adj: "Awzaísmo"
  awzai_adherent: "Awzaí"
  awzai_adherent_plural: "Awzaíes"
- awzai_desc: "La escuela jurídica de Abd al-Rahman al-Awzaí, fallecido en 774, surgió en Siria y se fundamentó en las prácticas transmitidas por las primeras comunidades musulmanas de la región. Alcanzó una notable influencia tanto en Siria como en al-Ándalus, hasta que los emires Hisham I y al-Hakam I favorecieron la expansión del malikismo en la península ibérica. En Siria fue desplazada gradualmente por la escuela shafií durante el siglo X. Al-Awzaí también desarrolló importantes enseñanzas sobre las leyes de la guerra en la frontera bizantina y denunció la expulsión de comunidades cristianas de sus aldeas del Líbano por las autoridades abasíes."
- hanafi: "Hanafí"
- hanafi_adj: "hanafí"
- hanafi_adherent: "hanafí"
- hanafi_adherent_plural: "hanafíes"
- hanafi_desc: "Desarrollado a partir de las enseñanzas del jurista y teólogo Abu Hanifa, que sistematizó el uso del razonamiento. La teoría legal hanafí deriva principalmente de la ley de Corán, la sunna, el consenso erudito y el razonamiento analógico."
- sunni: "Sunismo"
- sunni_adj: "Suní"
- sunni_adherent: "Suní"
- sunni_adherent_plural: "Suníes"
- sunni_desc: "Sunismo se refiere a los seguidores de las prácticas de Mahoma, que se conocen como sunna. La jurisprudencia islámica suní se basa principalmente en el Corán, los hadices y el ijma (consenso erudito) como fuentes fundacionales."
- shafii: "Shafi'i"
- shafii_adj: "shāfi‘í"
- shafii_adherent: "shāfi‘í"
- shafii_adherent_plural: "shāfi‘íes"
- shafii_desc: "Llamada así por al-Shafi'i, un erudito y jurista musulmán conocido como «el padre de la jurisprudencia musulmana» a principios del siglo IX. El núcleo de la escuela shāfi‘í es que a todo acto de un creyente sujeto a la ley le corresponde un estatuto en la Ley revelada o sharía."
- maliki: "Malikismo"
- maliki_adj: "malikí"
- maliki_adherent: "malikí"
- maliki_adherent_plural: "malikíes"
- maliki_desc: "Una de las cuatro escuelas principales de jurisprudencia islámica del ámbito suní. Fue fundada por Malik ibn Anas en el siglo VIII. La malikí se diferencia de las otras escuelas de derecho suníes en las fuentes que emplea como origen para la resoluciones."
- hanbali: "Hanbalismo"
- hanbali_adj: "hanbalí"
- hanbali_adherent: "hanbalí"
- hanbali_adherent_plural: "hanbalíes"
- hanbali_desc: "La escuela hanbalí es la más pequeña de las cuatro escuelas principales de jurisprudencia islámica suní, basada en las enseñanzas de Ahmad ibn Hanbal. Al contrario que las otras, los hanbalíes se oponen a codificar la ley en un sistema integral, y recalca el Corán y los hadices como las fuentes superiores."
+ awzai_desc: "La escuela awzaí sigue las enseñanzas jurídicas de Abd al-Rahman al-Awzaí. Concede especial importancia a la sunna y a las prácticas transmitidas por las primeras comunidades musulmanas de Siria. Su jurisprudencia aborda las obligaciones religiosas, las relaciones sociales y la conducta en la guerra, donde establece principios para el trato de las poblaciones no combatientes y las comunidades protegidas."
 
- # Ismailismo
- shia: "Ismailismo"
- shia_adj: "Ismailí"
- shia_adherent: "Ismailí"
- shia_adherent_plural: "Ismailíes"
- shia_desc: "Los ismailíes son una corriente del islam chií que reconoce la sucesión de los imanes a través de Ismail, hijo de Yafar al-Sádiq, y de su descendiente Muhammad ibn Ismail. Sus misioneros difundieron las enseñanzas esotéricas de la fe desde Salamiyya hasta Yemen y el Magreb. En 909, el imán salió de su ocultación y asumió el poder como al-Mahdi, fundador del califato fatimí."
- nizari: "Nizarismo"
- nizari_adj: "nizarí"
- nizari_adherent: "nizarí"
- nizari_adherent_plural: "nizaríes"
- nizari_desc: "Un rito racionalista que pone el énfasis en el razonamiento para interpretar el Corán y los hadices. Ser imán es hereditario y remontan la línea de sucesión hasta Alí."
- ismaili: "Ismailismo"
- ismaili_adj: "ismailí"
- ismaili_adherent: "ismailí"
- ismaili_adherent_plural: "ismailíes"
- ismaili_desc: "Un rito chií que considera que el linaje de los imanes verdaderos —aquellos imbuidos con conocimiento divino e infalibilidad— pasa por Ismail ibn Ya'far. También conocidos como septimanos, pues Ismail fue el séptimo imán tras Mahoma."
- hafizi: "Hafizismo"
- hafizi_adj: "hafizí"
- hafizi_adherent: "hafizí"
- hafizi_adherent_plural: "hafizíes"
- hafizi_desc: "Los hafizíes priorizan apoyar a quien consideran el verdadero califa por encima de todos los demás, así como resistir contra cualquier intento de destituirlo o destronarlo. Se definen en la derrota por haberse rebelado por una causa digna y, en la victoria, por su orgullosa adhesión a la voluntad de su líder."
+ hanafi: "Escuela hanafí"
+ hanafi_adj: "Hanafismo"
+ hanafi_adherent: "Hanafí"
+ hanafi_adherent_plural: "Hanafíes"
+ hanafi_desc: "La escuela hanafí concede un papel destacado al razonamiento jurídico en la interpretación de las fuentes islámicas. Sus fundamentos incluyen el Corán, la sunna, el consenso de los juristas y el razonamiento por analogía. También emplea la preferencia jurídica para resolver cuestiones en las que la aplicación estricta de una analogía puede conducir a resultados contrarios a los principios generales de la ley."
 
- # Drusos
- druze: "Druso"
- druze_adj: "Drusa"
- druze_adherent: "Druso"
- druze_adherent_plural: "Drusos"
- druze_desc: "Los drusos, que se denominan a sí mismos al-Muwahhidun, «los unitarios», surgieron en 1017 a partir de las enseñanzas de Hamza ibn Alí, quien proclamó la naturaleza divina del califa fatimí al-Hákim. Tras la desaparición de este en 1021, sus seguidores sostuvieron que había entrado en ocultación. En 1043 se cerró la predicación y, desde entonces, no se admitieron nuevos conversos. Sus doctrinas religiosas se encuentran recogidas en las Epístolas de la Sabiduría."
+ maliki: "Escuela malikí"
+ maliki_adj: "Malikismo"
+ maliki_adherent: "Malikí"
+ maliki_adherent_plural: "Malikíes"
+ maliki_desc: "La escuela malikí concede especial autoridad a la práctica religiosa y jurídica de Medina, considerada depositaria de las tradiciones de las primeras generaciones musulmanas. Sus fundamentos incluyen el Corán, la sunna, el consenso de los juristas y el razonamiento jurídico. También tiene en cuenta el interés general de la comunidad al interpretar y aplicar la ley islámica."
 
- # Jariyismo
- kharijite: "Jariyismo"
- kharijite_adj: "Jariyita"
- kharijite_adherent: "Jariyí"
- kharijite_adherent_plural: "Jariyíes"
- kharijite_desc: "Los jariyíes, cuyo nombre significa «los que se separaron», surgieron entre los partidarios de Alí que abandonaron su ejército después de que aceptara el arbitraje con Muawiya durante la batalla de Siffín en 657, proclamando que el juicio corresponde únicamente a Dios. Defendían que cualquier musulmán piadoso, incluso un antiguo esclavo, podía ejercer el califato, que los gobernantes injustos debían ser combatidos y depuestos, y que quien persistiera en cometer pecados graves dejaba de ser considerado un verdadero creyente."
+ shafii: "Escuela shafií"
+ shafii_adj: "Shafiísmo"
+ shafii_adherent: "Shafií"
+ shafii_adherent_plural: "Shafiíes"
+ shafii_desc: "La escuela shafií establece un método sistemático para interpretar la ley islámica. Reconoce el Corán y la sunna como fuentes fundamentales de autoridad, junto con el consenso de los juristas y el razonamiento por analogía. Su doctrina delimita el uso del razonamiento jurídico y subordina la interpretación humana a las fuentes reveladas."
 
- # Azariqa
- azariqa: "Azraquismo"
- azariqa_adj: "azraquita"
- azariqa_adherent: "azraquita"
- azariqa_adherent_plural: "azraquitas"
- azariqa_desc: "Los azariqa fueron seguidores de Nafi ibn al-Azraq y constituyeron una de las corrientes más radicales del jariyismo. Consideraban idólatras a los musulmanes ajenos a su doctrina, legitimaban la violencia contra ellos y sus familias y rechazaban cualquier forma de ocultación de la fe. Expulsados de Basora, extendieron sus actividades a Fars y Kermán, hasta que fueron derrotados por las campañas de al-Muhállab ibn Abi Sufra hacia el año 699."
+ hanbali: "Escuela hanbalí"
+ hanbali_adj: "Hanbalismo"
+ hanbali_adherent: "Hanbalí"
+ hanbali_adherent_plural: "Hanbalíes"
+ hanbali_desc: "La escuela hanbalí concede una autoridad primordial al Corán y los hadices como fuentes de la ley islámica. Se caracteriza por su cautela ante el razonamiento jurídico independiente y por su preferencia por las pruebas textuales transmitidas. El consenso de los primeros musulmanes y las tradiciones proféticas desempeñan un papel fundamental en sus interpretaciones jurídicas."
 
- # Najdat
- najdat: "Najdatismo"
- najdat_adj: "najdat"
- najdat_adherent: "najdatí"
- najdat_adherent_plural: "najdatíes"
- najdat_desc: "Los najdat fueron seguidores de Najda ibn Amir, quien gobernó Yamama, Baréin y extensas regiones de Arabia durante la década de 680. A diferencia de otras corrientes jariyíes, permitían ocultar la fe ante los enemigos y sostenían que un pecado no convertía necesariamente a un musulmán en incrédulo, salvo cuando persistía deliberadamente en él. También admitían la ignorancia como excusa en cuestiones religiosas que no fueran claramente conocidas. De estas tradiciones surgieron corrientes como los atawiyya y los ayarida, cuyas enseñanzas alcanzaron Sistán, donde Hamza ibn Adharak encabezó a los jariyíes orientales entre 795 y 828."
-
- # Sufrismo
- sufri: "Sufrismo"
- sufri_adj: "sufrí"
- sufri_adherent: "sufrí"
- sufri_adherent_plural: "sufríes"
- sufri_desc: "Los sufríes, a diferencia de los azariqa, no consideraban idólatras a todos los demás musulmanes ni justificaban el asesinato de sus mujeres y niños. También permitían ocultar verbalmente la fe en situaciones de peligro. Sus imanes encabezaron levantamientos en la Alta Mesopotamia desde los tiempos de Shabib ibn Yazid, hacia 695, y alcanzaron especial influencia entre los pueblos amaziges del Magreb. Sus doctrinas inspiraron la revuelta de Maysara en 740, el movimiento de Abu Qurra en Tremecén y el gobierno de los midraríes de Siyilmasa."
-
- # Zaidismo
- zayidi: "Zaidismo"
- zayidi_adj: "Zaidí"
- zayidi_adherent: "Zaidí"
- zayidi_adherent_plural: "Zaidíes"
- zayidi_desc: "Los zaidíes son una corriente del islam chií que reconoce como imán a cualquier descendiente de Hasán o Husáin que posea conocimientos religiosos, lleve una vida piadosa y se levante contra un gobierno injusto, siguiendo el ejemplo de Zayd ibn Alí, quien encabezó una rebelión en Kufa en 740. Sus imanes fundaron estados en Tabaristán desde 864 y en Yemen, donde al-Hadi ila'l-Haqq estableció su autoridad en Saada en 897. En cuestiones teológicas, el zaidismo recibió una profunda influencia del pensamiento mutazilí."
-
- # Carmatismo
- qarmatian: "Carmatanismo"
- qarmatian_adj: "cármata"
- qarmatian_adherent: "cármata"
- qarmatian_adherent_plural: "cármatas"
- qarmatian_desc: "Los cármatas fueron una corriente ismailí surgida en las regiones de Sawad, Kufa y Baréin, cuyos seguidores rechazaron en 899 las pretensiones de los fatimíes al imamato y aguardaban el regreso del séptimo imán, Muhammad ibn Ismail, como Mahdi. En Baréin, Abu Saíd al-Yannabí fundó un estado caracterizado por formas de propiedad comunitaria y gobernado posteriormente por un consejo. Su hijo Abu Táhir saqueó La Meca en 930 y trasladó la Piedra Negra a al-Ahsa, donde permaneció hasta 951."
-
- # Nusayrismo
- alawite: "Nusayrismo"
- alawite_adj: "Nusayrí"
- alawite_adherent: "Nusayrí"
- alawite_adherent_plural: "Nusayríes"
- alawite_desc: "Los nusayríes siguen las enseñanzas de Muhammad ibn Nusayr, quien en el siglo IX se proclamó puerta espiritual del undécimo imán, Hasán al-Askari. Su doctrina identifica a Alí con el Significado Divino y sostiene que las almas atraviesan sucesivas existencias corporales antes de regresar a las estrellas de las que proceden. Sus enseñanzas esotéricas se transmiten entre hombres iniciados. Al-Jasibi sistematizó la doctrina en Alepo bajo el patrocinio de los hamdánidas, mientras que al-Tabarani la difundió por Latakia y las montañas costeras durante el siglo XI."
-
- # Zahirismo
- zahiri: "Zahirismo"
- zahiri_adj: "Zahirí"
+ zahiri: "Escuela zahirí"
+ zahiri_adj: "Zahirismo"
  zahiri_adherent: "Zahirí"
  zahiri_adherent_plural: "Zahiríes"
- zahiri_desc: "La escuela jurídica zahirí fue fundada por Dawud ibn Jalaf al-Isfahaní, fallecido en Bagdad en 884. Defendía que la ley islámica debía derivarse del significado manifiesto, o zahir, del Corán y los hadices, rechazando el razonamiento por analogía y la aceptación incuestionada de las opiniones de juristas anteriores. En al-Ándalus fue seguida por el cadí Mundhir ibn Saíd al-Ballutí y alcanzó especial notoriedad gracias a Ibn Hazm de Córdoba. El califa almohade Abu Yusuf Yaqub al-Mansur favoreció posteriormente sus enseñanzas frente al predominio malikí."
+ zahiri_desc: "La escuela zahirí sostiene que la ley islámica debe fundamentarse en el significado manifiesto de las fuentes reveladas, especialmente el Corán y los hadices. Rechaza el razonamiento por analogía como fuente independiente de legislación y se opone a aceptar sin examen las opiniones de autoridades jurídicas anteriores. Sus seguidores defienden que las disposiciones religiosas deben derivarse directamente de los textos y de su interpretación explícita."
+
+ # CORRIENTES TEOLÓGICAS Y DOCTRINALES DEL ISLAM SUNI
+ # Mutazilismo
+ mutazila: "Mutazilismo"
+ mutazila_adj: "Mutazilismo"
+ mutazila_adherent: "Mutazilí"
+ mutazila_adherent_plural: "Mutazilíes"
+ mutazila_desc: "El mutazilismo defiende la unidad y la justicia absolutas de Dios, cuyos atributos no pueden separarse de su esencia. Sostiene que el Corán es creado y que los seres humanos poseen libre albedrío y son responsables de sus actos. Quien comete un pecado grave ocupa una posición intermedia entre la fe y la incredulidad. Su pensamiento concede especial importancia a la razón como instrumento para comprender la justicia divina y los fundamentos de la religión."
+
+ # Coranismo
+ quranist: "Coranismo"
+ quranist_adj: "Coranismo"
+ quranist_adherent: "Coranista"
+ quranist_adherent_plural: "Coranistas"
+ quranist_desc: "El coranismo considera el Corán como la única fuente de autoridad religiosa vinculante para la fe y la práctica musulmanas. Sus seguidores rechazan que los hadices y las tradiciones atribuidas a Mahoma tengan autoridad legislativa independiente de la revelación coránica. La interpretación de las escrituras se fundamenta, por tanto, en el propio texto del Corán."
+
+ # Chiismo
+ shia: "Islam chií"
+ shia_adj: "Chiismo"
+ shia_adherent: "Musulmán chií"
+ shia_adherent_plural: "Musulmanes chiíes"
+ shia_desc: "El chiismo es una de las principales corrientes del islam. Sus seguidores consideran que el liderazgo legítimo de la comunidad musulmana corresponde a los imanes descendientes de Alí ibn Abi Tálib y Fátima, hija de Mahoma. El imamato constituye una autoridad espiritual y religiosa fundamental, cuya legitimidad se transmite mediante una sucesión designada dentro de la familia del Profeta."
+
+ # Ismailismo
+ ismaili: "Islam ismailí"
+ ismaili_adj: "Ismailismo"
+ ismaili_adherent: "Ismailí"
+ ismaili_adherent_plural: "Ismailíes"
+ ismaili_desc: "El ismailismo es una rama del islam chií que reconoce a Ismail ibn Yafar como legítimo sucesor del imán Yafar al-Sádiq. Sus seguidores consideran que el imamato continúa mediante una sucesión hereditaria de imanes, investidos de autoridad espiritual y conocimiento religioso. La interpretación esotérica del Corán, conocida como ta'wil, ocupa un lugar fundamental en su tradición doctrinal."
+
+ # Nizarismo
+ nizari: "Islam nizari"
+ nizari_adj: "Nizarismo"
+ nizari_adherent: "Nizarí"
+ nizari_adherent_plural: "Nizaríes"
+ nizari_desc: "El nizarismo es una rama del ismailismo que reconoce a Nizar, hijo mayor del califa e imán fatimí al-Mustansir, como legítimo sucesor de su padre. Sus seguidores consideran que el imamato continúa mediante una línea hereditaria de imanes, depositarios de la autoridad espiritual y del conocimiento necesario para interpretar el sentido profundo del Corán y las enseñanzas religiosas."
+
+ # Hafizismo
+ hafizi: "Islam hafizí"
+ hafizi_adj: "Hafizismo"
+ hafizi_adherent: "Hafizí"
+ hafizi_adherent_plural: "Hafizíes"
+ hafizi_desc: "El hafizismo es una rama del ismailismo musta'lí que reconoce a al-Hafiz como legítimo imán y califa fatimí. Sus seguidores defienden la continuidad del imamato a través de al-Hafiz y de los califas fatimíes que lo suceden, considerando que su autoridad constituye la legítima guía espiritual y política de la comunidad."
+
+ # Carmatismo
+ qarmatian: "Islam carmatí"
+ qarmatian_adj: "Carmatismo"
+ qarmatian_adherent: "Carmatí"
+ qarmatian_adherent_plural: "Carmatíes"
+ qarmatian_desc: "Los carmatíes constituyen una corriente disidente del ismailismo que mantiene la legitimidad del imamato de Muhammad ibn Ismail y aguarda su retorno como Mahdi. Rechazan la sucesión de imanes reivindicada por los califas fatimíes y conceden gran importancia a la interpretación esotérica de las revelaciones. Sus comunidades desarrollan formas propias de organización religiosa y social, basadas en la autoridad de sus dirigentes y en la solidaridad entre sus miembros."
+
+ # Zaidismo
+ zayidi: "Islam zaidí"
+ zayidi_adj: "Zaidismo"
+ zayidi_adherent: "Zaidí"
+ zayidi_adherent_plural: "Zaidíes"
+ zayidi_desc: "El zaidismo es una corriente del islam chií que reconoce el imamato de los descendientes de Hasán o Husáin, nietos de Mahoma, siempre que reúnan las condiciones de conocimiento religioso, rectitud y capacidad para defender la justicia. Sus seguidores toman como referencia las enseñanzas de Zayd ibn Alí y consideran legítimo que el imán se levante contra un gobierno injusto. En materia teológica y jurídica, el zaidismo mantiene una estrecha relación con el racionalismo mutazilí."
 
  # Nasirismo
- nasiri: "Nasirismo"
- nasiri_adj: "Nasirí"
+ nasiri: "Tradición nasirí"
+ nasiri_adj: "Nasirismo"
  nasiri_adherent: "Nasirí"
  nasiri_adherent_plural: "Nasiríes"
- nasiri_desc: "Los nasiríes fueron una corriente zaidí de Guilán y Tabaristán que siguió las enseñanzas jurídicas de al-Nasir li'l-Haqq, Hasán al-Utrush, quien difundió el islam entre los guilitas y dailamitas y gobernó Tabaristán como imán desde 914 hasta su muerte en 917. Otras comunidades zaidíes de las montañas de Dailam y de Yemen siguieron las doctrinas de al-Qasim ibn Ibrahim y al-Hadi ila'l-Haqq. Ambas escuelas reconocían la legitimidad religiosa de la otra, aunque conservaban interpretaciones jurídicas diferentes."
+ nasiri_desc: "El nasirismo es una tradición jurídica del zaidismo asociada a las enseñanzas de al-Nasir li'l-Haqq, conocido como Hasán al-Utrush. Sus seguidores reconocen la legitimidad del imamato entre los descendientes de Alí y conceden especial importancia al conocimiento religioso, la justicia y la defensa de la comunidad. Su interpretación jurídica constituye una tradición diferenciada dentro del zaidismo, junto a otras escuelas como la asociada a al-Qasim ibn Ibrahim y al-Hadi ila'l-Haqq."
 
+ # TRADICIONES RELIGIOSAS RELACIONADAS CON EL CHIISMO
+ # Nusayrismo
+ alawite: "Religión nusayrí"
+ alawite_adj: "Nusayrismo"
+ alawite_adherent: "Nusayrí"
+ alawite_adherent_plural: "Nusayríes"
+ alawite_desc: "Los nusayríes constituyen una corriente esotérica del islam de tradición chií que concede una posición central a Alí ibn Abi Tálib. Sus enseñanzas atribuyen un significado espiritual profundo a las figuras de Alí, Mahoma y Salman al-Farisí, y recurren a interpretaciones simbólicas de las escrituras y los preceptos religiosos. La transmisión de sus conocimientos se realiza mediante una tradición iniciática reservada a los miembros de la comunidad."
 
- alevi: "Alevismo"
- alevi_adj: "alevita"
- alevi_adherent: "alevita"
- alevi_adherent_plural: "alevíes"
- alevi_desc: "Los alevíes creen en la sucesión de los Doce imanes, pero también siguen muchas otras tradiciones, como se describe en su colección de textos sagrados, los buyruks. En la tradición alevita, Dios es la Verdad, y Mahoma y Ali son manifestaciones Suyas en el mundo."
+ # Alevismo
+ alevi: "Religión aleví"
+ alevi_adj: "Alevismo"
+ alevi_adherent: "Aleví"
+ alevi_adherent_plural: "Alevíes"
+ alevi_desc: "El alevismo es una tradición religiosa que concede una importancia central a Alí ibn Abi Tálib, a la familia del Profeta y a los Doce Imanes. Sus enseñanzas combinan elementos de la tradición chií con prácticas espirituales y místicas propias. Los buyruks, colecciones de textos religiosos y doctrinales, constituyen una de sus principales fuentes de enseñanza. La veneración de Alí, la búsqueda de la verdad espiritual y la importancia de la comunidad ocupan un lugar fundamental en sus creencias."
 
- masmudi: "Almohadismo"
- masmudi_adj: "Almohade"
+ # RELIGIONES Y MOVIMIENTOS INDEPENDIENTES
+ # Jariyismo
+ kharijite: "Islam jariyí"
+ kharijite_adj: "Jariyismo"
+ kharijite_adherent: "Jariyí"
+ kharijite_adherent_plural: "Jariyíes"
+ kharijite_desc: "El jariyismo defiende que la autoridad sobre la comunidad musulmana debe corresponder al gobernante más justo y piadoso, sin que su linaje o procedencia determinen su legitimidad. Sus seguidores sostienen que ningún gobernante está por encima de la ley divina y que puede ser depuesto si se aparta de ella. Las distintas corrientes jariyíes mantienen interpretaciones propias sobre la fe, el pecado y la pertenencia a la comunidad musulmana."
+
+ # Azariquismo
+ azariqa: "Corriente azraquita"
+ azariqa_adj: "Azraquismo"
+ azariqa_adherent: "Azraquí"
+ azariqa_adherent_plural: "Azraquíes"
+ azariqa_desc: "Los azraquíes representan una de las interpretaciones más rigoristas del jariyismo. Consideran que los musulmanes que rechazan sus principios se apartan de la verdadera fe y pueden ser tratados como enemigos. Defienden la lucha contra los gobernantes considerados ilegítimos y rechazan la disimulación de las propias creencias ante la persecución. Su doctrina establece una separación estricta entre la comunidad de los verdaderos creyentes y quienes considera infieles."
+
+ # Najdatismo
+ najdat: "Corriente najdatí"
+ najdat_adj: "Najdatismo"
+ najdat_adherent: "Najdatí"
+ najdat_adherent_plural: "Najdatíes"
+ najdat_desc: "Los najdatíes constituyen una corriente jariyí asociada a las enseñanzas de Najda ibn Amir. Su doctrina presenta una interpretación menos rigurosa que la de los azraquíes sobre la condición religiosa de otros musulmanes. Admiten la disimulación de la fe en situaciones de peligro y distinguen entre los pecados que implican una ruptura con la religión y aquellos que no necesariamente convierten al creyente en infiel. También reconocen que la ignorancia puede eximir de responsabilidad en determinadas cuestiones religiosas."
+
+ # Sufrismo
+ sufri: "Corriente sufrí"
+ sufri_adj: "Sufrismo"
+ sufri_adherent: "Sufrí"
+ sufri_adherent_plural: "Sufríes"
+ sufri_desc: "Los sufríes constituyen una corriente jariyí que mantiene una interpretación menos excluyente que la de los azraquíes. No consideran infieles a todos los musulmanes ajenos a su doctrina ni justifican indiscriminadamente la violencia contra ellos y sus familias. Admiten la disimulación de la fe en circunstancias de peligro y defienden la legitimidad de oponerse a los gobernantes injustos. Sus enseñanzas conceden especial importancia a la rectitud religiosa y a la igualdad entre los creyentes."
+
+ # Drusismo
+ druze: "Religión drusa"
+ druze_adj: "Drusismo"
+ druze_adherent: "Druso"
+ druze_adherent_plural: "Drusos"
+ druze_desc: "Los drusos se denominan a sí mismos al-Muwahhidun, «los unitarios», y profesan una doctrina centrada en la unidad absoluta de Dios. Sus creencias integran elementos de la tradición ismailí y de la filosofía neoplatónica. Reconocen una jerarquía espiritual, creen en la transmigración de las almas y consideran las Epístolas de la Sabiduría como su principal corpus doctrinal. Su comunidad mantiene una identidad religiosa cerrada y no admite conversiones."
+
+ # Almohadismo
+ masmudi: "Doctrina almohade"
+ masmudi_adj: "Almohadismo"
  masmudi_adherent: "Almohade"
  masmudi_adherent_plural: "Almohades"
- masmudi_desc: "Una rama reformista del islam suní surgido entre las tribus bereberes del Norte de África. El movimiento almohade se veía a sí mismo como unitario y predicaba una doctrina de monoteísmo purificado."
+ masmudi_desc: "El almohadismo defiende una doctrina de monoteísmo absoluto, expresada en el concepto de tawhid, y rechaza cualquier interpretación de la divinidad que pueda comprometer su unidad. Sus seguidores reconocen las enseñanzas de Ibn Tumart y su autoridad como Mahdi y guía espiritual. La doctrina concede especial importancia a la purificación de las creencias, la observancia religiosa y la subordinación de la comunidad a los principios de la fe."
 
- nabi: "Nabi"
- nabi_adj: "nabi"
- nabi_adherent: "nabi"
- nabi_adherent_plural: "nabíes"
- nabi_desc: "Como se afirma explícitamente en el Sagrado Corán, nabi es aquel elegido por el Todopoderoso para entregar Su mensaje y recordar al pueblo el día en el que serán llamados a Su presencia y se les hará responsables de sus acciones. Según su creencia central, el profeta Mahoma fue el último de ellos."
-
- quranist: "Coranismo"
- quranist_adj: "Coranista"
- quranist_adherent: "Coranista"
- quranist_adherent_plural: "Coranista"
- quranist_desc: "Una interpretación literal del islam que enfatiza que el Corán es la única fuente de sabiduría divina y debe seguirse al pie de la letra, haciendo caso omiso de hadices y fetuas."
-
- sadr_al_islam: "Sadr al-Islam"
- sadr_al_islam_adj: "Musulmana"
+ # Islam de los primeros tiempos
+ sadr_al_islam: "Islamismo"
+ sadr_al_islam_adj: "Islamismo"
  sadr_al_islam_adherent: "Musulmán"
  sadr_al_islam_adherent_plural: "Musulmanes"
- sadr_al_islam_desc: "En su forma más pura, antes de la aparición de las escuelas de pensamiento en años posteriores, los musulmanes eran dirigidos por el Profeta en persona con la revelación divina. Su sunna fue seguida por los compañeros y los tabi'un de las primeras generaciones."
+ sadr_al_islam_desc: "El islam se fundamenta en la revelación del Corán a Mahoma, reconocido como el último profeta de Dios. Sus enseñanzas establecen la unicidad divina, la sumisión a la voluntad de Dios y la observancia de sus mandamientos. La sunna del Profeta y las prácticas de la primera comunidad musulmana constituyen referencias fundamentales para la fe y la vida religiosa."
 
- sahabah: "Sahaba"
- sahabah_adj: "sahaba"
- sahabah_adherent: "sahabi"
- sahabah_adherent_plural: "sahabíes"
- sahabah_desc: "También conocidos como los compañeros de Mahoma, fueron seguidores musulmanes que se encontraron con él o lo vieron en vida. Los compañeros desempeñaron un papel significativo en las primeras luchas, sociedad, narración de los hadices y gobernanza de los musulmanes."
+ # Compañeros del Profeta
+ sahabah: "Sahabismo"
+ sahabah_adj: "Sahabismo"
+ sahabah_adherent: "Sahabí"
+ sahabah_adherent_plural: "Sahabíes"
+ sahabah_desc: "El sahabismo concede una autoridad fundamental a los compañeros de Mahoma, considerados transmisores directos de sus enseñanzas y su ejemplo. Sus testimonios constituyen una fuente esencial para la transmisión de la sunna y los hadices, y sirven de referencia para la vida religiosa."
 
- tabiun: "Tabi'un"
- tabiun_adj: "tabi'un"
- tabiun_adherent: "tabí"
- tabiun_adherent_plural: "tabi'un"
- tabiun_desc: "Se les describe como la generación de musulmanes que siguieron a los compañeros (sahaba) del profeta Mahoma y, por tanto, recibieron sus enseñanzas de segunda mano antes de la llegada de las escuelas suníes en siglos posteriores."
+ # Seguidores de los compañeros
+ tabiun: "Tabiunismo"
+ tabiun_adj: "Tabiunismo"
+ tabiun_adherent: "Tabí"
+ tabiun_adherent_plural: "Tabíes"
+ tabiun_desc: "El tabiunismo concede especial importancia a las enseñanzas transmitidas por los compañeros de Mahoma y preservadas por la generación de los tabiún. Su autoridad se fundamenta en la continuidad de la transmisión de la sunna, los hadices y las prácticas de las primeras comunidades musulmanas."
+
+ # Profetismo
+ nabi: "Profetismo islámico"
+ nabi_adj: "Profetismo"
+ nabi_adherent: "Creyente"
+ nabi_adherent_plural: "Creyentes"
+ nabi_desc: "El profetismo reconoce a los profetas como mensajeros elegidos por Dios para transmitir su revelación y guiar a la humanidad. En la tradición islámica, Mahoma es considerado el sello de los profetas y el último mensajero divino, cuya revelación constituye la guía definitiva para los creyentes."
+
  ## Títulos, santos y otros términos
-
  # Doctrinas de hostilidad
  is_sunni_heresy_name: "Teología heterodoxa" # Hostilidad suní
-
  is_ibadi_faith_name: "Ahl al-Istiqama" # Hostilidad ibadí y wahbí
-
  is_barghawata_faith_name: "Descendientes de Salih"
-
  ubaydi_trait_acceptance_name: "Linaje fatimí"
-
  barghawata_religion_opinion: "Opinión de los $barghawata_religion_adherent$"
-
- COURT_CHAPLAIN_CONVERSION_CLOSED_FAITH_MODIFIER:2 "[county.GetProvince.GetCounty.GetFaith.GetName] — [GetDoctrine('tenet_me_closed_faith').GetBaseName]"
-
+ COURT_CHAPLAIN_CONVERSION_CLOSED_FAITH_MODIFIER: "[county.GetProvince.GetCounty.GetFaith.GetName] — [GetDoctrine('tenet_me_closed_faith').GetBaseName]"
  ibn_nusayr_trait_acceptance_name: "$special_doctrine_ishaq_ahmar_trait_acceptance_name$"
-
  ishaq_ahmar_trait_acceptance_name: "$special_doctrine_ishaq_ahmar_trait_acceptance_name$"
-
  zakarawayhist_trait_acceptance_name: "$special_doctrine_zakarawayhist_trait_acceptance_name$"
-
  jayshanist_trait_acceptance_name: "$special_doctrine_jayshanist_trait_acceptance_name$"
-
  d_wahbiya_article: "el "
-
  d_nukkari_article: "la "
-
  me_dai_al_mutlaq_male: "Da'i al-Mutlaq"
-
  me_dai_al_mutlaq_female: "Da'iya al-Mutlaqa"
-
  d_isfahani_article: "el "
-
  d_barghawata_article: "el "
-
  is_hamimist_faith_name: "$special_doctrine_is_hamimist_faith_name$"
-
  d_hamimist_article: "el "
-
  is_kaduist_faith_name: "$special_doctrine_is_kaduist_faith_name$"
-
  d_kaduist_article: "el "
 
  # Títulos religiosos kaduistas
  kaduist_title_holder_male: "[CHARACTER.Custom('ME_KaduistHoF')]"
-
  kaduist_title_holder_female: "[CHARACTER.Custom('ME_KaduistHoF')]"
-
  kaduist_title: "[CHARACTER.Custom('ME_KaduistHoFTitle')]"
-
  d_kaduist_mahdi_prophet: "Mahdi-profeta"
-
  d_kaduist_caliph: "Califa"
-
  d_kaduist_prophethood: "Profetazgo"
-
  d_kaduist_caliphate: "Califato"
 
  ############################## JUDAÍSMO ##############################
 
  ## Doctrinas y principios
-
  # Doctrinas sobre la autoridad del Templo
  temple_authority_messiah_doctrine_name: "Mesiánico"
  temple_authority_messiah_doctrine_desc: "Las corrientes del judaísmo que sostienen que el Mesías ya ha llegado se apartan de la expectativa mesiánica tradicional, según la cual su venida todavía está por cumplirse. Estas creencias suscitan profundas controversias entre las comunidades judías, especialmente en torno a la identidad del Mesías, el cumplimiento de las profecías y el significado de la redención de Israel."
@@ -4622,37 +4617,37 @@
  ## Fes, dioses y términos religiosos
 
  isawites: "Isawitismo"
- isawites_adj: "Isawita"
+ isawites_adj: "Isawitismo"
  isawites_adherent: "Isawita"
  isawites_adherent_plural: "Isawitas"
  isawites_desc: "El isawitismo es una corriente mesiánica del judaísmo que reconoce a Abu Isa de Isfahán como profeta y precursor de la llegada del Mesías. Sus seguidores defienden la liberación del pueblo judío y la restauración de su independencia religiosa y política. Mantienen una disciplina rigurosa que prohíbe el consumo de vino y carne, así como el divorcio, y prescribe siete oraciones diarias. También reconocen a Jesús y Mahoma como profetas enviados a sus respectivos pueblos, aunque consideran que sus enseñanzas no sustituyen la Ley revelada a Israel."
 
  yudghanites: "Yudghanitismo"
- yudghanites_adj: "Yudghanita"
+ yudghanites_adj: "Yudghanitismo"
  yudghanites_adherent: "Yudghanita"
  yudghanites_adherent_plural: "Yudghanitas"
  yudghanites_desc: "El yudghanitismo es una corriente mística y ascética del judaísmo que reconoce las enseñanzas de Yudghan de Hamadán, conocido como el Pastor. Sus seguidores conceden mayor importancia a la oración, el ayuno y la purificación espiritual que a la observancia externa de los preceptos religiosos. Mantienen la abstinencia de carne y vino, interpretan alegóricamente las promesas del paraíso y las amenazas del infierno, y consideran que determinadas obligaciones rituales pierden su carácter vinculante durante el exilio. Algunos creen que su maestro permanece oculto y regresará para guiar nuevamente a los fieles."
 
  menahemists: "Menahemismo"
- menahemists_adj: "Menahemita"
+ menahemists_adj: "Menahemismo"
  menahemists_adherent: "Menahemita"
  menahemists_adherent_plural: "Menahemitas"
  menahemists_desc: "El menahemismo es una corriente mesiánica del judaísmo que reconoce a David Alroy como el libertador prometido de Israel. Sus seguidores sostienen que el Mesías debe restaurar la soberanía del pueblo judío, reunir a las comunidades dispersas y establecer un reino gobernado conforme a la Ley divina. Consideran que la redención no constituye únicamente una transformación espiritual, sino también la liberación del dominio extranjero y la restauración de la independencia política de Israel. La esperanza en el cumplimiento de estas promesas ocupa un lugar central en su identidad religiosa."
 
  himyarites: "Himyaritismo"
- himyarites_adj: "Himyarita"
+ himyarites_adj: "Himyaritismo"
  himyarites_adherent: "Himyarita"
  himyarites_adherent_plural: "Himyaritas"
  himyarites_desc: "El himyaritismo representa la tradición judía arraigada entre las comunidades del sur de Arabia, especialmente en las tierras de Yemen. Sus seguidores profesan la fe en un único Dios y observan los preceptos de la Torá, conservando prácticas religiosas adaptadas a las costumbres y lenguas de la región. La observancia del sábado, las normas alimentarias y las festividades judías constituyen elementos fundamentales de su vida espiritual. Su identidad religiosa mantiene estrechos vínculos con las antiguas tradiciones del judaísmo árabe meridional."
 
  teimanim: "Teimanismo"
- teimanim_adj: "Teimaní"
+ teimanim_adj: "Teimanismo"
  teimanim_adherent: "Teimaní"
  teimanim_adherent_plural: "Teimaníes"
  teimanim_desc: "El teimanismo es una corriente mesiánica del judaísmo yemenita que anuncia la proximidad de la redención de Israel y la llegada del reino prometido. Sus seguidores reconocen la autoridad de un precursor del Mesías y defienden una vida de pobreza voluntaria, humildad y desapego de las riquezas materiales. Consideran que la preparación espiritual del pueblo judío exige el arrepentimiento, la oración y la observancia sincera de la Ley divina. Su predicación destaca la esperanza mesiánica y la necesidad de abandonar las preocupaciones mundanas para recibir la salvación."
 
  dositheans: "Dositeísmo"
- dositheans_adj: "Dositeano"
+ dositheans_adj: "Dositeísmo"
  dositheans_adherent: "Dositeano"
  dositheans_adherent_plural: "Dositeanos"
  dositheans_desc: "El dositeísmo es una corriente religiosa de origen samaritano que mantiene una interpretación rigurosa de la Ley de Moisés y concede especial importancia a la pureza ritual y la disciplina ascética. Sus seguidores reconocen las enseñanzas de Dositeo y conservan prácticas religiosas que los distinguen de las demás comunidades samaritanas. Observan estrictamente el sábado y los preceptos de purificación, mientras que algunas de sus tradiciones atribuyen a su maestro una condición mesiánica o profética. Consideran que la fidelidad a la verdadera Ley constituye el fundamento de la salvación."
@@ -4666,20 +4661,20 @@
 
  # Judaísmo de Malabar
  malabarism: "Malabaritismo"
- malabarism_adj: "Malabarita"
+ malabarism_adj: "Malabaritismo"
  malabarism_adherent: "Malabarita"
  malabarism_adherent_plural: "Malabaritas"
  malabarism_desc: "Los judíos de Malabar se establecieron entre las comunidades mercantiles del reino de Chera, especialmente en Mahodayapuram y Cranganore. Hacia el año 1000, el soberano Bhaskara Ravi Varman concedió a José Rabban, dirigente de la comunidad judía, los privilegios del gremio comercial de Anjuvannam mediante unas célebres placas de cobre. Estos derechos, transmisibles a sus descendientes, fueron otorgados con carácter perpetuo, mientras perdurasen la tierra y la luna."
 
 
  kabarism: "Cuzarismo"
- kabarism_adj: "Cuzarita"
+ kabarism_adj: "Cuzarismo"
  kabarism_adherent: "Cuzari"
  kabarism_adherent_plural: "Cuzaríes"
  kabarism_desc: "Los cuzaríes, una comunidad de conversos, siguen la interpretación rabínica común de la halajá. Incluso mucho después de su conversión, siguen manteniendo algunas creencias locales y tradiciones con veneración religiosa."
 
  karaism: "Caraísmo"
- karaism_adj: "Caraísta"
+ karaism_adj: "Caraísmo"
  karaism_adherent: "Caraíta"
  karaism_adherent_plural: "caraítas"
  karaism_desc: "En asuntos de ley religiosa, el Tanaj es la autoridad mayor y absoluta. El papel de los rabinos no es replantear y adaptar las reglas de la alianza, sino interpretar su sentido literal."
@@ -4691,7 +4686,7 @@
  merkabah_desc: "El misticismo mercabita es una secta del misticismo judaico que comparte alguna influencia de las enseñanzas gnósticas. La fe se centra en las visiones y la adopción de estilos de vida ascéticos para unirse al trono de Dios."
 
  rabbinic_faith: "Rabinismo"
- rabbinic_faith_adj: "Rabínica"
+ rabbinic_faith_adj: "Rabinismo"
  rabbinic_faith_adherent: "Judío"
  rabbinic_faith_adherent_plural: "Judíos"
  rabbinic_faith_desc: "La tradición principal del pueblo judío, cimentada en la autoridad dual de la Torá escrita y de la Torá oral, recopiladas en el Talmud. Sus practicantes, guiados por los estudios rabínicos y la ley halajá, aspiran a vivir en virtud mediante la observancia de los mandamientos divinos."
@@ -4703,14 +4698,13 @@
  rabbinism_desc: "El rabinismo hace énfasis en el propósito de los intérpretes de la ley religiosa de la halajá. Las leyes y tradiciones garantizan la alianza con el Señor y los rabinos se encargan de velar por ellas."
 
  samaritan: "Samaritanismo"
- samaritan_adj: "Samaritana"
+ samaritan_adj: "Samaritanismo"
  samaritan_adherent: "Samaritano"
  samaritan_adherent_plural: "Samaritano"
  samaritan_desc: "Los samaritanos son descendientes de las tribus que poblaron Samaria y siguen una versión original e inalterada de la Torá. Por ello, practican la verdadera religión de Moisés y cumplen el deber literal indicado por Dios."
  ############################## HINDUISMO ##############################
 
  ## Doctrinas y principios
-
  # Tradiciones religiosas
  doctrine_sampradaya_name: "Sampradaya"
  doctrine_sampradaya_desc: "El hinduismo comprende numerosas tradiciones religiosas conocidas como sampradayas, cuyos seguidores comparten enseñanzas, prácticas rituales y linajes de transmisión espiritual. Cada sampradaya reconoce determinadas autoridades doctrinales y formas de veneración, aunque todas participan de un amplio patrimonio religioso y filosófico común."
