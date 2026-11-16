@@ -308,45 +308,51 @@
  # Dignidades y variantes especiales
  count_male_burgrave: "Burgrave"
  count_female_burgrave: "Burgravina"
+ burgrave_duke: "Burgrave"
+ burgrave_duke_female: "Burgravina"
+ burgrave_duchy: "Burgraviato"
+
  count_male_dauphin: "Delfín"
  count_female_dauphin: "Delfina"
  county_dauphinate: "Delfinado"
+
+ archduke: "Archiduque"
+ archduchess: "Archiduquesa"
+ archduchy: "Archiducado"
+
  count_male_margrave: "Margrave"
  count_female_margrave: "Margravina"
- count_male_palatine: "Conde Palatino"
- count_female_palatine: "Condesa Palatina"
- count_palatine: "Palatinado"
- count_male_palatine1: "Conde Palatino"
- count_female_palatine1: "Condesa Palatina"
- count_palatine1: "Palatinado"
- viscount: "Vizconde"
- viscounty: "Vizcondado"
- viscount_female: "Vizcondesa"
  duke_male_margrave: "Margrave"
  duke_female_margrave: "Margravina"
- duke_male_palatine: "Conde Palatino"
- duke_female_palatine: "Condesa Palatina"
- duchy_palatine: "Palatinado"
- archduke: "Archiduque"
- archduchy: "Archiducado"
- archduchess: "Archiduquesa"
- burgrave_duke_female: "Burgravina"
- burgrave_duke: "Burgrave"
- burgrave_duchy: "Burgraviato"
- landgrave_duke_female: "Landgravina"
- landgrave_duke: "Landgrave"
- landgrave_duchy: "Landgraviato"
- margrave_duke_female: "Margravina"
  margrave_duke: "Margrave"
+ margrave_duke_female: "Margravina"
  margrave_duchy: "Margraviato"
- palatine_duke_female: "Condesa palatina"
- palatine_duke: "Conde palatino"
- palatine_duchy: "Palatinado"
- slavic_margrave_duke_female: "Margravina"
  slavic_margrave_duke: "Margrave"
+ slavic_margrave_duke_female: "Margravina"
  slavic_margrave_duchy: "Margraviato"
  title_nb_margrave: "Margrave"
  title_nb_marquess: "Margrave"
+
+ count_male_palatine: "Conde palatino"
+ count_female_palatine: "Condesa palatina"
+ count_palatine: "Palatinado"
+ count_male_palatine1: "Conde palatino"
+ count_female_palatine1: "Condesa palatina"
+ count_palatine1: "Palatinado"
+ duke_male_palatine: "Duque Palatino"
+ duke_female_palatine: "Duquesa Palatina"
+ duchy_palatine: "Palatinado"
+ palatine_duke: "Conde palatino"
+ palatine_duke_female: "Condesa palatina"
+ palatine_duchy: "Ducado Palatino"
+
+ landgrave_duke: "Landgrave"
+ landgrave_duke_female: "Landgravina"
+ landgrave_duchy: "Landgraviato"
+
+ viscount: "Vizconde"
+ viscount_female: "Vizcondesa"
+ viscounty: "Vizcondado"
 
  # Consejo
  councillor_chancellor_ctp: "[ROOT.Char.Custom('CouncilPositionChancellor')]"
@@ -706,8 +712,8 @@
  march_alan: "Marca"
  marquess_male_alan: "Marqués"
  marquess_female_alan: "Marquesa"
- palatine_male_alan: "Conde palatino"
- palatine_female_alan: "Condesa palatina"
+ palatine_male_alan: "Señor"
+ palatine_female_alan: "Señora"
 
  # Consejo
  councillor_chancellor_alan: "[Concept('chancellor','Canciller')|E]"
@@ -881,8 +887,8 @@
  marquess_male_middle_high_german: "Margrave"
  marquess_female_middle_high_german: "Margravina"
  palatinate_middle_high_german: "Palatinado"
- palatine_male_middle_high_german: "Conde palatino"
- palatine_female_middle_high_german: "Condesa palatina"
+ palatine_male_middle_high_german: "Palatino"
+ palatine_female_middle_high_german: "Palatina"
  kurfurst_male_middle_high_german: "Príncipe elector"
  kurfurst_female_middle_high_german: "Princesa electora"
  kurfurstdom_middle_high_german: "Electorado"
@@ -1074,11 +1080,11 @@
 
  # Dignidades y variantes especiales
  march_anglo_saxon: "Marca"
- marquess_male_anglo_saxon: "Mearcealdor"
- marquess_female_anglo_saxon: "Mearcfrówe"
- palatinate_anglo_saxon: "Palatinado"
- palatine_male_anglo_saxon: "Conde palatino"
- palatine_female_anglo_saxon: "Condesa palatina"
+ marquess_male_anglo_saxon: "Marqués"
+ marquess_female_anglo_saxon: "Marquesa"
+ palatinate_anglo_saxon: "Señorío"
+ palatine_male_anglo_saxon: "Señor"
+ palatine_female_anglo_saxon: "Señora"
 
  # Consejo
  councillor_chancellor_anglo_saxon: "[Concept('chancellor','Héahwita')|E]"
@@ -3347,8 +3353,8 @@
  title_princess_cisalpine: "Princesa"
 
  # Dignidades y variantes especiales
- palatine_duke_female_cisalpine: "Condesa palatina"
- palatine_duke_cisalpine: "Conde palatino"
+ palatine_duke_female_cisalpine: "Palatina"
+ palatine_duke_cisalpine: "Palatino"
  palatine_duchy_cisalpine: "Palatinado"
  kurfurst_male_cisalpine: "Príncipe elector"
  kurfurst_female_cisalpine: "Princesa electora"
@@ -4292,8 +4298,8 @@
  marquess_male_estonian: "Margrave"
  marquess_female_estonian: "Margravina"
  palatinate_estonian: "Palatinado"
- palatine_male_estonian: "Conde palatino"
- palatine_female_estonian: "Condesa palatina"
+ palatine_male_estonian: "Palatino"
+ palatine_female_estonian: "Palatina"
  kurfurst_male_estonian: "Príncipe elector"
  kurfurst_female_estonian: "Princesa electora"
  kurfurstdom_estonian: "Electorado"
@@ -4506,12 +4512,12 @@
  title_prince_female_finnish: "[CHARACTER.Custom('PrincessFinnish')]"
 
  # Dignidades y variantes especiales
- march_finnish: "Rajakreivikunta"
- marquess_male_finnish: "Rajakreivi"
- marquess_female_finnish: "Rajakreivitar"
- palatinate_finnish: "Palatinado"
- palatine_male_finnish: "Conde palatino"
- palatine_female_finnish: "Condesa palatina"
+ march_finnish: "Marquesado"
+ marquess_male_finnish: "Margrave"
+ marquess_female_finnish: "Margravina"
+ palatinate_finnish: "Señorío"
+ palatine_male_finnish: "Señor"
+ palatine_female_finnish: "Señora"
 
  # Consejo
  councillor_court_chaplain_finnish_pagan_county: "Court Tietaja"
@@ -4543,6 +4549,7 @@
  # Consejo
  councillor_court_chaplain_finno_ugric_religion_duchy: "Tietaja"
  councillor_court_chaplain_finno_ugric_religion_duchy_possessive: "Tietaja's"
+
 
  ### Franceses ###
  # Títulos generales y variantes sin gobierno explícito
@@ -4590,7 +4597,7 @@
  emperor_female_french: "Emperatriz"
  empire_french: "Imperio"
  captal_france: "Captal"
- captalat_france: "Captalat"
+ captalat_france: "Captalato"
  dolphin_male_french: "Delfín"
  dolphin_female_french: "Delfina"
  title_lord_female_french: "Dama"
@@ -4665,15 +4672,15 @@
  march_french: "Marca"
  margrave_duke_female_french: "Marquesa"
  margrave_duke_french: "Marqués"
- margrave_duchy_french: "Marca"
+ margrave_duchy_french: "Marquesado"
  marquess_male_french: "Marqués"
  marquess_female_french: "Marquesa"
- palatinate_french: "Condado Palatino"
- palatine_male_french: "Conde Palatino"
+ palatinate_french: "Condado palatino"
+ palatine_male_french: "Conde palatino"
  palatine_duke_female_french: "Palatina"
- palatine_female_french: "Palatina"
- palatine_duke_french: "Conde Palatino"
- palatine_duchy_french: "Condado Palatino"
+ palatine_female_french: "Condesa palatina"
+ palatine_duke_french: "Palatino"
+ palatine_duchy_french: "Palatinado"
  dauphin_male_french: "Delfín"
  dauphin_female_french: "Delfina"
  dauphinate_french: "Delfinado"
@@ -4688,14 +4695,14 @@
  councillor_spymaster_french: "[Concept('spymaster','Chamberlens')|E]"
  councillor_steward_french: "[Concept('steward','Seneschals')|E]"
 
- ### Frankish ###
+ ### Francos ###
  # Títulos generales y variantes sin gobierno explícito
- barony_castle_frankish: "Burgraviato"
- baron_male_frankish: "Burgrave"
- baron_female_frankish: "Burgravina"
- count_male_frankish: "Conde"
- count_female_frankish: "Condesa"
- county_frankish: "Conde"
+ barony_castle_frankish: "Vizcondado"
+ baron_male_frankish: "Vizconde"
+ baron_female_frankish: "Vizcondesa"
+ count_male_frankish: "Grafío"
+ count_female_frankish: "Grafiona"
+ county_frankish: "Grafíato"
  duke_male_frankish: "Duque"
  duke_female_frankish: "Duquesa"
  duchy_frankish: "Ducado"
@@ -4706,13 +4713,13 @@
  king_male_frankish: "Rey"
  king_female_frankish: "Reina"
  kingdom_frankish: "Reino"
- emperor_male_frankish: "Káiser"
- emperor_female_frankish: "Kaisarini"
- empire_frankish: "Imperio"
+ king_male_frankish: "Rey"
+ king_female_frankish: "Reina"
+ empire_frankish: "Reino"
 
  # República
  barony_city_frankish: "Ciudad"
- baron_republic_frankish: "Burgrave"
+ baron_republic_frankish: "Magistrado"
 
  # Tribal
  barony_tribe_frankish: "$barony_castle_frankish$"
@@ -4721,21 +4728,21 @@
  queen_mother_frankish: "$king_female_frankish$"
  empress_mother_frankish: "$emperor_female_frankish$"
  title_prince_male_frankish_empire: "$title_prince_male_frankish$"
- title_prince_female_frankish_empire: "Kaisarasdohter"
- title_prince_male_frankish: "Azuling"
- title_prince_female_frankish: "Kuningasdohter"
+ title_prince_female_frankish_empire: "Princesa imperial"
+ title_prince_male_frankish: "Azulingo"
+ title_prince_female_frankish: "Princesa"
 
  # Consejo
- councillor_chancellor_frankish: "[Concept('chancellor','Kansilârî')|E]"
- councillor_marshal_frankish: "[Concept('marshal','Marhskalk')|E]"
- councillor_spymaster_frankish: "[Concept('spymaster','Kamarling')|E]"
- councillor_steward_frankish: "[Concept('steward','Siniskalk')|E]"
+ councillor_chancellor_frankish: "[Concept('chancellor','Canciller')|E]"
+ councillor_marshal_frankish: "[Concept('marshal','Mariscal')|E]"
+ councillor_spymaster_frankish: "[Concept('spymaster','Camarlingo')|E]"
+ councillor_steward_frankish: "[Concept('steward','Senescal')|E]"
 
  # Caballeros y conceptos
- knight_lower_frankish: "gasinzi"
- knight_no_tooltip_frankish: "Gasinzi"
- knight_plural_lower_frankish: "gasinzijos"
- knight_plural_no_tooltip_frankish: "Gasinzijos"
+ knight_lower_frankish: "gasindo"
+ knight_no_tooltip_frankish: "Gasindo"
+ knight_plural_lower_frankish: "gasindos"
+ knight_plural_no_tooltip_frankish: "Gasindos"
 
  ### French norman ###
 
@@ -10440,8 +10447,8 @@
  marquess_male_saxon: "Margrave"
  marquess_female_saxon: "Margravina"
  palatinate_saxon: "Palatinado"
- palatine_male_saxon: "Conde palatino"
- palatine_female_saxon: "Condesa palatina"
+ palatine_male_saxon: "Palatino"
+ palatine_female_saxon: "Palatina"
  kurfurst_male_saxon: "Príncipe elector"
  kurfurst_female_saxon: "Princesa electora"
  kurfurstdom_saxon: "Electorado"
@@ -10541,12 +10548,12 @@
  pope_man_old_saxon: "Sumo pontífice"
 
  # Dignidades y variantes especiales
- march_old_saxon: "Marca"
+ march_old_saxon: "Margraviato"
  marquess_male_old_saxon: "Margrave"
  marquess_female_old_saxon: "Margravina"
  palatinate_old_saxon: "Palatinado"
- palatine_male_old_saxon: "Conde palatino"
- palatine_female_old_saxon: "Condesa palatina"
+ palatine_male_old_saxon: "Palatino"
+ palatine_female_old_saxon: "Palatina"
 
  # Consejo
  councillor_chancellor_old_saxon: "[Concept('chancellor','Kenselêri')|E]"
