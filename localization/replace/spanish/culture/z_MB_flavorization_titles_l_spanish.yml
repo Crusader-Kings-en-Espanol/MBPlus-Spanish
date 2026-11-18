@@ -4715,6 +4715,8 @@
  kingdom_frankish: "Reino"
  king_male_frankish: "Rey"
  king_female_frankish: "Reina"
+ emperor_male_frankish: "Rey de los Francos"
+ emperor_female_frankish: "Reina"
  empire_frankish: "Reino"
 
  # República
