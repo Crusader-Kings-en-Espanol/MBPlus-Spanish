@@ -1,4 +1,4 @@
-﻿l_spanish:
+l_spanish:
  nianhao_date_self: "Año [GetPlayer.Custom('huangdi_nianhao')] [GetPlayer.MakeScope.Var('nianhao_date').GetValue|0]"
  nianhao_date_top_liege: "Año [GetPlayer.GetTopLiege.Custom('huangdi_nianhao')] [GetPlayer.GetTopLiege.MakeScope.Var('nianhao_date').GetValue|0]"
  male_e_china: "[Character.Custom('AltaicZunhao')][Character.Custom('huangdi_nianhao')]"
@@ -480,3 +480,6 @@ shihao_81: "昭圣恭惠孝"
  death_shihao.001.n2: "Da He Da Sheng Da Zhao Xiao, Pacificador" #谥曰大和大圣大昭孝
  death_shihao.001.o2: "Min Xiao, el sagrado Dios de la luz"   #谥曰光圣神闵孝
  #庙号大量机翻
+
+# Nuevas claves añadidas desde la version actual de More Bookmarks (pendientes de traducir)
+ nick_taizu: "太祖"

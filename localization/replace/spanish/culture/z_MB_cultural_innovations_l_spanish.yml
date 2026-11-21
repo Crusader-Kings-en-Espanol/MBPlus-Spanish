@@ -1,4 +1,4 @@
-﻿l_spanish:
+l_spanish:
 
  #Innovations
 
@@ -1161,3 +1161,8 @@
  innovation_RICE_enset: "Sistemas de Cultivo de Enset"
  innovation_RICE_iron_currency: "Moneda de Hierro"
  innovation_RICE_wangara: "Redes Wangara"
+
+# Nuevas claves añadidas desde la version actual de More Bookmarks (pendientes de traducir)
+ guanche_warrior:0 "Cichiciquitzo"
+
+ guanche_warrior_flavor:0 "#F The Cichiciquitzo formed the warrior class of the Guanche. Adept at throwing missiles and ravine ambushes they are lightly armored but skillful skirmishers. The Cichiciquitzo will defend the mountainous terrain of their islands to the death.#!"

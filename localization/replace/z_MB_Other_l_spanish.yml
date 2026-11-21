@@ -1,4 +1,4 @@
-﻿l_spanish:
+l_spanish:
  ############################################################
  #   Stuff that I don't want to make 50 files for
  #   A lot of this could be in the regular English localization folder but using replace makes sure I overwrite anything any other mod does
@@ -244,3 +244,1036 @@
  global_culture.0025.t: "xxx"
  global_culture.0025.desc: "xxxx"
  global_culture.0025.a: "xxx"
+
+# Nuevas claves añadidas desde la version actual de More Bookmarks (pendientes de traducir)
+  MB_house_impact_fourth_crusade: "The impact of the 4th Crusade will be felt for generations"
+
+  MB_house_rel_erik_desc: "The House of Erik usurping the throne of Sweden"
+
+  MB_house_rel_plantagenet_desc: "King John's treatment of the family"
+
+  MB_house_rel_yarud_desc: "The Yarud dynasty has long intermarried with the Xiao"
+
+  NOT_IS_LOWBORN_TRIGGER: "Not a lowborn"
+
+  baron_ainu: "Kotan Kor Kur"
+
+  baron_county_holy_order_female: "Sergeant"
+
+  baron_county_holy_order_male: "Sergeant"
+
+  baron_female_ibelin: "Baroness"
+
+  baron_female_lepuiset: "Lady"
+
+  baron_male_chartres: "Count"
+
+  baron_male_ibelin: "Baron"
+
+  baron_male_lepuiset: "Blacksmith"
+
+  baron_male_turkish_group_one: "Ağa"
+
+  baron_male_turkish_group_two: "Saŋun"
+
+  baron_republic_avar: "Tudun"
+
+  baron_republic_female_chuvash: "Şurăśüś"
+
+  baron_republic_female_khazar: "Anağuq"
+
+  baron_republic_female_turkish_group_one: "Aqsaç"
+
+  baron_republic_male_chuvash: "Şurăsuhal"
+
+  baron_republic_male_khazar: "Babağuq"
+
+  baron_republic_male_turkish_group_one: "Aqsaqal"
+
+  barony_ainu: "Kotan"
+
+  barony_chartres: "County"
+  #Princely graviate doesn't really have an outright translated name in places that give info on the languages of this time period
+
+  barony_county_holy_order: "Chapter"
+
+  barony_ibelin: "Barony"
+
+  barony_lepuiset: "Village"
+
+  barony_of_ainu: "Kotan of"
+
+  burgrave_duchy: "Burggrafschaft"
+
+  burgrave_duke: "Burggraf"
+
+  burgrave_duke_female: "Burggrafin"
+
+  caliphate: "Caliphate"
+
+
+  #Governments
+
+  captal_france: "Captal"
+
+  captalat_france: "Captalat"
+
+  catalan_duchy_count: "Comte"
+
+  catalan_duchy_count_female: "Comtessa"
+
+  catalan_duchy_county: "Comtat"
+
+  count_county_holy_order_female: "Mistress"
+
+  count_county_holy_order_male: "Master"
+
+  count_female_avar: "Bayanum"
+
+  count_female_burgrave: "Burggrafin"
+
+  count_female_dauphin: "Dauphine"
+
+  count_female_karluk: "Bēgüm"
+
+  count_female_kirghiz: "Begüm"
+
+  count_female_lady: "Lady"
+
+  count_female_margrave: "Marcgrâvin"
+
+  count_female_normandy: "Contesse"
+
+  count_female_palatine: "Countess Palatine"
+
+  count_female_palatine1: "Countess Palatine"
+
+  count_female_prince: "Princesa"
+
+  count_female_sire: "Dame"
+
+  count_female_turkish_group_one: "Beküm"
+
+  count_female_turkish_group_three: "Bägum"
+
+  count_female_turkish_group_three_independent: "Irkinüm"
+
+  count_female_turkish_group_two: "Begüm"
+
+  count_female_vidamesse: "Vidamesse"
+
+  count_feudal_female_luxembourg: "Countess"
+
+  count_feudal_male_luxembourg: "Count"
+
+  count_male_avar: "Bayan"
+
+  count_male_burgrave: "Burggraf"
+
+  count_male_dauphin: "Dauphin"
+
+  count_male_karluk: "Bēg"
+
+  count_male_kirghiz: "Beg"
+
+  count_male_lord: "Lord"
+
+  count_male_margrave: "Marcgrâve"
+
+  count_male_palatine: "Count Palatine"
+
+  count_male_palatine1: "Count Palatine"
+
+  count_male_prince: "Príncep"
+
+  count_male_sire: "Sire"
+
+  count_male_turkish_group_one: "Bek"
+
+  count_male_turkish_group_three: "Bäg"
+
+  count_male_turkish_group_three_independent: "Irkin"
+
+  count_male_turkish_group_two: "Beg"
+
+  count_male_vidame: "Vidame"
+
+  count_normandy: "Cuens"
+
+  count_palatine: "County Palatine"
+
+  count_palatine1: "County Palatine"
+
+  count_republic_female_khazar: "Anağuq Tudun"
+
+  count_republic_female_turkish_group_one: "Aqsaç Begum"
+
+  count_republic_male_khazar: "Babağuq Tudun"
+
+  count_republic_male_turkish_group_one: "Aqsaqal Beg"
+
+  county_avar: "Bayanlïğï"
+
+  county_burgraviate: "Burggrafschaft"
+
+  county_county_holy_order: "Host"
+
+  county_dauphinate: "Dauphinate"
+
+  county_feudal_luxembourg: "County"
+
+  county_karluk: "Bēgliği"
+
+  county_kirghiz: "Begliği"
+
+  county_lordship: "Lordship"
+
+  county_margraviate: "Marcgrâveschaft"
+
+  county_normandy: "Cuntez"
+
+  county_principality: "Principat"
+
+  county_siredom: "Signorie"
+
+  county_turkish_group_one: "Bekliği"
+
+  county_turkish_group_three: "Bägliği"
+
+  county_turkish_group_three_independent: "[CHARACTER.Custom('TurkishThreeIndepCounty')]"
+
+  county_turkish_group_two: "Begliği"
+
+  county_vidame: "Vidame"
+
+  duchy_ainu: "Mosir"
+
+  duchy_avar: "[CHARACTER.Custom('DuchyAvar')]"
+
+  duchy_comital: "Comté princier"
+
+  duchy_comital_arpitan: "Comtat prencipal"
+
+  duchy_comital_english: "Princely graviate"
+
+  duchy_comital_german: "Fürstengrafschaft"
+
+  duchy_comital_occitan: "Comtat Princesc"
+
+  duchy_count: "Cuens"
+
+  duchy_count_female: "Cuenesse"
+
+  duchy_count_female_occitan: "Comtessa"
+
+  duchy_count_occitan: "Coms"
+
+  duchy_county: "Contez"
+
+  duchy_county_holy_order: "Order"
+
+  duchy_county_occitan: "Comtatz"
+
+  duchy_default_avar: "Atabayanlïğï"
+
+  duchy_default_khazar: "Išadlïğï"
+
+  duchy_feudal_independent_bavaria: "Herzogentuom"
+
+  duchy_feudal_independent_brittany: "Ducaz"
+
+  duchy_feudal_russian1: "Principality" #It triggered me that Paradox used 'Grand Principality' for duchies
+
+  duchy_karluk: "Atabēgliği"
+
+  duchy_khazar: "[CHARACTER.Custom('DuchyKhazar')]"
+
+  duchy_khazar_independent: "[CHARACTER.Custom('KhazarIndepDuchy')]"
+
+  duchy_kirghiz: "Atabegliği"
+
+  duchy_margraviate: "Margraviate"
+
+  duchy_of_ainu: "Mosir of"
+
+  duchy_palatine: "County Palatine"
+
+  duchy_principality: "Principality"
+
+  duchy_thuringia: "Landgraviate"
+
+  duchy_turkish_group_one: "Atabekliği"
+
+  duchy_turkish_group_three: "El"
+
+  duchy_turkish_group_three_independent: "[CHARACTER.Custom('TurkishThreeIndepDuchy')]"
+
+  duchy_turkish_group_two: "Atabegliği"
+
+  duke_ainu: "Utarpa"
+
+  duke_county_holy_order_female: "Grandmistress"
+
+  duke_county_holy_order_male: "Grandmaster"
+
+  duke_default_female_avar: "Atabayanum"
+
+  duke_default_female_khazar: "[ROOT.Char.GetPrimarySpouse.GetPrimaryTitle.GetNameNoTierNoTooltip]išadum"
+
+  duke_default_female_turkish_group_one: "Atabeküm"
+
+  duke_default_male_avar: "Atabayan"
+
+  duke_default_male_khazar: "[ROOT.Char.GetPrimarySpouse.GetPrimaryTitle.GetNameNoTierNoTooltip]išad"
+
+  duke_default_male_turkish_group_one: "Atabek"
+
+  duke_female_avar: "[CHARACTER.Custom('DukeFemaleAvar')]"
+
+  duke_female_comital: "Cuenesse"
+
+  duke_female_comital_arpitan: "Contessa"
+
+  duke_female_comital_english: "Cuntesse"
+
+  duke_female_comital_german: "Grâvin"
+
+  duke_female_comital_occitan: "Comtessa"
+
+  duke_female_holder_khazar: "[CHARACTER.Custom('DukeFemaleHolderKhazar')]"
+
+  duke_female_karluk: "Atabēgüm"
+
+  duke_female_khazar: "[CHARACTER.Custom('DukeFemaleKhazar')]"
+
+  duke_female_khazar_independent: "$duke_female_turkish_group_two$"
+
+  duke_female_kirghiz: "Atabegüm"
+
+  duke_female_margrave: "Margravine"
+
+  duke_female_palatine: "Countess Palatine"
+
+  duke_female_prince: "Princess"
+
+  duke_female_thuringia: "Landgravine"
+
+  duke_female_turkish_group_one: "[CHARACTER.Custom('DukeFemaleTurkishOne')]"
+
+  duke_female_turkish_group_three: "Eltäbirum"
+
+  duke_female_turkish_group_three_independent: "Tärim"
+
+  duke_female_turkish_group_two: "Atabegüm"
+
+  duke_feudal_bosnia: "Banate"
+
+  duke_feudal_female_bosnia: "Banica"
+
+  duke_feudal_female_russian1: "Princess"
+
+  duke_feudal_female_triarch: "Triarch"
+
+  duke_feudal_independent_bavaria: "Herzoge"
+
+  duke_feudal_independent_brittany: "Dus"
+
+  duke_feudal_independent_female_bavaria: "Herzogin"
+
+  duke_feudal_independent_female_brittany: "Duchesse"
+
+  duke_feudal_male_bosnia: "Ban"
+
+  duke_feudal_male_russian1: "Prince"
+
+  duke_feudal_male_triarch: "Triarch"
+
+  duke_feudal_prince: "Lord"
+
+  duke_feudal_princess: "Lady"
+
+  duke_feudal_triarch: "Triarchy"
+
+  duke_holder_female_khazar: "[ROOT.Char.GetPrimaryTitle.GetNameNoTierNoTooltip]išadum"
+
+  duke_holder_male_khazar: "[ROOT.Char.GetPrimaryTitle.GetNameNoTierNoTooltip]išad"
+
+  duke_male_avar: "[CHARACTER.Custom('DukeMaleAvar')]"
+
+  duke_male_comital: "Cuens"
+
+  duke_male_comital_arpitan: "Cont"
+
+  duke_male_comital_english: "Erl"
+
+  duke_male_comital_german: "Grâve"
+
+  duke_male_comital_occitan: "Coms"
+
+  duke_male_holder_khazar: "[CHARACTER.Custom('DukeMaleHolderKhazar')]"
+
+  duke_male_karluk: "Atabēg"
+
+  duke_male_khazar: "[CHARACTER.Custom('DukeMaleKhazar')]"
+
+  duke_male_khazar_independent: "$duke_male_turkish_group_two$"
+
+  duke_male_kirghiz: "Atabeg"
+
+  duke_male_margrave: "Margrave"
+
+  duke_male_palatine: "Count Palatine"
+
+  duke_male_prince: "Prince"
+
+  duke_male_thuringia: "Landgrave"
+
+  duke_male_turkish_group_one: "[CHARACTER.Custom('DukeMaleTurkishOne')]"
+
+  duke_male_turkish_group_three: "Eltäbir"
+
+  duke_male_turkish_group_three_independent: "Tegin"
+
+  duke_male_turkish_group_two: "Atabeg"
+
+  emperor_county_holy_order_female: "Grand Mistress"
+
+  emperor_county_holy_order_male: "Grand Master"
+
+  emperor_default_female_turkish_group_one: "Hatun"
+
+  emperor_default_male_turkish_group_one: "Hâkan"
+
+  emperor_female_bulgaria: "Tsaritsa"
+
+  emperor_female_karluk: "Xatïn"
+
+  emperor_female_kirghiz: "Katun"
+
+  emperor_female_malinke: "Qàsá"
+
+  emperor_female_turkish_group_one: "[CHARACTER.Custom('EmperorFemaleTurkish')]"
+
+  emperor_female_turkish_group_three: "Qan Qatuni"
+
+  emperor_female_turkish_group_two: "Qatun"
+
+  emperor_female_uriankhai: "Yraakhtaaghylar"
+
+  emperor_feudal_female_yuan: "Khagan-Empress"
+
+  emperor_feudal_male_yuan: "Khagan-Emperor"
+
+  emperor_greek0: "Basileus"
+
+  emperor_greek1: "Despotes"
+
+  emperor_male_bulgaria: "Tsar'"
+
+  emperor_male_chuvash: "Han"
+
+  emperor_male_karluk: "Xağan"
+
+  emperor_male_kirghiz: "Kagan"
+
+  emperor_male_malinke: "Mànsá"
+
+  emperor_male_turkish_group_delhi: "Sultân"
+
+  emperor_male_turkish_group_delhi1: "Sultâna"
+
+  emperor_male_turkish_group_one: "[CHARACTER.Custom('EmperorMaleTurkish')]"
+
+  emperor_male_turkish_group_two: "Qağan"
+
+  emperor_male_uriankhai: "Yraakhtaaghy"
+
+  empire_county_holy_order: "Most Sacred Order"
+
+  empire_default_turkish_group_one: "Hâkanlïğï"
+
+  empire_feudal_almohads: "Caliphate"
+
+  empire_feudal_female_almohads: "Calipha"
+
+  empire_feudal_male_almohads: "Caliph"
+
+  empire_karluk: "Xağanlïğï"
+
+  empire_kirghiz: "Kaganliği"
+
+  empire_malinke: "Mansaya"
+
+  empire_turkish_group_delhi: "Sultânlïğï"
+
+  empire_turkish_group_one: "[CHARACTER.Custom('EmpireTurkish')]"
+
+  empire_turkish_group_two: "Qağanlïğï"
+
+  empress_greek0: "Basilissa"
+
+  empress_greek1: "Despoina"
+
+  empress_mother_karluk: "$emperor_female_karluk$"
+
+  empress_mother_kirghiz: "$emperor_female_kirghiz$"
+
+  empress_mother_turkish_group_one: "Valide Hatun"
+
+  empress_mother_turkish_group_three: "$emperor_female_turkish_group_three$"
+
+  empress_mother_turkish_group_two: "$emperor_female_turkish_group_two$"
+
+  empress_mother_uriankhai: "Ogdoobo Yraakhtaaghylar"
+
+  english_duchy_count: "Erl"
+
+  english_duchy_count_female: "Cuntesse"
+
+  english_duchy_county: "Erldom"
+
+  france_duchy: "Ducaz"
+
+  france_duke: "Dus"
+
+  france_duke_female: "Duchesse"
+
+  french_duchy_count: "Cuens"
+
+  french_duchy_count_female: "Cuenesse"
+
+  french_duchy_county: "Contez"
+
+  german_duchy: "Duchy"
+
+  german_duke: "Duke"
+
+  german_duke_female: "Duchess"
+
+  independent_county_turkish_group_three: "Irkinliği"
+
+  independent_duchy_turkish_group_three: "Teginliği"
+
+  king_comital: "Comté princier"
+
+  king_county_holy_order_female: "Grandmistress"
+
+  king_county_holy_order_male: "Grandmaster"
+
+  king_default_female_turkish_group_two: "Qaton"
+
+  king_default_male_turkish_group_one: "Han"
+
+  king_default_male_turkish_group_two: "Qan"
+
+  king_female_comital: "Cuenesse"
+
+  king_female_holder_khazar: "[CHARACTER.Custom('KingFemaleHolderKhazar')]"
+
+  king_female_holder_turkish_group_one: "[CHARACTER.Custom('KingFemaleHolderTurkishOne')]"
+
+  king_female_italian_venice: "Dogaressa"
+
+  king_female_karluk: "Xanïm"
+
+  king_female_khazar: "Qanum"
+
+  king_female_kimek: "[CHARACTER.Custom('KingFemaleKimek')]"
+
+  king_female_kirghiz: "Kanum"
+
+  king_female_turkish_group_one: "Hanïm"
+
+  king_female_turkish_group_three: "Ïduqutum"
+
+  king_female_turkish_group_two: "[CHARACTER.Custom('KingFemaleTurkishTwo')]"
+
+  king_feudal_female_altaic_group_khitai: "Empress"
+
+  king_feudal_female_lord_ireland: "Justiciar"
+
+  king_feudal_female_rajastan: "Sultâna"
+
+  king_feudal_female_rum: "Sultana"
+
+  king_feudal_female_scotland: "Queen"
+
+  king_feudal_male_altaic_group_khitai: "Emperor"
+
+  king_feudal_male_lord_ireland: "Justiciar"
+
+  king_feudal_male_rajastan: "Sultân"
+
+  king_feudal_male_rum: "Sultan"
+
+  king_feudal_male_scotland: "King"
+
+  king_german_duchy: "Herzogtum"
+
+  king_german_duchy_cisalpine: "Ducato"
+
+  king_german_duchy_french: "Ducaz"
+
+  king_german_duke: "Herzog"
+
+  king_german_duke_cisalpine: "Dux"
+
+  king_german_duke_female: "Herzoginne"
+
+  king_german_duke_female_cisalpine: "Duchissa"
+
+  king_german_duke_female_french: "Duchesse"
+
+  king_german_duke_french: "Dus"
+
+  king_iceland: "Lawspeaker"
+
+  king_male_avar: "$king_default_male_turkish_group_two$"
+
+  king_male_comital: "Cuens"
+
+  king_male_italian_venice: "Doge"
+
+  king_male_karluk: "Xan"
+
+  king_male_khazar: "[CHARACTER.Custom('KingMaleKhazar')]"
+
+  king_male_kimek: "[CHARACTER.Custom('KingMaleKimek')]"
+
+  king_male_kirghiz: "Kan"
+
+  king_male_turkish_group_one: "[CHARACTER.Custom('KingMaleTurkishOne')]"
+
+  king_male_turkish_group_three: "Ïduqut"
+
+  king_male_turkish_group_two: "[CHARACTER.Custom('KingMaleTurkishTwo')]"
+
+  king_male_uriankhai: "Toyon"
+
+  king_raja_india: "Raja"
+
+  king_raja_india_female: "Rani"
+
+  kingdom_avar: "$kingdom_default_turkish_group_two$"
+
+  kingdom_county_holy_order: "Sacred Order"
+
+  kingdom_default_turkish_group_one: "Hanlïğï"
+
+  kingdom_default_turkish_group_two: "Qanlïğï"
+
+  kingdom_feudal_altaic_group_khitai: "Empire"
+
+  kingdom_feudal_champa_group: "Raj"
+
+  kingdom_feudal_lord_ireland: "Lordship"
+
+  kingdom_feudal_rajastan: "Sultânlïğï"
+
+  kingdom_feudal_rum: "Sultanate"
+
+  kingdom_feudal_scotland: "Kingdom"
+
+  kingdom_greek0: "Empire"
+
+  kingdom_greek1: "Despotate"
+
+  kingdom_italian_venice: "Serenìsima Repùblega"
+
+  kingdom_karluk: "Xanlïğï"
+
+  kingdom_khazar: "[CHARACTER.Custom('KingdomKhazar')]"
+
+  kingdom_kimek: "[CHARACTER.Custom('KingdomKimek')]"
+
+  kingdom_kirghiz: "Kanliği"
+
+  kingdom_raj: "Raj"
+
+  kingdom_turkish_group_one: "[CHARACTER.Custom('KingdomTurkishOne')]"
+
+  kingdom_turkish_group_three: "Ïduqutliği"
+
+  kingdom_turkish_group_two: "[CHARACTER.Custom('KingdomTurkishTwo')]"
+
+  kingdom_uriankhai: "Doydu"
+
+  landgrave_duchy: "Landgraviat"
+
+  landgrave_duchy_dutch: "Landgraefschap"
+
+  landgrave_duchy_french: "Landgraviat"
+
+  landgrave_duke: "Landgraf"
+
+  landgrave_duke_dutch: "Landgraef"
+
+  landgrave_duke_female: "Landgräfin"
+
+  landgrave_duke_female_dutch: "Landgravin"
+
+  landgrave_duke_female_french: "Landgravine"
+
+  landgrave_duke_french: "Landgrave"
+
+  march_avar: "Qapuğ"
+
+  march_khazar: "Qapuğ"
+
+  margrave_duchy: "Marcgrâveschaft"
+
+  margrave_duchy_czech: "Markrabstwo"
+
+  margrave_duchy_french: "Marche"
+
+  margrave_duchy_italian: "Marchesato"
+
+  margrave_duchy_polish: "Marchia"
+
+  margrave_duke: "Marcgrâve"
+
+  margrave_duke_czech: "Markrabie"
+
+  margrave_duke_female: "Marcgrâvin"
+
+  margrave_duke_female_czech: "Markrabina"
+
+  margrave_duke_female_french: "Marchisse"
+
+  margrave_duke_female_italian: "Marchesa"
+
+  margrave_duke_female_polish: "Margrabina"
+
+  margrave_duke_french: "Marchis"
+
+  margrave_duke_italian: "Marchese"
+
+  margrave_duke_polish: "Margrabia"
+
+  marquess_avar: "Qapğan"
+
+  marquess_khazar: "Qapğan"
+
+  palatinate_khazar: "Etleberliği"
+
+  palatine_duchy: "Pfalenzgrâveschaft"
+
+  palatine_duchy_cisalpine: "Contea Palatina"
+
+  palatine_duchy_french: "Palais"
+
+  palatine_duke: "Pfalenzgrâve"
+
+  palatine_duke_cisalpine: "Conte Palatino"
+
+  palatine_duke_female: "Pfalenzgrâvin"
+
+  palatine_duke_female_cisalpine: "Contea Palatina"
+
+  palatine_duke_female_french: "Palatine"
+
+  palatine_duke_french: "Palatins"
+
+  palatine_khazar: "Elteber"
+
+  palatine_turkish_group_one: "Beklerbeki"
+
+  prince_magyar_female: "Grand Princess"
+  #Default Holy Order tiers
+
+  prince_magyar_male: "Grand Prince"
+
+  queen_mother_karluk: "$king_female_karluk$"
+
+  queen_mother_khazar: "$king_female_khazar$"
+
+  queen_mother_kimek: "[CHARACTER.Custom('QueenMKimek')]"
+
+  queen_mother_kirghiz: "$king_female_kirghiz$"
+
+  queen_mother_turkish_group_one: "$king_female_turkish_group_one$"
+
+  queen_mother_turkish_group_three: "$king_female_turkish_group_three$"
+
+  queen_mother_turkish_group_two: "[CHARACTER.Custom('QueenMTurkishTwo')]"
+
+  sami_building_gfx: "Sami"
+
+  slavic_margrave_duchy: "Margraviate"
+
+  slavic_margrave_duke: "Margrave"
+
+  slavic_margrave_duke_female: "Margravine"
+
+  sultan_female_turkish_e: "Kadïm"
+
+  sultan_female_turkish_group_two: "Soltana"
+
+  sultan_khazar: "Sultan"
+
+  sultan_male_turkish_e: "Sultân-üs-Selâtin"
+
+  sultan_male_turkish_group_two: "Soltan"
+
+  sultan_turkish_group_one: "Sultân"
+
+  sultanate_khazar: "Sultanlïğï"
+
+  sultanate_turkish_e: "Imparatorluğu"
+
+  sultanate_turkish_group_one: "Sultânlïğï"
+
+  sultanate_turkish_group_two: "Soltanlïğï"
+
+  title_assassins: "Grand Headmaster"
+
+  title_assassins1: "Grand Headmaster"
+
+  title_calatrava: "Grandmaster"
+
+  title_grand_prince: "Veliki Župan"
+
+  title_grand_princess: "Velika Županja"
+
+  title_grand_principality: "Velikožupanska"
+
+  title_hosp: "Grandmaster"
+
+  title_hospit1: "Grandmaster" #Grand Master rank for Kingdom title
+
+  title_hospit2: "Commander" #Commander rank for vassal duchy title once in Rhodes
+
+  title_irish_kingdom: "High Kingdom"
+
+  title_lord_cisalpine: "Sior"
+
+  title_lord_county: "Seignor"
+
+  title_lord_english: "Lord"
+
+  title_lord_female_cisalpine: "Signora"
+
+  title_lord_female_county: "Dame"
+
+  title_lord_female_english: "Lady"
+
+  title_lord_female_french: "Dame"
+
+  title_lord_french: "Seignor"
+
+  title_lordship_cisalpine: "Signoria"
+
+  title_lordship_county: "Signorie"
+
+  title_lordship_english: "Lordshipe"
+
+  title_lordship_french: "Signorie"
+
+  title_mb_prince_bishop: "Prince-Bishop"
+
+  title_mb_prince_bishopf: "Princess-Bishop"
+
+  title_mb_prince_bishopric: "Prince-Bishopric"
+
+  title_nb_autokrateira: "Autokrateira"
+
+  title_nb_autokratopia: "Aftokratoria"
+
+  title_nb_autokrator: "Autokrator"
+
+  title_nb_marche: "March"
+
+  title_nb_margrave: "Margrave"
+
+  title_nb_marquess: "Margravine"
+
+  title_nb_stem_duchess: "Grand Duchess"
+
+  title_nb_stem_duchy: "Stem Duchy"
+
+  title_nb_stem_duke: "Grand Duke"
+
+  title_prince_armenian: "Išxan"
+
+  title_prince_cisalpine: "Principe"
+
+  title_prince_female_turkish: "Hatun"
+
+  title_prince_female_turkish_empire: "$title_prince_female_turkish$"
+
+  title_prince_french: "Prince"
+
+  title_prince_german: "Vürste"
+
+  title_prince_male_turkish: "Şehzade"
+
+  title_prince_male_turkish_empire: "$title_prince_male_turkish$"
+
+  title_prince_male_turkish_group_one_empire: "Tegin"
+
+  title_prince_male_uriankhai_empire: "Yraakhtaaghy Uola"
+
+  title_princess_armenian: "Išxanakin"
+
+  title_princess_cisalpine: "Principessa"
+
+  title_princess_french: "Princesse"
+
+  title_princess_german: "Vürstin"
+
+  title_principality_armenian: "Išxanowhi"
+
+  title_principality_cisalpine: "Principato"
+
+  title_principality_french: "Principauté"
+
+  title_principality_german: "Vürstentuom"
+
+  title_santiago: "Grandmaster"
+
+  title_templar: "Grandmaster"
+
+  title_teutonic: "Hochmeister" #Grand Master rank for before they moved to the Baltics
+
+  title_teutonic1: "Hochmeister" #Grand Master rank for Kingdom title
+
+  title_teutonic2: "Komtur" #Commander rank for vassal duchy title once in Baltics
+
+  title_teutonic_duchy: "Hochmeister" #Grand Master rank for before they moved to the Baltics
+
+  trait_adopted: "Adopted"
+
+  trait_adopted_desc: "This character was taken in and raised as family, though not born to it."
+
+  tribal_baron_ainu: "Kotan Kor Kur"
+
+  tribal_baron_chishima_ainu: "Kotan Kor Kur"
+
+  tribal_baron_hokkaido_ainu: "Kotan Kor Kur"
+
+  tribal_baron_karafuto_ainu: "Kotan Kor Kur"
+
+  tribal_baron_nivkh: "Gasa Udouni"
+
+  tribal_barony_ainu: "Kotan"
+
+  tribal_barony_chishima_ainu: "Kotan"
+
+  tribal_barony_hokkaido_ainu: "Kotan"
+
+  tribal_barony_karafuto_ainu: "Kotan"
+
+  tribal_barony_nivkh: "Gasa"
+
+  tribal_barony_of_ainu: "Kotan of"
+
+  tribal_barony_of_chishima_ainu: "Kotan of"
+
+  tribal_barony_of_hokkaido_ainu: "Kotan of"
+
+  tribal_barony_of_karafuto_ainu: "Kotan of"
+
+  tribal_barony_of_nivkh: "Gasani"
+
+
+  #Turkish (all grouped)
+
+  tribal_count_ainu: "Sapanekur"
+
+  tribal_count_chishima_ainu: "Sapanekur"
+
+  tribal_count_female_ainu: "Matsapanekur"
+
+  tribal_count_female_chishima_ainu: "Matsapanekur"
+
+  tribal_count_female_karafuto_ainu: "Matnispa"
+
+  tribal_count_female_nivkh: "Qianshan Asini"
+
+  tribal_count_female_tohoku_ainu: "Matsapanekur"
+
+  tribal_count_karafuto_ainu: "Nispa"
+
+  tribal_count_nivkh: "Qianshan"
+
+  tribal_count_tohoku_ainu: "Sapanekur"
+
+  tribal_county_ainu: "Sir"
+
+  tribal_county_nivkh: "Eshkun"
+
+  tribal_county_of_ainu: "Sir of"
+
+  tribal_county_of_nivkh: "Eshkun of"
+
+  tribal_duchy_ainu: "Mosir"
+
+  tribal_duchy_nivkh: "Mif"
+
+  tribal_duchy_of_ainu: "Mosir of"
+
+  tribal_duchy_of_nivkh: "Mif of"
+
+  tribal_duke_ainu: "Utarpa"
+
+  tribal_duke_chishima_ainu: "Utarpa"
+
+  tribal_duke_female_ainu: "Mat Utarapa"
+
+  tribal_duke_female_karafuto_ainu: "Mat Poro Nispa"
+
+  tribal_duke_female_nivkh: "Zhihuishi Asini"
+
+  tribal_duke_karafuto_ainu: "Poro Nispa"
+
+  tribal_duke_nivkh: "Zhihuishi"
+
+  tribal_duke_tohoku_ainu: "Utarpa"
+
+  tribal_emperor_female_nivkh: "Pirkar Ida Asini"
+
+  tribal_emperor_nivkh: "Pirkar Ida"
+
+  tribal_empire_nivkh: "Mif"
+
+  tribal_empire_of_nivkh: "Mif of"
+
+  tribal_king_ainu: "Mosirpa"
+
+  tribal_king_chishima_ainu: "Mosirpa"
+
+  tribal_king_female_ainu: "Mat Mosirpa"
+
+  tribal_king_female_karafuto_ainu: "Huci Nispa"
+
+  tribal_king_female_nivkh: "Ida Asini"
+
+  tribal_king_karafuto_ainu: "Ekasi Nispa"
+
+  tribal_king_nivkh: "Ida"
+
+  tribal_king_tohoku_ainu: "Morsirpa"
+
+  tribal_kingdom_ainu: "Mosir"
+
+  tribal_kingdom_nivkh: "Mif"
+
+  tribal_kingdom_of_ainu: "Mosir of"
+
+  tribal_kingdom_of_nivkh: "Mif of"
+
+  unite_the_spanish_thrones_decision_primary: "Primary Title is an Iberian Title"
+
+  #Since 'current_date' when used on its own will show no text as it requires a scope
+
+  viscount: "Visconte"
+
+  viscount_catalan: "Vescomte"
+
+  viscount_female: "Viscontesse"
+
+  viscount_female_catalan: "Vescomtessa"
+
+  viscounty: "Visconté"
+
+  viscounty_catalan: "Vescomtat"

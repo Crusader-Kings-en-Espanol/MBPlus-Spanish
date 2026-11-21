@@ -1,4 +1,4 @@
-﻿l_spanish:
+l_spanish:
  #Groups
  bm_group_867: "La Era de los Reyes"
  bm_group_936: "El Despertar de los Reinos"
@@ -1514,3 +1514,22 @@
  bookmark_northmen_sigurdr_snake_in_the_eye: "Sigurdr Serpiente en el Ojo"
  bookmark_northmen_sigurdr_snake_in_the_eye_alt_alof: "$Alof$"
  bookmark_northmen_sigurdr_snake_in_the_eye_alt_knud: "$Knud$"
+
+# Nuevas claves añadidas desde la version actual de More Bookmarks (pendientes de traducir)
+ bm_1066: "The High Middle Ages"
+
+ bm_1066_desc: "By the late 10th and early 11th centuries the Muslim world was changing, with Turkish dynasties such as the Seljuks and Ghaznavids now dominating Persia. The Byzantine Empire was still holding its own but was to see worse times coming. Central and Western continental Europe was split between France and a strong Holy Roman Empire, while Christian kings were advancing against a fractured and weakened Muslim Spain. Scandinavia was quickly converting to Christianity, and the Norse settlers in Russia and Britain had become assimilated with the local populations. Yet Viking descendants in Normandy and Italy were preparing new conquests, and the time of the First Crusade was approaching..."
+
+ # Murchad Briain, Duke of Munster, Ireland
+
+ bookmark_iberia_king_alfonso_alt_nuno: "$NuN_o$"
+
+ # Alfonso VI Fernandez, King of León, Iberia
+
+ bookmark_iberia_king_alfonso_alt_sancha: "$Sancha$"
+
+ bookmark_merchants_1178_guido_guerra: "Guido Guerra II"
+
+ bookmark_merchants_1178_guido_guerra_desc: "The Guidi have been counts in the upper Arno for centuries, and few houses in Tuscany can claim a longer line.\n\nNow in his seventies, Guido Guerra has held the Casentino through the long struggles between the Empire and the Tuscan cities. His sons Guido and Rinaldo stand ready to carry the family's castles, rights, and mines on both slopes of the Apennines into a new age.\n\n#bold Can you make your county one that will go down in history?#!"
+
+ bookmark_merchants_1178_guido_guerra_iii: "Guido Guerra"

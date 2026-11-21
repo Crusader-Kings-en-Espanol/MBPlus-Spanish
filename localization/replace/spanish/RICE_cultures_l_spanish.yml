@@ -1,4 +1,4 @@
-﻿l_spanish:
+l_spanish:
  # Master file for all new cultures/culture groups added by RICE
  
 ## Culture Groups
@@ -3354,3 +3354,6682 @@
  Suasai:0 "Suasai"
  tuareg_collective_noun: "Tuaregs"
  tuareg_prefix: "Tuareg"
+
+# Nuevas claves añadidas desde la version actual de More Bookmarks (pendientes de traducir)
+ ANG_er:0 "Aŋer"
+
+ Aaja:0 "Aaja"
+
+ Aajaku:0 "Aajaku"
+
+ Aakooq:0 "Aakooq"
+
+ Aalaaraq:0 "Aalaaraq"
+
+ Aallaaritaa:0 "Aallaaritaa"
+
+ Aama:0 "Aama"
+
+ Aanaaraq:0 "Aanaaraq"
+
+ Aangaatsik:0 "Aangaatsik"
+
+ Aanka:0 "Aanka"
+
+ Aannguaq:0 "Aannguaq"
+
+ Aapak:0 "Aapak"
+
+ Aaqa:0 "Aaqa"
+
+ Aaqqii:0 "Aaqqii"
+
+ Aara:0 "Aara"
+
+ Aarluq:0 "Aarluq"
+
+ Aasiva:0 "Aasiva"
+
+ Aasu:0 "Aasu"
+
+ Aata:0 "Aata"
+
+ Aataalia:0 "Aataalia"
+
+ Aataarsuaq:0 "Aataarsuaq"
+
+ Aatsiannguaq:0 "Aatsiannguaq"
+
+ Aattivartik:0 "Aattivartik"
+
+ Aavaarteq:0 "Aavaarteq"
+
+ Ab:0 "Ab"
+
+ Abamar:0 "Abamar"
+
+ Abenchara:0 "Abenchara"
+
+ Aberbequeye:0 "Aberbequeye"
+
+ Abian:0 "Abian"
+
+ Abkarib:0 "Abkarib"
+
+ Abkhalak:0 "Abkhalak"
+
+ Abshibam:0 "Abshibam"
+
+ Abuk:0 "Abuk"
+
+ Acaime:0 "Acaime"
+
+ Acan:0 "Acan"
+
+ Achimenchia:0 "Achimenchia"
+
+ Achol:0 "Achol"
+
+ AcieNG_:0 "Acieŋ"
+
+ Acol:0 "Acol"
+
+ Acut:0 "Acut"
+
+ AdO_r:0 "Ador"
+
+ Adaa:0 "Adaa"
+
+ Adalasia:0 "Adalasia"
+
+ Adau:0 "Adau"
+
+ AdeNG_:0 "Adeŋ"
+
+ Adejare:0 "Adejare"
+
+ Adhad:0 "Adhad"
+
+ Adhieu:0 "Adhieu"
+
+ Adisoda:0 "Adisoda"
+
+ Adjona:0 "Adjona"
+
+ Adla:0 "Adla"
+
+ Adrinu:0 "Adrinu"
+
+ Adut:0 "Adut"
+
+ Adxona:0 "Adxoña"
+
+ Agalg:0 "Agalg"
+
+ Agdy:0 "Agdy"
+
+ Aggiuk:0 "Aggiuk"
+
+ Agiaq:0 "Agiaq"
+
+ Agpaleq:0 "Agpaleq"
+
+ Aguahuco:0 "Aguahuco"
+
+ Ahchapi:0 "Ahchâpî"
+
+ Ahuti:0 "Ahuti"
+
+ Ahyouwaighs:0 "Ahyouwaighs"
+
+ Aila:0 "Aila"
+
+ Aima:0 "Aima"
+
+ Aina:0 "Aina"
+
+ Ainana:0 "Ainana"
+
+ Ajaaja:0 "Ajaaja"
+
+ Ajaana:0 "Ajaana"
+
+ Ajiaq:0 "Ajiaq"
+
+ Ajok:0 "Ajok"
+
+ Ajuna:0 "Ajuna"
+
+ Ajuro:0 "Ajuro"
+
+ AkOO_OO_n:0 "Aköön"
+
+ Akako:0 "Akako"
+
+ Akamak:0 "Akamak"
+
+ Akamali:0 "Akamali"
+
+ Akamka:0 "Akamka"
+
+ Akaskw:0 "Akaskw"
+
+ Akhshunwar:0 "Akhshunwar"
+
+ Akhtar:0 "Akhtar"
+
+ Akik:0 "Akik"
+
+ Akila:0 "Akila"
+ #Akina:0 "Akina"
+
+ Akim:0 "Akim"
+
+ Akisooq:0 "Akisooq"
+
+ Akisuunnguaq:0 "Akisuunnguaq"
+
+ Akitseq:0 "Akitseq"
+
+ Akka:0 "Akka"
+
+ Akkoya:0 "Akkoya"
+
+ Akkuo:0 "Akkuo"
+
+ Ako_l:0 "Akol"
+
+ Ako_n:0 "Akon"
+
+ Akol:0 "Akol"
+
+ Akoldat:0 "Akoldat"
+
+ Akon:0 "Akon"
+
+ Akshmakay:0 "Akshmakay"
+
+ Aksik:0 "Aksik"
+
+ Akuac:0 "Akuac"
+
+ Akulersaq:0 "Akulersaq"
+
+ Akusameseu:0 "Akusameseu"
+
+ Akutaq:0 "Akutaq"
+
+ Alaaq:0 "Alaaq"
+
+ Alaberta:0 "Alaberta"
+
+ Alaga:0 "Alaga"
+
+ Alakws:0 "Alakws"
+
+ Alay:0 "Alay"
+
+ Alayhan:0 "Alayhan"
+
+ Alba:0 "Alba"
+
+ Alban:0 "Alban"
+
+ Albinu:0 "Albinu"
+
+ Alcha:0 "Alcha"
+
+ Aldan:0 "Aldan"
+
+ Alek:0 "Alek"
+
+ Aleqa:0 "Aleqa"
+
+ Alfara_ah:0 "Alfara'ah"
+
+ Algachan:0 "Algachan"
+
+ Algana:0 "Algana"
+
+ Algayana:0 "Algayana"
+
+ Alguzha:0 "Alguzha"
+
+ Alhan:0 "Alhan"
+
+ Aligiaq:0 "Aligiaq"
+
+ Aliir:0 "Aliir"
+
+ Alit:0 "Alit"
+
+ Alitet:0 "Alitet"
+
+ Aliya:0 "Aliya"
+
+ Alkazha:0 "Alkazha"
+
+ Alkuy:0 "Alkuy"
+
+ Allaia:0 "Allaia"
+
+ Allakariallak:0 "Allakariallak"
+
+ Alliaq:0 "Alliaq"
+
+ Alma:0 "Alma"
+
+ Almonska:0 "Almônska"
+
+ Alojs:0 "Alojs"
+
+ Alow:0 "Alow"
+
+ Altanay:0 "Altanay"
+
+ Aluel:0 "Aluel"
+
+ Aluki:0 "Aluki"
+
+ Alurut:0 "Alurut"
+
+ Alushal:0 "Alushal"
+
+ Alutuk:0 "Alutuk"
+
+ Aluusaq:0 "Aluusaq"
+
+ Alyona:0 "Alyona"
+
+ Alyun:0 "Alyun"
+
+ Amaha:0 "Amaha"
+
+ Amajut:0 "Amajut"
+
+ Amaqjuaq:0 "Amaqjuaq"
+
+ Amaroq:0 "Amaroq"
+
+ Amaruq:0 "Amaruq"
+
+ Amatalmaqah:0 "Amatalmaqah"
+
+ Amatthawn:0 "Amatthawn"
+
+ Amauyak:0 "Amauyak"
+
+ Amay:0 "Amay"
+
+ Ambibi:0 "Ambibi"
+
+ AmbroZ_:0 "Ambrož"
+ #Ben:0 "Ben"
+ #Beno:0 "Beno"
+
+ Ametung:0 "Ametung"
+
+ Amihraman:0 "Amihraman"
+
+ Aminnguaq:0 "Aminnguaq"
+
+ Amisuna:0 "Amisuna"
+
+ Ammakwe:0 "Ammakwe"
+
+ Ammaniw:0 "Ammaniw"
+ #Anno:0 "Anno"
+
+ Ammkarib:0 "Ammkarib"
+
+ Ammo:0 "Ammo"
+
+ Ammyata:0 "Ammyata"
+
+ Amru:0 "Amru"
+
+ Amtus:0 "Amtus"
+
+ Anaruaq:0 "Anaruaq"
+
+ Anaukkaq:0 "Anaukkaq"
+
+ Anbas:0 "Anbas"
+
+ Andaris:0 "Andaris"
+
+ Andawe:0 "Andawe"
+
+ Andez:0 "Andez"
+
+ Andreja:0 "Andreja"
+
+ Andreu:0 "Andreu"
+
+ Anemarija:0 "Anemarija"
+
+ Anend:0 "Anend"
+
+ Aneraq:0 "Aneraq"
+
+ Anerose:0 "Anerose"
+
+ Aneta:0 "Aneta"
+
+ Angaaraq:0 "Angaaraq"
+
+ Ange:0 "Ange"
+
+ Angerla:0 "Angerla"
+
+ Angmarlik:0 "Angmarlik"
+
+ Angunnguaq:0 "Angunnguaq"
+
+ Angusuatsiaq:0 "Angusuatsiaq"
+
+ Anguteeraq:0 "Anguteeraq"
+
+ Anguteq:0 "Anguteq"
+
+ Angutikassak:0 "Angutikassak"
+
+ Angutimmarik:0 "Angutimmarik"
+
+ Angutinnguaq:0 "Angutinnguaq"
+
+ Angutitsiaq:0 "Angutitsiaq"
+
+ Angutivaraq:0 "Angutivaraq"
+
+ Angutivik:0 "Angutivik"
+
+ Anikuchash:0 "Anikuchâsh"
+
+ Aninnguaq:0 "Aninnguaq"
+
+ Anirnik:0 "Anirnik"
+
+ Anmarum:0 "Anmarum"
+
+ Annoba:0 "Annoba"
+
+ Anori:0 "Anori"
+
+ Anta:0 "Anta"
+
+ Antala:0 "Antala"
+
+ Antyas:0 "Antyas"
+
+ Anulik:0 "Anulik"
+
+ Anyjima:0 "Anyjima"
+
+ Aoyunhua:0 "Aoyunhua"
+
+ Apama:0 "Apama"
+
+ Apapejit:0 "Apapejit"
+
+ Apayata:0 "Apayata"
+
+ Apikushish:0 "Âpikushîsh"
+
+ Appitaq:0 "Appitaq"
+
+ Aputsiaq:0 "Aputsiaq"
+
+ Aqiaruq:0 "Aqiaruq"
+
+ Aqissiaq:0 "Aqissiaq"
+
+ Aqjangajuk:0 "Aqjangajuk"
+
+ Aqqaluk:0 "Aqqaluk"
+
+ Aqqalurak:0 "Aqqalurak"
+
+ Aqtasi:0 "Aqtasi"
+
+ Aquujaq:0 "Aquujaq"
+
+ Arbatinyjak:0 "Arbatinyjak"
+ #Bua:0 "Bua"
+
+ Ardany:0 "Ardany"
+
+ Ardokhsho:0 "Ardokhsho"
+
+ Arduksh:0 "Arduksh"
+
+ Areyut:0 "Areyut"
+
+ Argate:0 "Argate"
+
+ Arguma:0 "Arguma"
+
+ Aridane:0 "Aridane"
+
+ Aridian:0 "Aridian"
+
+ Aris:0 "Aris"
+
+ Armiche:0 "Armiche"
+
+ Arnaaluk:0 "Arnaaluk"
+
+ Arnaarannguaq:0 "Arnaarannguaq"
+
+ Arnaaraq:0 "Arnaaraq"
+
+ Arnajaraq:0 "Arnajaraq"
+
+ Arnakitsoq:0 "Arnakitsoq"
+
+ Arnakkuluk:0 "Arnakkuluk"
+
+ Arnamineq:0 "Arnamineq"
+
+ Arnannguaq:0 "Arnannguaq"
+
+ Arnaq:0 "Arnaq"
+
+ Arnaqu:0 "Arnaqu"
+
+ Arnarissoq:0 "Arnarissoq"
+
+ Arnaruluk:0 "Arnaruluk"
+
+ Arnatsiaq:0 "Arnatsiaq"
+
+ Arnatuk:0 "Arnatuk"
+
+ Arnaujuq:0 "Arnaujuq"
+
+ Arnavaraq:0 "Arnavaraq"
+
+ Arnaviaq:0 "Arnaviaq"
+
+ Arsugaq:0 "Arsugaq"
+
+ Arsyan:0 "Arsyan"
+
+ Arta:0 "Arta"
+
+ Artabazu:0 "Artabazu"
+
+ Artakany:0 "Artakany"
+
+ Artana:0 "Artana"
+
+ Artasura:0 "Artasura"
+
+ Artosauka:0 "Artosauka"
+
+ Arus:0 "Arus"
+
+ Arvaarluk:0 "Arvaarluk"
+
+ Asabyos:0 "Asabyos"
+
+ Asar:0 "Asar"
+
+ Asarpannguaq:0 "Asarpannguaq"
+
+ Asbar:0 "Asbar"
+
+ Asdiq:0 "Asdiq"
+
+ Asdum:0 "Asdum"
+
+ Ashmay:0 "Ashmay"
+
+ Ashnaza:0 "Ashnaza"
+
+ Ashtyay:0 "Ashtyay"
+
+ Asiarpak:0 "Asiarpak"
+
+ Asine:0 "Asine"
+
+ Asini:0 "Asinî"
+
+ Asomoon:0 "Asomoon"
+
+ Asparobido:0 "Asparobido"
+
+ Aspul:0 "Aspul"
+
+ Aspurabah:0 "Aspurabah"
+
+ Assosa:0 "Assosa"
+
+ Asuuna:0 "Asuuna"
+
+ Asya:0 "Asya"
+
+ Atanarigu:0 "Atanarigu"
+
+ Atanarjuat:0 "Atanarjuat"
+
+ Atanausu:0 "Atanausu"
+
+ Atangana:0 "Atangana"
+
+ Ataui:0 "Ataui"
+
+ Atbitocazpe:0 "Atbitocazpe"
+
+ Atem:0 "Atem"
+
+ Atenai:0 "Atenai"
+
+ Ater:0 "Ater"
+
+ AthiaNG_:0 "Athiaŋ"
+
+ Athkalan:0 "Athkalan"
+
+ Athrat:0 "Athrat"
+
+ Atihkw:0 "Atihkw"
+
+ Atjiukak:0 "Atjiukak"
+
+ Atr:0 "Atr"
+ #Awan:0 "Awan"
+
+ Atsapa:0 "Atsapa"
+
+ Atsiannguaq:0 "Atsiannguaq"
+
+ Atsiaq:0 "Atsiaq"
+ #Atsuko:0 "Atsuko"
+
+ Attagares:0 "Attagares"
+
+ Attanatda:0 "Attanatda"
+
+ Attidamana:0 "Attidamana"
+
+ Attio:0 "Attio"
+
+ Attu:0 "Attu"
+
+ Atuat:0 "Atuat"
+
+ Atush:0 "Atush"
+
+ Atxona:0 "Atxoña"
+
+ Atyuta:0 "Atyuta"
+
+ Augustina:0 "Augustina"
+
+ Aupilaarjuk:0 "Aupilaarjuk"
+
+ Auyaluk:0 "Auyaluk"
+
+ Avaaraq:0 "Avaaraq"
+
+ Avaqsaaq:0 "Avaqsaaq"
+
+ Avaruna:0 "Avaruna"
+
+ Avatannguaq:0 "Avatannguaq"
+
+ Avataq:0 "Avataq"
+
+ Avdanay:0 "Avdanay"
+
+ Aviaaja:0 "Aviaaja"
+
+ Aviana:0 "Aviana"
+
+ Aviaq:0 "Aviaq"
+
+ Awfum:0 "Awfum"
+
+ Awien:0 "Awien"
+
+ Awishka:0 "Awishka"
+
+ Awli:0 "Awli"
+
+ Awsalat:0 "Awsalat"
+
+ Axo:0 "Axo"
+
+ Axshondar:0 "Axshondar"
+
+ Ayakchana:0 "Ayakchana"
+
+ Ayargun:0 "Ayargun"
+
+ Ayash:0 "Ayash"
+
+ Ayatmar:0 "Ayatmar"
+
+ Ayavrina:0 "Ayavrina"
+
+ Ayavuna:0 "Ayavuna"
+
+ Ayen:0 "Ayen"
+
+ Ayfi:0 "Ayfi"
+
+ Ayman:0 "Ayman"
+
+ Aymin:0 "Aymin"
+
+ Ayose:0 "Ayose"
+
+ Ayta:0 "Ayta"
+
+ Aythami:0 "Aythami"
+
+ Ayuskan:0 "Ayûskan"
+
+ Aywashtin:0 "Aywâshtin"
+
+ Azemeyeguegua:0 "Azemeyeguegua"
+
+ Azlam:0 "Azlam"
+
+ Azrapa:0 "Azrapa"
+
+ Azravka:0 "Azravka"
+
+ BL_aZ_ij:0 "Błažij"
+
+ Baar:0 "Baar"
+
+ Baardum:0 "Baardum"
+
+ Baare:0 "Baare"
+
+ Baase:0 "Baase"
+
+ Baaz:0 "Baaz"
+
+ Bab:0 "Bab"
+
+ Bachoo:0 "Bachoo"
+
+ Bagdarina:0 "Bagdarina"
+
+ BaghratunUchu:0 "Baghratunüchu"
+
+ Bagibo:0 "Bagibo"
+
+ Bagmareg:0 "Bagmareg"
+
+ Baka:0 "Baka"
+
+ Bakwe:0 "Bakwe"
+
+ Balat:0 "Balat"
+
+ Balatta:0 "Balatta"
+ #Basilia:0 "Basilia"
+
+ Balma:0 "Balma"
+
+ Banynyala:0 "Banynyala"
+
+ Baqilum:0 "Baqilum"
+
+ Baranyja:0 "Baranyja"
+
+ Barig:0 "Barig"
+
+ Barlum:0 "Barlum"
+
+ Barron:0 "Barron"
+
+ Barshanbu:0 "Barshanbu"
+
+ Bartolomeu:0 "Bartolomeu"
+
+ Barumini:0 "Barumini"
+
+ Barzand:0 "Barzand"
+
+ Basili:0 "Basili"
+
+ Baso:0 "Baso"
+
+ Batbat:0 "Batbat"
+
+ Batnoma:0 "Batnoma"
+
+ Battany:0 "Battany"
+
+ Bayoo:0 "Bayoo"
+ #Bayu:0 "Bayu"
+
+ Bayyin:0 "Bayyin"
+
+ Bazeshk:0 "Bazeshk"
+
+ Bazhan:0 "Bazhan"
+
+ Bazhana:0 "Bazhana"
+
+ Bazhat:0 "Bazhat"
+
+ Bazhata:0 "Bazhata"
+
+ Bazhen:0 "Bazhen"
+
+ Bazhena:0 "Bazhena"
+
+ Bazhut:0 "Bazhut"
+
+ Bazhuta:0 "Bazhuta"
+
+ Bazodeo:0 "Bazodeo"
+
+ Begandara:0 "Begandara"
+
+ Begayana:0 "Begayana"
+
+ Begeys:0 "Begeys"
+
+ Belegin:0 "Belegin"
+
+ Belis:0 "Belis"
+
+ Benedittu:0 "Benedittu"
+
+ Bentinerfe:0 "Bentinerfe"
+
+ Bentorey:0 "Bentorey"
+
+ Benytomo:0 "Benytomo"
+
+ Bepat:0 "Bepat"
+
+ Berbel:0 "Berbel"
+
+ Beretruda:0 "Beretruda"
+
+ Berkenchi:0 "Berkenchi"
+
+ Bernadet:0 "Bernadet"
+
+ Bert:0 "Bert"
+
+ Betzenuriya:0 "Betzenuriya"
+
+ Bey:0 "Bey"
+
+ Beye:0 "Beye"
+
+ Beyenom:0 "Beyenom"
+
+ Bhagundi:0 "Bhagundi"
+
+ Bidiwle:0 "Bidiwle"
+
+ Bilchon:0 "Bilchon"
+
+ Bilkis:0 "Bilkis"
+
+ Birinyjal:0 "Birinyjal"
+
+ Bissimdes:0 "Bissimdes"
+
+ Bitnima:0 "Bitnima"
+
+ Bitoria:0 "Bitoria"
+
+ Bitti:0 "Bitti"
+
+ Boda:0 "Boda"
+
+ BohumE_r:0 "Bohuměr"
+
+ Bok:0 "Bok"
+
+ Boka:0 "Boka"
+
+ Bokkok:0 "Bokkok"
+
+ Bol:0 "Bol"
+
+ Bombogor:0 "Bombogor"
+
+ Borbora:0 "Borbora"
+
+ Borjo:0 "Borjo"
+
+ Borzomihr:0 "Borzomihr"
+
+ Borzomiur:0 "Borzomiur"
+
+ BosC_ij:0 "Bosćij"
+
+ Bosco:0 "Bosco"
+
+ Boser:0 "Boser"
+
+ Bosko:0 "Bosko"
+
+ Bras:0 "Bras"
+
+ Brigita:0 "Brigita"
+
+ Bshadaq:0 "Bshadaq"
+
+ Bujuk:0 "Bujuk"
+
+ Bukrek:0 "Bukrek"
+
+ Bulbul:0 "Bulbul"
+
+ Buluj:0 "Buluj"
+
+ Burgumi:0 "Burgumi"
+
+ Burmiza:0 "Burmiza"
+
+ Burse:0 "Burse"
+
+ Burtu:0 "Burtu"
+
+ Burum:0 "Burum"
+
+ Buseiko:0 "Buseiko"
+
+ Bush:0 "Bush"
+
+ Buwa:0 "Buwa"
+
+ Buygush:0 "Buygush"
+
+ Buyguzha:0 "Buyguzha"
+
+ C_esC_imE_r:0 "Česćiměr"
+
+ C_estibor:0 "Čestibor"
+
+ Cayetana:0 "Cayetana"
+
+ Ceciliu:0 "Ceciliu"
+
+ Cel:0 "Cel"
+
+ Chabuta:0 "Chabuta"
+
+ Chachinama:0 "Chachiñama"
+
+ Chagandar:0 "Chagandar"
+
+ Chagankan:0 "Chagankan"
+
+ Chaghurum:0 "Chaghurum"
+
+ Chagilkan:0 "Chagilkan"
+
+ Chahchahkayu:0 "Chahchahkayû"
+
+ Chahkapesh:0 "Chahkâpesh"
+
+ Chalet:0 "Chalet"
+
+ Chanona:0 "Chanona"
+
+ ChanurAk:0 "Chanuräk"
+
+ Chapkun:0 "Chapkun"
+
+ Chaso:0 "Chaso"
+
+ Chatay:0 "Chatay"
+
+ Chayuga:0 "Chayuga"
+
+ Chekaren:0 "Chekaren"
+
+ Chekulay:0 "Chekulay"
+
+ Chevgine:0 "Chevgine"
+
+ Chik:0 "Chik"
+
+ Chimechi:0 "Chimechi"
+
+ Chimechia:0 "Chimechia"
+
+ Chimun:0 "Chimûn"
+
+ Chin:0 "Chin"
+
+ Chinakhratu:0 "Chinakhratu"
+
+ Chindar:0 "Chindar"
+
+ Chindyay:0 "Chindyay"
+
+ Chindyaz:0 "Chindyaz"
+
+ Chinza:0 "Chinza"
+
+ Chip:0 "Chip"
+
+ Chipan:0 "Chipan"
+
+ Chis:0 "Chis"
+
+ Chishashteu:0 "Chishâshteu"
+
+ Chishikw:0 "Chîshikw"
+
+ Chishtin:0 "Chîshtin"
+
+ Chiwetin:0 "Chîwetin"
+
+ Chiwetinisu:0 "Chîwetinisû"
+
+ Chiwetinuskeu:0 "Chîwetinuskeu"
+
+ Chiyameyihtam:0 "Chiyâmeyihtam"
+
+ Chiyashkw:0 "Chiyâshkw"
+
+ Chobun:0 "Chobun"
+
+ Cholgoron:0 "Cholgoron"
+
+ Chowaka:0 "Chowaka"
+ #Daro:0 "Daro"
+
+ Chpanya:0 "Chpanya"
+
+ Christa:0 "Christa"
+
+ Chrystina:0 "Chrystina"
+
+ Chrystof:0 "Chrystof"
+
+ Chuchan:0 "Chuchan"
+
+ Chula:0 "Chula"
+
+ Chumo:0 "Chumo"
+
+ Chuonnasuan:0 "Chuonnasuan"
+
+ Cieng:0 "Cieng"
+
+ Cipare:0 "Cipare"
+
+ Cobura:0 "Cobura"
+
+ Cocanaymo:0 "Cocanaymo"
+
+ Col:0 "Col"
+
+ Collarampa:0 "Collarampa"
+
+ Corona:0 "Corona"
+
+ Cosima:0 "Cosima"
+
+ Costantinu:0 "Costantinu"
+
+ Couliye:0 "Couliye"
+
+ Cuboje:0 "Cuboje"
+
+ Cuol:0 "Cuol"
+ #Dau:0 "Dau"
+
+ Cusaila:0 "Cusaila"
+
+ Cutzina:0 "Cutzina"
+
+ Czan:0 "Czan"
+
+ Czapayom:0 "Czapayom"
+
+ Czolom:0 "Czolom"
+
+ Daakooni:0 "Daakooni"
+
+ Dabasa:0 "Dabasa"
+
+ Dabba:0 "Dabba"
+
+ Dabugu:0 "Dabugu"
+
+ Daci:0 "Daci"
+
+ Dafina:0 "Dafina"
+
+ Dagoye:0 "Dagoye"
+
+ Dakkan:0 "Dakkan"
+
+ Dakkum:0 "Dakkum"
+
+ Dalan:0 "Dalan"
+
+ Dalee:0 "Dalee"
+
+ Damaralay:0 "Damaralay"
+
+ Damaryada:0 "Damaryada"
+
+ Damay:0 "Damay"
+
+ Dambaj:0 "Dambaj"
+
+ Damia:0 "Damia"
+
+ Danel:0 "Danel"
+
+ Dany:0 "Dany"
+
+ Danyay:0 "Danyay"
+
+ Darih:0 "Darih"
+
+ Darjakwe:0 "Darjakwe"
+
+ Darme:0 "Darme"
+
+ Daro:0 "Daro"
+
+ Darsa:0 "Darsa"
+
+ Darshu:0 "Darshu"
+
+ Dartafarnah:0 "Dartafarnah"
+
+ Daryo:0 "Daryo"
+
+ Dast:0 "Dast"
+
+ Dathshmareg:0 "Dathshmareg"
+
+ Dautiana:0 "Dautiana"
+
+ Dawaman:0 "Dawaman"
+
+ DeNG_:0 "Deŋ"
+
+ Debegei:0 "Debegei"
+
+ Degese:0 "Degese"
+
+ Deles:0 "Deles"
+
+ Dembie:0 "Dembie"
+
+ Derque:0 "Derque"
+ #Female
+
+ Derwan:0 "Derwan"
+
+ Devraz:0 "Devraz"
+
+ Dhakir:0 "Dhakir"
+
+ Dhakku:0 "Dhakku"
+
+ Dhamaralay:0 "Dhamaralay"
+
+ Dhamarkarib:0 "Dhamarkarib"
+
+ Dharih:0 "Dharih"
+
+ Dhat_Badan:0 "Dhat-Badan"
+
+ Dhawala:0 "Dhawala"
+
+ Dhieu:0 "Dhieu"
+
+ Digalu:0 "Digalu"
+
+ Digela:0 "Digela"
+
+ Dihia:0 "Dihia"
+
+ Dijakajag:0 "Dijakajag"
+
+ Dikkire:0 "Dikkire"
+
+ Dikwe:0 "Dikwe"
+
+ Dimany:0 "Dimany"
+
+ Dimbikisi:0 "Dimbikisi"
+
+ Dinga:0 "Dinga"
+
+ Dinki:0 "Dinki"
+
+ Dinyja:0 "Dinyja"
+
+ # Random Nubian
+
+ Diodoru:0 "Diodoru"
+ #Dominigu:0 "Dominigu"
+
+ Dirindi:0 "Dirindi"
+
+ Disinkurre:0 "Disinkurre"
+
+ Diyaarchom:0 "Diyaarchom"
+
+ Djarnat:0 "Djarnat"
+
+ DobysL_aw:0 "Dobysław"
+
+ DobysL_awa:0 "Dobysława"
+
+ Dohom:0 "Dohom"
+
+ Dokko:0 "Dokko"
+
+ Dokkome:0 "Dokkome"
+
+ Domagaya:0 "Domagaya"
+
+ Donatu:0 "Donatu"
+
+ Dondore:0 "Dondore"
+
+ Donesh:0 "Donesh"
+
+ Dongom:0 "Dongom"
+
+ Donnacona:0 "Donnacona"
+
+ Dotetam:0 "Dotetam"
+
+ Dubolgo:0 "Dubolgo"
+
+ Dukhtanosh:0 "Dukhtanosh"
+
+ Dukkume:0 "Dukkume"
+
+ Dula:0 "Dula"
+
+ Dular:0 "Dular"
+
+ Duma:0 "Duma"
+
+ Dut:0 "Dut"
+
+ Dyaluncha:0 "Dyaluncha"
+
+ Dytar:0 "Dytar"
+
+ Dytmar:0 "Dytmar"
+
+ Ea:0 "Ea"
+
+ Echalook:0 "Echalook"
+
+ Echoghon:0 "Echoghon"
+
+ Edita:0 "Edita"
+
+ Eegyvudluk:0 "Eegyvudluk"
+
+ Eeka:0 "Eeka"
+
+ Eela:0 "Eela"
+
+ Eelisi:0 "Eelisi"
+
+ Eertaaq:0 "Eertaaq"
+
+ Egden:0 "Egden"
+
+ Egidiu:0 "Egidiu"
+
+ Eglena:0 "Eglena"
+
+ Ehepikw:0 "Ehepikw"
+
+ Einyitta:0 "Einyitta"
+
+ Ekateelik:0 "Ekateelik"
+
+ Ekidluak:0 "Ekidluak"
+
+ ElZ_bjeta:0 "Elžbjeta"
+
+ Elim:0 "Elim"
+
+ Elissa:0 "Elissa"
+
+ Elka:0 "Elka"
+
+ Ellasuk:0 "Ellasuk"
+
+ Elwira:0 "Elwira"
+
+ Emiliu:0 "Emiliu"
+
+ Eqalugaq:0 "Eqalugaq"
+
+ Eqarina:0 "Eqarina"
+
+ Eqariusaq:0 "Eqariusaq"
+
+ Eqqamaq:0 "Eqqamaq"
+
+ Eqqimmaalaaq:0 "Eqqimmaalaaq"
+
+ Erbetken:0 "Erbetken"
+
+ Erdengua:0 "Erdengua"
+
+ Erekay:0 "Erekay"
+
+ Ergana:0 "Ergana"
+
+ Ergela:0 "Ergela"
+
+ Erikka:0 "Erikka"
+
+ Ermeza:0 "Ermeza"
+
+ Erna:0 "Erna"
+
+ Erneeraq:0 "Erneeraq"
+
+ Ernutannguaq:0 "Ernutannguaq"
+
+ Eryana:0 "Eryana"
+
+ Eryash:0 "Eryash"
+
+ Eryush:0 "Eryush"
+
+ Erzyut:0 "Erzyut"
+
+ Es:0 "Es"
+
+ Esuaktuk:0 "Esuaktuk"
+
+ Etat:0 "Etat"
+
+ Etuangat:0 "Etuangat"
+
+ Etulu:0 "Etulu"
+
+ Etyguyakjua:0 "Etyguyakjua"
+
+ Evnike:0 "Evnike"
+
+ Ewelin:0 "Ewelin"
+
+ Eyena:0 "Eyena"
+
+ Eyoman:0 "Eyoman"
+
+ Eyzyural:0 "Eyzyural"
+
+ Ezhana:0 "Ezhana"
+
+ Fanz:0 "Fanz"
+
+ Fari_um:0 "Fari'um"
+
+ Farikarib:0 "Farikarib"
+
+ Farmanz:0 "Farmanz"
+
+ Farowesp:0 "Farowesp"
+
+ Felgeda:0 "Felgeda"
+
+ Felicula:0 "Felicula"
+
+ Feliks:0 "Feliks"
+
+ Felixs:0 "Felixs"
+
+ Fena:0 "Fena"
+
+ Fenya:0 "Fenya"
+
+ Figar:0 "Figar"
+
+ Firg:0 "Firg"
+
+ Firisa:0 "Firisa"
+
+ Firmu:0 "Firmu"
+
+ Firyid:0 "Firyid"
+
+ Fooh:0 "Fooh"
+
+ Fordams:0 "Fordams"
+
+ Franc:0 "Franc"
+
+ Franciska:0 "Franciska"
+
+ Fredegunda:0 "Fredegunda"
+
+ Freistarab:0 "Freistarab"
+
+ Frogerd:0 "Frogerd"
+
+ Gabito:0 "Gabito"
+
+ Gachir:0 "Gachir"
+
+ Gaddala:0 "Gaddala"
+
+ Gadula:0 "Gadula"
+
+ Gaganom:0 "Gaganom"
+
+ Gaha:0 "Gaha"
+
+ Galaan:0 "Galaan"
+
+ Galday:0 "Galday"
+
+ Galgi:0 "Galgi"
+
+ Gamba:0 "Gamba"
+
+ Ganalchi:0 "Ganalchi"
+
+ Ganargun:0 "Ganargun"
+
+ Ganavul:0 "Ganavul"
+
+ Ganimum:0 "Ganimum"
+
+ Ganje:0 "Ganje"
+
+ Garasu:0 "Garasu"
+
+ Garay:0 "Garay"
+
+ GareNG_:0 "Gareŋ"
+
+ Gargalka:0 "Gargalka"
+
+ Garmelu:0 "Garmelu"
+
+ Garmun:0 "Garmun"
+
+ Garom:0 "Garom"
+
+ Garoo:0 "Garoo"
+ #Sirba:0 "Sirba"
+
+ Garpancha:0 "Garpancha"
+
+ Gashoskin:0 "Gashoskin"
+
+ Gatfar:0 "Gatfar"
+
+ Gavday:0 "Gavday"
+
+ Gelimeru:0 "Gelimeru"
+
+ Genderese:0 "Genderese"
+
+ GerS_a:0 "Gerša"
+
+ Gerat:0 "Gerat"
+
+ Gerian:0 "Gerián"
+
+ Gert:0 "Gert"
+
+ Gevan:0 "Gevan"
+
+ Gevancha:0 "Gevancha"
+
+ Ghaan:0 "Ghaan"
+
+ Ghamo:0 "Ghamo"
+
+ Ghar-ilchi:0 "Ghar-ilchi"
+
+ Ghashep:0 "Ghashep"
+
+ Ghasichom:0 "Ghasichom"
+
+ Ghosanom:0 "Ghosanom"
+
+ Ghughundil:0 "Ghughundil"
+
+ Gid:0 "Gid"
+
+ Gidargun:0 "Gidargun"
+
+ Giila:0 "Giila"
+
+ Gindil:0 "Gindil"
+
+ Girkis:0 "Girkis"
+
+ Gitimelu:0 "Gitimelu"
+
+ Giye:0 "Giye"
+
+ Gizela:0 "Gizela"
+
+ Glinom:0 "Glinom"
+
+ Goboziko:0 "Goboziko"
+
+ Gochachom:0 "Gochachom"
+
+ Golmito:0 "Golmito"
+
+ Gonoolanas:0 "Gonoolanas"
+
+ Goya:0 "Goya"
+
+ Gratzia:0 "Gratzia"
+
+ Gratzianu:0 "Gratzianu"
+
+ Gregori:0 "Gregori"
+
+ Grumbat:0 "Grumbat"
+
+ Guaxara:0 "Guaxara"
+
+# Himyarite
+
+ Guayanfanta:0 "Guayanfanta"
+
+ Gudeikon:0 "Gudeikon"
+
+ Guenfanu:0 "Guenfanu"
+
+ Gueton:0 "Guetón"
+
+ Gugdaul:0 "Gugdaul"
+
+ Guji:0 "Guji"
+
+ Gulalee:0 "Gulalee"
+
+ Gulyush:0 "Gulyush"
+
+ Gumbichu:0 "Gumbichu"
+
+ Gumidafe:0 "Gumidafe"
+
+ Gunavarman:0 "Gunavarman"
+
+ Guntar:0 "Guntar"
+
+ Guor:0 "Guor"
+
+ Gusparish:0 "Gusparish"
+
+ Guuro:0 "Guuro"
+
+ Gwang:0 "Gwang"
+
+ HaN_Z_a:0 "Hańža"
+
+ HaN_Z_ka:0 "Hańžka"
+
+ Hadirum:0 "Hadirum"
+
+ Haghur:0 "Haghur"
+
+ Haglandar:0 "Haglandar"
+
+ Hagsi:0 "Hagsi"
+
+ Hahayathat:0 "Hahayathat"
+
+ Haksem:0 "Haksem"
+
+ Hal:0 "Hal"
+
+ Halakamar:0 "Halakamar"
+
+ Halanz:0 "Halanz"
+
+ Halena:0 "Halena"
+
+ Hammatat:0 "Hammatat"
+
+ Hanagua:0 "Hañagua"
+
+ Hanaliza:0 "Hanaliza"
+
+ Hanamarja:0 "Hanamarja"
+
+ Handha:0 "Handha"
+
+ Handrij:0 "Handrij"
+
+ Hanelora:0 "Hanelora"
+
+ Hanka:0 "Hanka"
+
+ Hannah:0 "Hannah"
+
+ Haralt:0 "Haralt"
+
+ Harpancha:0 "Harpancha"
+
+ Harpas:0 "Harpas"
+
+ Harug:0 "Harug"
+
+ Hasana:0 "Hasana"
+
+ Hashtuma:0 "Hashtuma"
+
+ Haspur:0 "Haspur"
+
+ Hasto:0 "Hasto"
+
+ Hawfa_amm:0 "Hawfa'amm"
+
+ Hawfathat:0 "Hawfathat"
+
+ Hayrhumu:0 "Hayrhumu"
+
+ Hayum:0 "Hayum"
+
+ Haywshaf:0 "Haywshaf"
+
+ Hendrich:0 "Hendrich"
+
+ Herta:0 "Herta"
+
+ Heyom:0 "Heyom"
+
+ Hig:0 "Hig"
+
+ HilZ_a:0 "Hilža"
+
+ Hinatawn:0 "Hinatawn"
+
+ Hinc:0 "Hinc"
+
+ Hirguan:0 "Hirguan"
+ #Male
+
+ Hirqarqaamuc:0 "Hirqarqaamuc"
+
+ Hirr:0 "Hirr"
+
+ Hiuleqatuk:0 "Hiuleqatuk"
+
+ Hiurma:0 "Hiurma"
+
+ Hokkuu:0 "Hokkuu"
+
+ Hoksi:0 "Hoksi"
+
+ Hols:0 "Hols"
+
+ HorisL_aw:0 "Horisław"
+
+ Hosedam:0 "Hosedam"
+
+ Hrjehor:0 "Hrjehor"
+
+ Huertaya:0 "Huertaya"
+
+ Huk:0 "Huk"
+
+ Hulichan:0 "Hulichan"
+
+ Huni:0 "Huni"
+
+ Huspasina:0 "Huspasina"
+
+ Huvishka:0 "Huvishka"
+
+ Iaaja:0 "Iaaja"
+
+ Iaajannquaq:0 "Iaajannquaq"
+
+ Iakob:0 "Iakob"
+
+ Iaqqaaq:0 "Iaqqaaq"
+
+ Ichasagua:0 "Ichasagua"
+
+ Icheyana:0 "Icheyana"
+
+ Idman:0 "Idman"
+
+ Iesou:0 "Iesou"
+
+ Iesu:0 "Iesu"
+
+ Iga:0 "Iga"
+
+ Igaq:0 "Igaq"
+
+ Igideru:0 "Igideru"
+
+ Igimarasussussuaq:0 "Igimarasussussuaq"
+
+ Iglan:0 "Iglan"
+
+ Igpinguak:0 "Igpinguak"
+
+ Iguttaq:0 "Iguttaq"
+
+ Iikkajippaat:0 "Iikkajippaat"
+
+ Ikingut:0 "Ikingut"
+
+ Ikkaq:0 "Ikkaq"
+
+ Ikkwe:0 "Ikkwe"
+
+ Ikuala:0 "Ikuala"
+
+ Ikuk:0 "Ikuk"
+
+ Il_amm:0 "Il'amm"
+
+ Iladia: "Iladia"
+
+ Ilannguaq:0 "Ilannguaq"
+
+ Ilasiaq:0 "Ilasiaq"
+
+ Ilim:0 "Ilim"
+
+ Iliu:0 "Iliu"
+
+ Ilqoy:0 "Ilqoy"
+
+ Ilsharah:0 "Ilsharah"
+
+ Ilupaalik:0 "Ilupaalik"
+
+ Iluuna:0 "Iluuna"
+
+ Imana:0 "Imana"
+
+ Imi:0 "Imi"
+
+ Imina:0 "Imina"
+
+ Inagayuk:0 "Inagayuk"
+
+ Inaluk:0 "Inaluk"
+
+ Inemas:0 "Inemas"
+
+ Ines:0 "Ines"
+
+ Inevat:0 "Inevat"
+
+ Ingitruda:0 "Ingitruda"
+
+ Inmobach:0 "Inmobach"
+
+ Innaaq:0 "Innaaq"
+
+ Inngi:0 "Inngi"
+
+ Inngiliisa:0 "Inngiliisa"
+
+ Inngipooq:0 "Inngipooq"
+
+ Intarik:0 "Intarik"
+
+ Inuaraq:0 "Inuaraq"
+
+ Inukitsoq:0 "Inukitsoq"
+
+ Inukjurakju:0 "Inukjurakju"
+
+ Inusiaq:0 "Inusiaq"
+
+ Inutsiaq:0 "Inutsiaq"
+
+ Inuujuk:0 "Inuujuk"
+
+ Inuuna:0 "Inuuna"
+
+ Inuuteq:0 "Inuuteq"
+
+ Inyas:0 "Inyas"
+
+ Inyat:0 "Inyat"
+
+ Inyay:0 "Inyay"
+
+ Inyush:0 "Inyush"
+
+ Inyuta:0 "Inyuta"
+
+ Inyuva:0 "Inyuva"
+
+ Inzhanya:0 "Inzhanya"
+
+ Inzhevat:0 "Inzhevat"
+
+ Ioel:0 "Ioel"
+
+ Iparaq:0 "Iparaq"
+
+ Ipiksaut:0 "Ipiksaut"
+
+ Ipili:0 "Ipili"
+
+ Ipirvik:0 "Ipirvik"
+
+ Iraya:0 "Iraya"
+
+ Irsutuq:0 "Irsutuq"
+
+ Isakke:0 "Isakke"
+
+ Issaluk:0 "Issaluk"
+
+ Istarta:0 "Istarta"
+
+ Istrat:0 "Istrat"
+
+ Itaaraq:0 "Itaaraq"
+
+ Itahisa:0 "Itahisa"
+
+ Ithaysa:0 "Ithaysa"
+
+ Itiikwe:0 "Itiikwe"
+
+ Itsik:0 "Itsik"
+
+ Itsyal:0 "Itsyal"
+
+ Ittinuaq:0 "Ittinuaq"
+
+ Ivaana:0 "Ivaana"
+
+ Ivaaq:0 "Ivaaq"
+
+ Ivalu:0 "Ivalu"
+
+ Ivaluarjuk:0 "Ivaluarjuk"
+
+ Ivaluqut:0 "Ivaluqut"
+
+ Ivi:0 "Ivi"
+
+ Ivinnguaq:0 "Ivinnguaq"
+
+ JE_wa:0 "Jěwa"
+
+ JO_sef:0 "Jósef"
+
+ JadZ_a:0 "Jadźa"
+
+ Jama:0 "Jama"
+
+ Janek:0 "Janek"
+
+ Janequa:0 "Janequa"
+
+ Janka:0 "Janka"
+
+ Javukha:0 "Javukha"
+
+ Jawe:0 "Jawe"
+
+ Jawi:0 "Jawi"
+
+ Jee:0 "Jee"
+
+ Jela:0 "Jela"
+
+ Jidda:0 "Jidda"
+
+ Jilcha:0 "Jilcha"
+
+ Jillee:0 "Jillee"
+
+ Jimma:0 "Jimma"
+ #Abo:0 "Abo"
+
+ Jina:0 "Jina"
+
+ Jinfu:0 "Jinfu"
+
+ Jok:0 "Jok"
+
+ Jokkore:0 "Jokkore"
+
+ Jouishka:0 "Jouishka"
+
+ Jozefa:0 "Jozefa"
+
+ Juba:0 "Juba"
+
+ Julija:0 "Julija"
+
+ Jurij:0 "Jurij"
+
+ Juta:0 "Juta"
+
+ KR_esC_an:0 "Křesćan"
+
+ KU_r:0 "Kür"
+
+ Kaajamaat:0 "Kaajamaat"
+
+ Kaaleeraq:0 "Kaaleeraq"
+
+ Kaalinnguaq:0 "Kaalinnguaq"
+
+ Kaanngitsukkaaq:0 "Kaanngitsukkaaq"
+
+ Kaarnu:0 "Kaarnu"
+
+ Kaartaaq:0 "Kaartaaq"
+
+ Kaassannguaq:0 "Kaassannguaq"
+
+ Kaataq:0 "Kaataq"
+
+ Kabala:0 "Kabala"
+
+ Kadanai:0 "Kadanai"
+
+ Kadary:0 "Kadary"
+
+ Kadir:0 "Kadir"
+
+ Kadlarjuk:0 "Kadlarjuk"
+
+ Kaftor:0 "Kaftor"
+
+ Kagan:0 "Kagan"
+
+ Kagandar:0 "Kagandar"
+
+ Kagankan:0 "Kagankan"
+
+ Kaianuet:0 "Kaianuet"
+
+ Kajoq:0 "Kajoq"
+
+ Kaken:0 "Kaken"
+
+ Kakkiniq:0 "Kakkiniq"
+
+ Kalan:0 "Kalan"
+
+ Kaldya:0 "Kaldya"
+
+ Kalluk:0 "Kalluk"
+
+ Kalufama:0 "Kalufama"
+
+ Kalyuva:0 "Kalyuva"
+
+ Kalzi:0 "Kalzi"
+ #Kanor:0 "Kanor"
+
+ Kama:0 "Kama"
+
+ Kamalawam:0 "Kamalawam"
+
+ Kamara:0 "Kamara"
+
+ Kamay:0 "Kamay"
+
+ Kamuno:0 "Kamuno"
+ #Kare:0 "Kare"
+
+ Kananginak:0 "Kananginak"
+
+ Kanarang:0 "Kanarang"
+
+ Kandik:0 "Kandik"
+
+ Kanguq:0 "Kanguq"
+
+ Kaniuekutat:0 "Kaniuekutat"
+
+ Kanozas:0 "Kanozas"
+
+ Kanynya:0 "Kanynya"
+
+ Kanyova:0 "Kanyova"
+
+ Kanyu:0 "Kanyu"
+
+ Kapapisht:0 "Kapapisht"
+
+ Kapopi:0 "Kapopi"
+
+ Kapvik:0 "Kapvik"
+ #Karu:0 "Karu"
+
+ Kaqtukow:0 "Kaqtukow"
+
+ Kar:0 "Kar"
+
+ Karab:0 "Karab"
+
+ Karagay:0 "Karagay"
+
+ Karambal:0 "Karambal"
+
+ Kareem:0 "Kareem"
+
+ Kargash:0 "Kargash"
+
+ Karibathat:0 "Karibathat"
+
+ Karibil:0 "Karibil"
+
+ Karkhchma:0 "Karkhchma"
+
+ Karkhchu:0 "Karkhchu"
+
+ Karnyu:0 "Karnyu"
+
+ Karrayu:0 "Karrayu"
+
+ Kashkun:0 "Kashkûn"
+
+ Kashkunapan:0 "Kashkûnâpan"
+
+ Kashkunaskw:0 "Kashkûnaskw"
+
+ Kaskara:0 "Kaskara"
+
+ Kassaaluk:0 "Kassaaluk"
+
+ Kastargo:0 "Kastargo"
+
+ Kastus:0 "Kastus"
+
+ Kastusha:0 "Kastusha"
+
+ Kataisi:0 "Kataisi"
+
+ Katakure:0 "Katakure"
+
+ Katana:0 "Katana"
+
+ Katanay:0 "Katanay"
+
+ Katrin:0 "Katrin"
+
+ Katulf:0 "Katulf"
+
+ Kautatshet:0 "Kautatshet"
+
+ Kautjak:0 "Kautjak"
+
+ Kav:0 "Kav"
+
+ Kaw:0 "Kaw"
+
+ Kayara:0 "Kayara"
+
+ Kayel:0 "Kayel"
+
+ Kazihlot:0 "Kazihlôt"
+
+ Kdyay:0 "Kdyay"
+
+ Kechay:0 "Kechay"
+
+ Kechush:0 "Kechush"
+
+ Keeku:0 "Keeku"
+ #Uru:0 "Uru"
+
+ Kele_l:0 "Kele'l"
+
+ Kelemas:0 "Kelemas"
+
+ Kelga:0 "Kelga"
+
+ Kelgan:0 "Kelgan"
+
+ Kelge:0 "Kelge"
+
+ Kelyash:0 "Kelyash"
+
+ Kemalya:0 "Kemalya"
+
+ Kemay:0 "Kemay"
+
+ Kemela:0 "Kemela"
+
+ Kemelte:0 "Kemelte"
+
+ Kenyova:0 "Kenyova"
+
+ Kepele:0 "Kepele"
+
+ Keptuke:0 "Keptuke"
+
+ Kernabes:0 "Kernabes"
+
+ Kesmyay:0 "Kesmyay"
+
+ Ketsya:0 "Ketsya"
+
+ Kevganya:0 "Kevganya"
+
+ Kevge:0 "Kevge"
+
+ Khadiul:0 "Khadiul"
+
+ Khalas:0 "Khalas"
+
+ Khanchil:0 "Khanchil"
+
+ Kharana:0 "Kharana"
+
+ Khargi:0 "Khargi"
+
+ Khingal:0 "Khingal"
+
+ Khingila:0 "Khingila"
+
+ Khirgoman:0 "Khirgoman"
+
+ Khoade:0 "Khoade"
+
+ Khoil:0 "Khoil"
+
+ Khono:0 "Khono"
+
+ Khorong:0 "Khorong"
+
+ Khuhz:0 "Khuhz"
+
+ Khum:0 "Khum"
+
+ Khur:0 "Khur"
+
+ Khushnawaz:0 "Khushnawaz"
+
+ Khwadewbandan:0 "Khwadewbandan"
+
+ Khwasraw:0 "Khwasraw"
+
+ Kiaksuk:0 "Kiaksuk"
+
+ Kichat:0 "Kichat"
+
+ Kidara:0 "Kidara"
+
+ Kidinu:0 "Kidinu"
+
+ Kigutaarnaq:0 "Kigutaarnaq"
+
+ Kigutikkaq:0 "Kigutikkaq"
+
+ Kiistaaraq:0 "Kiistaaraq"
+
+ Kikkik:0 "Kikkik"
+
+ Kiladya:0 "Kiladya"
+
+ Kildyush:0 "Kildyush"
+
+ Kilikvak:0 "Kilikvak"
+
+ Kilyava:0 "Kilyava"
+
+ Kimmernaq:0 "Kimmernaq"
+
+ Kinije:0 "Kinije"
+
+ Kipa:0 "Kipa"
+
+ Kirdyan:0 "Kirdyan"
+
+ Kirdyash:0 "Kirdyash"
+
+ Kirdyuva:0 "Kirdyuva"
+
+ Kiri:0 "Kiri"
+ #Kona:0 "Kona"
+
+ Kisla:0 "Kisla"
+
+ Kistan:0 "Kistan"
+
+ Kit:0 "Kit"
+
+ Kitana:0 "Kitana"
+
+ Kitannguaq:0 "Kitannguaq"
+
+ Kitay:0 "Kitay"
+
+ Kitpu:0 "Kitpu"
+
+ Kittime:0 "Kittime"
+
+ Kiugak:0 "Kiugak"
+
+ Kiviaq:0 "Kiviaq"
+
+ Kiwu:0 "Kiwu"
+
+ Kiyal:0 "Kiyal"
+
+ Kiyazh:0 "Kiyazh"
+
+ Kizay:0 "Kizay"
+
+ Kizhay:0 "Kizhay"
+
+ Kizhevat:0 "Kizhevat"
+
+ Kizor:0 "Kizor"
+
+ Klawdija:0 "Klawdija"
+
+ Klaws:0 "Klaws"
+
+ Klema:0 "Klema"
+
+ Ko_n:0 "Kon"
+
+ Kochkor:0 "Kochkor"
+
+ Kodor:0 "Kodor"
+
+ Kokonen:0 "Kokonen"
+
+ Kola:0 "Kola"
+
+ Komot:0 "Komot"
+
+ Konay:0 "Konay"
+
+ Konnong:0 "Konnong"
+
+ Konoo:0 "Konoo"
+
+ Konstanca:0 "Konstanca"
+
+ Konwakeri:0 "Konwakeri"
+
+ Konyore:0 "Konyore"
+
+ Konyorobbo:0 "Konyorobbo"
+
+ Kopit:0 "Kopit"
+
+ Korla:0 "Korla"
+
+ Kornay:0 "Kornay"
+
+ Korro:0 "Korro"
+
+ Kosokkwe:0 "Kosokkwe"
+
+ Kostoku:0 "Kostoku"
+
+ Kostyush:0 "Kostyush"
+
+ Kotay:0 "Kotay"
+
+ Koudlaniel:0 "Koudlaniel"
+
+ Koumi:0 "Koumi"
+
+ Koyengquahtah:0 "Koyengquahtah"
+
+ Koyona:0 "Koyona"
+
+ Kozgashka:0 "Kozgashka"
+
+ Kozgashki:0 "Kozgashki"
+
+ Kozyay:0 "Kozyay"
+
+ Krang:0 "Krang"
+
+ Krmay:0 "Krmay"
+
+ Kruglais:0 "Kruglais"
+
+ Krysta:0 "Krysta"
+
+ Ksnyaka:0 "Ksnyaka"
+
+ Kudal:0 "Kudal"
+
+ Kudalya:0 "Kudalya"
+
+ Kuday:0 "Kuday"
+
+ # More error log names
+
+ Kudazh:0 "Kudazh"
+
+ Kudluajuk:0 "Kudluajuk"
+
+ Kuekuatsheu:0 "Kuekuatsheu"
+
+ Kuihkuhacheu:0 "Kuîhkuhâcheu"
+
+ Kuihkun:0 "Kuîhkun"
+
+ Kuju:0 "Kuju"
+
+ Kulisha:0 "Kulisha"
+
+ Kulu:0 "Kulu"
+
+ Kulunnguaq:0 "Kulunnguaq"
+
+ Kulyasha:0 "Kulyasha"
+
+ Kumaglak:0 "Kumaglak"
+
+ KunKhi:0 "Kunkhi"
+
+ Kungas:0 "Kungas"
+
+ Kunu:0 "Kunu"
+
+ Kunuk:0 "Kunuk"
+
+ Kunuunnguaq:0 "Kunuunnguaq"
+
+ Kupapik:0 "Kupapik"
+
+ Kuray:0 "Kuray"
+
+ Kurra:0 "Kurra"
+
+ Kurshtal:0 "Kurshtal"
+
+ Kusige:0 "Kusige"
+
+ Kusiri:0 "Kusiri"
+
+ Kusse:0 "Kusse"
+
+ Kusu:0 "Kusu"
+
+ Kususa:0 "Kususa"
+
+ Kutor:0 "Kutor"
+
+ Kutshinapess:0 "Kutshinapess"
+
+ Kutsyay:0 "Kutsyay"
+
+ Kuttuse:0 "Kuttuse"
+
+ Kuua:0 "Kuua"
+
+ Kuujuk:0 "Kuujuk"
+
+ Kuunu:0 "Kuunu"
+
+ Kuupik:0 "Kuupik"
+
+ Kuutaq:0 "Kuutaq"
+
+ Kuutsiikitsoq:0 "Kuutsiikitsoq"
+
+ Kuyama:0 "Kuyama"
+
+ Kuyre:0 "Kuyre"
+
+ Kuzay:0 "Kuzay"
+
+ Kuzhevat:0 "Kuzhevat"
+
+ Kuzhuud:0 "Kuzhuud"
+
+ Kwahkwapishish:0 "Kwâhkwâpishîsh"
+
+ Kwekweshu:0 "Kwekweshû"
+
+ Kwogwnas:0 "Kwôgwnas"
+
+ L_awrjenc:0 "Ławrjenc"
+
+ Laakkuluk:0 "Laakkuluk"
+
+ Laannguaq:0 "Laannguaq"
+
+ Ladava:0 "Ladava"
+
+ Lahayatat:0 "Lahayatat"
+
+ Lahun:0 "Lahun"
+
+ Lahyid:0 "Lahyid"
+
+ Lakhana_Udayaditya:0 "Lakhana Udayaditya"
+
+ Lamia:0 "Lamia"
+
+ Lamzur:0 "Lamzur"
+
+ Larokores:0 "Larokores"
+
+ Latkay:0 "Latkay"
+
+ Latyzh:0 "Latyzh"
+
+ LeN_ka:0 "Leńka"
+
+ Lebied:0 "Lebied"
+
+ Lebien:0 "Lebien"
+
+ Lejna:0 "Lejna"
+
+ Leliso:0 "Leliso"
+
+ Lemas:0 "Lemas"
+
+ Lemes:0 "Lemes"
+
+ Lemza:0 "Lemza"
+
+ Lenday:0 "Lenday"
+
+ Lenka:0 "Lenka"
+
+ Lepeka:0 "Lepeka"
+
+ Letay:0 "Letay"
+
+ Levzhay:0 "Levzhay"
+
+ Leymar:0 "Leymar"
+
+ Ligeye:0 "Ligeye"
+
+ Likshanya:0 "Likshanya"
+
+ Lipifor:0 "Lipifor"
+
+ Lituva:0 "Lituva"
+
+ Lityay:0 "Lityay"
+
+ Lityush:0 "Lityush"
+
+ Lkshmay:0 "Lkshmay"
+
+ Lle:0 "Lle"
+
+ Llobal:0 "Llobal"
+
+ Logda:0 "Logda"
+
+ Loikhobosar:0 "Loikhobosar"
+
+ Loshtan:0 "Loshtan"
+
+ Losid:0 "Losid"
+
+ Lrohominan:0 "Lrohominan"
+
+ Lubina:0 "Lubina"
+
+ Luftay:0 "Luftay"
+
+ Luol:0 "Luol"
+
+ Luuti:0 "Luuti"
+
+ Lyuka:0 "Lyuka"
+
+ Lyukshava:0 "Lyukshava"
+
+ ME_rC_in:0 "Měrćin"
+
+ ME_rana:0 "Měrana"
+
+ ME_rka:0 "Měrka"
+
+ ME_rko:0 "Měrko"
+
+ ME_to:0 "Měto"
+
+ MaC_ij:0 "Maćij"
+
+ Ma_add:0 "Ma'add"
+
+ Ma_al_Samaa:0 "Ma'al-Samaa"
+
+ Ma_kit:0 "Ma'kit"
+
+ Maaja:0 "Maaja"
+
+ Maakajik:0 "Maakajik"
+
+ Maannguaq:0 "Maannguaq"
+
+ Maaraq:0 "Maaraq"
+
+ Maassannguaq:0 "Maassannguaq"
+
+ Mabior:0 "Mabior"
+
+ Mabok:0 "Mabok"
+
+ Mac:0 "Mac"
+
+ MacA_r:0 "Macär"
+
+ Macca:0 "Macca"
+
+ Machi:0 "Machi"
+
+ Macut:0 "Macut"
+
+ Madaya:0 "Madaya"
+
+ Madhil:0 "Madhil"
+
+ MadiNG_:0 "Madiŋ"
+
+ Madil:0 "Madil"
+
+ Madit:0 "Madit"
+
+ Madlena:0 "Madlena"
+
+ Madlenka:0 "Madlenka"
+
+ Madut:0 "Madut"
+
+ Magal:0 "Magal"
+
+ Magankan:0 "Magankan"
+
+ Magdhalak:0 "Magdhalak"
+
+ Magela:0 "Magela"
+
+ Magot:0 "Magot"
+
+ Mahcheshu:0 "Mahcheshû"
+
+ Mahihkan:0 "Mahîhkan"
+
+ Maikan:0 "Maikan"
+
+ MajOO_:0 "Majö"
+
+ Majda:0 "Majda"
+
+ Majok:0 "Majok"
+
+ Maker:0 "Maker"
+
+ Makik:0 "Makik"
+
+ Makim:0 "Makim"
+
+ Makkannguaq:0 "Makkannguaq"
+
+ Makoi:0 "Makoi"
+
+ Maks:0 "Maks"
+
+ Maksymilian:0 "Maksymilian"
+
+ MakuEi:0 "Makuεi"
+
+ Makuac:0 "Makuac"
+
+ MalO_u:0 "Malou"
+
+ Maldya:0 "Maldya"
+
+ Maleraq:0 "Maleraq"
+
+ Maligiaq:0 "Maligiaq"
+
+ Maliina:0 "Maliina"
+
+ Maliinannguaq:0 "Maliinannguaq"
+
+ Malikum:0 "Malikum"
+
+ Malinnguaq:0 "Malinnguaq"
+
+ Malith:0 "Malith"
+
+ Malki:0 "Malki"
+
+ Malko:0 "Malko"
+ #Wako:0 "Wako"
+
+ MaloNG_:0 "Maloŋ"
+
+ Malthash:0 "Malthash"
+
+ Malual:0 "Malual"
+
+ Mandola:0 "Mandola"
+
+ Maninidra:0 "Maninidra"
+
+ Manitok:0 "Manitok"
+
+ Manno:0 "Manno"
+
+ Manute:0 "Manute"
+
+ Manyire:0 "Manyire"
+
+ Maowat:0 "Maôwat"
+
+ Mapresey:0 "Mapresey"
+
+ Mapsalaaq:0 "Mapsalaaq"
+
+ Maralaqas:0 "Maralaqas"
+
+ Marcellu:0 "Marcellu"
+
+ Mareg:0 "Mareg"
+
+ Marevat:0 "Marevat"
+
+ Margilat:0 "Margilat"
+
+ Marhata:0 "Marhata"
+
+ Mariak:0 "Mariak"
+
+ Marial:0 "Marial"
+
+ Mariz:0 "Mariz"
+
+ Marjana:0 "Marjana"
+
+ Marka:0 "Marka"
+
+ Markuzh:0 "Markuzh"
+
+ Martadail:0 "Martadail"
+
+ Martadum:0 "Martadum"
+
+ Martas:0 "Martas"
+
+ Masaitsiaq:0 "Masaitsiaq"
+
+ Masana:0 "Masana"
+
+ Masanti:0 "Masanti"
+
+ Mase:0 "Mase"
+
+ Masguinu:0 "Masguinu"
+
+ Mashku:0 "Mashku"
+
+ Mashtan:0 "Mashtan"
+
+ Masi:0 "Masi"
+
+ Masichisk:0 "Mâsichîsk"
+
+ Maskumishi:0 "Maskumishî"
+
+ Maskw:0 "Maskw"
+
+ Massuna:0 "Massuna"
+
+ Mastya:0 "Mastya"
+
+ Materyu:0 "Materyu"
+
+ MathiaNG_:0 "Mathiaŋ"
+
+ Mato:0 "Mato"
+
+ Matum:0 "Matum"
+
+ Maupeltu:0 "Maupeltu"
+
+ Mawien:0 "Mawien"
+
+ Mayen:0 "Mayen"
+
+ Mayom:0 "Mayom"
+
+ Mayoreak:0 "Mayoreak"
+
+ Mazanya:0 "Mazanya"
+
+ Mazyargo:0 "Mazyargo"
+
+ Meenis:0 "Meenis"
+
+ Mehama:0 "Mehama"
+
+ Mekwatpat:0 "Mekwatpat"
+
+ Melsedey:0 "Melsedey"
+
+ Meltset:0 "Meltset"
+
+ Memeu:0 "Memeu"
+
+ Merkuzh:0 "Merkuzh"
+
+ Meshkana:0 "Meshkana"
+
+ Metallak:0 "Metallak"
+
+ Metaxsu:0 "Metaxsu"
+
+ Metkaza:0 "Metkaza"
+
+ Metod:0 "Metod"
+
+ Michihkuleshish:0 "Mîchihkuleshîsh"
+
+ Michihkushish:0 "Mîchihkushîsh"
+
+ Michisu:0 "Michisû"
+
+ Mihkwapan:0 "Mihkwâpan"
+
+ Mihkwauskun:0 "Mihkwâuskun"
+
+ Mihraman:0 "Mihraman"
+
+ Miiannguaq:0 "Miiannguaq"
+
+ Miika:0 "Miika"
+
+ Miilla:0 "Miilla"
+
+ Miillaaraq:0 "Miillaaraq"
+
+ Mijyu:0 "Mijyu"
+
+ MikL_awS_:0 "Mikławš"
+
+ Mikefor:0 "Mikefor"
+
+ Mikidjuk:0 "Mikidjuk"
+
+ Mikigak:0 "Mikigak"
+
+ Mikileraq:0 "Mikileraq"
+
+ Mikisuluk:0 "Mikisuluk"
+
+ Mikol:0 "Mikol"
+
+ Mikun:0 "Mîkun"
+
+ Milenka:0 "Milenka"
+
+ Milurtuq:0 "Milurtuq"
+
+ Mimpil:0 "Mimpil"
+
+ Minahikw:0 "Minahîkw"
+
+ Mininnguaq:0 "Mininnguaq"
+
+ Minus:0 "Minus"
+
+ Mirijam:0 "Mirijam"
+
+ Mischinahkw:0 "Mischinâhkw"
+
+ Mishkutuiapeu:0 "Mishkutuiapeu"
+
+ Mishtanapesh:0 "Mishtanapesh"
+
+ Mishtapeu:0 "Mishtâpeu"
+
+ Mishui:0 "Mîshui"
+
+ Mispun:0 "Mispun"
+
+ Miteq:0 "Miteq"
+
+ Mithravakhsha:0 "Mithravakhsha"
+
+ Mitiarjuk:0 "Mitiarjuk"
+
+ Mitti:0 "Mitti"
+
+ Miyanza:0 "Miyanza"
+
+ Miyuskamin:0 "Miyuskamin"
+
+ Miyuteheu:0 "Miyuteheu"
+
+ Miyutehi:0 "Miyutehî"
+
+ Miywapan:0 "Miywâpan"
+
+ MjeC_isL_aw:0 "Mječisław"
+
+ MjeC_isL_awa:0 "Mječisława"
+
+ Modun:0 "Modun"
+
+ Mogeda:0 "Mogeda"
+
+ Mokshay:0 "Mokshay"
+
+ Moladakw:0 "Môladakw"
+
+ Moltan:0 "Moltan"
+
+ Moni:0 "Moni"
+
+ Monika:0 "Monika"
+
+ MonypiNG_:0 "Monypiŋ"
+
+ Monyyak:0 "Monyyak"
+
+ Moro:0 "Moro"
+
+ Mosa:0 "Mosa"
+
+ Moskay:0 "Moskay"
+
+ Mou:0 "Mou"
+
+ Mufasa:0 "Mufasa"
+
+ Mugedi:0 "Mugedi"
+
+ Muhibal:0 "Muhibal"
+
+ Muhkuman:0 "Mûhkumân"
+
+ Muhkutakan:0 "Mûhkutâkan"
+
+ Mumilaaq:0 "Mumilaaq"
+
+ Mungitok:0 "Mungitok"
+
+ Munik:0 "Munik"
+
+ Murtashkar:0 "Murtashkar"
+
+ Muru:0 "Muru"
+
+ Mus:0 "Mûs"
+
+ Muul:0 "Muul"
+
+ Muuna:0 "Muuna"
+
+ Muyaksh:0 "Muyaksh"
+
+ Mwakw:0 "Mwâkw"
+
+ NG_or:0 "Ŋor"
+
+ Naaja:0 "Naaja"
+
+ Naalik:0 "Naalik"
+
+ Naaluk:0 "Naaluk"
+
+ Naasu:0 "Naasu"
+
+ Nabatkarib:0 "Nabatkarib"
+
+ Nachar:0 "Nachar"
+
+ Nadana:0 "Nadana"
+
+ Nagi:0 "Nagi"
+
+ Naja:0 "Naja"
+
+ Najaaja:0 "Najaaja"
+
+ Najaaraq:0 "Najaaraq"
+
+ Najakkuluk:0 "Najakkuluk"
+
+ Najannguaq:0 "Najannguaq"
+
+ Najatta:0 "Najatta"
+
+ Najattaannguaq:0 "Najattaannguaq"
+
+ Najattaaq:0 "Najattaaq"
+
+ Nakasuk:0 "Nakasuk"
+
+ Nakataq:0 "Nakataq"
+
+ Nakhya:0 "Nakhya"
+
+ Nal:0 "Nal"
+
+ Nalet:0 "Nalet"
+
+ Nalkuma:0 "Nalkuma"
+
+ Nanoq:0 "Nanoq"
+
+ Nanuraq:0 "Nanuraq"
+
+ Napatchi:0 "Napatchi"
+
+ Napu:0 "Napu"
+
+ Naqqoq:0 "Naqqoq"
+
+ Narden:0 "Narden"
+
+ Nardyan:0 "Nardyan"
+
+ Narendraditya_Khinkhila:0 "Narendraditya Khinkhila"
+
+ Nart:0 "Nart"
+
+ Narush:0 "Narush"
+
+ Narusha:0 "Narusha"
+
+ Narysh:0 "Narysh"
+
+ Nashakarib:0 "Nashakarib"
+
+ Nassiaq:0 "Nassiaq"
+
+ Nastyu:0 "Nastyu"
+
+ Natanis:0 "Natanis"
+
+ Natsiq:0 "Natsiq"
+
+ Natuk:0 "Natuk"
+
+ Nauja:0 "Nauja"
+
+ Naullaq:0 "Naullaq"
+
+ Navagiaq:0 "Navagiaq"
+
+ Navarana:0 "Navarana"
+
+ Nawshal:0 "Nawshal"
+
+ Nestokhot:0 "Nestokhot"
+
+ Nevak:0 "Nevak"
+
+ Nguaq:0 "Nguaq"
+
+ Nhialic:0 "Nhialic"
+
+ Niali:0 "Niali"
+
+ Nialiannguaq:0 "Nialiannguaq"
+
+ Niattaq:0 "Niattaq"
+
+ Nikamuwin:0 "Nikamuwin"
+
+ Nimischu:0 "Nimischû"
+
+ Nimran:0 "Nimran"
+
+ Ninda:0 "Ninda"
+
+ Ningaattoq:0 "Ningaattoq"
+
+ Ningiuga:0 "Ningiuga"
+
+ Ningiukulu:0 "Ningiukulu"
+
+ Nipin:0 "Nîpin"
+
+ Nipish:0 "Nîpîsh"
+
+ Nipisi:0 "Nîpisî"
+
+ Niriuniq:0 "Niriuniq"
+
+ Nirsiniq:0 "Nirsiniq"
+
+ Nirt:0 "Nirt"
+
+ Nisamar:0 "Nisamar"
+
+ Nisseushkueu:0 "Nisseushkueu"
+
+ Nivalina:0 "Nivalina"
+
+ Nivi:0 "Nivi"
+
+ Niviaaja:0 "Niviaaja"
+
+ Niviaaluk:0 "Niviaaluk"
+
+ Niviana:0 "Niviana"
+
+ Niviaq:0 "Niviaq"
+
+ Niviatsiaq:0 "Niviatsiaq"
+
+ Nivikka:0 "Nivikka"
+
+ Nivineq:0 "Nivineq"
+
+ Nivinnguaq:0 "Nivinnguaq"
+
+ Niyo:0 "Niyo"
+
+ Njura:0 "Njura"
+
+ Nobakikw:0 "Nôbakikw"
+ #Nagako:0 "Nagako"
+
+ Nobekht:0 "Nobekht"
+
+ Nogosa:0 "Nogosa"
+
+ Nojmiganot:0 "Nojmiganôt"
+
+ Nokonzok:0 "Nokonzok"
+
+ Nokonzoko:0 "Nokonzoko"
+
+ Noldash:0 "Noldash"
+
+ Nommoya:0 "Nommoya"
+
+ Nomokon:0 "Nomokon"
+
+ Normal:0 "Normal"
+
+ Norsaq:0 "Norsaq"
+
+ Nubelu:0 "Nubelu"
+
+ Nuggasak:0 "Nuggasak"
+
+ Nuiana:0 "Nuiana"
+
+ Nukappiaaluk:0 "Nukappiaaluk"
+
+ Nukappiannguaq:0 "Nukappiannguaq"
+
+ Nukunzuk:0 "Nukunzuk"
+
+ Nuliajuk:0 "Nuliajuk"
+
+ Nungunu:0 "Nungunu"
+
+ Nuqallaq:0 "Nuqallaq"
+
+ Nushtay:0 "Nushtay"
+
+ Nutamikuesh:0 "Nutamikuesh"
+
+ Nutaraaluk:0 "Nutaraaluk"
+
+ Nuuna:0 "Nuuna"
+
+ Nuvvijaq:0 "Nuvvijaq"
+
+ Nuwas:0 "Nuwas"
+
+ Nuyal:0 "Nuyal"
+
+ Nyaluol:0 "Nyaluol"
+
+ Nyamire:0 "Nyamire"
+
+ Nyamure:0 "Nyamure"
+
+ Nyande:0 "Nyande"
+
+ Nyantin:0 "Nyantin"
+
+ Nyanut:0 "Nyanut"
+
+ Nyariak:0 "Nyariak"
+
+ Nyarta:0 "Nyarta"
+ #Kusa:0 "Kusa"
+
+ Nyatil:0 "Nyatil"
+
+ Nyibol:0 "Nyibol"
+
+ Nyimiri:0 "Nyimiri"
+
+ Nyla:0 "Nyla"
+
+ Nyo:0 "Nyo"
+
+ Nyogoro:0 "Nyogoro"
+
+ Nyondor:0 "Nyondor"
+
+ Nyorayana:0 "Nyorayana"
+
+ Nyundursa:0 "Nyundursa"
+
+ Nyurgun:0 "Nyurgun"
+
+ Oaksh:0 "Oaksh"
+
+ Oboo:0 "Oboo"
+
+ Odel:0 "Odel"
+
+ Oditu:0 "Oditu"
+
+ Odun:0 "Odun"
+
+ Odush:0 "Odush"
+
+ Odzhin:0 "Odzhin"
+
+ Oesh:0 "Oesh"
+
+ Oeshki:0 "Oeshki"
+
+ Oftay:0 "Oftay"
+
+ Ogata:0 "Ogata"
+
+ Ogdo:0 "Ogdo"
+
+ Oku:0 "Oku"
+
+ Olgit:0 "Olgit"
+
+ Olo:0 "Olo"
+
+ Olshuk:0 "Olshuk"
+
+ Oncho:0 "Oncho"
+
+ Onkhoi:0 "Onkhoi"
+
+ Onor:0 "Onor"
+
+ Onwanonsyshon:0 "Onwanonsyshon"
+
+ Ooozhiid:0 "Ooozhiid"
+
+ Opal:0 "Opal"
+
+ Oqutaq:0 "Oqutaq"
+
+ Ordan:0 "Ordan"
+
+ Ordat:0 "Ordat"
+
+ Ordazh:0 "Ordazh"
+
+ Orma:0 "Orma"
+ #Daya:0 "Daya"
+ #Kombo:0 "Kombo"
+
+ Ormuzd:0 "Ormuzd"
+
+ Oromozd:0 "Oromozd"
+
+ Orpingalik:0 "Orpingalik"
+
+ Orshvadata:0 "Orshvadata"
+
+ Os:0 "Os"
+
+ Oshediy:0 "Oshediy"
+
+ Oshenya:0 "Oshenya"
+
+ Oshutsiaq:0 "Oshutsiaq"
+
+ Osta:0 "Osta"
+
+ Otsyapa:0 "Otsyapa"
+
+ Otsyup:0 "Otsyup"
+
+ Otyazh:0 "Otyazh"
+
+ Otyush:0 "Otyush"
+
+ Oulus:0 "Oulus"
+
+ Oveljiyeshom:0 "Oveljiyeshom"
+
+ Owennokon:0 "Owennokon"
+
+ Oyka:0 "Oyka"
+
+ PI_u:0 "Pïu"
+
+ Paajoq:0 "Paajoq"
+
+ Paaluk:0 "Paaluk"
+
+ Paarnannguaq:0 "Paarnannguaq"
+
+ Paarnaq:0 "Paarnaq"
+
+ Pacham:0 "Pacham"
+
+ Paingu:0 "Paingu"
+
+ Pakak:0 "Pakak"
+
+ Paki:0 "Paki"
+
+ Pakkutaq:0 "Pakkutaq"
+
+ Paksyaltya:0 "Paksyaltya"
+
+ Paksyuta:0 "Paksyuta"
+
+ Paksyuva:0 "Paksyuva"
+
+ Palapalaat:0 "Palapalaat"
+
+ Pallulaaq:0 "Pallulaaq"
+
+ Paneeraq:0 "Paneeraq"
+
+ Pani:0 "Pani"
+
+ Panikpak:0 "Panikpak"
+
+ Paninnguaq:0 "Paninnguaq"
+
+ Pannichiak:0 "Pannichiak"
+
+ Panniuq:0 "Panniuq"
+
+ Pantyush:0 "Pantyush"
+
+ Panya:0 "Panya"
+
+ Paornanguaq:0 "Paornanguaq"
+
+ Papanni:0 "Papanni"
+
+ Papin:0 "Papin"
+
+ Paqoq:0 "Paqoq"
+
+ Paqtsim:0 "Paqtsim"
+
+ Paramza:0 "Paramza"
+
+ Paranza:0 "Paranza"
+
+ Parka:0 "Parka"
+
+ Parko:0 "Parko"
+
+ Parma:0 "Parma"
+
+ Parnuuna:0 "Parnuuna"
+
+ Parodey:0 "Parodey"
+
+ Parovat:0 "Parovat"
+
+ Partaawuus:0 "Partaawuus"
+
+ Pashtenya:0 "Pashtenya"
+
+ Patricija:0 "Patricija"
+
+ Pattiq:0 "Pattiq"
+
+ Paviaraq:0 "Paviaraq"
+
+ Pawlina:0 "Pawlina"
+
+ PawoL_:0 "Pawoł"
+
+ Payo:0 "Payo"
+
+ Pchyay:0 "Pchyay"
+
+ Pekma:0 "Pekma"
+
+ Peksa:0 "Peksa"
+
+ Pekta:0 "Pekta"
+
+ Pekyay:0 "Pekyay"
+
+ Pelicar:0 "Pelicar"
+
+ Pelinor:0 "Pelinor"
+
+ Pelkay:0 "Pelkay"
+
+ Pelonik:0 "Pelonik"
+
+ Peminawit:0 "Peminawit"
+
+ Penash:0 "Penash"
+
+ Peng:0 "Peng"
+
+ Penya:0 "Penya"
+
+ Peqilaq:0 "Peqilaq"
+
+ Peregrina:0 "Peregrina"
+
+ Peregrinu:0 "Peregrinu"
+
+ Perpetua:0 "Perpetua"
+
+ Petani:0 "Petani"
+
+ Petapan:0 "Petâpan"
+
+ Philothia:0 "Philothia"
+
+ # Munda Dynasty names
+
+ Piath:0 "Piath"
+
+ Pichay:0 "Pichay"
+
+ Pichikishkashish:0 "Pichikîshkashîsh"
+
+ Piduk:0 "Piduk"
+
+ Piedyen:0 "Piedyen"
+
+ Pien:0 "Pien"
+
+ Pikhe:0 "Pikhe"
+
+ Piksa:0 "Piksa"
+
+ Pilagaq:0 "Pilagaq"
+
+ Piloq:0 "Piloq"
+
+ Pinked:0 "Pinked"
+
+ Pinyay:0 "Pinyay"
+
+ Pipaluk:0 "Pipaluk"
+
+ Pipiheheu:0 "Pipiheheu"
+
+ Pirguzh:0 "Pirguzh"
+
+ Piroz:0 "Piroz"
+
+ Pishu:0 "Pishû"
+
+ Pisimw:0 "Pîsimw"
+
+ Pisimwapeu:0 "Pîsimwâpeu"
+
+ Pitanguaq:0 "Pitanguaq"
+
+ Pitaraq:0 "Pitaraq"
+
+ Pitsiulaaq:0 "Pitsiulaaq"
+
+ Piuna:0 "Piuna"
+
+ Piyada:0 "Piyada"
+
+ Piyama:0 "Piyama"
+
+ Piyana:0 "Piyana"
+
+ Piyanza:0 "Piyanza"
+
+ Pizyay:0 "Pizyay"
+
+ Plsit:0 "Plsit"
+
+ Pokshey:0 "Pokshey"
+
+ Polad:0 "Polad"
+
+ Polte:0 "Polte"
+
+ Polyap:0 "Polyap"
+
+ Porapa:0 "Porapa"
+
+ Porcellu:0 "Porcellu"
+
+ Pozay:0 "Pozay"
+
+ Predyig:0 "Predyig"
+
+ Pretu:0 "Pretu"
+
+ Pudlo:0 "Pudlo"
+
+ Pujjuut:0 "Pujjuut"
+
+ Pulabay:0 "Pulabay"
+
+ Puliyan:0 "Puliyan"
+
+ Pullaq:0 "Pullaq"
+
+ Pupa:0 "Pupa"
+
+ Purgaz:0 "Purgaz"
+
+ Purlang_zin:0 "Purlang-zin"
+
+ Purnyay:0 "Purnyay"
+
+ Purogat:0 "Purogat"
+
+ Pusk:0 "Pusk"
+
+ Putulik:0 "Putulik"
+
+ Puun:0 "Puun"
+
+ Pymel:0 "Pymel"
+
+ Qaana:0 "Qaana"
+
+ Qaaqqortooq:0 "Qaaqqortooq"
+
+ Qaaqquk:0 "Qaaqquk"
+
+ Qaavigaq:0 "Qaavigaq"
+
+ Qahi:0 "Qahi"
+
+ Qajaaq:0 "Qajaaq"
+
+ Qajuinnaq:0 "Qajuinnaq"
+
+ Qalidurut:0 "Qalidurut"
+
+ Qalingu:0 "Qalingu"
+
+ Qang:0 "Qang"
+
+ Qapik:0 "Qapik"
+
+ Qardan:0 "Qardan"
+
+ Qaritak:0 "Qaritak"
+
+ Qatani:0 "Qatani"
+
+ Qaujisaaq:0 "Qaujisaaq"
+
+ Qaumak:0 "Qaumak"
+
+ Qaumaksiaq:0 "Qaumaksiaq"
+
+ Qaunak:0 "Qaunak"
+
+ Qautsiaq:0 "Qautsiaq"
+
+ Qavavau:0 "Qavavau"
+
+ Qhulpi:0 "Qhulpi"
+
+ Qiallak:0 "Qiallak"
+
+ Qilak:0 "Qilak"
+
+ Qiliqti:0 "Qiliqti"
+
+ Qillaq:0 "Qillaq"
+
+ Qim:0 "Qim"
+
+ Qimuksiraaq:0 "Qimuksiraaq"
+
+ Qinnuajuaq:0 "Qinnuajuaq"
+
+ Qip:0 "Qip"
+
+ Qiqituk:0 "Qiqituk"
+
+ Qisuk:0 "Qisuk"
+
+ Qitura:0 "Qitura"
+
+ Qiyijia:0 "Qiyijia"
+
+ Qoqa:0 "Qoqa"
+
+ Qorsuk:0 "Qorsuk"
+
+ Qosedam:0 "Qosedam"
+
+ Qrah:0 "Qrah"
+
+ Quanna:0 "Quanna"
+
+ Quda_a:0 "Quda'a"
+
+ Qulaugaq:0 "Qulaugaq"
+
+ Qulitalik:0 "Qulitalik"
+
+ Qulutannguaq:0 "Qulutannguaq"
+
+ Qulutaq:0 "Qulutaq"
+
+ Qunaaq:0 "Qunaaq"
+
+ Qungisiruq:0 "Qungisiruq"
+
+ Quniik:0 "Quniik"
+
+ Qupanuk:0 "Qupanuk"
+
+ Quppersimat:0 "Quppersimat"
+
+ Quuik:0 "Quuik"
+
+ RICE_culture_along_the_nile_desc:1 "The [culture|E] does not have at least #V 4#! [counties|E] along [GetGeographicalRegion('RICE_nile_river_valley').GetName]"
+
+ RO_Z_a:0 "Róža"
+
+ RO_Z_amarja:0 "Róžamarja"
+
+ Rabbshams:0 "Rabbshams"
+
+ Rabibatgawban:0 "Rabibatgawban"
+
+ RadomE_r:0 "Radoměr"
+
+ Radusha:0 "Radusha"
+
+ Rafanatt:0 "Rafanatt"
+
+ Rafantahu:0 "Rafantahu"
+
+ Rafshan:0 "Rafshan"
+
+ Rago:0 "Rago"
+
+ Raia:0 "Raia"
+
+ Rajnar:0 "Rajnar"
+
+ Rakban:0 "Rakban"
+
+ Rakshay:0 "Rakshay"
+
+ Ralik:0 "Ralik"
+
+ Ramadhani:0 "Ramadhani"
+
+ Ramas:0 "Ramas"
+
+ Ramla:0 "Ramla"
+
+ Rams:0 "Rams"
+
+ Ramstey:0 "Ramstey"
+
+ Rangay:0 "Rangay"
+
+ Rasheda:0 "Rasheda"
+
+ Rata:0 "Rata"
+
+ Ratbel:0 "Ratbel"
+
+ Rathadshamsum:0 "Rathadshamsum"
+
+ Rathadthawan:0 "Rathadthawan"
+
+ Rav_el:0 "Rav'el"
+
+ Rayaa:0 "Rayaa"
+
+ Rayco:0 "Rayco"
+
+ Raziya:0 "Raziya"
+
+ Rebo:0 "Rebo"
+
+ Rejza:0 "Rejza"
+
+ Rejzka:0 "Rejzka"
+
+ Rek:0 "Rek"
+
+ RiNG_:0 "Riŋ"
+
+ Riak:0 "Riak"
+
+ Riba:0 "Riba"
+
+ Rizay:0 "Rizay"
+
+ Rizovat:0 "Rizovat"
+
+ RodZ_isL_awa:0 "Rodźisława"
+
+ Rokhshana:0 "Rokhshana"
+
+ Romay:0 "Romay"
+
+ Romen:0 "Romen"
+
+ Rosalva:0 "Rosalva"
+
+ Rozalka:0 "Rozalka"
+
+ Ru_ayn:0 "Ru'ayn"
+
+ Rudij:0 "Rudij"
+
+ Ruiman:0 "Ruiman"
+
+ Rusya:0 "Rusya"
+
+ Ruzalka:0 "Ruzalka"
+
+ SC_E_pan:0 "Sćěpan"
+
+ S_C_E_pan:0 "Sćěpan"
+
+ Sa:0 "Sa"
+
+ Sa_adthawan:0 "Sa'adthawan"
+
+ Saajari:0 "Saajari"
+
+ Saamik:0 "Saamik"
+
+ Sachihakan:0 "Sâchihâkan"
+
+ Sadavikha:0 "Sadavikha"
+
+ Sadon:0 "Sadon"
+
+ Saenezha:0 "Saenezha"
+
+ Saenyasha:0 "Saenyasha"
+
+ Saetmela:0 "Saetmela"
+
+ Safi:0 "Safi"
+
+ Saiyo:0 "Saiyo"
+ #Bobo:0 "Bobo"
+
+ Sakhar:0 "Sakhar"
+
+ Sakso:0 "Sakso"
+
+ Salaman:0 "Salaman"
+
+ Salik:0 "Salik"
+
+ Salkay:0 "Salkay"
+
+ Samadagwis:0 "Samadagwis"
+
+ Samandar:0 "Samandar"
+
+ Samanka:0 "Samanka"
+
+ Samik:0 "Samik"
+
+ Samka:0 "Samka"
+
+ Sanaa:0 "Sanaa"
+
+ Sandal:0 "Sandal"
+
+ Sandor:0 "Sandor"
+
+ Sandyu:0 "Sandyu"
+
+ Sangaima:0 "Sangaima"
+ #Kundun:0 "Kundun"
+
+ Sangha:0 "Sangha"
+
+ Sanngisooq:0 "Sanngisooq"
+
+ Sanninga:0 "Sanninga"
+
+ Santele_s:0 "Santele's"
+
+ Sar:0 "Sar"
+
+ Saray:0 "Saray"
+
+ Sardlik:0 "Sardlik"
+
+ Sart:0 "Sart"
+
+ Satay:0 "Satay"
+
+ Saturnu:0 "Saturnu"
+
+ Satuzh:0 "Satuzh"
+ #Saban:0 "Saban"
+
+ Satysh:0 "Satysh"
+
+ Sauri:0 "Sauri"
+
+ Saush:0 "Saush"
+
+ Sawo:0 "Sawo"
+
+ Sedluk:0 "Sedluk"
+
+ Sekalana:0 "Sekelana"
+
+ Selbe:0 "Selbe"
+
+ Selema:0 "Selema"
+
+ Selli:0 "Selli"
+ #Siri:0 "Siri"
+
+ Semamun:0 "Semamun"
+
+ Sende:0 "Sende"
+
+ Sening:0 "Sening"
+
+ Senougbu:0 "Senougbu"
+
+ Serrege:0 "Serrege"
+
+ Ses:0 "Ses"
+
+ Setyu:0 "Setyu"
+
+ Shaad:0 "Shaad"
+
+ Shabur:0 "Shabur"
+
+ Shadra:0 "Shadra"
+
+ Shafar:0 "Shafar"
+
+ Shahr:0 "Shahr"
+
+ Shaka:0 "Shaka"
+
+ Shakani:0 "Shakani"
+
+ Shammar:0 "Shammar"
+
+ Shamsum:0 "Shamsum"
+
+ Shani:0 "Shani"
+ #Shomari:0 "Shomari"
+
+ Shania:0 "Shania"
+
+ Shaomin:0 "Shaomin"
+
+ Shapik:0 "Shapik"
+
+ Sharhabeel:0 "Sharhabeel"
+
+ Shatrez:0 "Shatrez"
+
+ Shechey:0 "Shechey"
+
+ Shedra:0 "Shedra"
+
+ Sheghesom:0 "Sheghesom"
+
+ Shekark:0 "Shekark"
+
+ Shesheshu:0 "Shesheshû"
+
+ Sheshiniss:0 "Sheshiniss"
+
+ Shibamum:0 "Shibamum"
+
+ Shiguna:0 "Shiguna"
+
+ Shindya:0 "Shindya"
+
+ Shipiss:0 "Shipiss"
+
+ Shitsa:0 "Shitsa"
+
+ Shizogarg:0 "Shizogarg"
+
+ Shodila:0 "Shodila"
+
+ Shongor:0 "Shongor"
+
+ Shoqom:0 "Shoqom"
+
+ Showa:0 "Showa"
+
+ Shufathat:0 "Shufathat"
+
+ Siasi:0 "Siasi"
+
+ Sibissay:0 "Sibissay"
+
+ Sidonia:0 "Sidonia"
+
+ Sigundar:0 "Sigundar"
+
+ Siina:0 "Siina"
+
+ Sika:0 "Sika"
+
+ Sikindi:0 "Sikindi"
+
+ Sikka:0 "Sikka"
+
+ Sikkerneq:0 "Sikkerneq"
+
+ Sikkerninnguaq:0 "Sikkerninnguaq"
+
+ Sikkersoq:0 "Sikkersoq"
+
+ Sikkimaat:0 "Sikkimaat"
+
+ Sikun:0 "Sîkun"
+
+ Sikunnguaq:0 "Sikunnguaq"
+
+ Silaqi:0 "Silaqi"
+
+ Silka:0 "Silka"
+
+ Silmo_tawa:0 "Silmo'tawa"
+
+ Silujjuaq:0 "Silujjuaq"
+
+ Silwija:0 "Silwija"
+
+ Simdyan:0 "Simdyan"
+
+ Simdyash:0 "Simdyash"
+
+ Simigaq:0 "Simigaq"
+
+ Sine:0 "Sine"
+
+ Sinilga:0 "Sinilga"
+
+ Sinniisoq:0 "Sinniisoq"
+
+ Siquaq:0 "Siquaq"
+
+ Sirba:0 "Sirba"
+
+ Siryava:0 "Siryava"
+
+ Sissinnguaq:0 "Sissinnguaq"
+
+ Siuju:0 "Siuju"
+
+ Siyana:0 "Siyana"
+
+ Skawennati:0 "Skawennati"
+
+ Snaltyo:0 "Snaltyo"
+
+ Sodayana:0 "Sodayana"
+
+ Soddo:0 "Soddo"
+
+ Soga:0 "Soga"
+
+ Sola:0 "Sola"
+
+ Solanya:0 "Solanya"
+
+ Solay:0 "Solay"
+
+ Solion:0 "Soliôn"
+
+ Solkhtay:0 "Solkhtay"
+
+ Songolik:0 "Songolik"
+
+ Sorosiluto:0 "Sorosiluto"
+
+ Sorqon:0 "Sorqon"
+
+ Spitamanah:0 "Spitamanah"
+
+ Ssipsis:0 "Ssipsis"
+
+ Stani:0 "Stani"
+
+ Stanij:0 "Stanij"
+
+ Stefani:0 "Stefani"
+
+ Stefanu:0 "Stefanu"
+
+ Stefi:0 "Stefi"
+
+ Stiryava:0 "Stiryava"
+
+ Sudasa:0 "Sudasa"
+
+ Suersaq:0 "Suersaq"
+
+ Suitti:0 "Suitti"
+
+ Sujotona:0 "Sujotona"
+
+ Sukhman:0 "Sukhman"
+
+ Sukhrak:0 "Sukhrak"
+
+ Sulams:0 "Sulams"
+
+ Suluk:0 "Suluk"
+
+ Sumba:0 "Sumba"
+
+ Sumhualay:0 "Sumhualay"
+
+ Sumhuamar:0 "Sumhuamar"
+
+ Sumukhalak:0 "Sumukhalak"
+
+ Sundu:0 "Sundu"
+
+ Sunnen:0 "Sunnen"
+
+ Sunta:0 "Sunta"
+
+ Suray:0 "Suray"
+
+ Surra:0 "Surra"
+
+ Sustat:0 "Sustat"
+
+ Sutik:0 "Sutik"
+
+ Suvinai:0 "Suvinai"
+
+ Sybila:0 "Sybila"
+
+ Sylka:0 "Sylka"
+
+ Sylwija:0 "Sylwija"
+
+ Sylwja:0 "Sylwja"
+
+ Syman:0 "Syman"
+
+ Syoka:0 "Syoka"
+
+ Syoksa:0 "Syoksa"
+
+ Syrnezha:0 "Syrnezha"
+
+ Syrzha:0 "Syrzha"
+
+ Sytukie:0 "Sytukie"
+
+ Syulgay:0 "Syulgay"
+
+ Syumerge:0 "Syumerge"
+
+ Syumurge:0 "Syumurge"
+
+ Syuryandyay:0 "Syuryandyay"
+
+ Syutava:0 "Syutava"
+
+ Ta:0 "Ta"
+
+ Taala:0 "Taala"
+
+ Taaneqaq:0 "Taaneqaq"
+
+ Taaraq:0 "Taaraq"
+
+ Taasu:0 "Taasu"
+
+ Taatsiannguaq:0 "Taatsiannguaq"
+
+ Taatsiaq:0 "Taatsiaq"
+
+ Tabakarib:0 "Tabakarib"
+ #Tali:0 "Tali"
+
+ Tabas:0 "Tabas"
+
+ Tabia:0 "Tabia"
+
+ Tabuckan:0 "Tabuckan"
+
+ Tadej:0 "Tadej"
+ #Timo:0 "Timo"
+
+ Tagak:0 "Tagak"
+
+ Tagayacte:0 "Tagayacte"
+
+ Taggire:0 "Taggire"
+
+ Tagguse:0 "Tagguse"
+
+ Tagim:0 "Tagim"
+
+ Taginye:0 "Taginye"
+
+ Tahylay:0 "Tahylay"
+
+ Taignoagny:0 "Taignoagny"
+
+ Tair:0 "Tair"
+
+ Tajarina:0 "Tajarina"
+
+ Takam:0 "Takam"
+
+ Takki:0 "Takki"
+
+ Takpaugni:0 "Takpaugni"
+
+ Takwachin:0 "Takwâchin"
+
+ Tal:0 "Tal"
+
+ Talana:0 "Talana"
+
+ Taldama:0 "Taldama"
+ #Tamba:0 "Tamba"
+
+ Tambalichom:0 "Tambalichom"
+
+ Tammaq:0 "Tammaq"
+
+ Tammaritu:0 "Tammaritu"
+
+ Tamnar:0 "Tamnar"
+
+ Tamnargun:0 "Tamnargun"
+
+ Tamsi:0 "Tamsi"
+
+ Tamu:0 "Tamu"
+
+ Tana:0 "Tana"
+
+ Tanacharison:0 "Tanacharison"
+
+ Tanau:0 "Tanau"
+
+ Tandal:0 "Tandal"
+
+ Tandire:0 "Tandire"
+
+ Tankiren:0 "Tankiren"
+
+ Tansar:0 "Tansar"
+
+ Tanuf:0 "Tanuf"
+
+ Tapara:0 "Tapara"
+
+ Tappinngaajik:0 "Tappinngaajik"
+
+ Taqta_loq:0 "Taqta'loq"
+
+ Taralik:0 "Taralik"
+
+ Tarjam:0 "Tarjam"
+
+ Tarmad:0 "Tarmad"
+
+ Tarmuna:0 "Tarmuna"
+
+ Tarqtaq:0 "Tarqtaq"
+
+ Tasba:0 "Tasba"
+
+ Taseraq:0 "Taseraq"
+
+ Tashtana:0 "Tashtana"
+
+ Tashtyu:0 "Tashtyu"
+
+ Tatigat:0 "Tatigat"
+
+ Tawab:0 "Tawab"
+
+ Tawge:0 "Tawge"
+
+ Tayi:0 "Tayi"
+
+ Tazaguisa:0 "Tazaguisa"
+
+ Tebegei:0 "Tebegei"
+
+ Teeteje:0 "Teeteje"
+
+ Teftyar:0 "Teftyar"
+
+ Teguaco:0 "Tegu"
+
+ Tegueste:0 "Tegueste"
+
+ Tekahentakwa:0 "Tekahentakwa"
+
+ Telena:0 "Telena"
+
+ Tembesa:0 "Tembesa"
+
+ Teneriste:0 "Teneriste"
+
+ Tenguzh:0 "Tenguzh"
+
+ Tentagays:0 "Tentagays"
+
+ Tenyaksha:0 "Tenyaksha"
+
+ Teodore:0 "Teodore"
+
+ Teofanu:0 "Teofanu"
+
+ Teres:0 "Teres"
+
+ Terez:0 "Terez"
+
+ Teshtela:0 "Teshtela"
+
+ Tetyush:0 "Tetyush"
+
+ Teyana:0 "Teyana"
+
+ Teyye:0 "Teyye"
+
+ Thakthak:0 "Thakthak"
+
+ Tharin:0 "Tharin"
+
+ Thas:0 "Thas"
+
+ Tho_n:0 "Thon"
+
+ Tiaraq:0 "Tiaraq"
+
+ Tig:0 "Tig"
+
+ Tigianniak:0 "Tigianniak"
+
+ Tiiannguaq:0 "Tiiannguaq"
+
+ Tiiti:0 "Tiiti"
+
+ Tik:0 "Tik"
+
+ Tikkalaatsiaq:0 "Tikkalaatsiaq"
+
+ Tikki:0 "Tikki"
+
+ Tikshana:0 "Tikshana"
+
+ Tikshay:0 "Tikshay"
+
+ Tiliunnguaq:0 "Tiliunnguaq"
+
+ Timon:0 "Timon"
+
+ Tinabuna:0 "Tinabuna"
+
+ Tinate:0 "Tiñate"
+
+ Tindara:0 "Tindara"
+
+ Tindil:0 "Tindil"
+
+ Tinerfe:0 "Tinerfe"
+
+ Tingay:0 "Tingay"
+
+ Tingovat:0 "Tingovat"
+
+ Tinguafaya:0 "Tinguafaya"
+
+ Tinguaro:0 "Tinguaro"
+
+ Tinizara:0 "Tinizara"
+
+ Tio_tis:0 "Tio'tis"
+
+ Tirikhshara:0 "Tirikhshara"
+
+ Tiritiri:0 "Tiritiri"
+
+ Tiryana:0 "Tiryana"
+
+ Tis:0 "Tis"
+
+ Tisa:0 "Tisa"
+
+ Tish:0 "Tish"
+
+ Tivi:0 "Tivi"
+
+ Togeta:0 "Togeta"
+
+ Togoro:0 "Togoro"
+
+ Tokhala:0 "Tokhala"
+
+ Tolget:0 "Tolget"
+
+ Toll:0 "Toll"
+
+ Tolon:0 "Tolon"
+
+ Tomam:0 "Tomam"
+
+ Tomassu:0 "Tomassu"
+
+ Tomonya:0 "Tomonya"
+
+ Tonbeye:0 "Tonbeye"
+
+ Tootaan:0 "Tootaan"
+
+ Topay:0 "Topay"
+
+ Toray:0 "Toray"
+
+ Trapa:0 "Trapa"
+
+ Trudla:0 "Trudla"
+
+ Tsakani:0 "Tsakani"
+
+ Tsebarka:0 "Tsebarka"
+
+ Tsebyar:0 "Tsebyar"
+
+ Tsetsa:0 "Tsetsa"
+
+ Tshakapesh:0 "Tshakapesh"
+
+ Tshakashue:0 "Tshakashue"
+
+ Tshanitshish:0 "Tshanitshish"
+
+ Tshimushuminu:0 "Tshimushuminu"
+
+ Tshishkuetutsheunnu:0 "Tshishkuetutsheunnu"
+
+ Tshiueianukueu:0 "Tshiueianukueu"
+
+ Tshiuetinishu:0 "Tshiuetinishu"
+
+ Tsiftomaz:0 "Tsiftomaz"
+
+ Tsil:0 "Tsil"
+
+ Tsimbulat:0 "Tsimbulat"
+
+ Tsipune:0 "Tsipune"
+
+ Tsiter:0 "Tsiter"
+
+ Tsyaba:0 "Tsyaba"
+
+ Tsyakay:0 "Tsyakay"
+
+ Tsyatna:0 "Tsyatna"
+
+ Tubbkarib:0 "Tubbkarib"
+
+ Tuguru:0 "Tuguru"
+ #Tuyu:0 "Tuyu"
+
+ Tuki:0 "Tuki"
+
+ Tukiki:0 "Tukiki"
+
+ Tukumaq:0 "Tukumaq"
+
+ Tukummeq:0 "Tukummeq"
+
+ Tukumminnguaq:0 "Tukumminnguaq"
+
+ Tukuttanngaaq:0 "Tukuttanngaaq"
+
+ Tulama:0 "Tulama"
+
+ Tulimaq:0 "Tulimaq"
+
+ Tulkhta:0 "Tulkhta"
+
+ Tullerunnaq:0 "Tullerunnaq"
+
+ Tulsi:0 "Tulsi"
+
+ Tulu:0 "Tulu"
+
+ Tumay:0 "Tumay"
+
+ Tumee:0 "Tumee"
+
+ Tums:0 "Tums"
+
+ Tundal:0 "Tundal"
+
+ Tundalya:0 "Tundalya"
+
+ Tundanya:0 "Tundanya"
+
+ Tundas:0 "Tundas"
+
+ Tungajuaq:0 "Tungajuaq"
+
+ Tungilik:0 "Tungilik"
+
+ Tunglo:0 "Tunglo"
+
+ Tupaarnaq:0 "Tupaarnaq"
+
+ Tuskari:0 "Tuskari"
+
+ Tuti:0 "Tuti"
+
+ Tuukkaq:0 "Tuukkaq"
+
+ Tuuta:0 "Tuuta"
+
+ Tuutalik:0 "Tuutalik"
+
+ Tuzhay:0 "Tuzhay"
+
+ Twilik:0 "Twilik"
+
+ Tyapune:0 "Tyapune"
+
+ Tygilam:0 "Tygilam"
+
+ Tykulcha:0 "Tykulcha"
+
+ Tymancha:0 "Tymancha"
+
+ Tyore:0 "Tyore"
+
+ Tyutyal:0 "Tyutyal"
+
+ Uapashkw:0 "Uapashkw"
+
+ Uapikun:0 "Uapikun"
+
+ Uapishtan:0 "Uapishtan"
+
+ Uapshish:0 "Uapshish"
+
+ # Eeyou/East Cree
+ # Dynasties based on modern-day tribes/communities
+
+ Uashaunnu:0 "Uashaunnu"
+
+ Uchal:0 "Uchal"
+
+ Uchevat:0 "Uchevat"
+
+ Uchez:0 "Uchez"
+
+ Uglarg:0 "Uglarg"
+
+ Uiaqoq:0 "Uiaqoq"
+
+ Uijaki:0 "Uijaki"
+
+ Uiloq:0 "Uiloq"
+
+ Uinneq:0 "Uinneq"
+
+ Uitshikapeu:0 "Uitshikapeu"
+
+ Uitshitshimushish:0 "Uitshitshimushish"
+
+ Ujammiugaq:0 "Ujammiugaq"
+
+ Ujarak:0 "Ujarak"
+
+ Ujaralaaq:0 "Ujaralaaq"
+
+ Ukalina:0 "Ukalina"
+
+ Ukhshebovak:0 "Ukhshebovak"
+
+ Ukhshyabavaka:0 "Ukhshyabavaka"
+
+ Ukueiau:0 "Ukueiau"
+
+ Ulaajuk:0 "Ulaajuk"
+
+ Ulayu:0 "Ulayu"
+
+ Ules:0 "Ules"
+
+ Ulgen:0 "Ulgen"
+
+ Ulger:0 "Ulger"
+
+ Uliniq:0 "Uliniq"
+
+ Ulkimu:0 "Ulkimu"
+
+ Ulloriannguaq:0 "Ulloriannguaq"
+
+ Ulloriaq:0 "Ulloriaq"
+
+ Ullorikka:0 "Ullorikka"
+
+ Ulo:0 "Ulo"
+
+ Ululinannguaq:0 "Ululinannguaq"
+
+ Ulunnguaq:0 "Ulunnguaq"
+
+ Uluriaq:0 "Uluriaq"
+
+ Ulusi:0 "Ulusi"
+
+ Uluta:0 "Uluta"
+
+ Umalluq:0 "Umalluq"
+
+ Umma:0 "Umma"
+
+ Unaaq:0 "Unaaq"
+
+ Unaleq:0 "Unaleq"
+
+ Unikush:0 "Unikush"
+
+ Unu:0 "Unu"
+
+ Unuud:0 "Unuud"
+
+ Unuuna:0 "Unuuna"
+
+ Upaluk:0 "Upaluk"
+
+ Upik:0 "Upik"
+
+ Uqammaq:0 "Uqammaq"
+
+ Uqaujaq:0 "Uqaujaq"
+
+ Uraga:0 "Uraga"
+
+ # Maba/Wadai Names
+
+ Uren:0 "Uren"
+
+ Urieke:0 "Urieke"
+
+ Urnyay:0 "Urnyay"
+
+ Urra:0 "Urra"
+
+ Urta:0 "Urta"
+
+ Urtak:0 "Urtak"
+
+ Urur:0 "Urur"
+
+ Uruwi:0 "Uruwi"
+
+ Usayyat:0 "Usayyat"
+
+ Ushkui:0 "Ushkui"
+
+ Ushmadey:0 "Ushmadey"
+
+ Ushmay:0 "Ushmay"
+
+ Ushpuakanish:0 "Ushpuakanish"
+
+ Ushtay:0 "Ushtay"
+
+ Ushuakjuk:0 "Ushuakjuk"
+
+ Usiutuk:0 "Usiutuk"
+
+ Uskanihyeu:0 "Uskanihyeu"
+
+ Ussinitshishu:0 "Ussinitshishu"
+
+ Ut:0 "Ut"
+
+ Utaat:0 "Utaat"
+
+ Utehimin:0 "Utehîmin"
+
+ Utya:0 "Utya"
+
+ Utyasha:0 "Utyasha"
+
+ Uusaqqak:0 "Uusaqqak"
+
+ Uvavnuk:0 "Uvavnuk"
+
+ Uvilu:0 "Uvilu"
+
+ Vakhshufrita:0 "Vakhshufrita"
+
+ Vakhshuvarta:0 "Vakhshuvarta"
+
+ Valday:0 "Valday"
+
+ Valdush:0 "Valdush"
+
+ Valgapa:0 "Valgapa"
+
+ Valguzh:0 "Valguzh"
+
+ Valguzha:0 "Valguzha"
+
+ Vandol:0 "Vandol"
+
+ Vandola:0 "Vandola"
+
+ Varannguaq:0 "Varannguaq"
+
+ # Inuit Surnames
+ # Inuit Tribes/Groups
+
+ Varhran:0 "Varhran"
+
+ Vastan:0 "Vastan"
+
+ Vastanya:0 "Vastanya"
+
+ Vasyalga:0 "Vasyalga"
+
+ Vazhava:0 "Vazhava"
+
+ Vazhen:0 "Vazhen"
+
+ Vazhena:0 "Vazhena"
+
+ Vechkan:0 "Vechkan"
+
+ Vechkana:0 "Vechkana"
+
+ Vechkaz:0 "Vechkaz"
+
+ Vedeneya:0 "Vedeneya"
+
+ Vedyal:0 "Vedyal"
+
+ Vedyaz:0 "Vedyaz"
+
+ Veka:0 "Veka"
+
+ Velmat:0 "Velmat"
+
+ Velmata:0 "Velmata"
+
+ Vertyan:0 "Vertyan"
+
+ Vetr:0 "Vetr"
+
+ Vezhan:0 "Vezhan"
+
+ Vezhana:0 "Vezhana"
+
+ Vezhava:0 "Vezhava"
+
+ Videmas:0 "Videmas"
+
+ Vidman:0 "Vidman"
+
+ Vidyay:0 "Vidyay"
+
+ Vidyaz:0 "Vidyaz"
+
+ Vidyush:0 "Vidyush"
+
+ Virineya:0 "Virineya"
+
+ Virtyan:0 "Virtyan"
+
+ Viryaz:0 "Viryaz"
+
+ Vitana:0 "Vitana"
+
+ Vitava:0 "Vitava"
+
+ Viyana:0 "Viyana"
+
+ Vohumanah:0 "Vohumanah"
+
+ Vonnannaro:0 "Vonnannaro"
+
+ Vryas:0 "Vryas"
+
+ WO_jsL_aw:0 "Wójsław"
+
+ WO_rS_a:0 "Wórša"
+
+ WaL_tar:0 "Wałtar"
+
+ Wa_r:0 "Wa'r"
+
+ Wa_rum:0 "Wa'rum"
+
+ Wachinakan:0 "Wâchinâkan"
+
+ Wadobargan:0 "Wadobargan"
+
+ Wagra:0 "Wagra"
+
+ Wagwir:0 "Wagwir"
+
+ Wahab_il:0 "Wahab'il"
+
+ Wahabawwam:0 "Wahabawwam"
+
+ Wahabil:0 "Wahabil"
+
+ Wai:0 "Wai"
+
+ Wajitu:0 "Wajitu"
+
+ Walaabu:0 "Walaabu"
+
+ Walihat:0 "Walihat"
+
+ Waloba:0 "Walôba"
+
+ Walqwan:0 "Walqwan"
+
+ Wanynya:0 "Wanynya"
+
+ Wapan:0 "Wâpan"
+
+ Wapanachahkush:0 "Wâpanachahkush"
+
+ Wapaskw:0 "Wâpaskw"
+
+ Wapikayu:0 "Wâpikâyû"
+
+ Wapikun:0 "Wâpikun"
+
+ Wara:0 "Wara"
+
+ Warahan:0 "Warahan"
+
+ Waraz:0 "Waraz"
+
+ Wariko:0 "Wariko"
+
+ Waseskun:0 "Wâseskun"
+
+ Waseyapan:0 "Wâseyâpan"
+
+ Waseyau:0 "Wâseyâu"
+
+ Washava:0 "Washava"
+
+ Washtawenicheshish:0 "Wâshtawenicheshîsh"
+
+ # Beothuk
+ # Random geographical terms of Newfoundland, in other Native American languages
+
+ Washtaweshish:0 "Wâshtaweshîsh"
+
+ Washteskun:0 "Wâshteskun"
+
+ Waskamiteheu:0 "Wâskamiteheu"
+
+ Watar:0 "Watar"
+
+ Wawanogot:0 "Wawanôgot"
+
+ We_jitu:0 "We'jitu"
+
+ Weiyi:0 "Weiyi"
+
+ Werina:0 "Werina"
+ #Weronika:0 "#Weronika"
+
+ Weswakwigot:0 "Weswakwigôt"
+
+ Wien:0 "Wien"
+ #Dinka female_names
+
+ Wijokamit:0 "Wijokamit"
+
+ Winamarg:0 "Winamarg"
+
+ Wiro:0 "Wiro"
+
+ Wishkachan:0 "Wîshkachân"
+
+ Wita:0 "Wita"
+
+ WjacL_aw:0 "Wjacław"
+
+ WjelemE_r:0 "Wjeleměr"
+
+ Woboz:0 "Wôboz"
+
+ Woda:0 "Woda"
+
+ WojC_isL_awa:0 "Wojćisława"
+
+ Wowkwis:0 "Wowkwis"
+
+ Wuoba:0 "Wuoba"
+
+ Wusugd:0 "Wusugd"
+
+ Wutaqi:0 "Wutaqi"
+
+ Wyli:0 "Wyli"
+
+ Xanice:0 "Xanice"
+
+ Xantena:0 "Xantena"
+
+ Yada_ab:0 "Yada'ab"
+
+ Yada_il:0 "Yada'il"
+
+ Yaga:0 "Yaga"
+
+ Yagill:0 "Yagill"
+
+ Yaharhib:0 "Yaharhib"
+
+ Yahrish:0 "Yahrish"
+
+ Yahtuf:0 "Yahtuf"
+
+ Yahuz:0 "Yahuz"
+
+ Yakhuz:0 "Yakhuz"
+
+ Yakrib:0 "Yakrib"
+
+ Yamzyur:0 "Yamzyur"
+
+ Yanhub:0 "Yanhub"
+
+ Yanuf:0 "Yanuf"
+
+ Yarim:0 "Yarim"
+
+ Yarum:0 "Yarum"
+
+ Yarzah:0 "Yarzah"
+
+ Yasbah:0 "Yasbah"
+
+ Yasir:0 "Yasir"
+
+ Yaskul:0 "Yaskul"
+
+ Yasum:0 "Yasum"
+
+ Yata_amar:0 "Yata'amar"
+
+ Yatakarib:0 "Yatakarib"
+
+ Yatal:0 "Yatal"
+ 
+ # Pamiri
+
+ Yathar:0 "Yathar"
+
+ Yavsei:0 "Yavsei"
+
+ Yayee:0 "Yayee"
+
+ Yazil:0 "Yazil"
+
+ Yefima:0 "Yefima"
+
+ Yeloodye:0 "Yeloodye"
+ 
+
+ # South Arabian Names
+
+ Yermila:0 "Yermila"
+
+ Yeryash:0 "Yeryash"
+
+ Yesha:0 "Yesha"
+
+ Yeyiyu:0 "Yeyiyu"
+
+ Yezdgird:0 "Yezdgird"
+
+ Yiktu:0 "Yiktu"
+ 
+ # Yukaghir
+
+ Yilituo:0 "Yilituo"
+
+ Yolin:0 "Yolin"
+
+ Yom:0 "Yom"
+
+# Fur Names
+
+ Yosha:0 "Yosha"
+
+ Yozino:0 "Yozino"
+
+ Yudhishthira:0 "Yudhishthira"
+ #Narendraditya:0 "Narendraditya"
+
+ Yuhahmid:0 "Yuhahmid"
+
+ Yuhamin:0 "Yuhamin"
+
+ Yuhan_em:0 "Yuhan'em"
+
+ Yuhan_im:0 "Yuhan'im"
+
+ Yuhanim:0 "Yuhanim"
+
+ Yuhargeb:0 "Yuhargeb"
+
+ Yuhasbih:0 "Yuhasbih"
+
+ Yuhashi:0 "Yuhashi"
+
+ Yuhin:0 "Yuhin"
+
+ Yukha:0 "Yukha"
+
+ Yulten:0 "Yulten"
+
+ Yurgen:0 "Yurgen"
+ 
+ # Nivkh
+#  Atvuk:0 "Atvuk"
+#  Azmun:0 "Azmun"
+#  Azrun:0 "Azrun"
+#  Chalun:0 "Chalun"
+#  Changin:0 "Changin"
+#  Chuner:0 "Chuner"
+#  Ezdanok:0 "Ezdanok"
+#  Itkun:0 "Itkun"
+#  Kaskazik:0 "Kaskazik"
+#  Kekh:0 "Kekh"
+#  Kekhan:0 "Kekhan"
+#  Kelin:0 "Kelin"
+#  Kenran:0 "Kenran"
+#  Khaylin:0 "Khaylin"
+#  Kokin:0 "Kokin"
+#  Lants:0 "Lants"
+#  Lergan:0 "Lergan"
+#  Longun:0 "Longun"
+#  Luzgin:0 "Luzgin"
+#  Memzgun:0 "Memzgun"
+#  Mufchik:0 "Mufchik"
+#  Napuin:0 "Napuin"
+#  Nyengun:0 "Nyengun"
+#  Nyunkin:0 "Nyunkin"
+#  Ochan:0 "Ochan"
+#  Odrain:0 "Odrain"
+#  Otlon:0 "Otlon"
+#  Palgun:0 "Palgun"
+#  Parkizin:0 "Parkizin"
+#  Pilgun:0 "Pilgun"
+#  Pulychkh:0 "Pulychkh"
+#  Pungat:0 "Pungat"
+#  Rsholin:0 "Rsholin"
+#  Smedun:0 "Smedun"
+#  Tavtugin:0 "Tavtugin"
+#  Tolvin:0 "Tolvin"
+#  Tynvin:0 "Tynvin"
+#  Ukrin:0 "Ukrin"
+#  Urkayn:0 "Urkayn"
+#  Uryam:0 "Uryam"
+#  Vadun:0 "Vadun"
+#  Vyskan:0 "Vyskan"
+#  Ykylak:0 "Ykylak"
+#  Yudin:0 "Yudin"
+#  Zarun:0 "Zarun"
+ 
+#  Anyuk:0 "Anyuk"
+#  Ayzik:0 "Ayzik"
+#  Azuk:0 "Azuk"
+#  Chamuk:0 "Chamuk"
+#  Chavlik:0 "Chavlik"
+#  Efkuk:0 "Efkuk"
+#  Esavura:0 "Esavura"
+#  Ezguk:0 "Ezguk"
+#  Hytkuk:0 "Hytkuk"
+#  Iglik:0 "Iglik"
+#  Khivchuk:0 "Khivchuk"
+#  Lidik:0 "Lidik"
+#  Liskit:0 "Liskit"
+#  Lushkura:0 "Lushkura"
+#  Lykhtik:0 "Lykhtik"
+#  Niftyuk:0 "Niftyuk"
+#  Nygvik:0 "Nygvik"
+#  Okhnik:0 "Okhnik"
+#  Panko:0 "Panko"
+#  Pineyk:0 "Pineyk"
+#  Ponashk:0 "Ponashk"
+#  Pygsk:0 "Pygsk"
+#  Pygzyk:0 "Pygzyk"
+#  Pylymk:0 "Pylymk"
+#  Siksa:0 "Siksa"
+#  Tatuk:0 "Tatuk"
+#  Tymguk:0 "Tymguk"
+#  Umkhun:0 "Umkhun"
+#  Velk:0 "Velk"
+#  Yurik:0 "Yurik"
+#  Zuyuk:0 "Zuyuk"
+ 
+ # Yakut
+
+ Yurtay:0 "Yurtay"
+
+ Yush:0 "Yush"
+
+ Yutin:0 "Yûtin"
+
+ Yutkun:0 "Yutkun"
+
+ Zabium:0 "Zabium"
+
+ Zaekhel:0 "Zaekhel"
+
+ Zakia:0 "Zakia"
+ #Zawadi:0 "Zawadi"
+ #Zuberi:0 "Zuberi"
+
+ Zakiya:0 "Zakiya"
+
+ Zama:0 "Zama"
+
+ Zamir:0 "Zamir"
+
+ Zari:0 "Zari"
+
+ Zarqa:0 "Zarqa"
+
+ Zbayana:0 "Zbayana"
+
+ Zebenzui:0 "Zebenzuí"
+
+ Zen:0 "Zen"
+
+ Zetay:0 "Zetay"
+
+ Zharav:0 "Zharav"
+
+ Zhindag:0 "Zhindag"
+
+ Zhunlad:0 "Zhunlad"
+
+ Zmik:0 "Zmik"
+
+ Zorah:0 "Zorah"
+
+ Zusana:0 "Zusana"
+
+ ### Extra Roman Dynasty Names ###
+
+ apo_kayan:0 "Apo Kayan"
+
+ apo_kayan_collective_noun:0 "Apo Kayans"
+
+ apo_kayan_prefix:0 "Apo Kayan"
+
+ bahnar:0 "Bahnar"
+
+ bahnar_collective_noun:0 "Bahnars"
+
+ bahnar_prefix:0 "Bahnar"
+
+ batak:0 "Batak"
+
+ batak_collective_noun:0 "Bataks"
+
+ batak_prefix:0 "Batak"
+
+ bidayuh:0 "Bidayuh"
+
+ bidayuh_collective_noun:0 "Bidayuhs"
+
+ bidayuh_prefix:0 "Bidayuh"
+
+ bungku:0 "Bungku"
+
+ bungku_collective_noun:0 "Bungku"
+
+ bungku_prefix:0 "Bungku"
+
+ chong:0 "Samre"
+
+ chong_collective_noun:0 "Samres"
+
+ chong_prefix:0 "Samre"
+
+ count_feudal_male_guanches:0 "Guayre"
+
+ county_guanches:0 "Guayrato"
+
+ culture_parameter_cheaper_pamir_watchtower_decision:1 "The costs of taking the [decisions|E] to [repair_the_pamir_watchposts|E] of the Wakhan Corridor and Karakoram Mountains are reduced by #P -25% #!"
+
+ culture_parameter_unlimited_chinir_festival:1 "Can take the [decision|E] to $RICE_pamir_attend_chinir_festival$ anywhere"
+
+ culture_parameter_unlock_rice_decision_build_nilometers:1 "Unlocks the Renovate Local Nilometers [decision|E]"
+
+ culture_parameter_unlock_rice_decision_nile_flood_results:1 "Unlocks the [GetActivityType('activity_RICE_upper_egypt_open_nile_canals').GetName] and [GetActivityType('activity_RICE_upper_egypt_pray_good_nile_flood').GetName] [activities|E], depending on the results of the [nile_flood|E]"
+
+ danao:0 "Danao"
+
+ danao_collective_noun:0 "Danao"
+
+ danao_prefix:0 "Danao"
+
+ dinka:0 "Dinka"
+
+ dinka_collective_noun:0 "Dinkas"
+
+ dinka_prefix:0 "Dinka"
+
+ drevlian:0 "Drevlian"
+
+ drevlian_collective_noun:0 "Drevlians"
+
+ drevlian_prefix:0 "Drevlian"
+
+ duchy_guanches:0 "Guanartemato"
+
+ duke_feudal_female_guanches:0 "Guanarteme"
+
+ duke_feudal_female_guanches_independent:0 "Mencey"
+
+ duke_feudal_male_guanches:0 "Guanarteme"
+
+ duke_feudal_male_guanches_independent:0 "Mencey" 
+
+ # Ethnicities
+
+ dynn_Abakadid:0 "Abakadid"
+
+ dynn_Abiei:0 "Abiei"
+
+ dynn_Abilang:0 "Abilang"
+
+ dynn_Aboug:0 "Aboug"
+
+ dynn_Abrahid:0 "Abrahid"
+
+ dynn_Achaak:0 "Achaak"
+
+ dynn_Achmadzai:0 "Achmadzai"
+
+ dynn_Ad:0 "Ad"
+
+ dynn_Aderbalin:0 "Aderbalin"
+
+ dynn_Adong:0 "Adong"
+
+ dynn_Adumid:0 "Adumid"
+
+ dynn_Agany:0 "Agany"
+
+ dynn_Ageer:0 "Ageer"
+
+ dynn_Agid:0 "Agid"
+
+ dynn_Agnyun:0 "Agnyun"
+
+ dynn_Ahiarmiut:0 "Ahiarmiut"
+
+ dynn_Aivilingmiut:0 "Aivilingmiut"
+
+ dynn_Ajuba:0 "Ajuba"
+
+ dynn_Aka:0 "Aka"
+
+ dynn_Akhmalkh:0 "Akhmalkh"
+
+ dynn_Akudnirmiut:0 "Akudnirmiut"
+
+ dynn_Alchan:0 "Alchan"
+
+ dynn_Alessikantekw:0 "Alessikantekw"
+
+ dynn_Aloor:0 "Aloor"
+
+ dynn_Alorsetar:0 "Alorsetar"
+
+ dynn_Amela:0 "Amela"
+
+ dynn_Ameskid:0 "Ameskid"
+
+ dynn_Amitturmiut:0 "Amitturmiut"
+
+ dynn_Amlamkuk_Kwesawek:0 "Amlamkuk Kwesawék"
+
+ dynn_Amran:0 "Amran"
+
+ dynn_Angaach:0 "Angaach"
+
+ dynn_Angara:0 "Angara"
+
+ dynn_Anmar:0 "Anmar"
+
+ dynn_Aoluguya:0 "Aoluguya"
+
+ dynn_Apikwahki:0 "Apikwahki"
+
+ dynn_Ara:0 "Ara"
+
+ dynn_Arba_nahan:0 "Arba'nahan"
+
+ dynn_Arin:0 "Arin"
+
+ dynn_Arsenen:0 "Arsenen"
+
+ dynn_Arsigantegok:0 "Arsigantegok"
+
+ dynn_Asajin:0 "Asajin"
+
+ dynn_Assan:0 "Assan"
+
+ dynn_Atmadikara:0 "Atmadikara"
+
+ dynn_Awier:0 "Awier"
+
+ dynn_Aynawum:0 "Aynawum"
+
+ dynn_Azoron:0 "Azoron"
+
+ dynn_Baikot:0 "Baikot"
+
+ dynn_Bakilid:0 "Bakilid"
+
+ dynn_Balak:0 "Balak"
+
+ dynn_Baliet:0 "Baliet"
+
+ dynn_Bamdan:0 "Bamdan"
+
+ dynn_Bangulzai:0 "Bangulzai"
+
+ dynn_Bartan:0 "Bartan"
+
+ dynn_Barumun:0 "Barumun"
+
+ dynn_Bata:0 "Bata"
+
+ dynn_Bathari:0 "Bathari"
+
+ dynn_Batupahat:0 "Batupahat"
+ #dynn_Bendahara:0 "Bendahara"
+
+ dynn_Bautahara:0 "Bautahara"
+
+ dynn_Bemijijoasek:0 "Bemijijoasek"
+
+ dynn_Biadut:0 "Biadut"
+
+ dynn_Biagel:0 "Biagel"
+
+ dynn_Bizanjar:0 "Bizanjar"
+
+ dynn_Bogden:0 "Bogden"
+ 
+ # Yukaghir
+
+ dynn_Brutus:0 "Brutus"
+
+ dynn_Buklin:0 "Buklin"
+
+ dynn_Chakan:0 "Chakan"
+
+ dynn_Chalachigu:0 "Chalachigu"
+
+ dynn_Chaqmaqtin:0 "Chaqmaqtin"
+
+ dynn_Chindyazon:0 "Chindyazon"
+
+ # Moksha Names (credits to Макс)
+
+ dynn_Chiporsuni:0 "Chiporsuni"
+
+ dynn_Churka:0 "Churka"
+
+ dynn_Cigancen:0 "Cigancen"
+
+ dynn_Cisasipi:0 "Cisâsîpî"
+
+ dynn_Cupak:0 "Cupak"
+
+ dynn_Damran:0 "Damran"
+
+ dynn_Dang:0 "Dang"
+
+ dynn_Daremaseraya:0 "Daremaseraya"
+
+ dynn_Dau:0 "Dau"
+
+ dynn_Degi:0 "Degi"
+
+ dynn_Delyun:0 "Delyun"
+
+ dynn_Demak:0 "Demak"
+
+ dynn_Deng:0 "Deŋ"
+
+ dynn_Desu:0 "Desu"
+
+ dynn_Dhiaak:0 "Dhiaak"
+
+ dynn_Diing:0 "Diing"
+
+ dynn_Dongjol:0 "Dongjol"
+
+ dynn_Duaar:0 "Duaar"
+
+ dynn_Dupu:0 "Dupu"
+
+ dynn_Duut:0 "Duut"
+
+ dynn_Dynda:0 "Dynda"
+
+ dynn_Ekuanitshu:0 "Ekuanitshu"
+
+ dynn_Epekwitk:0 "Epekwitk"
+
+ dynn_Eshkhingil:0 "Eshkhingil"
+
+ dynn_Eskinuopitijk:0 "Eskinuopitijk"
+
+ dynn_Essipu:0 "Essipu"
+
+ dynn_Fabius:0 "Fabius"
+
+ dynn_Ganda:0 "Ganda"
+
+ dynn_Garang:0 "Garaŋ"
+
+ dynn_Gashil:0 "Gashil"
+
+ dynn_Gerey:0 "Gerey"
+
+ dynn_Ghalcha:0 "Ghalcha"
+
+ dynn_Gharani:0 "Gharani"
+
+ dynn_Gilang:0 "Gilang"
+
+ dynn_Goasek:0 "Goasek"
+
+ dynn_Gojali:0 "Gojali"
+
+ dynn_Gunacen:0 "Gunacen"
+
+ dynn_Gurguari:0 "Gurguari"
+
+ dynn_Habab:0 "Habab"
+ #dynn_Hamdan:0 "Hamdan"
+
+ dynn_Hadirum:0 "Hadirum"
+
+ dynn_Hakli:0 "Hakli"
+
+ dynn_Hamarneh:0 "Hamarneh"
+
+# Bactrian/Hephthalite
+
+ dynn_Harasis:0 "Harasis"
+
+ dynn_Harib:0 "Harib"
+
+ dynn_Harsusi:0 "Harsusi"
+
+ dynn_Hasi_um:0 "Hasi'um"
+
+ dynn_Hawfa_il:0 "Hawfa'il"
+
+ dynn_Hawlan:0 "Hawlan"
+
+ dynn_Hayin:0 "Hayin"
+
+ dynn_Hazfarum:0 "Hazfarum"
+
+ dynn_Hobyot:0 "Hobyot"
+
+ dynn_Hochelaga:0 "Hochelaga"
+
+ dynn_Hol:0 "Hol"
+
+ dynn_Hujunglangit:0 "Hujunglangit"
+
+ dynn_Humlan:0 "Humlan"
+
+ dynn_Hurjun:0 "Hurjun"
+
+ dynn_Ian:0 "Ian"
+
+ dynn_Igiderid:0 "Igiderid"
+
+ dynn_Iivit:0 "Iivit"
+
+ dynn_Ikkarumikluak:0 "Ikkarumikluak"
+
+ dynn_Iltazai:0 "Iltazai"
+
+ dynn_Imbak:0 "Imbak"
+
+ dynn_Imgi:0 "Imgi"
+
+ dynn_Inderagiri:0 "Inderagiri"
+
+ dynn_Inughuit:0 "Inughuit"
+
+ dynn_Inuhuit:0 "Inuhuit"
+
+ dynn_Inupiat:0 "Inupiat"
+
+ dynn_Inuvialuit:0 "Inuvialuit"
+
+ dynn_Inyason:0 "Inyason"
+
+ dynn_Iradikrama:0 "Iradikrama"
+
+ dynn_Ishkashimi:0 "Ishkashimi"
+
+ dynn_Ishkomani:0 "Ishkomani"
+
+ dynn_Ismein:0 "Îsmein"
+
+ dynn_Janhunen:0 "Janhunen"
+
+ dynn_Jayasurata:0 "Jayasurata"
+
+ dynn_Jook:0 "Jook"
+
+ dynn_Jugun:0 "Jugun"
+
+ dynn_Julius:0 "Julius"
+ #dynn_Junius:0 "Junius"
+
+ dynn_Juma_Rehmat:0 "Juma Rehmat"
+
+ dynn_Kabir-Aqyan:0 "Kabir-Aqyan"
+
+ dynn_Kabir-Khalil:0 "Kabir-Khalil"
+
+ dynn_Kabuan:0 "Kabuan"
+
+ dynn_Kahlan:0 "Kahlan"
+
+ dynn_Kaksan:0 "Kaksan"
+
+ dynn_Kalaallit:0 "Kalaallit"
+
+ dynn_Kalandari:0 "Kalandari"
+
+ dynn_Kaldyan:0 "Kaldyan"
+
+ # Zulu Names
+
+ dynn_Kaltakun:0 "Kaltakun"
+
+ dynn_Kambrani:0 "Kambrani"
+
+ dynn_Kamidum:0 "Kamidum"
+
+ dynn_Kampalijek:0 "Kampalijek"
+
+ dynn_Kampar:0 "Kampar"
+
+ dynn_Kanata:0 "Kanata"
+
+ dynn_Kandali:0 "Kandali"
+
+ dynn_Karat:0 "Karat"
+
+ dynn_Katannilik:0 "Katannilik"
+
+ dynn_Kathiri:0 "Kathiri"
+
+ dynn_Kawawachikamach:0 "Kawawachikamach"
+
+ dynn_Kekwapskuk:0 "Kékwapskuk"
+
+ dynn_Kelgen:0 "Kelgen"
+
+ dynn_Kemingking:0 "Kemingking"
+
+ dynn_Keskapekiaq:0 "Keskapekiaq"
+
+ dynn_Kespek:0 "Kespék"
+
+ dynn_Ketsyan:0 "Ketsyan"
+
+ dynn_Khadzigan:0 "Khadzigan"
+
+ dynn_Khamir:0 "Khamir"
+
+ dynn_Khamnigan:0 "Khamnigan"
+
+ dynn_Khawlan:0 "Khawlan"
+
+ dynn_Khergu:0 "Khergu"
+
+ dynn_Kinipekw:0 "Kinipekw"
+
+ dynn_Kleman:0 "Kleman"
+
+ dynn_Kluskap:0 "Kluskap"
+
+ dynn_Korinci:0 "Korinci"
+
+ dynn_Kotakapur:0 "Kotakapur"
+
+ dynn_Kott:0 "Kott"
+
+ dynn_Kramawijaya:0 "Kramawijaya"
+
+ dynn_Kudrin:0 "Kudrin"
+
+ dynn_Kudrina:0 "Kudrina"
+
+ dynn_Kudur:0 "Kudur"
+
+ dynn_Kughi:0 "Kughi"
+
+ dynn_Kulpin:0 "Kulpin"
+
+ dynn_Kunangan:0 "Kunangan"
+
+ dynn_Kurd:0 "Kūrd"
+
+ dynn_Kureika:0 "Kureika"
+
+ dynn_Kushan:0 "Kushan"
+
+ dynn_Kwapahag:0 "Kwapahag"
+
+ dynn_Lahri:0 "Lahri"
+
+ dynn_Laigun:0 "Laigun"
+
+ dynn_Laksamana:0 "Laksamana"
+
+ dynn_Lamasum:0 "Lamasum"
+
+ dynn_Langav:0 "Langav"
+
+ dynn_Lapsay:0 "Lapsay"
+
+ dynn_Lemzan:0 "Lemzan"
+
+ dynn_Lepan:0 "Lepan"
+
+ dynn_Limanzo:0 "Limanzo"
+
+ dynn_Limlim:0 "Limlim"
+
+ dynn_Lingga:0 "Lingga"
+
+ dynn_Linggau:0 "Linggau"
+
+ dynn_Listikujk:0 "Listikujk"
+
+ dynn_Lnui_Menikuk:0 "Lnui Menikuk"
+
+ dynn_Lnui_Mnikuk:0 "Lnui Mnikuk"
+
+ dynn_Lom:0 "Lom"
+
+ dynn_Lopakalai:0 "Lopakalai"
+
+ dynn_Lsetkuk:0 "Lsetkuk"
+
+ dynn_Lsipuktuk:0 "Lsipuktuk"
+
+ dynn_Luac:0 "Luac"
+
+ dynn_Lumlum:0 "Lumlum"
+
+ dynn_Ma_afir:0 "Ma'afir"
+
+ dynn_Mabior:0 "Mabior"
+
+ dynn_Madali:0 "Madali"
+
+ dynn_Madha:0 "Madha"
+
+ dynn_Madmarum:0 "Madmarum"
+ #dynn_Hashid:0 "Hashid"
+
+ dynn_Mahra:0 "Mahra"
+
+ dynn_Mahri:0 "Mahri"
+
+ 
+ # Swahili Names
+
+ dynn_Malikiaq:0 "Malikiaq"
+
+ dynn_Malimiut:0 "Malimiut"
+
+ dynn_Mallikjuaq:0 "Mallikjuaq"
+
+ dynn_Mangkuto:0 "Mangkuto"
+
+ dynn_Mani_Utenam:0 "Mani-Utenam"
+
+ dynn_Manismato:0 "Manismato"
+
+ dynn_Manjagir:0 "Manjagir"
+
+ dynn_Manyang:0 "Manyaŋ"
+
+ dynn_Maqtukwek:0 "Maqtukwek"
+
+
+ # Native American Names Temp
+
+ dynn_Marathid:0 "Marathid"
+
+ dynn_Marbek:0 "Marbek"
+
+ dynn_Marego:0 "Marego"
+
+ dynn_Mashteuiatsh:0 "Mashteuiatsh"
+
+ dynn_Masipskwoik:0 "Masipskwoik"
+
+ dynn_Mataram:0 "Mataram"
+ #dynn_Mauli:0 "Mauli"
+
+ dynn_Matimekosh:0 "Matimekosh"
+
+ dynn_Maupeltuk:0 "Maupeltuk"
+
+ dynn_Mayardit:0 "Mayardit"
+
+ dynn_Mayfa_um:0 "Mayfa'um"
+
+ dynn_Maytam:0 "Maytam"
+
+ dynn_Medjanid:0 "Medjanid"
+
+ dynn_Mehri:0 "Mehri"
+
+ dynn_Mekapiisk:0 "Mekapiisk"
+
+ dynn_Melaka:0 "Melaka"
+
+ dynn_Melsedeyen:0 "Melsedeyen"
+
+ dynn_Mengal:0 "Mengal"
+
+ dynn_Metellus:0 "Metellus"
+
+ dynn_Metepnakiaq:0 "Metepnákiaq"
+
+ dynn_Miawpukwek:0 "Miawpukwek"
+
+ dynn_Midhhij:0 "Midhhij"
+
+ dynn_Miglut:0 "Miglut"
+
+ dynn_Mirwari:0 "Mirwari"
+
+ dynn_Mistisini:0 "Mistisinî"
+
+ dynn_Muar:0 "Muar"
+
+ dynn_Muha_nifum:0 "Muha'nifum"
+
+ dynn_Muhammad_Hasni:0 "Muhammad Hasni"
+
+ dynn_Muhammad_Shahi:0 "Muhammad-Shahi"
+
+ dynn_Muhaqra:0 "Muhaqra"
+
+ dynn_Murghabi:0 "Murghabi"
+
+ dynn_Mus:0 "Mus"
+
+ dynn_Muvchik:0 "Muvchik"
+
+ dynn_Muyati_um:0 "Muyati'um"
+
+ dynn_Naamat:0 "Naamat"
+
+ dynn_Nagran:0 "Nagran"
+
+ dynn_Natuaqanek:0 "Natuaqanek"
+
+ dynn_Natuashish:0 "Natuashish"
+
+ dynn_Nemiskaw:0 "Nemiskâw"
+
+ dynn_Netsilik:0 "Netsilik"
+ # Inuit names of regions/islands/places
+
+ dynn_Ngaar:0 "Ngaar"
+
+ dynn_Ngurawan:0 "Ngurawan"
+
+ dynn_Nhial:0 "Nhial"
+
+ dynn_Nibqu:0 "Nibqu"
+
+ dynn_Nichari:0 "Nichari"
+
+ dynn_Nukha:0 "Nukha"
+
+ dynn_Nunamiut:0 "Nunamiut"
+
+ dynn_Nurgan:0 "Nurgan"
+
+ dynn_Nutashkuan:0 "Nutashkuan"
+
+ dynn_Nuwasid:0 "Nuwasid"
+
+ dynn_Nyarweng:0 "Nyarweŋ"
+
+ dynn_Nyavan:0 "Nyavan"
+
+ dynn_Nyiel:0 "Nyiel"
+
+ dynn_Olon:0 "Olon"
+
+ dynn_Onkoul:0 "Onkoul"
+
+ dynn_Oroqen:0 "Oroqen"
+
+ dynn_Osekare:0 "Osekare"
+
+ dynn_Osheaga:0 "Osheaga"
+
+ dynn_Ostan:0 "Ostan"
+
+ dynn_Ovtayen:0 "Ovtayen"
+
+ dynn_Oykan:0 "Oykan"
+
+ dynn_Ozi:0 "Ozi"
+
+ dynn_Paanaruu:0 "Paanaruu"
+
+ dynn_Pakuashipi:0 "Pakuashipi"
+
+ dynn_Palimbang:0 "Palimbang"
+
+ dynn_Pamiri:0 "Pamiri"
+
+ dynn_Panawahpskek:0 "Panawahpskek"
+
+ dynn_Pandrani:0 "Pandrani"
+
+ dynn_Panjeh:0 "Panjeh"
+
+ dynn_Paq_tnkek:0 "Paq'tnkek"
+
+ dynn_Paranzan:0 "Paranzan"
+
+ dynn_Pariaman:0 "Pariaman"
+
+ dynn_Parkon:0 "Parkon"
+
+ dynn_Parodeyen:0 "Parodeyen"
+
+ dynn_Paweny:0 "Paweny"
+
+ dynn_Pekman:0 "Pekman"
+
+ dynn_Peksan:0 "Peksan"
+
+ dynn_Pequaki:0 "Pequaki"
+
+ dynn_Perpatih:0 "Perpatih"
+
+ dynn_Pessamu:0 "Pessamu"
+
+ dynn_Piksan:0 "Piksan"
+
+ dynn_Pimgun:0 "Pimgun"
+ 
+ # Yakut
+
+ dynn_Piyanzan:0 "Piyanzan"
+
+ dynn_Polten:0 "Polten"
+
+ dynn_Potlotek:0 "Potlotek"
+
+ dynn_Prameswara:0 "Prameswara"
+
+ dynn_Pskehtekwis:0 "Pskehtekwis"
+
+ dynn_Puksaqteknekatik:0 "Puksaqtéknékatik"
+
+ dynn_Puktusk:0 "Puktusk"
+
+ dynn_Pulukadang:0 "Pulukadang"
+
+ dynn_Puned:0 "Puned"
+
+ dynn_Purba:0 "Purba"
+
+ dynn_Purgazon:0 "Purgazon"
+
+ dynn_Putorana:0 "Putorana"
+ 
+ # Nivkh
+
+ dynn_Qalipue_katik:0 "Qalipue'katik"
+
+ dynn_Qapskuk:0 "Qapskuk"
+
+ dynn_Qara:0 "Qara"
+
+ dynn_Quammaarviit:0 "Quammaarviit"
+
+ dynn_Quda_a:0 "Quda'a"
+
+ dynn_Quttinirpaaq:0 "Quttinirpaaq"
+
+ dynn_Radman:0 "Radman"
+
+ dynn_Raisani:0 "Raisani"
+
+ dynn_Rashwan:0 "Rashwan"
+
+ dynn_Raydat:0 "Raydat"
+
+ dynn_Raymatum:0 "Raymatum"
+
+ dynn_Rimba:0 "Rimba"
+
+ dynn_Rodeni:0 "Rodeni"
+
+ dynn_Rokan:0 "Rokan"
+
+ dynn_Roshtkala:0 "Roshtkala"
+
+ dynn_Rushani:0 "Rushani"
+
+ dynn_Rustamzai:0 "Rustamzai"
+
+ dynn_Rut:0 "Rut"
+ #dynn_Thoi:0 "Thoi"
+ #O_ = o OO_ = ö NG_ = ŋ U_ = ü E = ε
+ #Male Dinka Names
+
+ dynn_Ruweeng:0 "Ruweeng"
+
+ dynn_Rybnoe:0 "Rybnoe"
+
+ dynn_Sa_ran:0 "Sa'ran"
+
+ dynn_Sajdi:0 "Sajdi"
+
+ dynn_Sakean:0 "Sakean"
+
+ dynn_Salhan:0 "Salhan"
+
+ dynn_Samaharya:0 "Samaharya"
+
+ dynn_Samhar:0 "Samhar"
+
+ dynn_Sangay:0 "Sangay"
+
+ dynn_Sangi:0 "Sangi"
+
+ dynn_Sannatum:0 "Sannatum"
+
+ dynn_Sarikoli:0 "Sarikoli"
+
+ dynn_Sarpora:0 "Sarpora"
+
+ dynn_Sarytash:0 "Sarytash"
+
+ dynn_Satakzai:0 "Satakzai"
+
+ dynn_Sawdabum:0 "Sawdabum"
+
+ dynn_Sekayu:0 "Sekayu"
+
+ dynn_Sekumbung:0 "Sekumbung"
+
+ dynn_Selub:0 "Selub"
+ 
+ # More Kalash Names
+
+ dynn_Seningbertam:0 "Seningbertam"
+
+ dynn_Seningujong:0 "Seningujong"
+
+ dynn_Seputih:0 "Seputih"
+
+ dynn_Seripanglima:0 "Seripanglima"
+
+ dynn_Shabahriyyam:0 "Shabahriyyam"
+
+ dynn_Shahara:0 "Shahara"
+
+ dynn_Shahri:0 "Shahri"
+
+ dynn_Shahwani:0 "Shahwani"
+
+ dynn_Shahz:0 "Shahz"
+
+ dynn_Shaimak:0 "Shaimak"
+
+ dynn_Shaksgam:0 "Shaksgam"
+
+ dynn_Shamatan:0 "Shamatan"
+
+ dynn_Shamir:0 "Shamir"
+
+ dynn_Shanyagir:0 "Shanyagir"
+
+ dynn_Shaqr:0 "Shaqr"
+
+ dynn_Shawdabum:0 "Shawdabum"
+
+ dynn_Shehri:0 "Shehri"
+
+ dynn_Sheshatshiu:0 "Sheshatshiu"
+
+ dynn_Shibam:0 "Shibam"
+
+ dynn_Shindyan:0 "Shindyan"
+
+ dynn_Shugnan:0 "Shugnan"
+
+ dynn_Siak:0 "Siak"
+
+ dynn_Sifalid:0 "Sifalid"
+
+ dynn_Sijunjung:0 "Sijunjung"
+
+ dynn_Silalinigmiut:0 "Silalinigmiut"
+
+ dynn_Silau:0 "Silau"
+
+ dynn_Siloma:0 "Siloma"
+
+ dynn_Sinen:0 "Sinen"
+
+ dynn_Sipeknikatik:0 "Sipekníkatik"
+
+ dynn_Sirmilik:0 "Sirmilik"
+
+ dynn_Sirwah:0 "Sirwah"
+
+ dynn_Sokwaki:0 "Sokwaki"
+
+ dynn_Sologon:0 "Sologon"
+
+ dynn_Solon:0 "Solon"
+
+ dynn_Soqotri:0 "Soqotri"
+
+ dynn_Stadacona:0 "Stadacona"
+
+ dynn_Suhaym:0 "Suhaym"
+
+ dynn_Sukhaym:0 "Sukhaym"
+
+ dynn_Sulomay:0 "Sulomay"
+
+ dynn_Sum_ay:0 "Sum'ay"
+
+ dynn_Sumajaya:0 "Sumajaya"
+
+ dynn_Sumalari:0 "Sumalari"
+
+ dynn_Sumharam:0 "Sumharam"
+
+ dynn_Suratinaya:0 "Suratinaya"
+
+ dynn_Surayen:0 "Surayen"
+
+ dynn_Surgut:0 "Surgut"
+
+ dynn_Suru:0 "Suru"
+
+ dynn_Tagiugmiut:0 "Tagiugmiut"
+
+ dynn_Taksami:0 "Taksami"
+
+ dynn_Tala:0 "Tala"
+
+ dynn_Tanahtinggi:0 "Tanahtinggi"
+
+ dynn_Tanjung:0 "Tanjung"
+
+ dynn_Tarxano:0 "Tarxano"
+
+ dynn_Tayy:0 "Tayy"
+
+ dynn_Tebingtinggi:0 "Tebingtinggi"
+
+ dynn_Tegermansu:0 "Tegermansu"
+
+ dynn_Telagamas:0 "Telagamas"
+
+ dynn_Telukraya:0 "Telukraya"
+
+ dynn_Tengi:0 "Tengi"
+
+ dynn_Thoi:0 "Thoi"
+
+ dynn_Tidip:0 "Tidip"
+
+ dynn_Tikigagmiut:0 "Tikigagmiut"
+
+ dynn_Tim:0 "Tim"
+
+ dynn_Titigajah:0 "Titigajah"
+
+ dynn_Tokhara:0 "Tokhara"
+
+ dynn_Tol:0 "Tol"
+
+ dynn_Tsyatnan:0 "Tsyatnan"
+
+ dynn_Tubba:0 "Tubba"
+
+ dynn_Tukhara:0 "Tukhara"
+
+ dynn_Tulkhtan:0 "Tulkhtan"
+
+ dynn_Tunumiit:0 "Tunumiit"
+
+ dynn_Turukhan:0 "Turukhan"
+
+ dynn_Tutonaguy:0 "Tutonaguy"
+
+ # Erzya Names (Credits to Макс)
+
+ dynn_Tyapunen:0 "Tyapunen"
+
+ dynn_Tyushtyan:0 "Tyushtyan"
+
+ dynn_Uashat:0 "Uashat"
+
+ dynn_Ucepukumu:0 "Ûcêpukumû"
+
+ dynn_Ugpi_ganjig:0 "Ugpiꞌganjig"
+
+ dynn_Ulita:0 "Ulita"
+
+ dynn_Ulustuk:0 "Ulustuk"
+
+ dynn_Umingmuktogmiut:0 "Umingmuktogmiut"
+
+ dynn_Unamenshipit:0 "Unamenshipit"
+
+ dynn_Ungava:0 "Ungava" 
+
+ # Tuniit/Dorset Surnames
+ # Since we don't know their real names, I am using Inuit names of various Dorset archaeological sites and areas
+
+ dynn_Utkuhiksalingmiut:0 "Utkuhiksalingmiut"
+
+ dynn_Utkulan:0 "Utkulan"
+
+ dynn_Valdon:0 "Valdon"
+
+ dynn_Vandolon:0 "Vandolon"
+
+ dynn_Vanj:0 "Vanj"
+ 
+ # Brahui
+
+ dynn_Vechkanon:0 "Vechkanon"
+
+ dynn_Vedyazon:0 "Vedyazon"
+
+ dynn_Vekan:0 "Vekan"
+
+ dynn_Vidain:0 "Vidain"
+
+ dynn_Videmason:0 "Videmason"
+
+ dynn_Viryazon:0 "Viryazon"
+
+ dynn_Vovkuk:0 "Vovkuk"
+
+ dynn_Wa_rum:0 "Wa'rum"
+
+ dynn_Wakhi:0 "Wakhi"
+
+ dynn_Walikum:0 "Walikum"
+
+ dynn_Wampu:0 "Wampu"
+
+ dynn_Wangka:0 "Wangka"
+ #dynn_Warmadewa:0 "Warmadewa"
+
+ dynn_Wapimakustui:0 "Wâpimâkuštui"
+
+ dynn_Waqmitkuk:0 "Waqmitkuk"
+
+ dynn_Waskahikanis:0 "Wâskâhîkaniš"
+
+ dynn_Waswanipi:0 "Wâswânipî"
+
+ dynn_Waushacum:0 "Waushacum"
+
+ dynn_Wawinak:0 "Wawinak"
+
+ # Mi'kmaq (dynasty names are names of present-day Mi'kmaq communities)
+
+ dynn_Wek:0 "Wek"
+
+ dynn_Wekistoqnik:0 "Wékistoqnik"
+
+ dynn_Wekopekwitk:0 "Wékopekwitk"
+
+ dynn_Wekoqmaq:0 "Wékoqmáq"
+
+ # Innu
+ # Dynasties based on modern-day tribes/communities
+
+ dynn_Wiminici:0 "Wîminicî"
+
+ dynn_Winnipesaukee:0 "Winnipesaukee"
+
+ dynn_Wli_Qospem:0 "Wli'Qospem"
+
+ dynn_Yakesa:0 "Yakesa"
+
+ dynn_Yashikul:0 "Yashikul"
+
+ dynn_Yashur:0 "Yashur"
+
+ dynn_Yasini:0 "Yasini"
+
+ dynn_Yastin:0 "Yastin"
+
+ dynn_Yaz_an:0 "Yaz'an"
+
+ dynn_Ykhmif:0 "Ykhmif"
+
+ dynn_Yom:0 "Yom"
+
+ dynn_Yoshan:0 "Yoshan"
+
+ dynn_Yugh:0 "Yugh"
+
+ dynn_Yuhabir:0 "Yuhabir"
+
+ dynn_Yz:0 "Yz"
+
+ dynn_Yzng:0 "Yzng"
+
+ dynn_Zagar_Mengal:0 "Zagar-Mengal"
+ 
+ #Guanche
+ #unisex
+
+ dynn_Zahri:0 "Zahri"
+
+ dynn_Zaltan:0 "Zaltan"
+
+ dynn_Zayarid:0 "Zayarid"
+
+ dynn_Zebaki:0 "Zebaki"
+
+ dynn_Zemchak:0 "Zemchak"
+
+ dynn_Zenab:0 "Zenab"
+
+ dynn_Zenobido:0 "Zenobido"
+
+ dynn_Ziaki:0 "Ziaki"
+
+ dynn_Zorkuli:0 "Zorkuli"
+
+ dynn_Zugalay:0 "Zugalay"
+
+ evenk:0 "Evenk"
+
+ evenk_collective_noun:0 "Evenks"
+
+ evenk_prefix:0 "Evenk"
+
+ gandhari:0 "Gandhari"
+
+ gandhari_collective_noun:0 "Gandhari"
+
+ gandhari_prefix:0 "Gandhari"
+
+ goliad:0 "Golyad"
+
+ goliad_collective_noun:0 "Golyads"
+
+ goliad_prefix:0 "Golyad"
+
+ gorontalo:0 "Gorontalo"
+
+ gorontalo_collective_noun:0 "Gorontalo"
+
+ gorontalo_prefix:0 "Gorontalo"
+
+ guanche:0 "Guanche"
+
+ guanche_collective_noun:0 "Guanches"
+
+ harla:0 "Harla"
+
+ harla_collective_noun:0 "Harlas"
+
+ harla_prefix:0 "Harla"
+
+ heritage_algonquian_collective_noun:0 "Algonquians"
+
+ heritage_algonquian_name:0 "Algonquian"
+
+ heritage_beothuk_collective_noun:0 "Beothuk"
+
+ heritage_beothuk_name:0 "Beothuk"
+
+ heritage_chamic_collective_noun:0 "Chamics"
+
+ heritage_chamic_name:0 "Chamic"
+
+ heritage_east_bantu_collective_noun:0 "East Bantu"
+
+ heritage_east_bantu_name:0 "East Bantu"
+
+ heritage_elamite_collective_noun:0 "Elamites"
+
+ heritage_elamite_name:0 "Elamite"
+
+ heritage_filipino_collective_noun:0 "Filipinos"
+
+ heritage_filipino_name:0 "Filipino"
+
+ heritage_guanche_collective_noun:0 "Guanche"
+
+ heritage_guanche_name:0 "Guanche"
+
+ heritage_inuit_collective_noun:0 "Inuit"
+
+ heritage_inuit_name:0 "Inuit"
+
+ heritage_iroquoian_collective_noun:0 "Iroquoians"
+
+ heritage_iroquoian_name:0 "Iroquoian"
+
+ heritage_loloish_collective_noun:0 "Lolos"
+
+ heritage_loloish_name:0 "Lolo"
+
+ heritage_melanesian_collective_noun:0 "Melanesians"
+
+ heritage_melanesian_name:0 "Melanesian"
+
+ heritage_micronesian_collective_noun:0 "Micronesians"
+
+ heritage_micronesian_name:0 "Micronesian"
+
+ heritage_paleo_inuit_collective_noun:0 "Paleo-Inuit"
+
+ heritage_paleo_inuit_name:0 "Paleo-Inuit"
+
+ heritage_papuan_collective_noun:0 "Papuans"
+
+ heritage_papuan_name:0 "Papuan"
+
+ heritage_south_bantu_collective_noun:0 "South Bantu"
+ #heritage_malayic_name:0 "Malayic"
+ #heritage_malayic_collective_noun:0 "Malayics"
+
+ heritage_south_bantu_name:0 "South Bantu"
+
+ heritage_sulawesi_collective_noun:0 "Sulawesans"
+
+ heritage_sulawesi_name:0 "Sulawesan"
+
+ iban:0 "Iban"
+
+ iban_collective_noun:0 "Ibans"
+
+ iban_prefix:0 "Iban"
+
+ icelandic:0 "Icelandic"
+ #icelandic_prefix:0 "Icelandic"
+ #icelandic_collective_noun:1 "Icelanders"
+
+ kadazan:0 "Kadazan-Dusun"
+
+ kadazan_collective_noun:0 "Kadazan-Dusuns"
+
+ kadazan_prefix:0 "Kadazan-Dusun"
+
+ kaifengim:0 "Kaifengim"
+
+ kaifengim_collective_noun:1 "Kaifengim"
+
+ kaifengim_prefix:0 "Kaifengim"
+
+ khalaj:0 "Khalaj"
+
+ khalaj_collective_noun:0 "Khalaj"
+
+ khasi:0 "Khasi"
+
+ khasi_collective_noun:0 "Khasis"
+
+ khasi_prefix:0 "Khasi"
+
+ khuzi:0 "Khuzi"
+
+ khuzi_collective_noun:0 "Khuzis"
+
+ khuzi_prefix:0 "Khuzi"
+
+ king_feudal_female_guanches:0 "Guayarmina"
+
+ king_feudal_male_guanches:0 "Mencey"
+
+ kingdom_guanches:0 "Menceyato"
+
+ krivich:0 "Krivich"
+
+ krivich_collective_noun:0 "Krivichs"
+
+ krivich_prefix:0 "Krivich"
+
+ kuy:0 "Kuy"
+
+ kuy_collective_noun:0 "Kuy"
+
+ kuy_prefix:0 "Kuy"
+
+ lampung:0 "Lampung"
+
+ lampung_collective_noun:0 "Lampung"
+
+ lampung_prefix:0 "Lampung"
+
+ language_african_romance_name:0 "African Vulgar"
+
+ language_amis_name:0 "Formosan"
+
+ language_bahnaric_name:0 "Bahnaric"
+
+ language_bai_name:0 "Bai"
+
+ language_batak_name:0 "Sumatran"
+
+ language_bauzi_name:0 "East Cenderawasih"
+
+ language_beothuk_name:0 "Beothuk"
+
+ language_biak_name:0 "West New Guinea"
+
+ language_brahui_name:0 "Brahui"
+
+ language_bugis_name:0 "South Sulawesi"
+
+ language_burusho_name:0 "Burushaski"
+
+ language_central_luzon_name:0 "Central Luzon"
+
+ language_chamorro_name:0 "Chamorro"
+
+ language_chong_name:0 "Pearic"
+
+ language_cree_name:0 "Cree"
+
+ language_dinka_name:0 "Nilotic"
+
+ language_eastern_algonquian_name:0 "Eastern Algonquian"
+
+ language_elamite_name:0 "Elamite"
+ #language_vietnamese_name:0 "Vietnamese"
+
+ language_filipino_name:0 "Philippine"
+
+ language_fur_name:0 "Fur"
+
+ language_guanche_name:0 "Guanche"
+
+ language_halmahera_name:0 "West Papuan"
+
+ language_inuit_name:0 "Inuit"
+
+ language_iroquoian_name:0 "Iroquoian"
+
+ language_java_name:0 "Javanese"
+
+ language_katuic_name:0 "Katuic"
+
+ language_khasi_name:0 "Khasic"
+
+ language_khmuic_name:0 "Khmuic"
+
+ language_kirati_name:1 "Kiranti"
+
+ language_kordofanian_name:0 "Kordofanian"
+
+ language_lampung_name:0 "Lampungic"
+
+ language_maban_name:0 "Maban"
+
+ language_mairasi_name:0 "Mairasi"
+
+ language_makassar_name:0 "Makassar"
+
+ language_makua_name:0 "Makua"
+
+ language_malagasy_name:0 "Malagasy"
+
+ language_malay_name:0 "Malayic"
+
+ language_micronesian_name:0 "Oceanic"
+
+ language_moklen_name:0 "Moklen"
+
+ language_monpa_name:1 "Greater Siangic"
+
+ language_munda_name:0 "Munda"
+
+ language_ngaju_name:0 "Barito"
+
+ language_nguni_name:0 "Nguni"
+
+ language_nuristani_name:0 "Nuristani"
+
+ language_palauan_name:0 "Palauan"
+
+ language_palaungic_name:0 "Palaungic"
+
+ language_pyu_name:0 "Pyu"
+
+ language_rufiji_ruvuma_name:0 "Rufiji–Ruvuma"
+
+ language_sayhadic_name:0 "Himyaritic"
+
+ language_shona_name:0 "Southern Bantu"
+
+ language_sorbian_name:0 "Sorbian"
+
+ language_south_arabian_name:0 "South Arabian"
+
+ language_sumatran_name:0 "Sumatran"
+
+ language_sunda_name:0 "Sundanese"
+
+ language_swahili_name:0 "Northeast Bantu"
+
+ language_timor_name:0 "Moluccan"
+
+ language_tomini_name:0 "Celebic"
+
+ # Namelists
+
+ language_tsonga_name:0 "Tsonga"
+
+ language_west_himalayan_name:1 "West Himalayish"
+
+ language_yeniseian_name:0 "Yeniseian"
+
+ language_yi_name:0 "Nuosu"
+
+ language_yukaghir_name:0 "Yukaghir"
+
+ maban:0 "Maba"
+
+ maban_collective_noun:0 "Maba"
+
+ maban_prefix:0 "Maba"
+
+ makassar:0 "Makassar"
+
+ makassar_prefix:0 "Makassar"
+
+ moklen:0 "Moklen"
+
+ moklen_collective_noun:0 "Moklen"
+
+ moklen_prefix:0 "Moklen"
+
+ munda:0 "Munda"
+ #munda_collective_noun:0 "Mundas"
+ #munda_prefix:0 "Munda"
+
+ muong:0 "Muong"
+
+ muong_collective_noun:0 "Muongs"
+
+ muong_prefix:0 "Muong"
+
+ murut:0 "Murut"
+
+ murut_collective_noun:0 "Muruts"
+
+ murut_prefix:0 "Murut"
+
+ name_list_abenaki:0 "Alnobak"
+
+ name_list_afri:0 "African Latin"
+
+ name_list_bai:0 "Bai"
+
+ name_list_bali:0 "Balinese"
+
+ name_list_batak:0 "Batak"
+ #name_list_tai:0 "Tai"
+ #name_list_yamato:0 "Japanese"
+
+ name_list_beothuk:0 "Beothuk"
+
+ name_list_brahui:0 "Brahui"
+
+ name_list_bugis:0 "Bugis"
+
+ name_list_burusho:0 "Burushaski"
+ #name_list_nivkh:0 "Nivkh"
+
+ name_list_dinka:0 "Dinka"
+
+ name_list_dorset:0 "Tuniit"
+
+ name_list_east_cree:0 "Eeyou"
+
+ name_list_erzya:0 "Erzya"
+
+ name_list_evenk:0 "Evenk"
+
+ name_list_filipino:0 "Filipino"
+
+ name_list_fur:0 "Fur"
+
+ name_list_guanche:0 "Guanche"
+
+ name_list_hephthalite:0 "Hephthalite"
+
+ name_list_himyarite:0 "Himyarite"
+
+ name_list_innu:0 "Innu"
+
+ name_list_inuit:0 "Inuit"
+
+ name_list_java:0 "Javanese"
+
+ name_list_khasi:0 "Khasi"
+
+ # Prefixes
+
+ name_list_laurentian:0 "Kwĕdĕch"
+
+ name_list_makassar:0 "Makassar"
+
+ name_list_malagasy:0 "Malagasy"
+
+ name_list_mijikenda:0 "Mijikenda"
+
+ name_list_mikmaq:0 "Mik'kmaw"
+
+ name_list_moksha:0 "Moksha"
+
+ name_list_munda:0 "Munda"
+
+ name_list_nguni:0 "Nguni"
+ #name_list_khmer:0 "Khmer"
+
+ name_list_nuristani:0 "Darada"
+
+ name_list_oromo:0 "Oromo"
+
+ name_list_pokomo:0 "Pokomo"
+
+ name_list_pyu:0 "Pyu"
+
+ name_list_shona:0 "Shona"
+
+ name_list_sotho:0 "Sotho-Tswana"
+
+ name_list_south_arabian:0 "South Arabian"
+
+ name_list_sunda:0 "Sundanese"
+
+ name_list_tawo:0 "Tawo"
+ #name_list_tagalog:0 "Tagalog"
+
+ name_list_toubou:0 "Toubou"
+
+ name_list_tsonga:0 "Tsonga"
+
+ name_list_tuareg:0 "Tuareg"
+
+ name_list_udmurt:0 "Udmurt"
+
+ name_list_vedda:0 "Vedda"
+
+ name_list_yeniseian:0 "Yeniseian"
+
+ name_list_yi:0 "Yi"
+
+ name_list_yukaghir:0 "Yukaghir"
+
+ ngaju:0 "Ngaju"
+
+ ngaju_collective_noun:0 "Ngajus"
+
+ ngaju_prefix:0 "Ngaju"
+
+ not_bureaucratic_spiritual_or_communal_desc:1 "The [culture|E] does not have the $ethos_bureaucratic_name$, $ethos_spiritual_name$ or $ethos_communal_name$ [ethos|E]"
+
+ nuba:0 "Nuba"
+
+ nuba_collective_noun:0 "Nuba"
+
+ nuba_prefix:0 "Nuba"
+
+ nuristani:0 "Darada"
+
+ nuristani_collective_noun:0 "Daradas"
+
+ nuristani_prefix:0 "Darada"
+
+ old_viet:0 "Lạc Việt"
+
+ old_viet_collective_noun:0 "Lạc Việts"
+
+ old_viet_prefix:0 "Việt"
+
+ oromo:0 "Oromo"
+
+ oromo_collective_noun:0 "Oromos"
+
+ oromo_prefix:0 "Oromo"
+
+ palaung:0 "Palaung"
+
+ palaung_collective_noun:0 "Palaungs"
+
+ palaung_prefix:0 "Palaung"
+
+ pamiri:0 "Pamiri"
+
+ pamiri_collective_noun:0 "Pamiris"
+
+ pamiri_prefix:0 "Pamiri"
+
+ parsim:0 "Parsim"
+
+ pyu:0 "Pyu"
+
+ pyu_prefix:0 "Pyu"
+
+ sama:0 "Sama"
+
+ sama_collective_noun:0 "Sama"
+
+ sama_prefix:0 "Sama"
+
+ seletar:0 "Seletar"
+
+ seletar_prefix:0 "Seletar"
+
+ semang:0 "Semang"
+
+ semang_collective_noun:0 "Semang"
+
+ semang_prefix:0 "Semang"
+
+ sidama:0 "Sidama"
+
+ sidama_prefix:0 "Sidama"
+
+ sinauna:0 "Sinauna"
+
+ sinauna_collective_noun:0 "Sinaunas"
+
+ sinauna_prefix:0 "Sinauna"
+
+ sudanese_collective_noun:0 "Sudanese"
+
+ sudanese_prefix:0 "Sudano"
+
+ sumba:0 "Sumba"
+
+ sumba_collective_noun:0 "Sumba"
+
+ sumba_prefix:0 "Sumba"
+
+ sunda:0 "Sunda"
+
+ sunda_collective_noun:0 "Sundas"
+
+ sunda_prefix:0 "Sunda"
+
+ tawo:0 "Tawo"
+
+ tawo_collective_noun:0 "Tawos"
+
+ tawo_prefix:0 "Tawo"
+
+ timor:0 "Timor"
+
+ timor_collective_noun:0 "Timor"
+
+ timor_prefix:0 "Timor"
+
+ title_prince_female_guanches:0 "Achimencey"
+
+ title_prince_female_guanches_empire:0 "Achimencey"
+
+ title_prince_male_guanches_empire:0 "Achimencey"
+
+ toubou:0 "Toubou"
+
+ toubou_collective_noun:0 "Toubou"
+
+ toubou_prefix:0 "Toubou"
+
+ tradition_RICE_beyond_the_reach_of_eagles_desc:1 "The ancients called the Pamirs and Hindu Kush, this culture's homeland, a land 'beyond the reach of eagles,' for it is said even birds cannot fly above these towering peaks. Yet these fractured tribes do not merely eke out an existence in these mountains: they endure, they thrive, they live, and they have made for themselves a vibrant society."
+
+ tradition_RICE_beyond_the_reach_of_eagles_name:1 "Beyond the Reach of Eagles"
+
+ tradition_RICE_children_of_the_nile_desc:0 "#F The Nile is the heart of Egypt, the land is its body, and the people are its blood. The clear waters of the precious Nile teem with life, as it always has since the day of the Pharaohs. Others might not truly understand the Nile, but the people of this culture know that for as long as the Nile remains, so shall Egypt endure.#!"
+
+ tradition_RICE_children_of_the_nile_name:0 "Children of the Nile"
+
+ tradition_RICE_forest_suppliers_desc:0 "This culture is not only skilled at utilizing the bounty of the forests for themselves, as they also specialize in knowing what forest products would be desirable to foreign markets. They thus make good profit supplying outsiders with these forest goods."
+
+ tradition_RICE_forest_suppliers_name:0 "Dealers of Forest Goods"
+
+ tradition_RICE_galician_portuguese_poetry_desc:0 "#F Poets of this culture typically use the Galician-Portuguese variant of the Iberian Romance language when composing lyric poetry. Cantigas are the characteristic style of song amongst these poets.#!"
+
+ tradition_RICE_galician_portuguese_poetry_name:0 "Galician-Portuguese Lyric"
+
+ tradition_RICE_wendish_confederations_desc:0 "This West Slavic culture has traditionally been divided by various political confederations consisting of several tribes. These confederations bring wealth to their constituent tribes, who fight outsiders and enemies as one – as long as they don't squabble amongst themselves."
+
+ tradition_RICE_wendish_confederations_name:0 "Wendish Confederations"
+
+ tradition_african_agriculture_desc:0 "The province of Roman Africa was often nicknamed "the granary of the Empire", in ferocious competition with Egypt. Africa would not only produce enormous amounts of wheat but also figs, dates and even a variety of animal produce."
+
+ tradition_african_agriculture_name:0 "Granary of Africa"
+
+ tradition_guanche_warrior_desc:0 "#F The Cichiciquitzo formed the warrior class of the Guanche. Adept at throwing missiles and ravine ambushes they are lightly armored but skillful skirmishers. The Cichiciquitzo will defend the hilly and mountainous terrain of their islands to the death.#!"
+
+ tradition_guanche_warrior_name:0 "Cichiciquitzo"
+
+ tradition_migratory_desc:0 "The people of this culture are accustomed to packing up their things and leaving at a moment's notice."
+
+ tradition_migratory_name:0 "Migratory"
+
+ tuareg:0 "Tuareg"
+
+ vedda:0 "Vedda"
+
+ wa:0 "Wa"
+
+ wa_collective_noun:1 "Wa"
+
+ wa_prefix:0 "Wa"
+
+ yakut:0 "Yakut"
+
+ yakut_collective_noun:0 "Yakuts"
+
+ yakut_prefix:0 "Yakut"

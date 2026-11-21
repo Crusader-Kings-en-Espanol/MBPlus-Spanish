@@ -1,4 +1,4 @@
-version="1.0.6"
+version="1.0.7"
 tags={
 	"Historical"
 	"Gameplay"
@@ -10,5 +10,5 @@ tags={
 }
 name="More Bookmarks+ en Español-Spanish"
 picture="thumbnail.png"
-supported_version="1.20.*"
+supported_version="1.21.*"
 remote_file_id="3790783048"

@@ -1,4 +1,4 @@
-﻿l_spanish:
+l_spanish:
 
 
 ################################################################################
@@ -28447,3 +28447,558 @@
  MB_dynn_watarai: "Watarai"
  dynn_Banu_Hazm: "Banu Hazm"
  dynn_zhai: "Zhai"
+
+# Nuevas claves añadidas desde la version actual de More Bookmarks (pendientes de traducir)
+ MB_dynn_jomsborg: "Jómsborg"
+
+ dynn_Afrigan: "Afrīghī" # Changed Afrigan to Afrīghī
+
+ dynn_Afshiyan: "Afshiyan" # Kidarite remnants in Samarkand
+
+ dynn_Aivitok: "Aivitok" # Hamilton Inlet
+
+ dynn_Akilinik: "Akilinik" # Thelon River
+
+ dynn_Albergaria: "Albergaria"
+
+ dynn_Alchonid: "Alchonid" # Alchon Huns
+
+ dynn_Alencon: "Alençon"
+
+ dynn_Almeida: "Almeida"
+
+ dynn_Alvelo: "Alvelo"
+
+ dynn_Aman: "'Amān" # Changed Aman to 'Amān
+
+ dynn_Amu: "'Amū" # Changed Amu to 'Amū
+
+ dynn_Anhalt_Aschersleben: "Anhalt-Aschersleben"
+
+ dynn_Anhalt_Bernburg: "Anhalt-Bernburg"
+
+ dynn_Anhalt_Zerbst: "Anhalt-Zerbst"
+
+ dynn_Arganil: "Arganil"
+
+ dynn_Armentares: "Armentares"
+
+ dynn_Arviliit: "Arviliit" # Ottawa Islands
+
+ dynn_Auxonne: "Auxonne"
+
+ dynn_Auyuittuq: "Auyuittuq" # Auyuittuq National Park
+
+ dynn_Azambuja: "Azambuja"
+
+ dynn_Baguim: "Baguim"
+
+ dynn_Bas: "Bas"
+
+ dynn_Beja: "Beja"
+
+ dynn_Bentheim-Tecklenburg: "Bentheim-Tecklenburg"
+
+ dynn_Besora: "Besora"
+
+ dynn_Bethune_Bessan: "Bessan"
+
+ dynn_Bethune_Locres: "Béthune-Locres"
+
+ dynn_Birachen: "Bīrāchen" # Changed Birachen to Bīrāchen
+
+ dynn_BourgogneMontagu: "Montagu"
+
+ dynn_BourgogneViennois: "Viennois"
+
+ dynn_Brauneck: "Brauneck"
+
+ dynn_Bravaes: "Bravães"
+
+ dynn_Brienne_Beaumont: "Beaumont"
+
+ dynn_Brienne_Eu: "Brienne-Eu"
+
+ dynn_Brienne_Ramerupt: "Ramerupt"
+
+ dynn_Brito: "Brito"
+
+ dynn_Briwere: "Briwere"
+
+ dynn_Budingen: "Büdingen"
+
+ dynn_Cabrera_Urgell: "d'Urgell-Cabrera"
+
+ dynn_Cambar: "Cambar"
+
+ dynn_Cambra: "Cambra"
+
+ dynn_Candarei: "Candarei"
+
+ dynn_Canelas: "Canelas"
+
+ dynn_Carapecos: "Carapeços"
+
+ dynn_Carvalhosa: "Carvalhosa"
+
+ dynn_Chalon_Auxerre: "Chalon-Auxerre"
+
+ dynn_Chateaudun_Vic: "Châteaudun"
+
+ dynn_Chatel_Censoir: "Châtel-Censoir"
+
+ dynn_Chatillon_Blois: "Châtillon-Blois"
+
+ dynn_Chatillon_Leuze: "Châtillon-Leuze"
+
+ dynn_Chatillon_Porcien: "Châtillon-Porcien"
+
+ dynn_Chatillon_StPol: "Châtillon-Saint-Pol"
+
+ dynn_Chaworth: "Chaworth"
+
+ dynn_Chehanna: "Chehanna" # Chaghaniyan in Chinese per Xuanzang
+
+ dynn_Chir_Unvd: "Unvd"
+
+ dynn_Coetmen: "Coëtmen"
+
+ dynn_Coucy_Guines: "Coucy"
+
+ dynn_CourtenayChampignelles: "Courtenay-Champignelles"
+
+ dynn_CourtenayTanlay: "Courtenay-Tanlay"
+
+ dynn_Courtenay_Devon: "Courtenay of Devon"
+
+ dynn_Courtenay_Edesse: "Courtenay-Édesse"
+
+ dynn_Crespin: "Crespin"
+
+ dynn_Damri: "Damrī" # Changed Damri to Damrī
+
+ dynn_Daroi: "Dárói"
+
+ dynn_Dauphin_Auvergne: "Dauphin d'Auvergne"
+
+ dynn_Dayuan: "Dàyuān" # Changed Dayuan to Dàyuān
+
+ dynn_DeBolebec: "de Bolebec"
+
+ dynn_DeLeybourne: "de Leybourne"
+
+ dynn_DeMonthermer: "de Monthermer"
+
+ dynn_DeNorwich: "de Norwich"
+
+ dynn_DeSanford: "de Sanford"
+
+ dynn_Dhakir: "Dhākirī" # Changed Dhakir to Dhākirī
+
+ dynn_Dhamari: "Dhamarī" # Changed Dhamari to Dhamarī
+
+ dynn_Dharan: "Dharān" # Changed Dharan to Dharān
+
+ dynn_Dhubhan: "Dhūbānī" # Changed Dhubhan to Dhūbānī
+
+ dynn_DreuxBeu: "Beu"
+
+ dynn_DreuxBretagne: "Bretagne"
+
+ dynn_Duojin: "Duōjīn" # Changed Duojin to Duōjīn
+
+ dynn_Enriquez_Sevilla: "Enríquez de Sevilla"
+
+ dynn_Exoudun: "Exoudun"
+
+ dynn_Fayshanid: "Fayshanī" # Changed Fayshanid to Fayshanī
+
+ dynn_Fermoselhe: "Fermoselhe"
+
+ dynn_Ferrette: "Ferrette"
+
+ dynn_Fezensaguet: "Fézensaguet"
+
+ dynn_Florange: "Florange"
+
+ dynn_Fornelos: "Fornelos"
+
+ dynn_GO_rz_Tirol: "Görz-Tirol"
+
+ dynn_Gaia: "Gaia"
+
+ dynn_Geneville: "Geneville"
+
+ dynn_Ghayman: "Ghaymān" # Changed Ghayman to Ghaymān
+
+ dynn_Ghiaggiolo: "Ghiaggiolo"
+
+ dynn_Grandpre_Porcien: "Grandpré-Porcien"
+
+ dynn_Grandson_LaSarraz: "La Sarraz"
+
+ dynn_Grenier_Cesaree: "Grenier de Césarée"
+
+ dynn_Grenier_Sidon: "Grenier de Sidon"
+
+ dynn_Grijo: "Grijó"
+
+ dynn_Grubenhagen: "Grubenhagen"
+
+ dynn_Haningayok: "Haningayok" # Back River
+
+ dynn_Haro_Cameros: "Haro-Cameros"
+
+ dynn_Haruni: "Hárúnī"
+
+ dynn_Harvaqtuuq: "Harvaqtuuq" # Kazan River
+
+ dynn_Hebatan: "Hebatan" # Chinese for Kobadian
+
+ dynn_Henneberg_Aschach: "Henneberg-Aschach"
+
+ dynn_Henneberg_Coburg: "Henneberg-Coburg"
+
+ dynn_Henneberg_Schleusingen: "Henneberg-Schleusingen"
+
+ dynn_Hephthalite: "Ebodal" # What the Hephthalites called themselves
+
+ dynn_Heron: "Heron"
+
+ dynn_Hohenburg: "Hohenburg"
+
+ dynn_Hohenzollern_NU_rnberg: "Hohenzollern-Nürnberg"
+
+ dynn_Holstein_Itzehoe: "Holstein-Itzehoe"
+
+ dynn_Holstein_Kiel: "Holstein-Kiel"
+
+ dynn_Holstein_Pinneberg: "Holstein-Pinneberg"
+
+ dynn_Holstein_Plon: "Holstein-Plön"
+
+ dynn_Holstein_Rendsburg: "Holstein-Rendsburg"
+
+ dynn_Ilulliq: "Ilulliq" # Melville Island
+
+ dynn_Jarnac: "Jarnac"
+
+ dynn_Jolda: "Jolda"
+
+ dynn_Kangiqtualuk: "Kangiqtualuk" # Cumberland Sound
+
+ dynn_Kidarite: "Kidarite"
+
+ dynn_Kigutinnguaq: "Kigutinnguaq" # Mount Thor
+
+ dynn_Kiillinnguyaq: "Kiillinnguyaq" # Kent Peninsula
+
+ dynn_Killiniq: "Killiniq" # Killiniq Island
+
+ dynn_Kinngait: "Kinngait" # Inuit name for actual Dorset site
+
+ dynn_Kujataa: "Kujataa" # Area of the Norse Eastern Settlement in Greenland, evidence of earlier habitation by Saqqaq and Dorset
+
+ dynn_Kuujjuaq: "Kuujjuaq" # Koksoak River
+
+ dynn_Kuukpak: "Kuukpak" # Yukon River
+
+ dynn_LIsle_Bouchard: "L'Île-Bouchard"
+
+ dynn_LaZoucheOfAshby: "la Zouche of Ashby"
+
+ dynn_La_Fleche: "La Flèche"
+
+ dynn_Leiria: "Leiria"
+
+ dynn_Lenzburg_Baden: "Lenzburg-Baden"
+
+ dynn_Leomil: "Leomil"
+
+ dynn_Lezay: "Lezay"
+
+ dynn_Limburg-Berg: "Limburg-Berg"
+
+ dynn_Lorvao: "Lorvão"
+
+ dynn_Lusignan_Chypre: "Lusignan-Chypre"
+
+ dynn_MB_Ambrosio: "Ambrosio"
+
+ dynn_MB_Augustin_Osterland: "Augustin"
+
+ dynn_MB_Baldewin_Pila: "Baldewin"
+
+ dynn_MB_Beaumont_Oise: "Beaumont-sur-Oise"
+
+ dynn_MB_Bernhard_Dorpat: "Bernhard"
+
+ dynn_MB_Buc: "Buc"
+
+ dynn_MB_Chabanais: "Chabanais"
+
+ dynn_MB_Charino: "Chariño"
+
+ dynn_MB_Chatelaillon: "Châtelaillon"
+
+ dynn_MB_Chauvigny: "Chauvigny"
+
+ dynn_MB_Coligny: "Coligny"
+
+ dynn_MB_Correia: "Correia"
+
+ dynn_MB_Coucy_Alberic: "Coucy"
+
+ dynn_MB_Diethard_Osnabruck: "Diethard"
+
+ dynn_MB_Domenico: "Domenico"
+
+ dynn_MB_Dulcemanino_Padova: "Dulcemanino"
+
+ dynn_MB_Friedrich_Dagsburg: "Friedrich"
+
+ dynn_MB_Gottfried_Osel: "Gottfried"
+
+ dynn_MB_Hartung_Osel: "Hartung"
+
+ dynn_MB_Heinrich_Osel: "Heinrich"
+
+ dynn_MB_Hemma_Lenzburg: "Hemma"
+
+ dynn_MB_Jakob_Osel: "Jakob"
+
+ dynn_MB_Johann_Lebus: "Lebus"
+
+ dynn_MB_Johann_Osnabruck: "Johann"
+
+ dynn_MB_Khawlani: "al-Khawlānī"
+
+ dynn_MB_Konrad_Osel: "Konrad"
+
+ dynn_MB_Kortrijk: "van Kortrijk"
+
+ dynn_MB_Lanz_Litomerice: "Lanz"
+
+ dynn_MB_Lille: "Lille"
+
+ dynn_MB_Lorenzo_Piemonte: "Lorenzo"
+
+ dynn_MB_Milone_Pavia: "Milone"
+
+ dynn_MB_Mortagne_Tournai: "Mortagne"
+
+ dynn_MB_Nikolaus_Dorpat: "Nikolaus"
+
+ dynn_MB_Oudenaarde: "van Oudenaarde"
+
+ dynn_MB_Palnatoki: "Pálnatóki"
+
+ dynn_MB_Pavia_Sinopoli: "Pavia di Sinopoli"
+
+ dynn_MB_Pierrepont: "Pierrepont"
+
+ dynn_MB_Pio: "Pio"
+
+ dynn_MB_Pons: "Pons"
+
+ dynn_MB_Primiero: "Primiero"
+
+ dynn_MB_Rodolfo_Siena: "Rodolfo"
+
+ dynn_MB_Rozoy: "Rozoy"
+
+ dynn_MB_Salvio: "Salvio"
+
+ dynn_MB_Sangerhausen_Anno: "Sangerhausen"
+
+ dynn_MB_Sesto: "Sesto"
+
+ dynn_MB_Simonetta_Roma: "Simonetta"
+
+ dynn_MB_Teodorico_Roma: "Teodorico"
+
+ dynn_MB_Vilhelm_Roskilde: "Vilhelm"
+
+ dynn_MB_Wicho_Osnabruck: "Wicho"
+
+ dynn_MB_Wigand_Spreewald: "Wigand"
+
+ dynn_MO_dling: "Mödling"
+
+ dynn_MacGormainOfUiBreccain: "Mac Gormáin of Uí Breccáin"
+
+ dynn_Machecoul: "Machecoul"
+
+ dynn_Macon_Vienne: "Mâcon-Vienne"
+
+ dynn_Medas: "Medãs"
+
+ dynn_Mello_Dammartin: "Dammartin"
+
+ dynn_Merenberg: "Merenberg"
+
+ dynn_Minotto: "Minotto"
+
+ dynn_Molnes: "Molnes"
+
+ dynn_Montbeliard: "Montbéliard"
+
+ dynn_Montcada_Aitona: "Montcada-Aitona"
+
+ dynn_Montlhery_Rochefort: "Rochefort"
+
+ dynn_Montmorency_Laval: "Montmorency-Laval"
+
+ dynn_Moraes: "Moraes"
+
+ dynn_Murtadid: "Murtaḍī"
+
+ dynn_Nanook: "Nanook" # Alt name of Tanfield Valley, area on Baffin Island that may be in the region of Helluland and possible Norse/Dorset interactions
+
+ dynn_Nassau-Dillenburg: "Nassau-Dillenburg"
+
+ dynn_Natsitok: "Natsitok" # Sandwich Bay
+
+ dynn_Nesle_Soissons: "Soissons"
+
+ dynn_Nevers_Vendome: "Nevers-Vendôme"
+
+ dynn_Nidau: "Nidau"
+
+ dynn_Nipisat: "Nipisat" # Small island in Greenland with many Saqqaq finds
+
+ dynn_Nomaes: "Nomães"
+
+ dynn_Olza: "Olza"
+
+ dynn_Orvaneja: "Orvaneja"
+
+ dynn_Outeiro: "Outeiro"
+
+ dynn_Paltanieri: "Paltanieri"
+
+ dynn_Panakat: "Panäkät" # Junior/cadet branch of the rulers of Chach
+
+ dynn_Penela: "Penela"
+
+ dynn_Pont_de_lArche: "Pont-de-l'Arche"
+
+ dynn_Provence_Aragon: "Provence-Aragon"
+
+ dynn_Provence_Barcelona: "Provence"
+
+ dynn_Puiset_Jaffa: "Puiset-Jaffa"
+
+ dynn_Qaanaaq: "Qaanaaq" # Area of first major Thule archaeological site (and current name of Thule), but Pre-Inuit finds have also been found there
+
+ dynn_Qaisualuk: "Qaisualuk" # Mount Thor
+
+ dynn_Qajartalik: "Qajartalik" # Petroglyph site of the Dorset
+
+ dynn_Qikertaaluk: "Qikertaaluk" # Island that Qajartalik is on
+
+ dynn_Qikiqtaaluk: "Qikiqtaaluk" # Baffin Island
+
+ dynn_Qoornoq: "Qoornoq" # Saqqaq site
+
+ dynn_Rafidite: "Rafidite"
+
+ dynn_Ravensworth: "FitzHugh"
+
+ dynn_Rob: "Rob" # Kingdom of Rob
+
+ dynn_Rudolfinger: "Rudolfinger"
+
+ dynn_Rumigny: "Rumigny"
+
+ dynn_Sachsen_Lauenburg: "Sachsen-Lauenburg"
+
+ dynn_Sachsen_Wittenberg: "Sachsen-Wittenberg"
+
+ dynn_Salcedo: "Salcedo"
+
+ dynn_Sanguesa: "Sangüesa"
+
+ dynn_Sanikiluaq: "Sanikiluaq" # Belcher Island
+
+ dynn_Santarem: "Santarém"
+
+ dynn_Saqqaq: "Saqqaq" # Archaeological term for precursors of the Dorset who may have been ancestors
+
+ dynn_Sausenberg: "Hachberg-Sausenberg"
+
+ dynn_Schalksburg: "Zollern-Schalksburg"
+
+ dynn_Shugliaq: "Shugliaq" # Southhampton Island
+
+ dynn_Sivanitirutinguak: "Sivanitirutinguak" # Mount Asgard
+
+ dynn_Sivullirmiut: "Sivullirmiut" # Alternate name for Dorset in Inuit legend, besides Tuniit
+
+ dynn_Spanheim: "Spanheim"
+
+ dynn_Sponheim_Kreuznach: "Sponheim-Kreuznach"
+
+ dynn_Staufen: "Staufen"
+
+ dynn_Taghdumbash: "Taghdumbash"
+
+ dynn_Tallurutit: "Tallurutit" # Inuit name of Devon Island, where Port Refuge (an important pre-Inuit archaeological site) is located
+
+ dynn_Tasiujarjuaq: "Tasiujarjuaq" # Hudson Bay
+
+ dynn_Tavares: "Tavares"
+
+ dynn_Teixeira: "Teixeira"
+
+ dynn_Teles_de_Meneses: "Teles de Meneses"
+
+ dynn_Toroselho: "Toroselho"
+
+ dynn_Tougues: "Tougues"
+
+ dynn_Tunirmiut: "Tunirmiut" # Inuit name of Native Point, a settlement of the Sadlermiut, Inuit who adopted Dorset customs and culture for some reason
+
+ dynn_UaMorda: "Ua Mórda"
+
+ dynn_Uar: "Uar" # Strong candidates for precursor tribe of the Avars
+
+ dynn_Urro: "Urrô"
+
+ dynn_Valence_Lusignan: "Valence"
+
+ dynn_Vallespir: "Vallespir"
+
+ dynn_Vardana_Khudat: "Vardana Khudat" # Rulers of the city of Vardana, major settlement near Bukhara
+
+ dynn_Veiga: "Veiga"
+
+ dynn_Veiro: "Veiro"
+
+ dynn_Vendome_Preuilly: "Vendôme"
+
+ dynn_Vinhal: "Vinhal"
+
+ dynn_Vitry_Rethel: "Rethel"
+
+ dynn_Vouvant: "Vouvant"
+
+ dynn_Wanwan: "Wanwan" # Petty Yuezhi descended kings in Angren/northern Fergana/Khujand under the Chionites
+
+ dynn_Werd: "Werd"
+
+ dynn_Wildeshausen: "Wildeshausen"
+
+ dynn_Wittenburg: "Schwerin-Wittenburg"
+
+ dynn_Xoadeo: "Xoadeo"
+
+ dynn_Yitzhak: "Yitzḥak"
+
+ dynn_Yuhui: "Yuhui" # Country mentioned briefly by Faxian somewhere in the Pamir mountains
+
+ dynn_Yuni: "Yuni" # Chionite rulers of Chach; Yuni is early Chinese name for Chach
+
+ dynn_Zollern: "Zollern"
+
+ dynnp_das: "das "

@@ -1,4 +1,4 @@
-﻿l_spanish:
+l_spanish:
  cooler_norwegian_name: "Noruega" 
  cooler_norwegian_collective_noun: "Noruegos" 
  cooler_norwegian_prefix: "Noruego" 
@@ -774,3 +774,230 @@
  gallo_collective_noun: "galós"
  gallo_prefix: "galo"
  tuareg_name: "Tuareg"
+
+# Nuevas claves añadidas desde la version actual de More Bookmarks (pendientes de traducir)
+ algerian_collective_noun: "Algerians"
+
+ algerian_prefix: "Algerio"
+
+ alsatian_collective_noun: "Alsatians"
+
+ alsatian_prefix: "Alsato"
+
+ amdo_collective_noun: "Amdo"
+
+ anatolian_turkish_collective_noun: "Anatolian Turks"
+
+ anatolian_turkish_prefix: "Turko"
+
+ angevin_collective_noun: "Angevins"
+
+ angevin_prefix: "Angevin"
+
+ anglo_norse_collective_noun: "Anglo-Nords"
+
+ anglo_norse_prefix: "Anglo"
+
+ aromanian_collective_noun: "Aromanians"
+
+ aromanian_prefix: "Aromano"
+
+ arpitan_collective_noun: "Arpitanians"
+
+ arpitan_prefix: "Arpitano"
+
+ auvergnat_collective_noun: "Auvergnats"
+
+ auvergnat_prefix: "Auvergnato"
+
+ azeri_prefix: "Azeri"
+
+ basemah_collective_noun: "Basemah"
+
+ belarusian_collective_noun: "Belarusians"
+
+ belarusian_prefix: "Belarus"
+
+ beta_israeli_collective_noun: "Beta Israelis"
+
+ burgundian_collective_noun: "Burgundians"
+
+ chamka_collective_noun: "Chamka"
+
+ chutia_collective_noun: "Chutia"
+
+ circassian_collective_noun: "Circassians"
+
+ circassian_prefix: "Caucaso"
+
+ crimean_collective_noun: "Crimean"
+
+ crimean_prefix: "Crimeno"
+
+ dagestani_collective_noun: "Dagestani"
+
+ dagestani_prefix: "Caucaso"
+
+ dhivehi_collective_noun: "Dhivehi"
+
+ dhundari_collective_noun: "Dhundaris"
+
+ dhundari_prefix: "Dhundari"
+
+ dimasa_collective_noun: "Dimasa"
+
+ flemish_collective_noun: "Flemish"
+
+ flemish_prefix: "Flemish"
+
+ haryanvi_collective_noun: "Haryanvi"
+
+ hejazi_collective_noun: "Hejazis"
+
+ hejazi_prefix: "Hejazi"
+
+ himalayan_collective_noun: "Himalayans"
+
+ himalayan_name: "Himalayan"
+
+ himalayan_prefix: "Himalayan"
+
+ hindustani_proper_collective_noun: "Hindustanis"
+
+ hindustani_proper_prefix: "Hindustani"
+
+ icelandic_collective_noun: "Icelanders"
+
+ icelandic_prefix: "Icelandic"
+
+ kathiawari_collective_noun: "Kathiawaris"
+
+ kathiawari_prefix: "Kathiawari"
+
+ khalaj_collective_noun: "Khalaj"
+
+ khalaj_prefix: "Khalaji"
+
+ komering_collective_noun: "Komering"
+
+ kumaoni_collective_noun: "Kumaoni"
+
+ ligurian_collective_noun: "Ligurians"
+
+ ligurian_prefix: "Liguro"
+
+ livonian_collective_noun: "Livonian"
+
+ livonian_prefix: "Livonian"
+
+ lorrainian_collective_noun: "Lorrainians"
+
+ lorrainian_prefix: "Lorrainian"
+
+ lower_saxon_collective_noun: "Lower Saxons"
+
+ lower_saxon_prefix: "Saxo"
+
+ luri_prefix: "Luri"
+
+ malayali_collective_noun: "Malayalis"
+
+ malayali_prefix: "Malayali"
+
+ marwari_prefix: "Marwari"
+
+ mercian_collective_noun: "Mercians"
+
+ mercian_prefix: "Mercian"
+
+ mewari_prefix: "Mewari"
+
+ moroccan_collective_noun: "Moroccans"
+
+ moroccan_prefix: "Moroccan"
+
+ munda_collective_noun: "Mundas"
+
+ neapolitan_collective_noun: "Neapolitans"
+
+ neapolitan_prefix: "Neapoli"
+
+ nogai_collective_noun: "Nogia"
+
+ nogai_prefix: "Nogaio"
+
+ northerner_collective_noun: "Northerners"
+
+ northerner_prefix: "Northerner"
+
+ northumbrian_collective_noun: "Northumbrians"
+
+ northumbrian_prefix: "Northumbrian"
+
+ novgorodian_collective_noun: "Novgorodians"
+
+ novgorodian_prefix: "Novgorodo"
+
+ omani_collective_noun: "Omanis"
+
+ omani_prefix: "Omani"
+
+ poitevin_collective_noun: "Poitevins"
+
+ poitevin_prefix: "Poitevino"
+
+ pontic_collective_noun: "Pontics"
+
+ romagnol_collective_noun: "Romagnans"
+
+ romagnol_prefix: "Romagno"
+
+ romaioi_prefix: "Grecco Roman"
+
+ ruthenian_collective_noun: "Ruthenians"
+
+ ruthenian_prefix: "Rutheno"
+
+ saurashtra_collective_noun: "Saurashtra"
+
+ scanian_collective_noun: "Scanians"
+
+ scanian_prefix: "Scano"
+
+ sclaveni_collective_noun: "Sclaveni"
+
+ sclaveni_prefix: "Sclaveni"
+
+ silesian_collective_noun: "Silesians"
+
+ silesian_prefix: "Silesian"
+
+ soqotri_collective_noun: "Soqotri"
+
+ soqotri_prefix: "Soqotri"
+
+ szekely_collective_noun: "Szekelys"
+
+ szekely_prefix: "Szekelo"
+
+ tharu_collective_noun: "Tharu"
+
+ tuareg_collective_noun: "Tuariqi"
+
+ tuareg_prefix: "Tuarego"
+
+ tunisian_collective_noun: "Tunisians"
+
+ tunisian_prefix: "Tunisio"
+
+ turkmeni_collective_noun: "Turkmeni"
+
+ turkmeni_prefix: "Turkmeni"
+
+ upper_saxon_collective_noun: "Upper Saxons"
+
+ upper_saxon_prefix: "Upper-Saxon"
+
+ walloon_collective_noun: "Walloons"
+
+ walloon_prefix: "Wallon"

@@ -1,4 +1,4 @@
-﻿l_spanish:
+l_spanish:
 ############################## LUGARES SAGRADOS ##############################
  holy_site_abaza_name: "Abaza"
  holy_site_abkhazia_name: "Abjasia"
@@ -21160,3 +21160,451 @@
  hmongism_mother_earth_father_sky: "los espíritus"
  hmongism_mother_earth_father_sky_2: "$hmongism_mother_earth_father_sky$" # Optional translation alt
  hmongism_mother_earth_father_sky_3: "$hmongism_mother_earth_father_sky$" # Optional translation alt
+
+# Nuevas claves añadidas desde la version actual de More Bookmarks (pendientes de traducir)
+ alexandrian_melktie_adherent_plural: "Melkites"
+
+ ammon_religious_head_title:0 "High Priest of Amun"
+
+ ammon_religious_head_title_name:0 "Oracle of Siwa"
+
+ arabic_pagan_trickster_god_name: "Jinn"
+
+ arabic_pagan_trickster_god_name_possessive: "Jinns'"
+
+ church_group: "Faith Identity"
+
+ doctrine_parameter_hostility_override_rice_mahayana_canon_doctrine: "Other Buddhist [faiths|E] that also accept the #italic East Asian Canon#! as their canon are considered [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+
+ doctrine_parameter_hostility_override_rice_pudgalavada_canon_doctrine: "Other Buddhist [faiths|E] that also accept the #italic Pudgalavada Canon#! as their canon are considered [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+
+ doctrine_parameter_hostility_override_rice_theravada_canon_doctrine: "Other Buddhist [faiths|E] that also accept the #italic Pali Canon#! as their canon are considered [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+
+ doctrine_parameter_hostility_override_rice_vajrayana_canon_doctrine: "Other Buddhist [faiths|E] that also accept the #italic Tantric Canon#! as their canon are considered [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+
+ ############## Doctrine group: Marital Relations (mz_doctrine_marital_relations) ###############
+
+ harranian_bishop_female: "Head Priestess"
+
+ harranian_bishop_female_plural: "Head Priestesses"
+
+ harranian_bishop_male: "Head Priest"
+
+ harranian_bishop_male_plural: "Head Priests"
+
+ harranian_bishop_neuter: "Head Priest"
+
+ harranian_bishop_neuter_plural: "Head Priests"
+
+ ## Rite: Cult of Dushara (nabataean_pagan) ##
+
+ harranian_divine_realm: "Olympus"
+
+ harranian_high_god_name_alternate: "the Supreme One"
+
+ harranian_high_god_name_alternate_possessive: "the Supreme One's"
+
+ harranian_witchgodname: "Hekate"
+
+ harranian_witchgodname_possessive: "Hekate's"
+
+ holy_order_companions_of_the_suchi: "Companions of the Suchi"
+
+ holy_site_abbo_wonsho_effect_name: "From [holy_site|E] #weak ($holy_site_abbo_wonsho_name$)#!"
+
+ holy_site_abbo_wonsho_name: "Abbo Wonsho"
+
+ holy_site_ahaggar_effect_name: "From [holy_site|E] #weak ($holy_site_ahaggar_name$)#!"
+
+ holy_site_beipi_effect_name: "From [holy_site|E] #weak ($holy_site_beipi_name$)#!"
+
+ holy_site_bida_effect_name: "From [holy_site|E] #weak ($holy_site_bida_name$)#!"
+
+ holy_site_bilizma_effect_name: "From [holy_site|E] #weak ($holy_site_bilizma_name$)#!"
+
+ holy_site_damot_effect_name: "From [holy_site|E] #weak ($holy_site_damot_name$)#!"
+
+ holy_site_damot_name: "Damot"
+
+ holy_site_giza_effect_name: "From [holy_site|E] #weak ($holy_site_giza_name$)#!"
+
+ holy_site_harran_effect_name: "From [holy_site|E] #weak ($holy_site_harran_name$)#!"
+
+ holy_site_kataragama_effect_name: "From [holy_site|E] #weak ($holy_site_kataragama_name$)#!"
+
+ holy_site_kataragama_name: "Kataragama"
+
+ holy_site_tanas_effect_name: "From [holy_site|E] #weak ($holy_site_tanas_name$)#!"
+
+ holy_site_taungbyone_effect_name: "From [holy_site|E] #weak ($holy_site_taungbyone_name$)#!"
+
+ holy_site_zwegabin_effect_name: "From [holy_site|E] #weak ($holy_site_zwegabin_name$)#!"
+
+ ################################################################################################
+ ############################################ TENETS ############################################
+ ################################################################################################
+
+ ## tenet_adorcism ##
+
+ holy_site_zwegabin_name: "Mount Zwegabin"
+
+ khabzism_old: "Old Khabzism"
+
+ khabzism_old_adherent: "Old Khabzist"
+
+ khabzism_old_adherent_plural: "Old Khabzists"
+ # Terms shared by the rites of this faith
+
+ khabzism_old_adj: "Old Khabzist"
+
+ komi: "Komi"
+
+ makonde_pagan: "Nnungu"
+
+ makonde_pagan_adherent: "Nnungu worshipper"
+
+ makonde_pagan_adherent_plural: "Nnungu worshippers"
+
+ makonde_pagan_adj: "Nnungu"
+
+ makonde_pagan_desc: "The beliefs of the peoples between the Rufiji and the Ruvuma. Nnungu made the world and withdrew from it, so the living turn to the ancestors, whose spirits dance among them in the masks of the initiation festivals, and to the diviners who read their will."
+
+ ## Rite: Muluku (makua_pagan) ##
+
+ makua_pagan: "Muluku"
+
+ makua_pagan_adherent: "Muluku worshipper"
+
+ makua_pagan_adherent_plural: "Muluku worshippers"
+
+ makua_pagan_adj: "Muluku"
+
+ makua_pagan_desc: "The beliefs of the Makua, whose clans trace their descent through their mothers. Muluku the creator rules from afar, while the clan's ancestors watch over its land, and the birth of each child, the gift of the ancestors, is surrounded with the rites and medicines of the women."
+
+ ################################################################################################
+ ####################### RELIGION: Eastern Shamanism (shamanism_religion) #######################
+ ################################################################################################
+
+ malagasy_pagan: "Fombandrazana"
+
+ malagasy_pagan_adherent: "Fombandrazana follower"
+
+ malagasy_pagan_adherent_plural: "Fombandrazana followers"
+
+ malagasy_pagan_adj: "Fombandrazana"
+
+ malagasy_pagan_desc: "The customs of the ancestors, as the people of Madagascar keep them. Zanahary made the world, but it is the razana, the ancestors in their tombs, who bless or punish the living. The ombiasy diviners read the destiny of each day and each child from the vintana, the astrology of the Arab traders' calendar, and set the proper times for every undertaking."
+
+ ################################################################################################
+ ########################### RELIGION: Mandé (west_african_religion) ############################
+ ################################################################################################
+
+
+ ################################ FAITH: Kawkaw (songhai_pagan) #################################
+
+ malayic_bishop:0 "chief bomoh"
+
+ malayic_bishop_plural:0 "chief bomoh"
+
+ mijikenda_pagan: "Mulungu"
+
+ mijikenda_pagan_adherent: "Mulungu worshipper"
+
+ mijikenda_pagan_adherent_plural: "Mulungu worshippers"
+
+ mijikenda_pagan_adj: "Mulungu"
+
+ mijikenda_pagan_desc: "The faith of the Bantu peoples of the Swahili coast and its hinterland, who know the distant creator as Mulungu. Daily religion belongs to the ancestors and the spirits of the land, honoured at grave-posts and in the sacred forest clearings, the kaya, where the elders' councils keep the oaths and medicines of the people."
+
+ ## Rite: Nnungu (makonde_pagan) ##
+
+ nabataean_wealth_god_name: "Tyche"
+
+ nabataean_wealth_god_name_possessive: "Tyche's"
+
+ nguni_pagan: "Unkulunkulu"
+
+ nguni_pagan_adherent: "Unkulunkulu worshipper"
+
+ nguni_pagan_adherent_plural: "Unkulunkulu worshippers"
+
+ nguni_pagan_adj: "Unkulunkulu"
+
+ nguni_pagan_desc: "The beliefs of the Nguni peoples. Unkulunkulu, the Ancient One, brought people out of the reeds, but it is the amadlozi, the ancestors, who must be fed with cattle and beer at the homestead. When they are angered, the izangoma diviners, called and possessed by the ancestors themselves, discover the cause."
+
+ ## Rite: Badimo (sotho_pagan) ##
+
+ nuristani_pagan_old_desc: "Dezaw was the supreme creator deity of several pagan tribes in northern Pakistan and eastern Afghanistan, particularly the Kalash. Their rituals focus on the boundaries between the worlds of purity and impurity. For example, high mountains, goats, and prepubescent boys are seen as exemplars of purity."
+
+ ## Rite: Imra (imra) - main rite ##
+
+ peristani_bishop_female: "Head Ištikavan"
+
+ peristani_bishop_female_plural: "Head Ištikavans"
+
+ peristani_bishop_male: "Head Ištikavan"
+
+ peristani_bishop_male_plural: "Head Ištikavans"
+
+ peristani_bishop_neuter: "Head Ištikavan"
+
+ peristani_bishop_neuter_plural: "Head Ištikavans"
+
+ peristani_religion_desc: "The Indo-Iranian pagans who live along the Pamir and Hindu Kush mountains worship many gods in a manner reminiscent of the ancient pre-Vedic Indians and pre-Zoroastrian Iranians. Purity and impurity are important concepts, and the belief in spirits or fairies known as Peris is strong."
+ # Religion-level terms
+
+ peristani_religious_head_title: "High Ištikavan"
+
+ peristani_religious_head_title_name: "High Council"
+
+ rice_doctrine_buddhist_canon_desc: "It is important to recognize which teachings are authentic, and do not contradict the word of the Buddha. These will be compiled into collections, the core of which are the #italic tripitaka#! (meaning "Triple Baskets")."
+
+ rice_mahayana_canon_doctrine_desc: "The Great Storage of Scriptures (#italic Dazangjing#! in Chinese), also known as the Chinese or East Asian Canon, is a loose canon of Buddhist texts accepted by Mahayana sects of Buddhism in East Asia. It includes various Mahayana sutras, as well as texts from early schools of Buddhism that are not part of or were discarded from the Pali Canon."
+
+ rice_mahayana_canon_doctrine_name: "East Asian Canon" # Dazangjing
+
+ rice_pudgalavada_canon_doctrine_desc: "The Pudgalavada or Personalist schools of Buddhism have been strongly criticized by other Buddhist sects for their unique views on the Buddhist doctrine of no-self. Regardless of the validity of their interpretation of the Buddha's teachings, they have maintained their own extensive and rigorous canon of Buddhist texts as well."
+
+ rice_theravada_canon_doctrine_desc: "The Pali Tripitaka is the canon of Buddhist texts accepted by the Theravada sects of Buddhism in Southeast Asia. Traditionally, the first Pali Canon was believed to have been written down at the Fourth Buddhist Council in Sri Lanka in 29 BCE, although the canon was still being revised and changed for several centuries afterwards, as Theravada, Mahayana, Vajrayana, and other early Buddhist schools exchanged ideas."
+
+ rice_theravada_canon_doctrine_name: "Pali Canon" # Pali
+
+ rice_vajrayana_canon_doctrine_desc: "The Tantric Canon is the collection of Buddhist texts accepted by the so-called esoteric schools of Buddhism, such as Tibetan Vajrayana and sects influenced by them. The Tibetan Canon for example consists of the Kangyur ("Translation of the Word") and Tengyur ("Translation of Treatises"). These canons include Mahayana texts, as well as texts from early schools of Buddhism that are not part of or were discarded from the Pali Canon."
+
+ rice_vajrayana_canon_doctrine_name: "Tantric Canon" # Kangyur and Tengyur
+
+ semitic_bishop_neuter: "Head Priest"
+
+ semitic_death_deity_name: "Athtar"
+
+ semitic_death_deity_name_possessive: "Athtar's"
+
+ semitic_devil_name: "Evil Jinn"
+
+ semitic_devil_name_possessive: "Evil Jinns'"
+
+ semitic_evil_god_demons: "the Evil Jinns"
+
+ semitic_religion_adherent: "Semitic"
+
+ semitic_religion_desc: "The peoples of the Middle East have a long tradition of polytheism. Some of their pantheons have blended with that of other peoples they have come into contact with over the centuries, such as the Greeks and Romans."
+
+ semitic_trickster_god_name: "Jinn"
+
+ semitic_trickster_god_name_possessive: "Jinns'"
+
+ shona_pagan: "Mwari"
+
+ shona_pagan_adherent: "Mwari worshipper"
+
+ shona_pagan_adherent_plural: "Mwari worshippers"
+
+ shona_pagan_adj: "Mwari"
+
+ shona_pagan_desc: "The faith of the Shona of the Zimbabwe plateau. Mwari, the high god, speaks from caves in the hills, while the land is guarded by the mhondoro, the lion spirits of dead chiefs, who speak through their spirit mediums and grant the rains. Every family honours its own vadzimu, the spirits of its fathers and mothers."
+
+ ## Rite: Unkulunkulu (nguni_pagan) ##
+
+ sidama_high_god_name_possessive:0 "$sidama_high_god_name$'s"
+
+ slavic_bishop_female: "volkhovka"
+
+ slavic_bishop_female_plural: "volkhovky"
+
+ slavic_bishop_male: "volkhv"
+
+ slavic_bishop_male_plural: "volkhvi"
+
+ slavic_creator_god_name: "$slavic_high_god_name$"
+
+ slavic_creator_god_name_possessive: "$slavic_high_god_name_possessive$"
+
+ slavic_death_deity_herhis: "her"
+
+ slavic_death_deity_name: "Morana"
+
+ slavic_death_deity_name_possessive: "Morana's"
+
+ slavic_death_deity_sheheit: "she"
+
+ slavic_devil_name: "Veles"
+
+ slavic_devil_name_possessive: "Veles's"
+
+ slavic_devotee_female: "skomoroshka"
+
+ slavic_devotee_female_plural: "skomoroshki"
+
+ slavic_devotee_male: "skomorokh"
+
+ slavic_devotee_male_plural: "skomorokhi"
+
+ slavic_east_old: "Old East Slavic Faith"
+
+ slavic_east_old_adherent: "Old East Slav"
+
+ slavic_east_old_adherent_plural: "Old East Slavs"
+
+ slavic_east_old_adj: "Old East Slavic"
+
+ slavic_evil_god_chernobog: "Chernobog"
+
+ slavic_evil_god_morana: "$slavic_death_deity_name$"
+
+ slavic_fate_god_name: "Rod"
+
+ slavic_fate_god_name_possessive: "Rod's"
+
+ slavic_fertility_god_name: "Mokosh"
+
+ slavic_fertility_god_name_possessive: "Mokosh's"
+
+ slavic_good_god_dazhbog: "$slavic_wealth_god_name$"
+
+ slavic_good_god_stribog: "$slavic_knowledge_god_name$"
+
+ slavic_good_god_svarog: "Svarog"
+
+ slavic_health_god_name: "$slavic_devil_name$"
+
+ slavic_health_god_name_possessive: "$slavic_devil_name_possessive$"
+
+ slavic_high_god_name: "Perun"
+
+ slavic_high_god_name_2: "$slavic_high_god_name$"
+
+ slavic_high_god_name_possessive: "Perun's"
+
+ slavic_house_of_worship: "kapische"
+
+ slavic_house_of_worship_plural: "kapisches"
+
+ slavic_knowledge_god_name: "Stribog"
+
+ slavic_knowledge_god_name_possessive: "Stribog's"
+
+ slavic_night_god_name: "$slavic_death_deity_name$"
+
+ slavic_night_god_name_possessive: "$slavic_death_deity_name_possessive$"
+
+ slavic_pagan: "Slavic"
+
+ slavic_pagan_adherent: "Slav"
+
+ slavic_pagan_adherent_plural: "Slavs"
+
+ ## Rite: Dazhbog (slavic_east) - main rite ##
+
+ slavic_pagan_adj: "Slavic"
+
+ slavic_priest_female: "vedunya "
+
+ slavic_priest_female_plural: "veduniy"
+
+ slavic_priest_male: "vedun"
+
+ slavic_priest_male_plural: "veduny"
+
+ slavic_religious_symbol: "gromovoy znak"
+
+ slavic_religious_symbol_2: "$slavic_religious_symbol$" # Optional translation alt
+
+ slavic_religious_symbol_3: "$slavic_religious_symbol$" # Optional translation alt
+
+ slavic_religious_text_2: "sacred stories" # Optional translation alt
+
+ slavic_south_old: "Old South Slavic Faith"
+
+ slavic_south_old_adherent: "Old South Slav"
+
+ slavic_south_old_adherent_plural: "Old South Slavs"
+
+ slavic_south_old_adj: "Old South Slavic"
+
+ slavic_war_god_name: "$slavic_high_god_name$"
+
+ slavic_war_god_name_possessive: "$slavic_high_god_name_possessive$"
+
+ slavic_water_god_name: "Vodyanoy"
+
+ slavic_water_god_name_possessive: "Vodyanoy's"
+
+ ################################# FAITH: Slavic (slavic_pagan) #################################
+
+ slavic_west_old: "Old West Slavic Faith"
+
+ slavic_west_old_adherent: "Old West Slav"
+
+ slavic_west_old_adherent_plural: "Old West Slavs"
+
+ slavic_west_old_adj: "Old West Slavic"
+
+ sotho_pagan: "Badimo"
+
+ sotho_pagan_adherent: "Badimo worshipper"
+
+ sotho_pagan_adherent_plural: "Badimo worshippers"
+
+ sotho_pagan_adj: "Badimo"
+
+ sotho_pagan_desc: "The beliefs of the Sotho and Tswana peoples of the highveld. Modimo is the remote source of all things; the badimo, the ancestors, are near at hand, and must be honoured at the cattle-kraal and the graves. The ngaka, doctor and diviner, throws the bones to learn their will."
+
+ ## Rite: Swikwembu (tsonga_pagan) ##
+
+ south_mesopotamian_pagan_creator_god_name_possessive: "$south_mesopotamian_pagan_high_god_name_possessive$"
+
+ south_mesopotamian_pagan_fate_god_name: "al-Mushtari" # Jupiter
+
+ south_mesopotamian_pagan_fertility_god_name_possessive: "$south_mesopotamian_pagan_health_god_name_possessive$"
+
+ south_mesopotamian_pagan_high_god_name_2: "$south_mesopotamian_pagan_high_god_name$" # Optional translation alt
+
+ south_mesopotamian_pagan_high_god_name_3: "$south_mesopotamian_pagan_high_god_name$" # Optional translation alt
+
+ south_mesopotamian_pagan_household_god_name: "az-Zuhara" # Venus
+
+ south_mesopotamian_pagan_knowledge_god_name: "'Utarid" # Mercury
+
+ south_mesopotamian_pagan_night_god_name_possessive: "$south_mesopotamian_pagan_good_god_name_possessive$"
+
+ south_mesopotamian_pagan_trickster_god_name: "the evil spirits" # Evil spirits
+
+ south_mesopotamian_pagan_trickster_god_name_possessive: "the evil spirits'"
+
+ south_mesopotamian_pagan_water_god_name: "al-Mirrikh" # Mars
+
+ south_mesopotamian_pagan_wealth_god_name: "Zu'al" # Saturn
+
+ tripuri: "Tripuri"
+
+ tsonga_pagan: "Swikwembu"
+
+ tsonga_pagan_adherent: "Swikwembu worshipper"
+
+ tsonga_pagan_adherent_plural: "Swikwembu worshippers"
+
+ tsonga_pagan_adj: "Swikwembu"
+
+ tsonga_pagan_desc: "The beliefs of the Tsonga of the coastal lowlands. The swikwembu, the gods of each family, are its own ancestors, prayed to at the tree of offerings. Sickness and misfortune come from spirits who must be driven out or tamed by possession, and the diviner's bones show which."
+
+ ################################################################################################
+ ####################### RELIGION: Siberian Shamanism (siberian_religion) #######################
+ ################################################################################################
+
+ vedda_pagan: "Nae Yaku"
+
+ vedda_pagan_adherent: "Yaku worshipper"
+
+ vedda_pagan_adherent_plural: "Yaku worshippers"
+
+ vedda_pagan_adj: "Yaku"
+
+ vedda_pagan_desc: "The faith of the Vedda, the forest hunters of Lanka. When a man dies his spirit becomes one of the nae yaku, the kindred spirits, who are called back in dances around an arrow planted in the ground and asked for game, honey and health. Above them stand the great hunting spirits, chief among them Kande Yakka."
+
+ ################################################################################################
+ ########################## RELIGION: Volga-Finnic (mordvin_religion) ###########################
+ ################################################################################################
+
+ welayta_high_god_name_possessive:0 "$welayta_high_god_name$'s"
+
+ zo: "Zo"

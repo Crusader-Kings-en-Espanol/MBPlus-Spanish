@@ -1,4 +1,4 @@
-﻿l_spanish:
+l_spanish:
 
 #Map Items - Initially to change some of the inconsistent Paradox naming ie Mare Incognitum for Impassable Water but using Impassable Terrain instead of Terra Incogita for land or remove modern names like Celtic Sea. The rest is since I tend to go overboard with these things and Paradox wasn't consistent with whether to use local or English names either ie using Cote D'Azur instead of Azure Coast.
 
@@ -154,3 +154,42 @@
  
  world_africa_sahara: "Sahara"
  world_europe: "Europa"
+
+# Nuevas claves añadidas desde la version actual de More Bookmarks (pendientes de traducir)
+ ce_custom_england: "England"
+
+ ce_custom_moldavia: "Moldavia"
+
+ ce_custom_toledo: "Toledo"
+
+ ce_custom_wallachia: "Wallachia"
+
+ ce_dzukija: "Dzukija"
+
+ ce_nile_river: "Nile River"
+
+ ce_northern_iberia: "Northern Iberia"
+
+ custom_aquitaine: "Aquitaine"
+
+ custom_aquitaine_full: "Aquitaine"
+
+ custom_avaria: "Avaria"
+
+ custom_core_franconia: "Franconia"
+
+ custom_egypt: "Egypt"
+
+ custom_frisia01: "Frisia"
+
+ custom_grand_saxony: "Saxony"
+
+ custom_persian_gulf: "Persian Gulf"
+
+ custom_samos_empire: "Samo's Empire"
+
+ custom_saxony: "Saxony"
+
+ custom_yemen: "Yemen"
+
+ wendish_empire: "Wendish Empire"

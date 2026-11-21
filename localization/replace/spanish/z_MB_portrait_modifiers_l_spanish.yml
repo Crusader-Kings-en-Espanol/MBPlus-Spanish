@@ -1,4 +1,4 @@
-﻿l_spanish:
+l_spanish:
  #######################
  ###  Rajas of Asia  ###
  #######################
@@ -76,3 +76,8 @@
  PORTRAIT_MODIFIER_custom_legwear_female_legwear_tabi_01_high: "Tabi Japonés"
  PORTRAIT_MODIFIER_custom_legwear_male_legwear_samurai_01_low: "Polainas de Gran Armadura Japonesa"
  PORTRAIT_MODIFIER_custom_legwear_male_legwear_samurai_02_low: "Polainas de Armadura Estándar Japonesa"
+
+# Nuevas claves añadidas desde la version actual de More Bookmarks (pendientes de traducir)
+ PORTRAIT_MODIFIER_custom_beards_japanese_beard_01: "Japanese Beard"
+
+ PORTRAIT_MODIFIER_custom_hair_male_hair_japanese_03: "Small Chonmage"

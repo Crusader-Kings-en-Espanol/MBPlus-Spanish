@@ -1,4 +1,4 @@
-﻿l_spanish:
+l_spanish:
  # Master file for all new religions added by RICE
 
  # Misc
@@ -844,3 +844,614 @@
  doctrine_parameter_rice_ancestor_activity_bonus_naval:0 "[GetActivityType( 'activity_RICE_venerate_ancestors' ).GetName] [activity|E] da un [character_modifier|E] con [health|E] y bonificaciones militares (como [raiding|E] ) para #V 10 #! años"
  doctrine_parameter_rice_ancestor_activity_bonus_mystical:0 "El [GetActivityType( 'activity_RICE_venerate_ancestors' ).GetName] [activity|E] ofrece un [character_modifier|E] con bonos relacionados con @scheme_icon! [schemes|E] para #V 10 #! años"
  doctrine_parameter_rice_ancestor_activity_bonus_prosperity:0 "El [GetActivityType( 'activity_RICE_venerate_ancestors' ).GetName] [activity|E] da un [county_modifier|E] a la ubicación donde se mantiene con bonos relacionados con [gold_i|E] [tax|E] para #V 10 #! años"
+
+# Nuevas claves añadidas desde la version actual de More Bookmarks (pendientes de traducir)
+ aksumite_pagan:0 "Mahremism"
+
+ aksumite_pagan_adherent:1 "Mahremist"
+
+ aksumite_pagan_adherent_plural:0 "Mahremists"
+
+ aksumite_pagan_adj:0 "Mahremist"
+
+ aksumite_pagan_creator_god_name:0 "Athtar"
+
+ aksumite_pagan_creator_god_name_possessive:0 "Athtar's"
+
+ aksumite_pagan_death_deity_name:0 "Athtar"
+
+ aksumite_pagan_death_deity_name_possessive:0 "Athtar's"
+
+ aksumite_pagan_fate_god_name:0 "Mahrem"
+
+ aksumite_pagan_fate_god_name_possessive:0 "Mahrem's"
+
+ aksumite_pagan_fertility_god_name:0 "Meder"
+
+ aksumite_pagan_fertility_god_name_possessive:0 "Meder's"
+
+ aksumite_pagan_health_god_name:0 "Meder"
+
+ aksumite_pagan_health_god_name_possessive:0 "Meder's"
+
+ aksumite_pagan_high_god_name:0 "Mahrem"
+
+ aksumite_pagan_high_god_name_possessive:0 "Mahrem's"
+
+ aksumite_pagan_household_god_name:0 "Meder"
+
+ aksumite_pagan_household_god_name_possessive:0 "Meder's"
+
+ aksumite_pagan_knowledge_god_name:0 "Athtar"
+
+ aksumite_pagan_knowledge_god_name_possessive:0 "Athtar's"
+
+ aksumite_pagan_night_god_name:0 "Ilumquh"
+
+ aksumite_pagan_night_god_name_possessive:0 "Ilumquh's"
+
+ aksumite_pagan_old:0 "Old Mahremism"
+
+ aksumite_pagan_old_adherent:1 "Old Mahremist"
+
+ aksumite_pagan_old_adherent_plural:0 "Old Mahremists"
+
+ aksumite_pagan_old_adj:0 "Old Mahremist"
+
+ aksumite_pagan_trickster_god_name:0 "spirits"
+
+ aksumite_pagan_trickster_god_name_possessive:0 "spirits'"
+
+ aksumite_pagan_war_god_name:0 "Mahrem"
+
+ aksumite_pagan_war_god_name_possessive:0 "Mahrem's"
+
+ aksumite_pagan_water_god_name:0 "Beher"
+
+ aksumite_pagan_water_god_name_possessive:0 "Beher's" 
+ 
+ # Peristani/Kalash/Nuristani
+
+ aksumite_pagan_wealth_god_name:0 "Athtar"
+
+ aksumite_pagan_wealth_god_name_possessive:0 "Athtar's"
+
+ arabic_pagan:0 "Hubalism"
+
+ arabic_pagan_adherent:1 "Hubalist"
+
+ arabic_pagan_adherent_plural:0 "Hubalists"
+
+ arabic_pagan_adj:0 "Hubalist"
+
+ arabic_pagan_creator_god_name:0 "Hubal"
+
+ arabic_pagan_creator_god_name_possessive:0 "Hubal's"
+
+ arabic_pagan_death_deity_name:0 "Hubal"
+
+ arabic_pagan_death_deity_name_possessive:0 "Hubal's"
+
+ arabic_pagan_fate_god_name:0 "Manat"
+
+ arabic_pagan_fate_god_name_possessive:0 "Manat's"
+
+ arabic_pagan_fertility_god_name:0 "Al-Uzza"
+
+ arabic_pagan_fertility_god_name_possessive:0 "Al-Uzza's"
+
+ arabic_pagan_health_god_name:0 "Al-Uzza"
+
+ arabic_pagan_health_god_name_possessive:0 "Al-Uzza's"
+
+ arabic_pagan_high_god_name:0 "Hubal"
+
+ arabic_pagan_high_god_name_possessive:0 "Hubal's"
+
+ arabic_pagan_household_god_name:0 "Nuha"
+
+ arabic_pagan_household_god_name_possessive:0 "Nuha's"
+
+ arabic_pagan_knowledge_god_name:0 "Hubal"
+
+ arabic_pagan_knowledge_god_name_possessive:0 "Hubal's"
+
+ arabic_pagan_night_god_name:0 "Allat"
+
+ arabic_pagan_night_god_name_possessive:0 "Allat's"
+
+ arabic_pagan_old:0 "Old Hubalism"
+
+ arabic_pagan_old_adherent:1 "Old Hubalist"
+
+ arabic_pagan_old_adherent_plural:0 "Old Hubalists"
+
+ arabic_pagan_old_adj:0 "Old Hubalist"
+
+ arabic_pagan_war_god_name:0 "Allat"
+
+ arabic_pagan_war_god_name_possessive:0 "Allat's"
+
+ arabic_pagan_water_god_name:0 "Hubal"
+
+ arabic_pagan_water_god_name_possessive:0 "Hubal's"
+
+ arabic_pagan_wealth_god_name:0 "Sa'd"
+
+ arabic_pagan_wealth_god_name_possessive:0 "Sa'd's"
+
+ harranian_creator_god_name:0 "Gaia"
+
+ harranian_creator_god_name_possessive:0 "Gaia's"
+
+ harranian_death_deity_name:0 "Pluto"
+
+ harranian_death_deity_name_possessive:0 "Pluto's"
+
+ harranian_devil_name:0 "Evil Demon"
+
+ harranian_devil_name_possessive:0 "Evil Demons'"
+
+ harranian_evil_god_demons:0 "the Evil Demons"
+
+ harranian_fate_god_name:0 "Saturn"
+
+ harranian_fate_god_name_possessive:0 "Saturn's"
+
+ harranian_fertility_god_name:0 "Tammuz"
+
+ harranian_fertility_god_name_possessive:0 "Tammuz's"
+
+ harranian_good_god_hermes:0 "Hermes"
+
+ harranian_good_god_sin:0 "Sin"
+
+ harranian_health_god_name:0 "Asclepius"
+
+ harranian_health_god_name_possessive:0 "Asclepius'"
+
+ harranian_high_god_name:0 "the One"
+
+ harranian_high_god_name_possessive:0 "the One's"
+
+ harranian_household_god_name:0 "Vesta"
+
+ harranian_household_god_name_possessive:0 "Vesta's"
+
+ harranian_knowledge_god_name:0 "Hermes"
+
+ harranian_knowledge_god_name_possessive:0 "Hermes'"
+
+ harranian_night_god_name:0 "Sin"
+
+ harranian_night_god_name_possessive:0 "Sin's"
+
+ harranian_pagan:0 "Harranism"
+
+ harranian_pagan_adherent:1 "Harranian"
+
+ harranian_pagan_adherent_plural:0 "Harranians"
+
+ harranian_pagan_adj:0 "Harranian"
+
+ harranian_priest_female:0 "Priestess"
+
+ harranian_priest_female_plural:0 "Priestesses"
+
+ harranian_priest_male:0 "Priest"
+
+ harranian_priest_male_plural:0 "Priests"
+
+ harranian_priest_neuter:0 "Diviner"
+
+ harranian_priest_neuter_plural:0 "Diviners"
+
+ harranian_religious_head_title:0 "High Priest"
+
+ harranian_religious_head_title_name:0 "High Council"
+
+ harranian_religious_symbol:0 "laurel"
+
+ harranian_religious_text:0 "Corpus Hermeticum"
+
+ harranian_trickster_god_name:0 "Hermes"
+
+ harranian_trickster_god_name_possessive:0 "Hermes'"
+
+ harranian_war_god_name:0 "Mars"
+
+ harranian_war_god_name_possessive:0 "Mars'"
+
+ harranian_water_god_name:0 "Enki"
+
+ harranian_water_god_name_possessive:0 "Enki's"
+
+ harranian_wealth_god_name:0 "Pluto"
+
+ harranian_wealth_god_name_possessive:0 "Pluto's"
+
+ heliopolitan_pagan_adherent:1 "Heliopolitan"
+
+ heliopolitan_pagan_adherent_plural:0 "Heliopolitans"
+
+ heliopolitan_pagan_adj:0 "Heliopolitan"
+
+ holy_order_champions_of_the_stars:0 "Champions of the Stars"
+  
+ # Based on the SOUTH ARABIAN pantheon
+
+ holy_order_defenders_of_the_pure_mountains:0 "Defenders of the Pure Mountains"
+
+ holy_order_thunderbolts_of_jupiter:0 "Thunderbolts of Jupiter"
+
+ holy_order_warriors_of_mahandeo:0 "Warriors of Mahandeo"
+
+ holy_order_warriors_of_tammuz:0 "Warriors of Tammuz"
+
+ holy_site_ahaggar_name:0 "Ahaggar"
+
+ holy_site_ayn_farrah_effect_name:0 "From [holy_site|E] #weak ($holy_site_ayn_farrah_name$)#!"
+
+ holy_site_ayn_farrah_name:0 "Ayn Farrah"
+
+ holy_site_beipi_name:0 "Beipi"
+
+ holy_site_bida_name:0 "Bida"
+
+ holy_site_bilizma_name:0 "Bilizma"
+
+ holy_site_canarias_name:0 "Guanchinet"
+
+ holy_site_fuerteventura_name:0 "Erbanne"
+
+ holy_site_giza_name:1 "Giza"
+
+ holy_site_goalpara_effect_name:0 "From [holy_site|E] #weak ($holy_site_goalpara_name$)#!"
+
+ holy_site_goalpara_name:0 "Goalpara"
+
+ holy_site_harran_name:1 "Harran"
+
+ holy_site_kordofan_effect_name:0 "From [holy_site|E] #weak ($holy_site_kordofan_name$)#!"
+
+ holy_site_kordofan_name:0 "Kordofan"
+
+ holy_site_myitsone_effect_name:0 "From [holy_site|E] #weak ($holy_site_myitsone_name$)#!"
+
+ holy_site_myitsone_name:0 "Myitsone"
+
+ holy_site_popa_effect_name:0 "From [holy_site|E] #weak ($holy_site_popa_name$)#!"
+
+ holy_site_popa_name:0 "Mount Popa"
+
+ holy_site_srihatta_effect_name:0 "From [holy_site|E] #weak ($holy_site_srihatta_name$)#!"
+
+ holy_site_srihatta_name:0 "Srihatta"
+
+ holy_site_tanas_name:0 "Tanas"
+
+ holy_site_taungbyone_name:0 "Taungbyone"
+
+ holy_site_tripura_effect_name:0 "From [holy_site|E] #weak ($holy_site_tripura_name$)#!"
+
+ holy_site_tripura_name:0 "Tripura"
+
+ nabataean_fate_god_name:0 "Manat"
+
+ nabataean_fate_god_name_possessive:0 "Manat's"
+
+ nabataean_fertility_god_name:0 "Al-Lat"
+
+ nabataean_fertility_god_name_possessive:0 "Al-Lat's"
+
+ nabataean_health_god_name:0 "Isis"
+
+ nabataean_health_god_name_possessive:0 "Isis'"
+
+ nabataean_high_god_name:0 "Dushara"
+
+ nabataean_high_god_name_possessive:0 "Dushara's"
+
+ nabataean_household_god_name:0 "Obodas"
+
+ nabataean_household_god_name_possessive:0 "Obodas's"
+
+ nabataean_knowledge_god_name:0 "Al-Kutbā"
+
+ nabataean_knowledge_god_name_possessive:0 "Al-Kutbā's"
+
+ nabataean_night_god_name:0 "Shay' Al-Qaum"
+
+ nabataean_night_god_name_possessive:0 "Shay' Al-Qaum's"
+
+ nabataean_trickster_god_name:0 "Mercury"
+
+ nabataean_trickster_god_name_possessive:0 "Mercury's"
+
+ nabataean_war_god_name:0 "Al-'Uzzā"
+
+ nabataean_war_god_name_possessive:0 "Al-'Uzzā'"
+
+ nabataean_water_god_name:0 "Atargatis"
+
+ nabataean_water_god_name_possessive:0 "Atargatis's"
+
+ nuristani_pagan:0 "Dezawism"
+
+ nuristani_pagan_adherent:1 "Dezawist"
+
+ nuristani_pagan_adherent_plural:0 "Dezawists"
+
+ nuristani_pagan_adj:0 "Dezawist"
+
+ nuristani_pagan_old:0 "Old Dezawism"
+
+ nuristani_pagan_old_adherent:1 "Old Dezawist"
+
+ nuristani_pagan_old_adherent_plural:0 "Old Dezawists"
+
+ nuristani_pagan_old_adj:0 "Old Dezawist"
+
+ peristani_creator_god_name:0 "Dezaw"
+
+ peristani_creator_god_name_possessive:0 "Dezaw's"
+
+ peristani_death_deity_name:0 "Mara"
+
+ peristani_death_deity_name_possessive:0 "Mara's"
+
+ peristani_devil_name:0 "Jestan"
+
+ peristani_devil_name_possessive:0 "Jestan's"
+
+ peristani_divine_realm:0 "Tsiam"
+
+ peristani_fate_god_name:0 "Balumain"
+
+ peristani_fate_god_name_possessive:0 "Balumain's"
+
+ peristani_fertility_god_name:0 "Dezalik"
+
+ peristani_fertility_god_name_possessive:0 "Dezalik's"
+
+ peristani_good_god_balumain:0 "Balumain"
+
+ peristani_good_god_dezalik:0 "Dezalik"
+
+ peristani_good_god_dezaw:0 "Dezaw"
+
+ peristani_good_god_indra:0 "Indra"
+
+ peristani_good_god_jestak:0 "Jestak"
+
+ peristani_good_god_mahandeo:0 "Mahandeo"
+
+ peristani_health_god_name:0 "Dezalik"
+
+ peristani_health_god_name_possessive:0 "Dezalik's"
+
+ peristani_high_god_name:0 "Dezaw"
+
+ peristani_high_god_name_alternate:0 "Imra"
+
+ peristani_high_god_name_alternate_possessive:0 "Imra's"
+
+ peristani_high_god_name_possessive:0 "Dezaw's"
+
+ peristani_house_of_worship:0 "Amol"
+
+ peristani_house_of_worship_plural:0 "Amols"
+
+ peristani_household_god_name:0 "Jestak"
+
+ peristani_household_god_name_possessive:0 "Jestak's"
+
+ peristani_knowledge_god_name:0 "Balumain"
+
+ peristani_knowledge_god_name_possessive:0 "Balumain's"
+
+ peristani_night_god_name:0 "Indra"
+
+ peristani_night_god_name_possessive:0 "Indra's"
+
+ peristani_priest_female:0 "Ištikavan"
+
+ peristani_priest_female_plural:0 "Ištikavans"
+
+ peristani_priest_male:0 "Ištikavan"
+
+ peristani_priest_male_plural:0 "Ištikavans"
+
+ peristani_priest_neuter:0 "Ištikavan"
+
+ peristani_priest_neuter_plural:0 "Ištikavans"
+
+ peristani_religion:1 "Peristani"
+
+ peristani_religion_adherent:1 "Peristani"
+
+ peristani_religion_adherent_plural:1 "Peristanis"
+
+ peristani_religion_adj:1 "Peristani"
+
+ peristani_religious_symbol:0 "goat"
+
+ peristani_religious_text:0 "Ištikavan"
+
+ peristani_trickster_god_name:0 "Sajigor"
+
+ peristani_trickster_god_name_possessive:0 "Sajigor's"
+
+ peristani_war_god_name:0 "Mahandeo"
+
+ peristani_war_god_name_possessive:0 "Mahandeo's"
+
+ peristani_water_god_name:0 "Indra"
+
+ peristani_water_god_name_possessive:0 "Indra's"
+
+ peristani_wealth_god_name:0 "Mahandeo"
+
+ peristani_wealth_god_name_possessive:0 "Mahandeo's"
+
+ peristani_witchgodname:0 "Balumain"
+
+ rice_doctrine_buddhist_canon_name:0 "Buddhist Canon"
+
+ rice_pudgalavada_canon_doctrine_name:0 "Pudgalavada Canon"
+
+ semitic_bishop_female:0 "Head Priestess"
+
+ semitic_bishop_female_plural:0 "Head Priestesses"
+
+ semitic_bishop_male:0 "Head Priest"
+
+ semitic_bishop_male_plural:0 "Head Priests"
+
+ semitic_bishop_neuter_plural:0 "Head Priests"
+
+ semitic_creator_god_name:0 "Athtar"
+
+ semitic_creator_god_name_possessive:0 "Athtar's"
+
+ semitic_fate_god_name:0 "Anbay"
+
+ semitic_fate_god_name_possessive:0 "Anbay's"
+
+ semitic_fertility_god_name:0 "Dhat-Badan"
+
+ semitic_fertility_god_name_possessive:0 "Dhat-Badan's"
+
+ semitic_health_god_name:0 "Shams"
+
+ semitic_health_god_name_possessive:0 "Shams'"
+
+ semitic_high_god_name:0 "Athtar"
+
+ semitic_high_god_name_possessive:0 "Athtar's"
+
+ semitic_household_god_name:0 "Shams"
+
+ semitic_household_god_name_possessive:0 "Shams'"
+
+ semitic_knowledge_god_name:0 "Anbay"
+
+ semitic_knowledge_god_name_possessive:0 "Anbay's"
+
+ semitic_night_god_name:0 "Almaqah"
+
+ semitic_night_god_name_possessive:0 "Almaqah's"
+
+ semitic_priest_female:0 "Priestess"
+
+ semitic_priest_female_plural:0 "Priestesses"
+
+ semitic_priest_male:0 "Priest"
+
+ semitic_priest_male_plural:0 "Priests"
+
+ semitic_priest_neuter:0 "Diviner"
+
+ semitic_priest_neuter_plural:0 "Diviners"
+
+ semitic_religion:1 "Semitic"
+
+ semitic_religion_adherent_plural:1 "Semitics"
+
+ semitic_religion_adj:1 "Semitic"
+
+ semitic_religious_head_title:0 "High Priest"
+
+ semitic_religious_head_title_name:0 "High Council"
+
+ semitic_religious_symbol:0 "statue"
+
+ semitic_religious_text:0 "Corpus Hermeticum"
+
+ semitic_war_god_name:0 "Athtar"
+
+ semitic_war_god_name_possessive:0 "Athtar's"
+
+ semitic_water_god_name:0 "Athtar"
+
+ semitic_water_god_name_possessive:0 "Athtar's"
+
+ semitic_wealth_god_name:0 "Shams"
+
+ semitic_wealth_god_name_possessive:0 "Shams's"
+
+ semitic_witchgodname:0 "Sham"
+
+ semitic_witchgodname_possessive:0 "Sham's"
+
+ shamsi_pagan_high_god_name:0 "Shamash"
+
+ shamsi_pagan_high_god_name_possessive:0 "Shamash's"
+
+ # Yarsani - mostly taken from pengoyo's post here: 
+ # https://forum.paradoxplaza.com/forum/threads/changes-to-yazidism-including-a-new-yarsanism-faith-and-iranian-religious-group.1592019/
+ # I didn't fix all of the miscellaneous "god" names for now
+
+ shamsi_pagan_old:0 "Old Shamsism"
+
+ shamsi_pagan_old_desc:0 "$shamsi_pagan_desc$"
+
+ south_arabian_pagan:0 "Athtarism"
+
+ south_arabian_pagan_adherent:1 "Athtarist"
+
+ south_arabian_pagan_adherent_plural:0 "Athtarists"
+
+ south_arabian_pagan_adj:0 "Athtarist"
+
+ south_mesopotamian_pagan:0 "Kasdanianism"
+
+ south_mesopotamian_pagan_adherent:1 "Kasdanian"
+
+ south_mesopotamian_pagan_adherent_plural:0 "Kasdanians"
+
+ south_mesopotamian_pagan_adj:0 "Kasdanian"
+
+ south_mesopotamian_pagan_creator_god_name:0 "$south_mesopotamian_pagan_high_god_name$"
+
+ south_mesopotamian_pagan_fate_god_name_possessive:0 "al-Mushtari's"
+
+ south_mesopotamian_pagan_fertility_god_name:0 "$south_mesopotamian_pagan_health_god_name$"
+
+ south_mesopotamian_pagan_good_god_name:0 "al-Qamar"
+
+ south_mesopotamian_pagan_good_god_name_possessive:0 "al-Qamar's"
+
+ south_mesopotamian_pagan_health_god_name:0 "Tammuz"
+
+ south_mesopotamian_pagan_health_god_name_possessive:0 "Tammuz's"
+
+ south_mesopotamian_pagan_high_god_name:0 "ash-Shams"
+
+ south_mesopotamian_pagan_high_god_name_possessive:0 "ash-Shams'"
+
+ south_mesopotamian_pagan_household_god_name_possessive:0 "az-Zuhara's"
+
+ south_mesopotamian_pagan_knowledge_god_name_possessive:0 "'Utarid's"
+
+ south_mesopotamian_pagan_night_god_name:0 "$south_mesopotamian_pagan_good_god_name$"
+
+ south_mesopotamian_pagan_old:0 "Old Kasdanianism"
+
+ south_mesopotamian_pagan_old_adherent:1 "Old Kasdanian"
+
+ south_mesopotamian_pagan_old_adherent_plural:0 "Old Kasdanians"
+
+ south_mesopotamian_pagan_old_adj:0 "Old Kasdanian"
+
+ south_mesopotamian_pagan_religious_text:0 "ancient legends"
+
+ # Kinnaur Valley folk religion
+
+ south_mesopotamian_pagan_war_god_name:0 "al-Mirrikh"
+
+ south_mesopotamian_pagan_war_god_name_possessive:0 "al-Mirrikh's"
+
+ south_mesopotamian_pagan_water_god_name_possessive:0 "al-Mirrikh's"
+
+ south_mesopotamian_pagan_wealth_god_name_possessive:0 "Zu'al's"

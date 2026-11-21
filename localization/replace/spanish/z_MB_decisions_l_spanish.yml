@@ -1,4 +1,4 @@
-﻿l_spanish:
+l_spanish:
 
 ############################################################################################################################MB
  adopt_co_kingship: "Adoptar Co-Realeza"
@@ -2632,3 +2632,52 @@
  RICE_trans_saharan_decision_unlocked_desc: "Desbloquea la [decision|E] para Conectar con los [trans_saharan_merchants|E]"
  expel_cultural_minority_decision: "Expulsar a la minoría cultural"
  expel_religious_minority_decision: "Expulsar a la minoría religiosa"
+
+# Nuevas claves añadidas desde la version actual de More Bookmarks (pendientes de traducir)
+ clear_ground_legendary_hunting_lodge_tt: "You must have completed a Mythical or Illustrious [legend|E]"
+
+ convert_whole_realm_to_feudalism_decision_tooltip: "Change [government|E] type by adopting [feudalism|E]"
+
+ custom_nb_byzantine_decision_opinions: "True Roman Emperor"
+
+ custom_nb_byzantine_decision_opinions_vassals: "All the vassals of the restored empire"
+
+ custom_nb_restore_byzantine_decision.0001.l: "The true Roman Empire will last forever."
+
+ custom_nb_restore_byzantine_decision.0001.l.tt: "The true Roman Empire will last forever."
+
+ custom_nb_restore_byzantine_decision_confirm: "It's time to rebuild the Empire, fellow Romans!"
+
+ custom_nb_restore_byzantine_decision_desc: "As the legitimate heir to the empire, we must restore the Byzantine Empire and regain the glory of the Romans."
+
+ custom_nb_restore_byzantine_decision_effect_tooltip: "Reconstruct the Byzantine Empire that had collapsed."
+
+ custom_nb_restore_byzantine_decision_tooltip: "Reconstruct the Byzantine Empire that had collapsed."
+
+ dynasty_is_dynn_Liu1: "You are in the House of Liu"
+
+ favour_the_countryside_basques_decision.completely_control_X_counties_from_old_vasconia: "You must [completely_control|E] at least [EmptyScope.ScriptValue('favour_the_countryside_basques_decision_counties_to_control_value')|0] [counties|E] from [GetGeographicalRegion('dlc_fp2_old_vasconia').GetName]"
+
+ holy_site_oxford_name: "Oxford"
+
+ maronite: "Maronite"
+
+ maronite_adherent: "Maronite"
+
+ maronite_adherent_plural: "Maronites"
+
+ maronite_adj: "Maronite"
+
+ mz_fix_religion_decision: "Fix Broken Religions"
+
+ mz_fix_religion_decision_confirm: "Do it?"
+
+ mz_fix_religion_decision_desc: "The Tenets to Doctrines mod breaks some religions, using this decision will fix them. The AI will do it within around one year if you don't press the button quickly. This should only happen if you are adding the mod to an existing save."
+
+ mz_fix_religion_decision_tooltip: "Fix Broken Religions"
+
+ visit_silk_road_market_decision_angkor: "$building_angkor_market_01$ #weak ([GetSituation('silk_road_situation').GetSubRegionByKey('region_silk_road_proper_sea').MakeScope.Var('innovation').CultureInnovationType.GetName])#!"
+
+ visit_silk_road_market_decision_baghdad: "$building_isfahan_bazaar_01$ #weak ([GetSituation('silk_road_situation').GetSubRegionByKey('region_silk_road_proper_middle_east').MakeScope.Var('innovation').CultureInnovationType.GetName])#!"
+
+ visit_silk_road_market_decision_byzantion: "$building_constantinople_market_01$ #weak ([GetSituation('silk_road_situation').GetSubRegionByKey('region_silk_road_proper_occident').MakeScope.Var('innovation').CultureInnovationType.GetName])#!"
