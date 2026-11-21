@@ -1,4 +1,4 @@
-l_spanish:
+﻿l_spanish:
 
 ############################################################################################################################MB
  adopt_co_kingship: "Adoptar Co-Realeza"
@@ -2634,29 +2634,29 @@ l_spanish:
  expel_religious_minority_decision: "Expulsar a la minoría religiosa"
 
 # Nuevas claves añadidas desde la version actual de More Bookmarks (pendientes de traducir)
- clear_ground_legendary_hunting_lodge_tt: "You must have completed a Mythical or Illustrious [legend|E]"
+ clear_ground_legendary_hunting_lodge_tt: "Debes haber completado una [legend|E] Mítica o Ilustre"
 
- convert_whole_realm_to_feudalism_decision_tooltip: "Change [government|E] type by adopting [feudalism|E]"
+ convert_whole_realm_to_feudalism_decision_tooltip: "Cambiar el tipo de [government|E] adoptando el [feudalism|E]"
 
  custom_nb_byzantine_decision_opinions: "True Roman Emperor"
 
  custom_nb_byzantine_decision_opinions_vassals: "All the vassals of the restored empire"
 
- custom_nb_restore_byzantine_decision.0001.l: "The true Roman Empire will last forever."
+ custom_nb_restore_byzantine_decision.0001.l: "¡El verdadero Imperio romano perdurará para siempre!"
 
- custom_nb_restore_byzantine_decision.0001.l.tt: "The true Roman Empire will last forever."
+ custom_nb_restore_byzantine_decision.0001.l.tt: "¡El verdadero Imperio romano perdurará para siempre!"
 
- custom_nb_restore_byzantine_decision_confirm: "It's time to rebuild the Empire, fellow Romans!"
+ custom_nb_restore_byzantine_decision_confirm: "¡Es hora de reconstruir el Imperio, compatriotas romanos!"
 
- custom_nb_restore_byzantine_decision_desc: "As the legitimate heir to the empire, we must restore the Byzantine Empire and regain the glory of the Romans."
+ custom_nb_restore_byzantine_decision_desc: "Como legítimos herederos del Imperio, debemos restaurar el Imperio bizantino y recuperar la gloria de los romanos."
 
- custom_nb_restore_byzantine_decision_effect_tooltip: "Reconstruct the Byzantine Empire that had collapsed."
+ custom_nb_restore_byzantine_decision_effect_tooltip: "Reconstruir el Imperio bizantino que se había derrumbado."
 
- custom_nb_restore_byzantine_decision_tooltip: "Reconstruct the Byzantine Empire that had collapsed."
+ custom_nb_restore_byzantine_decision_tooltip: "Reconstruir el Imperio bizantino que se había derrumbado."
 
- dynasty_is_dynn_Liu1: "You are in the House of Liu"
+ dynasty_is_dynn_Liu1: "Perteneces a la casa Liu"
 
- favour_the_countryside_basques_decision.completely_control_X_counties_from_old_vasconia: "You must [completely_control|E] at least [EmptyScope.ScriptValue('favour_the_countryside_basques_decision_counties_to_control_value')|0] [counties|E] from [GetGeographicalRegion('dlc_fp2_old_vasconia').GetName]"
+ favour_the_countryside_basques_decision.completely_control_X_counties_from_old_vasconia: "Debes [completely_control|E] al menos [EmptyScope.ScriptValue('favour_the_countryside_basques_decision_counties_to_control_value')|0] [counties|E] de [GetGeographicalRegion('dlc_fp2_old_vasconia').GetName]"
 
  holy_site_oxford_name: "Oxford"
 
@@ -2668,13 +2668,13 @@ l_spanish:
 
  maronite_adj: "Maronite"
 
- mz_fix_religion_decision: "Fix Broken Religions"
+ mz_fix_religion_decision: "Reparar religiones defectuosas"
 
- mz_fix_religion_decision_confirm: "Do it?"
+ mz_fix_religion_decision_confirm: "¿Hacerlo?"
 
- mz_fix_religion_decision_desc: "The Tenets to Doctrines mod breaks some religions, using this decision will fix them. The AI will do it within around one year if you don't press the button quickly. This should only happen if you are adding the mod to an existing save."
+ mz_fix_religion_decision_desc: "El mod Tenets to Doctrines provoca errores en algunas religiones; esta decisión los corregirá. Si no la activas enseguida, la IA lo hará en aproximadamente un año. Esto solo debería ocurrir si añades el mod a una partida ya empezada."
 
- mz_fix_religion_decision_tooltip: "Fix Broken Religions"
+ mz_fix_religion_decision_tooltip: "Reparar religiones defectuosas"
 
  visit_silk_road_market_decision_angkor: "$building_angkor_market_01$ #weak ([GetSituation('silk_road_situation').GetSubRegionByKey('region_silk_road_proper_sea').MakeScope.Var('innovation').CultureInnovationType.GetName])#!"
 

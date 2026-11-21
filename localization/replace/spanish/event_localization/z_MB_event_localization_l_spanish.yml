@@ -1,4 +1,4 @@
-l_spanish:
+﻿l_spanish:
 
 ########################################################################################################################MB
 
@@ -872,39 +872,67 @@ l_spanish:
  tarim_basin.0203.a: "[compiler.GetSheHe|U] debe haber trabajado muy duro en esto."
 
 # Nuevas claves añadidas desde la version actual de More Bookmarks (pendientes de traducir)
- CHINA_WAR_OF_REUNIFICATION_NAME:0 "Dominate the world"
+ CHINA_WAR_OF_REUNIFICATION_NAME:0 "Dominar el mundo"
  # "一统天下"
 
- SOUTHWAR_OF_REUNIFICATION:0 "For the Unification of China"
+ SOUTHWAR_OF_REUNIFICATION:0 "Por la unificación de China"
 
- SOUTHWAR_OF_REUNIFICATION_NAME:0 "For the Unification of China"
+ SOUTHWAR_OF_REUNIFICATION_NAME:0 "Por la unificación de China"
  # "统一华夏"
 
- WAR_OF_REUNIFICATION:0 "Dominate the world"
+ WAR_OF_REUNIFICATION:0 "Dominar el mundo"
  # "统一华夏"
 
- custom_nb_restore_byzantine_decision:0 "Restore Byzantine Empire"
+ custom_nb_restore_byzantine_decision:0 "Restaurar el Imperio bizantino"
 
- custom_nb_restore_byzantine_decision.0001.desc:0 "Now the imperial flag flies again in Constantinople, the capital.\n\nI wore the Imperial diadem of a great Roman Empire and restored much of the legitimate territory that the empire had lost.\n\nThe Patriarch acknowledged that I was the legitimate successor of the empire, and the citizens of Constantinople are cheering for me and the Roman legion and shouting "Basileus."\n\nOnce the empire suffered and collapsed because of internal traitors and external invaders, but not anymore.\n\nI am king of kings, ruler of rulers.(basileùs basiléon basileúon basíleue)"
+ custom_nb_restore_byzantine_decision.0001.desc:0 "La bandera imperial vuelve a ondear en Constantinopla, la capital.
 
- custom_nb_restore_byzantine_decision.0001.t:0 "Restored Byzantine Empire"
+He ceñido la diadema imperial de un gran Imperio romano y recuperado buena parte de los territorios legítimos que había perdido.
 
- custom_nb_restore_byzantine_decision.0002.desc.fallback:0 "According to reports, that the Byzantine Empire had been rebuilt in the Balkans and Anatolia.\n\nThe emperor restored Constantinople and stabilized its territory, and the invaders fled outside the border.\n\nI don't know if this event will help us or be a hardship, but it will herald a new era..."
+El patriarca ha reconocido que soy el legítimo sucesor del Imperio, y los ciudadanos de Constantinopla me aclaman junto con la legión romana, gritando «¡Basileus!».
 
- custom_nb_restore_byzantine_decision.0002.desc.hre:0 "According to reports, the Greeks recovered Constantinople and rebuilt the Greek Empire.\n\nAll those who occupied Greek territory fled, and the emperor of the Greek Empire was said to be stabilizing his service with excellent control.\n\nWe don't need to be bothered. The empire of those Greek pretenders is bound to collapse again anyway."
+El Imperio sufrió y se derrumbó por culpa de traidores internos e invasores externos, pero eso ya no volverá a ocurrir.
 
- custom_nb_restore_byzantine_decision.0002.desc.muslim:0 "According to reports, that the Romans restored Constantinople and rebuilt the empire.\n\nThe powerful Roman emperor and his legions, restored from his hands, control Greece and Anatolia and restore the borders of the empire.\n\nIf the Roman Empire is strengthened again under the leadership of that Christian emperor, they will attack us again..."
+Soy rey de reyes, soberano de soberanos. (basileùs basiléon basileúon basíleue)"
 
- custom_nb_restore_byzantine_decision.0002.desc.roman:0 "Proud Romans restored Constantinople and rebuilt the Roman Empire.\n\nThe usurpers lost power and fled out of the border like rats, and under the leadership of the new emperor, the empire regained stability.\n\nA bright future awaits the reconstructed empire! Forever, Roman Empire!"
+ custom_nb_restore_byzantine_decision.0001.t:0 "Imperio bizantino restaurado"
 
- custom_nb_restore_byzantine_decision.0002.desc.slav:0 "According to reports, hat the Romans of Greece restored the capital and rebuilt the empire.\n\nThe Roman emperor and his powerful legions reportedly restored the border between Greece and the west of Anatolia and stabilized the border.\n\nI don't know how this incident will affect us Slavs, but it's time for us to establish our own hegemony."
+ custom_nb_restore_byzantine_decision.0002.desc.fallback:0 "Según los informes, el Imperio bizantino ha sido reconstruido en los Balcanes y Anatolia.
 
- custom_nb_restore_byzantine_decision.0002.l:0 "Nova Roma's holder has changed again..."
+El emperador ha restaurado Constantinopla y estabilizado sus territorios, y los invasores han sido expulsados más allá de las fronteras.
 
- custom_nb_restore_byzantine_decision.0002.t:0 "Restored Byzantine Empire"
+No sé si este acontecimiento nos beneficiará o nos traerá dificultades, pero sin duda anuncia una nueva era..."
 
- n_polan_noun: "Polish"
+ custom_nb_restore_byzantine_decision.0002.desc.hre:0 "Según los informes, los griegos han recuperado Constantinopla y reconstruido el Imperio griego.
 
- n_polan_prefix: "Polano"
+Todos los que ocupaban territorio griego han huido, y se dice que el emperador del Imperio griego está consolidando su poder con firmeza.
 
- unite_danes_effect: "The Danes and Jutes under your Kingdom become united as one culture"
+No tenemos por qué preocuparnos. El imperio de esos pretendientes griegos seguramente volverá a derrumbarse."
+
+ custom_nb_restore_byzantine_decision.0002.desc.muslim:0 "Según los informes, los romanos han restaurado Constantinopla y reconstruido su imperio.
+
+El poderoso emperador romano y sus legiones controlan Grecia y Anatolia, y han restablecido las fronteras imperiales.
+
+Si el Imperio romano vuelve a fortalecerse bajo el mando de ese emperador cristiano, ¡nos atacarán de nuevo...!"
+
+ custom_nb_restore_byzantine_decision.0002.desc.roman:0 "Los orgullosos romanos han restaurado Constantinopla y reconstruido el Imperio romano.
+
+Los usurpadores han perdido el poder y huido de las fronteras como ratas. Bajo el mando del nuevo emperador, el Imperio ha recuperado la estabilidad.
+
+¡Un futuro brillante aguarda al Imperio reconstruido! ¡Que el Imperio romano perdure para siempre!"
+
+ custom_nb_restore_byzantine_decision.0002.desc.slav:0 "Según los informes, los romanos de Grecia han restaurado la capital y reconstruido el Imperio.
+
+Se dice que el emperador romano y sus poderosas legiones han restablecido la frontera entre Grecia y el oeste de Anatolia, y la han estabilizado.
+
+No sé cómo nos afectará este acontecimiento a los eslavos, pero ha llegado la hora de establecer nuestra propia hegemonía."
+
+ custom_nb_restore_byzantine_decision.0002.l:0 "¡El titular de Nova Roma ha cambiado de nuevo...!"
+
+ custom_nb_restore_byzantine_decision.0002.t:0 "Imperio bizantino restaurado"
+
+ n_polan_noun: "Polacos"
+
+ n_polan_prefix: "Polaco"
+
+ unite_danes_effect: "Los daneses y los jutos de tu reino se unifican en una sola cultura"

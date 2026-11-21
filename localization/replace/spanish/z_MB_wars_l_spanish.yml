@@ -1,4 +1,4 @@
-l_spanish:
+﻿l_spanish:
 
  war_1194_sicily: "Guerra por el Trono Siciliano"
  war_1220_mongols: "Conquista mongola de Jwarezmia"
@@ -55,50 +55,50 @@ l_spanish:
  west_christian_war_god_name_possessive: "de San Jorge"
 
 # Nuevas claves añadidas desde la version actual de More Bookmarks (pendientes de traducir)
- CHINA_CONQUEST_DUCHY_CB_NAME: "Conquer Chinese [duchy|E]"
+ CHINA_CONQUEST_DUCHY_CB_NAME: "Conquistar el [duchy|E] chino"
 
- CHINA_CONQUEST_WAR_NAME:2 "$ORDER$ [ATTACKER.GetPrimaryTitle.GetAdjective] Conquest of the [TITLE.GetBaseName]"
+ CHINA_CONQUEST_WAR_NAME:2 "$ORDER$ conquista [ATTACKER.GetPrimaryTitle.GetAdjective] de [TITLE.GetBaseName]"
 
  CHINA_CONQUEST_WAR_NAME_BASE: "[ATTACKER.GetPrimaryTitle.GetAdjective][DEFENDER.GetPrimaryTitle.GetName]"
 
- CONQUEST_HUAXIA_CB_NAME: "CONQUEST HUAXIA"
+ CONQUEST_HUAXIA_CB_NAME: "Conquista de Huaxia"
 
- chinese_invasion_cb_defeat_desc: "[defender.GetShortUIName|U] keeps [defender.GetHerHis] titles. [attacker.GetShortUIName|U] loses [prestige|E] and pays reparations to [defender.GetShortUIName|U]."
+ chinese_invasion_cb_defeat_desc: "[defender.GetShortUIName|U] conserva sus títulos. [attacker.GetShortUIName|U] pierde [prestige|E] y paga reparaciones a [defender.GetShortUIName|U]."
 
- chinese_invasion_cb_defeat_desc_attacker: "[defender.GetShortUIName|U] keeps [defender.GetHerHis] titles. You lose [prestige|E] and pay reparations to [defender.GetShortUIName|U]."
+ chinese_invasion_cb_defeat_desc_attacker: "[defender.GetShortUIName|U] conserva sus títulos. Pierdes [prestige|E] y pagas reparaciones a [defender.GetShortUIName|U]."
 
- chinese_invasion_cb_defeat_desc_defender: "You keep your titles. [attacker.GetShortUIName|U] loses [prestige|E] and pays reparations to you."
+ chinese_invasion_cb_defeat_desc_defender: "Conservas tus títulos. [attacker.GetShortUIName|U] pierde [prestige|E] y te paga reparaciones."
 
- chinese_invasion_cb_victory_desc: "[attacker.GetShortUIName|U] seizes all of [defender.GetShortUINamePossessive] titles within the target kingdom."
+ chinese_invasion_cb_victory_desc: "[attacker.GetShortUIName|U] se apodera de todos los títulos de [defender.GetShortUINamePossessive] dentro del reino objetivo."
 
- chinese_invasion_cb_victory_desc_attacker: "You seize all of [defender.GetShortUINamePossessive] titles within the target kingdom."
+ chinese_invasion_cb_victory_desc_attacker: "Te apoderas de todos los títulos de [defender.GetShortUINamePossessive] dentro del reino objetivo."
 
- chinese_invasion_cb_victory_desc_defender: "[attacker.GetShortUIName|U] seizes all of your titles within the target kingdom."
+ chinese_invasion_cb_victory_desc_defender: "[attacker.GetShortUIName|U] se apodera de todos tus títulos dentro del reino objetivo."
 
- chinese_invasion_cb_white_peace_desc: "[defender.GetShortUIName|U] keeps [defender.GetHerHis] titles. [attacker.GetShortUIName|U] loses [prestige|E]."
+ chinese_invasion_cb_white_peace_desc: "[defender.GetShortUIName|U] conserva sus títulos. [attacker.GetShortUIName|U] pierde [prestige|E]."
 
- chinese_invasion_cb_white_peace_desc_attacker: "[defender.GetShortUIName|U] keeps [defender.GetHerHis] titles. You lose [prestige|E]."
+ chinese_invasion_cb_white_peace_desc_attacker: "[defender.GetShortUIName|U] conserva sus títulos. Pierdes [prestige|E]."
 
- chinese_invasion_cb_white_peace_desc_defender: "You keep your titles. [attacker.GetShortUIName|U] loses [prestige|E]."
+ chinese_invasion_cb_white_peace_desc_defender: "Conservas tus títulos. [attacker.GetShortUIName|U] pierde [prestige|E]."
 
- claim_mandate_cb: "Claim the Mandate of Heaven"
+ claim_mandate_cb: "Reclamar el Mandato del Cielo"
 
- claim_mandate_cb_defeat_desc: "[defender.GetShortUIName|U] keeps all contested titles."
+ claim_mandate_cb_defeat_desc: "[defender.GetShortUIName|U] conserva todos los títulos en disputa."
 
- claim_mandate_cb_defeat_desc_attacker: "[defender.GetShortUIName|U] keeps all contested titles. All [factions|E] against you increase their [discontent|E]."
+ claim_mandate_cb_defeat_desc_attacker: "[defender.GetShortUIName|U] conserva todos los títulos en disputa. Todas las [factions|E] contra ti aumentan su [discontent|E]."
 
- claim_mandate_cb_defeat_desc_defender: "You keep all contested titles."
+ claim_mandate_cb_defeat_desc_defender: "Conservas todos los títulos en disputa."
 
- claim_mandate_cb_victory_desc: "[attacker.GetShortUIName|U] takes all titles [defender.GetShortUIName] holds."
+ claim_mandate_cb_victory_desc: "[attacker.GetShortUIName|U] se apodera de todos los títulos que posee [defender.GetShortUIName]."
 
- claim_mandate_cb_victory_desc_attacker: "You take all titles held by [defender.GetShortUIName]."
+ claim_mandate_cb_victory_desc_attacker: "Te apoderas de todos los títulos que posee [defender.GetShortUIName]."
 
- claim_mandate_cb_victory_desc_defender: "[attacker.GetShortUIName|U] takes all titles you hold."
+ claim_mandate_cb_victory_desc_defender: "[attacker.GetShortUIName|U] se apodera de todos tus títulos."
 
- claim_mandate_cb_white_peace_desc: "[defender.GetShortUIName|U] keeps all contested titles."
+ claim_mandate_cb_white_peace_desc: "[defender.GetShortUIName|U] conserva todos los títulos en disputa."
 
- claim_mandate_cb_white_peace_desc_defender: "You keep all contested titles."
+ claim_mandate_cb_white_peace_desc_defender: "Conservas todos los títulos en disputa."
 
- claim_mandate_war_name: "[ATTACKER.GetTitledFirstNamePossessiveNoTooltip] Claim on the Mandate of Heaven"
+ claim_mandate_war_name: "Reclamación de [ATTACKER.GetTitledFirstNamePossessiveNoTooltip] al Mandato del Cielo"
 
  claim_mandate_war_name_base: "[ATTACKER.GetTitledFirstNamePossessiveNoTooltip][DEFENDER.GetPrimaryTitle.GetName]"
