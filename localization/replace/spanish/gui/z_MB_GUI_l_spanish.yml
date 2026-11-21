@@ -1,4 +1,4 @@
-l_spanish:
+﻿l_spanish:
 
  HOUSE_FOUNDER_TOOLTIP: "[DynastyHouse.GetFounder.GetTitledFirstNameRegnal] es el fundador de [house|E] [DynastyHouse.GetBaseName]"
  HIDE_HOUSES: "Ocultar casas"
@@ -6123,28 +6123,3 @@ asian_tocharian_1: "Medio Oriente | Iraní | Tocharian 1"
  activity_tournament_province_desc_development_ok:2 "#P + Desarrollo del Condado #! \n"
  activity_tournament_province_desc_development_bad:2 "#N - Desarrollo del Condado #! \n"
  activity_feast_province_desc_no_holding:1 "#N --- No [holding|P] #! \n"
-
-# Nuevas claves añadidas desde la version actual de More Bookmarks (pendientes de traducir)
- PORTRAIT_MODIFIER_custom_beards_japanese_moustache_03: "Japanese Moustache"
-
- PORTRAIT_MODIFIER_custom_clothes_female_clothes_kimono_kosode_01_common: "Commoner's Kosode"
-
- PORTRAIT_MODIFIER_custom_clothes_female_clothes_kimono_kosode_01_high: "Daimyo's Kosode"
-
- PORTRAIT_MODIFIER_custom_clothes_female_clothes_kimono_kosode_01_low: "Samurai's Kosode"
-
- PORTRAIT_MODIFIER_custom_clothes_female_clothes_kimono_kosode_01_monk_common: "Nun's Kosode"
-
- PORTRAIT_MODIFIER_custom_clothes_male_clothes_kimono_samurai_01_common: "Commoner's Kimono"
-
- PORTRAIT_MODIFIER_custom_clothes_male_clothes_kimono_samurai_01_high: "Daimyo's Kimono"
-
- PORTRAIT_MODIFIER_custom_clothes_male_clothes_kimono_samurai_01_low: "Samurai's Kimono"
-
- PORTRAIT_MODIFIER_custom_hair_male_hair_japanese_01: "Large Chonmage"
-
- PORTRAIT_MODIFIER_custom_hair_male_hair_japanese_02: "Medium Chonmage"
-
- PORTRAIT_MODIFIER_custom_headgear_male_headgear_suieikan: "Suieikan"
-
- bobo: "Bobo"

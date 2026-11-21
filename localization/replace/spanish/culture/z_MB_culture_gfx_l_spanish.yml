@@ -1,4 +1,4 @@
-l_spanish:
+﻿l_spanish:
  # Building GFX
 
  berber_building_gfx:0 "Berber"
@@ -136,7 +136,3 @@ l_spanish:
  yoruba_unit_gfx: "Yoruba"
  austronesian_unit_gfx: "Austronesiano"
 
-# Nuevas claves añadidas desde la version actual de More Bookmarks (pendientes de traducir)
- celtic_building_gfx:0 "Celtic"
-
- sea_building_gfx:0 "Southeast Asian" # Alphabetises after Indian, place in front of Indian.

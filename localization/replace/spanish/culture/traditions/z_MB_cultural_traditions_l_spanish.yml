@@ -1,4 +1,4 @@
-l_spanish:
+﻿l_spanish:
 
 ########################################################################################################################MB
 
@@ -499,9 +499,3 @@ l_spanish:
  tradition_RICE_kinship_based_craft_guilds_name: "Gremios de Artesanía Basados en Clanes"
  tradition_RICE_ritual_hegemony_name: "Hegemonía Ritual"
  tradition_RICE_silk_road_name: "Pueblos de la Ruta de la Seda"
-
-# Nuevas claves añadidas desde la version actual de More Bookmarks (pendientes de traducir)
- culture_parameter_unlock_maa_guanche_warrior: "Can recruit [GetMaA('guanche_warrior').GetName] as [men_at_arms|E]"
-
-
-########################################################################################################################RoA

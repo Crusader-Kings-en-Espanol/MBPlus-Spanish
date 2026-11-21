@@ -1,4 +1,4 @@
-l_spanish:
+﻿l_spanish:
  character_name_10000101: "Hirosue"
  character_name_10000102: "Kiyosue"
  character_name_10000103: "Takasue"
@@ -33729,6 +33729,3 @@ l_spanish:
  character_name_10040537:0 "Motoyuki"
  character_name_10041028_b:0 "Yamanobe"
  character_name_10056315:0 "Korekage"
-
-# Nuevas claves añadidas desde la version actual de More Bookmarks (pendientes de traducir)
- character_name_10041028:0 "Yamanobe"
