@@ -13404,3 +13404,8 @@
  title_teutonic: "Gran Maestre" #Grand Master rank for before they moved to the Baltics
  title_teutonic1: "Gran Maestre" #Grand Master rank for Kingdom title
  title_teutonic2: "Comendador" #Commander rank for vassal duchy title once in Baltics
+ barony_castle_anglo_dynast: "[ROOT.Char.GetDynasty.GetDynast.GetHouse.GetFounder.Custom('BaronyAnglo')]"
+ count_feudalclan_male_anglo_dynast: "[ROOT.Char.GetDynasty.GetDynast.GetHouse.GetFounder.Custom('CountMaleAnglo')]"
+ prince_default_female_polish: "Krolewna"
+ duke_fallback_male_khazar: "Išad"
+ duke_fallback_female_khazar: "Išadum"

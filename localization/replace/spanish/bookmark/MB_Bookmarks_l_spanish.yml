@@ -13,7 +13,7 @@
  bm_633_desc: "Estos son marcadores fijados en varias fechas que van a haber estropeado los títulos u otros temas que pueden o no ser arreglados y lo anterior que va a ser más desordenado las cosas. No insecto reporte nada acerca de estas fechas y juegue en su propio riesgo. Eres libre de pedirme que añada las fechas aquí. Utilice la barra de desplazamiento o su ratónwheel para navegar por toda la lista. \n \n #bold - Confía Haga clic en 'Juega como cualquier regla en la parte inferior izquierda para jugar este marcador  ⁇ - #! ."
  bm_700: "700"
  bm_700_desc: "Estos son marcadores fijados en varias fechas que van a haber estropeado los títulos u otros temas que pueden o no ser arreglados y lo anterior que va a ser más desordenado las cosas. No insecto reporte nada acerca de estas fechas y juegue en su propio riesgo. Eres libre de pedirme que añada las fechas aquí. Utilice la barra de desplazamiento o su ratónwheel para navegar por toda la lista. \n \n #bold - Confía Haga clic en 'Juega como cualquier regla en la parte inferior izquierda para jugar este marcador  ⁇ - #! ."
- 
+
  bm_745: "745"
  bm_745_desc: "Estos son marcadores fijados en varias fechas que van a haber estropeado los títulos u otros temas que pueden o no ser arreglados y lo anterior que va a ser más desordenado las cosas. No insecto reporte nada acerca de estas fechas y juegue en su propio riesgo. Eres libre de pedirme que añada las fechas aquí. Utilice la barra de desplazamiento o su ratónwheel para navegar por toda la lista. \n \n #bold - Confía Haga clic en 'Juega como cualquier regla en la parte inferior izquierda para jugar este marcador  ⁇ - #! ."
  bm_895: "895"
@@ -41,13 +41,12 @@
 
  #Consolidated Bookmarks - Removed excessive parts of character names for space reasons. Epitaphs and ordinal numbers are kept but titles and dynasty names are removed (especially when the dynasty name is right below the character name anyway)
 
-#####769
- # Personajes
-
-# Alta Edad Media
+ #####769
+ # Alta Edad Media
  bm_769: "Alta Edad Media"
  bm_769_desc: "\n\nEl mundo antiguo se transforma y sus antiguos poderes afrontan el desafío de una nueva era. Desde Constantinopla, el Imperio romano aún resiste las presiones de sus adversarios y lucha por preservar sus dominios en Oriente. Mientras tanto, el califato abasí se alza sobre las ruinas de los omeyas y extiende su autoridad desde Oriente Próximo, inaugurando una nueva etapa de esplendor político, cultural y religioso para el mundo islámico. En Occidente, la antigua dinastía merovingia ha cedido su lugar a los carolingios, cuyo creciente poder amenaza con alterar el equilibrio entre los reinos francos y sus vecinos. Los lombardos mantienen su dominio sobre buena parte de Italia, mientras Asturias resiste en las montañas de la península ibérica. Más allá, las grandes dinastías de la India rivalizan por la supremacía, los jázaros controlan las rutas comerciales de las estepas y los pueblos escandinavos contemplan nuevas oportunidades más allá de sus tierras. Antiguos imperios se debilitan, nuevas dinastías reclaman su lugar y pueblos enteros buscan su destino entre la guerra, la fe y la ambición. ¿Quiénes serán los artífices del nuevo orden y qué poderes perdurarán ante el paso de los siglos?"
 
+ # Personajes
  # Viduquindo
  bookmark_saxony769: "Viduquindo"
  bookmark_saxony769_subheading: "Noble sajón"
@@ -93,12 +92,11 @@
  bookmark_asturias769_subheading: "Rey de Asturias"
  bookmark_asturias769_desc: "Aurelio ocupa el trono asturiano tras suceder a Fruela I. Su reino conserva su independencia frente al poder omeya de al-Ándalus, aunque las tensiones internas y la lealtad de la nobleza representan desafíos constantes para la monarquía. Las disputas entre señores y siervos amenazan también la estabilidad de sus dominios.\n\n#bold ¿Conseguirá Aurelio mantener la paz en su reino, fortalecer la autoridad de la corona y asegurar el futuro de la monarquía asturiana?#!"
 
-#####867
+ #####867
+ bm_867_carolingians2: "Los Carolingios"
+ bm_867_carolingians2_desc: "La herencia de Carlomagno se encuentra repartida entre distintos reinos y principados, gobernados por miembros de su dinastía y otros señores que buscan consolidar su propia autoridad. Francia Occidental, Francia Oriental y Lotaringia compiten por la supremacía, mientras las disputas sucesorias, las rivalidades entre nobles y las amenazas externas debilitan la estabilidad de sus dominios. Aunque los lazos de sangre aún unen a los descendientes de Carlomagno, sus ambiciones e intereses amenazan con perpetuar la fragmentación del antiguo imperio.\n\n#bold ¿Logrará alguno de los herederos reunir los dominios carolingios bajo una sola corona, o quedará la grandeza de su linaje relegada a los recuerdos del pasado?#!"
+
  # Personajes
-
- bm_867_carolingians2: "Los Carolingios (2)"
- bm_867_carolingians2_desc: "\n\n#bold -> No hay Imperio de Francia en el marcador de 867 <- #!\n\nEl gran Imperio carolingio ya no existe como una unidad. Las divisiones dinásticas han repartido sus dominios entre Francia Occidental, Francia Oriental y Lotaringia, mientras que otros territorios han seguido sus propios caminos. Las fronteras cambian, las lealtades se tambalean y las ambiciones de cada soberano amenazan con desgarrar aún más la herencia de Carlomagno.\n\n#bold ¿Surgirá entre los descendientes de Carlomagno un gobernante capaz de reunir los dominios de su linaje, o terminarán las disputas familiares por extinguir la grandeza de los carolingios?#!"
-
  # Carlos el Calvo
  bookmark_carolingians_charles_the_bald: "Carlos el Calvo"
  bookmark_carolingians_charles_the_bald_subheading: "Rey de Francia Occidental"
@@ -155,7 +153,7 @@
  bookmark_basil_subheading: "Basileo del Imperio romano"
  bookmark_basil_desc: "Basilio, llamado el Macedonio, ha alcanzado el trono imperial y abre una nueva etapa para el Imperio romano. Aunque sus orígenes son humildes, su ascenso en la corte y su cercanía al difunto Miguel III le han permitido hacerse con el poder en Constantinopla. El Imperio conserva una considerable fuerza militar y política en Oriente, pero aún debe hacer frente a sus enemigos y preservar la estabilidad de sus dominios. Basilio aspira a afianzar su autoridad, restaurar el prestigio de la corona y dar continuidad a su linaje. #bold ¿Conseguirá convertir su inesperado ascenso en el comienzo de una nueva era de grandeza para el Imperio romano?#!"
 
-#####1018
+ #####1018
  # Personajes
 
  # Canuto el Grande
@@ -237,7 +235,7 @@
  debug_bm_1340_history_desc: "Ejecuta esta opción para depurar los archivos de historia hasta el año 1340."
 
 
-#####1066
+ #####1066
  # Personajes
  # Murchad Briain, rey de Munster
  bookmark_rags_to_riches_petty_king_murchad: "Murchad"
@@ -356,7 +354,7 @@
  bookmark_ere1066_desc: "Constantino X Ducas ocupa el trono del Imperio romano y gobierna en un momento de creciente presión sobre sus fronteras. En Italia, los normandos amenazan las últimas posesiones imperiales, mientras que en los Balcanes y las provincias orientales se multiplican los desafíos militares. La corte debe hacer frente, además, a las tensiones entre las grandes familias aristocráticas y las dificultades para mantener la capacidad defensiva del Estado. La expansión selyúcida representa una amenaza cada vez mayor para las tierras de Anatolia.\n\n#bold ¿Podrá Constantino preservar la autoridad imperial y contener a los enemigos que amenazan sus fronteras?#!"
 
 
-#####1067
+ #####1067
  # Personajes
  CONQUERER_WILLIAM: "Guillermo el Conquistador"
 
@@ -369,7 +367,7 @@
  bookmark_hastings_normandyengland_subheading: "Rey de Inglaterra"
  bookmark_hastings_normandyengland_desc: "Descendiente del jefe vikingo Rollo, Guillermo heredó el ducado de Normandía durante su infancia y tuvo que defender su autoridad frente a las facciones rivales de la nobleza. Pese a las conspiraciones y los conflictos que marcaron sus primeros años, consiguió imponerse y consolidar su dominio sobre el ducado. Ahora, tras derrotar a Harold Godwinson en Hastings, se ha hecho con la corona inglesa. Sin embargo, conquistar el reino no equivale a gobernarlo: los señores anglosajones desplazados pueden rebelarse, y la nueva dinastía normanda todavía debe asegurar su autoridad sobre un territorio hostil.\n\n#bold ¿Podrá Guillermo someter Inglaterra y consolidar el dominio de su dinastía a ambos lados del canal de la Mancha?#!"
 
-#####936
+ #####936
  bm_otto_the_first: "El siglo de hierro"
  bm_otto_the_first_desc: "El mundo atraviesa un periodo de profundos cambios. En el este de Francia, Otón se dispone a consolidar su autoridad como rey de los germanos y a someter a los nobles que desafían su poder. Mientras tanto, los magiares afianzan su dominio sobre la cuenca de los Cárpatos y continúan sus incursiones contra los pueblos vecinos, extendiendo el temor por toda Europa. En el norte, los misioneros cristianos intentan abrirse paso en Escandinavia para convertir a sus gobernantes, aunque la antigua fe germánica conserva su fuerza entre los pueblos nórdicos. Más al sur, el califato abasí ha perdido gran parte de su antiguo esplendor y su autoridad se limita al corazón de sus dominios. En el norte de África, el califato fatimí representa una nueva potencia dispuesta a expandir su influencia sobre los territorios musulmanes. \n\n#bold ¿Quién saldrá victorioso de este tumultuoso momento de la historia?#!"
 
@@ -431,7 +429,7 @@
  bookmark_ere936_subheading: "Basileo del Imperio romano"
  bookmark_ere936_desc: "Romano Lecapeno ha alcanzado el trono imperial gracias a su poder militar y a su alianza con la familia de Constantino VII, cuya hija Helena ha contraído matrimonio con él. Aunque el emperador legítimo conserva su título, Romano ejerce la autoridad efectiva y ocupa la posición de emperador mayor. En los Balcanes, el Imperio se enfrenta a una prolongada guerra contra Bulgaria, mientras las tensiones en la corte amenazan con poner en peligro el equilibrio de poder. ¿Conseguirá Romano preservar su autoridad y asegurar la estabilidad del Imperio?"
 
-#####993
+ #####993
  bm_993: "Un nuevo milenio"
  bm_993_desc: "El paso de un nuevo milenio invita a sacerdotes y eruditos cristianos a reflexionar sobre el legado de Cristo y la expansión de la Santa Madre Iglesia. En Hungría, Esteban acaba de suceder a su padre como gran príncipe y se enfrenta al desafío de consolidar su autoridad sobre las tribus magiares, mientras impulsa la conversión al cristianismo. En Europa oriental y septentrional, la cristianización de Polonia, la Rus de Kiev y los reinos escandinavos transforma el equilibrio religioso y político de la región. Más al este, en los confines del mundo islámico, Mahmud de Gazni recibe del califa abasí el título honorífico de Yamin al-Dawla («Mano derecha del Estado»), reconocimiento que refuerza su posición como gobernante de Jorasán. Entre estos territorios se extiende un mundo de califatos, reinos e imperios, cuyas ambiciones e intereses se entrecruzan. ¿Qué poderes lograrán imponerse en este nuevo milenio?"
 
@@ -465,7 +463,7 @@
  bookmark_hungary997_subheading: "Gran príncipe de Hungría"
  bookmark_hungary997_desc: "Esteban ha sucedido recientemente a su padre, Géza, como gran príncipe de los magiares. Su autoridad todavía debe afianzarse frente a los nobles y otros miembros de la dinastía que cuestionan su derecho a gobernar. Decidido a transformar las estructuras políticas de Hungría, impulsa la adopción del cristianismo y estrecha sus vínculos con la cristiandad occidental. Sin embargo, la resistencia de quienes defienden las antiguas costumbres y tradiciones amenaza con frustrar sus proyectos. ¿Conseguirá Esteban unir a los magiares bajo una nueva fe y una autoridad común?"
 
-#####1081
+ #####1081
  bm_komnenos_dynasty: "La Alexíada"
  bm_komnenos_dynasty_desc: "Tras una sucesión de derrotas ante los ejércitos turcos, el Imperio romano atraviesa una profunda crisis. Anatolia se encuentra amenazada y la autoridad imperial parece incapaz de contener el avance de sus adversarios. Pero una nueva esperanza acaba de surgir: el general Alejo Comneno ha arrebatado el trono a Nicéforo III y se dispone a restaurar el poder imperial. Su hija Ana dejará constancia de su vida y de su dinastía en la Alexíada, pero el futuro aún está por escribirse. Mientras tanto, Solimán I, miembro de la dinastía selyúcida, gobierna gran parte de Anatolia y establece su propio sultanato, al que da el nombre de Rum, reivindicando así la herencia romana. \n\n#bold ¿Podrá el Imperio romano recuperar sus territorios o el sultanato de Rum acabará imponiéndose en Anatolia?#!"
 
@@ -483,7 +481,7 @@
  bookmark_suleyman_subheading: "Sultán de Rum"
  bookmark_suleyman_desc: "Solimán I, miembro de la dinastía selyúcida, gobierna un sultanato independiente en Anatolia y reclama para sí la herencia de Roma con el nombre de Rum. Hijo de un príncipe que disputó el trono del Gran Imperio selyúcida, sobrevivió a las luchas dinásticas que acabaron con su familia y logró establecer su propio poder en tierras anatolias. La llegada al trono de Alejo Comneno podría alterar el equilibrio de la región y amenazar sus conquistas. ¿Conseguirá Solimán consolidar el sultanato y resistir el resurgimiento del Imperio romano?"
 
-#####1124
+ #####1124
  bm_jerusalem: "Jerusalén en su apogeo"
  bm_jerusalem_desc: "El Reino de Jerusalén se encuentra en la cúspide de su poder. El Principado de Antioquía ha sido absorbido y los dominios cruzados se extienden por el interior, la península del Sinaí y Damasco. Aunque su tamaño y fortaleza parecen asegurar la presencia católica en el Levante, su posición dista mucho de ser inexpugnable. Damasco y Alepo siguen actuando como barreras frente al poderoso sultanato selyúcida, mientras el califa fatimí no olvida los territorios que Egipto perdió durante la Primera Cruzada. Jerusalén está rodeada de enemigos y cuenta con pocos aliados. En la distancia, comienza a escucharse el grito de la yihad..."
 
@@ -561,7 +559,7 @@
  # Clave general sin personaje asignado (MUHAMMED)
  MUHAMMED: "Balduino"
 
-#####1187
+ #####1187
  bm_prelude: "La Tercera Cruzada"
  bm_prelude_desc: "Los Comnenos han caído del trono imperial y el Imperio romano se tambalea con ellos. Los nuevos reinos de Serbia y Bulgaria han declarado su independencia de la corona romana, los sultanes selyúcidas de Rum presionan las fronteras restauradas del Imperio en Anatolia y Béla III gobierna Hungría y Croacia sin tutela imperial. Todos los sueños de Manuel Comneno se han esfumado, pero es una época de oportunidades para quienes sean lo bastante sabios como para verlas. En Trebisonda gobierna Alejo Comneno, un joven miembro de la dinastía imperial. Si logra reunir el apoyo suficiente para presentar su reclamación en Constantinopla, podría trabajar para restaurar la edad dorada que la caída prematura de su familia truncó. Mientras tanto, Jerusalén está a punto de caer en manos de Saladino, mientras el rey Enrique II de Inglaterra, el rey Felipe II de Francia y el emperador del Sacro Imperio Romano Germánico, Federico «Barbarroja», siguen enfrentados entre sí."
 
@@ -625,7 +623,7 @@
  # Clave general del escenario
  PRELUDE: "Preludio"
 
-#####1194
+ #####1194
  bm_1194: "Ricardo y Felipe"
  bm_1194_desc: "Ricardo Corazón de León y Felipe II Augusto se observan a ambos lados del canal de la Mancha. La herencia, las alianzas matrimoniales, las intrigas y las conquistas han permitido a los Plantagenet acumular vastos dominios en Francia, hasta el punto de amenazar la autoridad de los Capetos sobre buena parte del reino. Felipe II, decidido a fortalecer la monarquía francesa y recuperar los territorios bajo dominio inglés, se enfrenta a un adversario formidable: Ricardo, recién liberado de su cautiverio y dispuesto a recuperar sus posesiones. Mientras ambos monarcas se preparan para reanudar su rivalidad, en el Sacro Imperio Romano Germánico Enrique VI ha hecho valer sus derechos dinásticos sobre el reino de Sicilia. ¿Quién logrará imponer su autoridad sobre sus rivales y alterar el equilibrio de poder en Europa?"
 
@@ -646,7 +644,7 @@
  bookmark_hre1194_subheading: "Emperador del Sacro Imperio Romano Germánico"
  bookmark_hre1194_desc: "Enrique VI, hijo y sucesor de Federico Barbarroja, ha heredado las ambiciones imperiales de su dinastía. Su matrimonio con Constanza de Sicilia le ha proporcionado derechos sobre el reino de Sicilia, cuya corona ha conseguido asegurar tras una campaña militar. Sin embargo, su dominio sobre estos territorios todavía dista de ser indiscutido. En el Imperio, numerosos príncipes observan con recelo el creciente poder de los Hohenstaufen, mientras que en el sur debe consolidar su autoridad frente a quienes rechazan su gobierno. Enrique aspira a extender la influencia imperial y afianzar el legado de su padre, pero sus ambiciones despiertan resistencias por toda Europa. ¿Logrará convertir sus conquistas en un poder duradero?
 
-#####1200
+ #####1200
  bm_fourth: "La Cuarta Cruzada"
  bm_fourth_desc: "La tristemente célebre y malograda Cuarta Cruzada, que debía recuperar Jerusalén mediante una invasión de Egipto, fue desviada por los intrigantes venecianos, por la corrupción de sus dirigentes y por el príncipe Alejo Ángelo, hijo del emperador depuesto Isaac II, que aspiraba a recuperar el trono para su familia. El resultado fue el trágico saqueo de Constantinopla y el establecimiento del llamado Imperio latino. Casi ningún cruzado llegó siquiera a Tierra Santa. Mientras tanto, el rey Juan, hermano de Ricardo Corazón de León, gobierna en Inglaterra, los reinos cristianos de España se enfrentan a la poderosa dinastía almohade, el Sacro Imperio Romano Germánico comienza a perder su control sobre Italia y, muy al este, Temujin empieza a unir a los mongoles..."
 
@@ -705,7 +703,7 @@
  # Clave general del escenario
  FOURTH: "Cuarta"
 
-#####1220
+ #####1220
  bm_1220: "La edad de los mongoles"
  bm_1220_desc: "Con el cambio de siglo, Constantinopla ha sido saqueada por la Cuarta Cruzada y el Imperio romano ha quedado muy debilitado. Los turcos siguen reinando en Oriente Medio y Persia, y en la India numerosos reinos nuevos se disputan el poder tras la caída de las antiguas dinastías. La conquista normanda ha traído nuevas luchas políticas y dinásticas a Inglaterra y Francia, los reinos cristianos de España se fortalecen sin cesar y Escandinavia ha dejado atrás el paganismo y se centraliza. En Rusia, varios principados luchan por el poder a la sombra de los búlgaros del Volga y de los cumanos del este. En Alemania e Italia, el Sacro Imperio Romano Germánico aún se mantiene firme, pero más allá de todo ello, al este, un nuevo poder está a punto de entrar en escena: los mongoles avanzan por Persia y amenazan con irrumpir en Europa oriental, alterando el equilibrio de poder en toda Eurasia occidental..."
 
@@ -757,7 +755,7 @@
 
  1200: "1200"
 
-#####1241
+ #####1241
  bm_1241: "La caída de Kiev"
  bm_1241_desc: "Marchando hacia el oeste con una fuerza aparentemente imparable, la horda mongola de Batu ha capturado Kiev, el corazón de la Rus de Kiev. Miles de personas yacen muertas en la ciudad, como si presagiaran lo que está por venir en las tierras más occidentales. ¿Será Kiev la última ciudad en sufrir tal destino? En el Sacro Imperio Romano Germánico, los burgueses de las ciudades imperiales libres de Lübeck y Hamburgo, en el norte de Alemania, acaban de formar una alianza comercial que acabará siendo conocida como la Liga Hanseática. Mientras tanto, la temible horda mongola ha arrasado Europa oriental como una guadaña, segando sin esfuerzo toda oposición, y hasta el emperador Federico II contempla con inquietud el avance de los jinetes de las estepas."
 
@@ -808,7 +806,7 @@
  bookmark_mali1241_subheading: "Mansa de Malí"
  bookmark_mali1241_desc: "Sundiata Keita es el príncipe fundador del Imperio de Malí, que gobierna como su primer mansa. Su prestigio como fundador es inmenso, pero un imperio joven necesita instituciones, aliados y un linaje capaz de sostenerlo. ¿Conseguirá consolidar el imperio recién fundado y legar un trono poderoso a su linaje?"
 
-#####1267
+ #####1267
  1267: "Preludio"
 
  bm_1267: "La casa de Mindaugas restaurada"
@@ -906,7 +904,7 @@
  bookmark_yuan1267_subheading: "Gran Kan del Imperio mongol"
  bookmark_yuan1267_desc: "Kublai, quinto jagán del Imperio mongol, es el cuarto hijo de Tolui (su segundo hijo con Sorghaghtani Beki) y nieto de Gengis Kan. Sucedió a su hermano mayor, Möngke, como gran kan, pero tuvo que derrotar a su hermano menor, Ariq Böke, en la guerra civil toluida, un episodio que marcó el inicio de la desunión del imperio. Su poder real se limita a China y Mongolia, aunque como gran kan conserva influencia sobre el Ilkanato y, en un grado significativamente menor, sobre la Horda de Oro. Aspira a fundar en China una dinastía de conquista y a gobernar como su primer emperador. En teoría, su reino se extiende desde el océano Pacífico hasta el mar Negro, y desde Siberia hasta lo que hoy es Afganistán. ¿Conseguirá mantener unido un imperio ya fracturado?"
 
-#####1285
+ #####1285
  bm_1285: "Los Habsburgo"
  bm_1285_desc: "Rodolfo de Habsburgo, actual rey de los romanos, ha derrotado a Otakar II de Bohemia, su único rival por el trono imperial. Con la derrota de Otakar, gran parte de sus tierras han vuelto a la corona, incluido el ducado de Austria, que Rodolfo ha confiado a su hijo Alberto. Aunque la sucesión está asegurada y ha comenzado una nueva era con el control de los Habsburgo sobre Austria, no todo va bien en el Imperio.\n\nTras las sangrientas secuelas de las Vísperas Sicilianas, una guerra en la que el rey aragonés intentó hacer valer su derecho al reino de Sicilia, el sur de la península italiana está dividido. En la isla de Sicilia se ha proclamado el Reino de Trinacria, en el que gobierna el hermano del rey aragonés, que reclama los derechos sobre la totalidad del reino. En tierra firme, el antiguo rey de Sicilia, que ya no puede titularse como tal, se ha proclamado rey de Nápoles y mira con celos la isla que debería ser suya por derecho. Ambos bandos del conflicto cuentan con poderosos aliados: el rey de Trinacria está protegido por los reyes de Aragón y Castilla, y el rey de Nápoles cuenta con el apoyo de Hungría-Croacia, por lo que la nueva guerra no será fácil. También en la península ibérica, Felipe IV de Francia ha llegado a ser rey de Navarra, y puede contarse igualmente en la lucha ibérica. ¿Quién se moverá primero, y contra quién?"
 
@@ -997,13 +995,13 @@
  bookmark_ottoman1285_subheading: "Bey del Beylicato otomano"
  bookmark_ottoman1285_desc: "Osman I, u Osman Gazi, es el líder de los turcos otomanos y el fundador de la dinastía que lleva su nombre. Gobierna un pequeño principado turcomano, el beylicato u emirato otomano, de modestas dimensiones pero con una ambición que va mucho más allá. ¿Conseguirá convertir ese modesto principado en la base de un poder mayor?"
 
-#####1307
+ #####1307
  1307: "Preludio"
  bm_1307: "El sueño de Osman"
  bm_1307_desc: "La desintegración del sultanato de Rum y el progresivo debilitamiento del Imperio bizantino han dejado Anatolia sumida en un vacío de poder que numerosos señores de la guerra aspiran a aprovechar. Entre ellos destaca Osman, un hombre piadoso y decidido que comienza a forjar su propio dominio. Según cuenta la tradición, un sueño que tuvo años atrás le reveló un destino extraordinario para él y sus descendientes, cuyo mayor anhelo podría ser algún día la conquista de Constantinopla. Sin embargo, el camino hacia esa empresa será largo y difícil: el Imperio bizantino ha resistido innumerables amenazas durante casi mil años y no entregará sus territorios sin luchar.\n\nEn Europa, la muerte prematura del monarca polaco sin un heredero aceptable ha permitido que Wenceslao II Přemysl, rey de Bohemia, sea coronado en su lugar. Heredero de las ambiciones de su padre, Otakar II, y de su profundo resentimiento hacia los Hohenstaufen, Wenceslao dispone ahora de una posición privilegiada para extender su influencia. Si logra consolidar su poder, el Sacro Imperio Romano Germánico podría encontrar grandes dificultades para reafirmar su autoridad sobre Bohemia, especialmente mientras su dominio sobre la península italiana continúa debilitándose. La oportunidad de actuar está al alcance de su mano."
 
 
-#####1311
+ #####1311
 
  # Personajes
 
@@ -1088,7 +1086,7 @@
  bookmark_serbia1311_desc: "Esteban Uroš II Milutin, miembro de la dinastía Nemanjić, gobierna Serbia y se cuenta entre los soberanos más poderosos de los Balcanes. Durante su reinado, el reino ha experimentado un notable crecimiento económico, impulsado especialmente por la explotación de sus recursos mineros. La fundación de Novo Brdo y el desarrollo de sus yacimientos de plata han convertido sus dominios en un importante centro de producción y comercio. Milutin también ha defendido la independencia religiosa de Serbia frente a las presiones del Imperio bizantino, que tras la Unión de Lyon trató de extender la influencia de la Iglesia romana en los Balcanes. Su poder y sus recursos le permiten intervenir en los asuntos de sus vecinos, pero las rivalidades dinásticas y las ambiciones territoriales siguen amenazando la estabilidad de la región. ¿Conseguirá Milutin asegurar el futuro de la dinastía Nemanjić y consolidar la posición de Serbia?"
 
 
-#####1337
+ #####1337
  bm_1337: "La Guerra de los Cien Años"
  bm_1337_desc: "La muerte de Carlos IV de Francia sin descendencia masculina ha desencadenado una grave disputa sucesoria. Eduardo III de Inglaterra, nieto de Felipe IV por línea materna, reclama la corona francesa como pariente varón más próximo del difunto monarca. Sin embargo, la nobleza francesa rechaza la posibilidad de que el trono pase a un soberano extranjero a través de una mujer y respalda la candidatura de Felipe de Valois, primo de Carlos IV por línea paterna. Coronado como Felipe VI, el nuevo monarca deberá defender su legitimidad frente a las pretensiones inglesas. Las tensiones entre ambas coronas no dejan de aumentar y amenazan con desembocar en un conflicto de enormes proporciones. La guerra ha comenzado.\n\nEn Escandinavia, Magnus IV gobierna Suecia por elección y Noruega por derecho hereditario, reuniendo bajo una misma corona buena parte de la región. Sin embargo, mantener unidos ambos reinos no será tarea sencilla: las diferencias entre sus nobles y las dificultades para ejercer una autoridad efectiva sobre territorios tan extensos amenazan con debilitar la unión. ¿Será Magnus capaz de consolidar su poder y convertir la unión escandinava en algo más duradero? Algunos ya sueñan con la fundación de un gran Imperio del Norte bajo su autoridad.\n\nEn Persia, el antiguo Ilkanato se encuentra sumido en la fragmentación. Sus antiguos vasallos y numerosos señores locales compiten por hacerse con los territorios y recursos del desaparecido poder ilkaní. Mientras las dinastías rivales luchan por imponer su autoridad, en el seno del clan Barlas nace un niño llamado Timur, hijo de Taraghai. Nadie puede imaginar todavía el destino que le aguarda."
 
@@ -1356,142 +1354,142 @@
 
  #1171
 
-  bm_1171: "Salah ad-Din"
-  bm_1171_desc: "Salah ad-Din Yusuf ibn Ayyub -más conocido en Occidente como Saladino- es visir del califato fatimí y poco a poco ha ido elaborando sus propios designios para tomar Egipto para sí convirtiéndose en el verdadero poder detrás del trono. Anteriormente sirviente del emir de Damasco, Nur ad-Din, Salah ad-Din fue enviado a Egipto debido a sus éxitos militares a pesar de ser sunní. Nur ad-Din ha encargado a Saladino que derroque a los fatimíes para restablecer el control abasí. ¿Hará Saladino lo que se le aconseja o reclamará Egipto para sí o permanecerá leal al califa fatimí al-Adid.\n\nIberia está equilibrada entre musulmanes y cristianos. En el norte, los católicos se reparten la tierra entre cinco reinos: Portugal, León, Castilla, Navarra y Aragón. Al sur, los musulmanes se unifican de nuevo bajo el emergente Califato Almohade. ¿Será ésta una época de oportunidades y crecimiento para los cristianos, o el califa almohade se adentrará aún más en Iberia?"
+ bm_1171: "Salah ad-Din"
+ bm_1171_desc: "Salah ad-Din Yusuf ibn Ayyub -más conocido en Occidente como Saladino- es visir del califato fatimí y poco a poco ha ido elaborando sus propios designios para tomar Egipto para sí convirtiéndose en el verdadero poder detrás del trono. Anteriormente sirviente del emir de Damasco, Nur ad-Din, Salah ad-Din fue enviado a Egipto debido a sus éxitos militares a pesar de ser sunní. Nur ad-Din ha encargado a Saladino que derroque a los fatimíes para restablecer el control abasí. ¿Hará Saladino lo que se le aconseja o reclamará Egipto para sí o permanecerá leal al califa fatimí al-Adid.\n\nIberia está equilibrada entre musulmanes y cristianos. En el norte, los católicos se reparten la tierra entre cinco reinos: Portugal, León, Castilla, Navarra y Aragón. Al sur, los musulmanes se unifican de nuevo bajo el emergente Califato Almohade. ¿Será ésta una época de oportunidades y crecimiento para los cristianos, o el califa almohade se adentrará aún más en Iberia?"
 
-  bookmark_saladin1171: "Salah ad-Din"
-  bookmark_saladin1171_subheading: "Vizier de Egipto"
-  bookmark_saladin1171_desc: "Salah ad-Din, conocido comúnmente como Saladino, es un distinguido comandante militar y estadista que actualmente ejerce como visir del califato fatimí. Nacido en el seno de una familia de origen kurdo, Saladino saltó a la fama bajo el patrocinio de Nur ad-Din, el ambicioso emir de Damasco. Nur ad-Din imagina un frente unido entre los estados musulmanes para hacer frente a la amenaza invasora de los cruzados y, para lograrlo, envía a Saladino a los fatimíes. Encargado de una delicada misión, Saladino navegó con éxito por el intrincado panorama político de la corte fatimí, ascendiendo al influyente cargo de visir tras la muerte de su sobrino. En un principio, Saladino se mostró conciliador con al-Adid, pero pronto consolidó su dominio sobre Egipto y procedió a desmantelar gradualmente el régimen fatimí. El viaje de Saladino se desarrolla en un contexto de intriga, en el que debe equilibrar delicadamente sus deberes como visir con su lealtad a la gran visión de Nur ad-Din. El futuro del mundo musulmán pende de un hilo, y la brillantez estratégica de Saladino desempeñará un papel fundamental en la configuración del destino de Levante."
+ bookmark_saladin1171: "Salah ad-Din"
+ bookmark_saladin1171_subheading: "Vizier de Egipto"
+ bookmark_saladin1171_desc: "Salah ad-Din, conocido comúnmente como Saladino, es un distinguido comandante militar y estadista que actualmente ejerce como visir del califato fatimí. Nacido en el seno de una familia de origen kurdo, Saladino saltó a la fama bajo el patrocinio de Nur ad-Din, el ambicioso emir de Damasco. Nur ad-Din imagina un frente unido entre los estados musulmanes para hacer frente a la amenaza invasora de los cruzados y, para lograrlo, envía a Saladino a los fatimíes. Encargado de una delicada misión, Saladino navegó con éxito por el intrincado panorama político de la corte fatimí, ascendiendo al influyente cargo de visir tras la muerte de su sobrino. En un principio, Saladino se mostró conciliador con al-Adid, pero pronto consolidó su dominio sobre Egipto y procedió a desmantelar gradualmente el régimen fatimí. El viaje de Saladino se desarrolla en un contexto de intriga, en el que debe equilibrar delicadamente sus deberes como visir con su lealtad a la gran visión de Nur ad-Din. El futuro del mundo musulmán pende de un hilo, y la brillantez estratégica de Saladino desempeñará un papel fundamental en la configuración del destino de Levante."
 
-  bookmark_barbarossa1171: "Federico Barbarroja"
-  bookmark_barbarossa1171_subheading: "Santo Emperador Romano"
-  bookmark_barbarossa1171_desc: "Federico Barbarroja, formidable gobernante del Sacro Imperio Romano Germánico, se encuentra en el cenit de su poder. Conocido por su ardiente barba roja, sueña con reavivar la gloria del Imperio Romano. Tras enfrentarse a numerosos desafíos a su autoridad, como enfrentamientos con el Papa y vasallos díscolos, Barbarroja se erige en defensor a ultranza del legado imperial. Las ciudades-estado italianas lo observan con recelo y, a medida que se desarrolla la era de la caballería, Barbarroja intenta consolidar su legado navegando por las traicioneras aguas de la política y la guerra medievales. El espectro de la Tercera Cruzada se cierne sobre Barbarroja, que se debate entre afirmar su dominio en el Sacro Imperio Romano Germánico y responder a la llamada para recuperar Jerusalén. ¿Podrá forjar un legado duradero o sucumbir a las tumultuosas corrientes del mundo medieval?"
+ bookmark_barbarossa1171: "Federico Barbarroja"
+ bookmark_barbarossa1171_subheading: "Santo Emperador Romano"
+ bookmark_barbarossa1171_desc: "Federico Barbarroja, formidable gobernante del Sacro Imperio Romano Germánico, se encuentra en el cenit de su poder. Conocido por su ardiente barba roja, sueña con reavivar la gloria del Imperio Romano. Tras enfrentarse a numerosos desafíos a su autoridad, como enfrentamientos con el Papa y vasallos díscolos, Barbarroja se erige en defensor a ultranza del legado imperial. Las ciudades-estado italianas lo observan con recelo y, a medida que se desarrolla la era de la caballería, Barbarroja intenta consolidar su legado navegando por las traicioneras aguas de la política y la guerra medievales. El espectro de la Tercera Cruzada se cierne sobre Barbarroja, que se debate entre afirmar su dominio en el Sacro Imperio Romano Germánico y responder a la llamada para recuperar Jerusalén. ¿Podrá forjar un legado duradero o sucumbir a las tumultuosas corrientes del mundo medieval?"
 
-  bookmark_ghengis1171: "Temujin"
-  bookmark_ghengis1171_subheading: "Kan de los mongoles jamag"
-  bookmark_ghengis1171_desc: "A la edad de 9 años, el futuro conquistador Temujin, comúnmente conocido como Ghengis, es un joven enérgico y ambicioso dentro de las estepas mongolas y recientemente nombrado Khan del Khanato de Khamag tras la muerte de su padre. Aprovechando la destrozada unidad del Khanato, rivales de los Borjigin, como los Taichuud, ven en esta oportunidad su oportunidad de hacerse con el poder. Las tribus mongolas siguen divididas, y el camino hacia la grandeza está plagado de desafíos. A medida que Temujin navega por las complejidades de sus primeros años, el espectro amenazador de los kanatos vecinos, especialmente los tártaros y los kerait, añade una capa de intriga y peligro a su viaje. ¿Saldrá victorioso el joven Khan y sentará las bases del formidable Imperio Mongol, o las luchas de las estepas serán demasiado para este líder en ciernes? El destino de los mongoles descansa sobre los hombros de un niño que sueña con un imperio unido y poderoso."
+ bookmark_ghengis1171: "Temujin"
+ bookmark_ghengis1171_subheading: "Kan de los mongoles jamag"
+ bookmark_ghengis1171_desc: "A la edad de 9 años, el futuro conquistador Temujin, comúnmente conocido como Ghengis, es un joven enérgico y ambicioso dentro de las estepas mongolas y recientemente nombrado Khan del Khanato de Khamag tras la muerte de su padre. Aprovechando la destrozada unidad del Khanato, rivales de los Borjigin, como los Taichuud, ven en esta oportunidad su oportunidad de hacerse con el poder. Las tribus mongolas siguen divididas, y el camino hacia la grandeza está plagado de desafíos. A medida que Temujin navega por las complejidades de sus primeros años, el espectro amenazador de los kanatos vecinos, especialmente los tártaros y los kerait, añade una capa de intriga y peligro a su viaje. ¿Saldrá victorioso el joven Khan y sentará las bases del formidable Imperio Mongol, o las luchas de las estepas serán demasiado para este líder en ciernes? El destino de los mongoles descansa sobre los hombros de un niño que sueña con un imperio unido y poderoso."
 
-  bookmark_yelu1171: "Zhilugu"
-  bookmark_yelu1171_subheading: "Emperador del Qara-Khitai"
-  bookmark_yelu1171_desc: "Durante más de dos siglos, los jitanos gobernaron un vasto imperio que se extendía desde Manchuria hasta Mongolia, equilibrando a la perfección su tradicional modo de vida nómada al norte y la cultura urbana y sofisticada de sus súbditos chinos al sur. Sin embargo, derrocados por sus vasallos jurchen en los primeros años del siglo XII, los restos del otrora gran Khitan han huido a Asia Central, donde intentan recrear su esplendor imperial. Tras derrotar a los otrora poderosos kara-khaníes y a los selyúcidas, los jitanos se han afianzado en la región. ¿Continuarán sus conquistas, extendiendo su cultura nómada sinicizada y su fe budista, o se asentarán, contentos con recrear su imperio chino en Asia Central?"
+ bookmark_yelu1171: "Zhilugu"
+ bookmark_yelu1171_subheading: "Emperador del Qara-Khitai"
+ bookmark_yelu1171_desc: "Durante más de dos siglos, los jitanos gobernaron un vasto imperio que se extendía desde Manchuria hasta Mongolia, equilibrando a la perfección su tradicional modo de vida nómada al norte y la cultura urbana y sofisticada de sus súbditos chinos al sur. Sin embargo, derrocados por sus vasallos jurchen en los primeros años del siglo XII, los restos del otrora gran Khitan han huido a Asia Central, donde intentan recrear su esplendor imperial. Tras derrotar a los otrora poderosos kara-khaníes y a los selyúcidas, los jitanos se han afianzado en la región. ¿Continuarán sus conquistas, extendiendo su cultura nómada sinicizada y su fe budista, o se asentarán, contentos con recrear su imperio chino en Asia Central?"
 
-  bookmark_abd1171: "Abu Yaqub Yusuf"
-  bookmark_abd1171_subheading: "Califato del Almohad Califato"
-  bookmark_abd1171_desc: "Abu Ya`qub Yusuf o Yusuf I fue el segundo emir o califa almohade. Reinó desde 1163 hasta 1184 en Marrakech. En 1170 invadió Iberia, conquistando al-Andalus y asolando Valencia y Cataluña. Al año siguiente se estableció en Sevilla. Mandó construir numerosos edificios, como el Alcázar, el palacio de la Buhaira y la fortaleza de Alcalá de Guadaíra. En su apogeo, los almohades estuvieron a punto de deshacer la reconquista de los reinos cristianos."
+ bookmark_abd1171: "Abu Yaqub Yusuf"
+ bookmark_abd1171_subheading: "Califato del Almohad Califato"
+ bookmark_abd1171_desc: "Abu Ya`qub Yusuf o Yusuf I fue el segundo emir o califa almohade. Reinó desde 1163 hasta 1184 en Marrakech. En 1170 invadió Iberia, conquistando al-Andalus y asolando Valencia y Cataluña. Al año siguiente se estableció en Sevilla. Mandó construir numerosos edificios, como el Alcázar, el palacio de la Buhaira y la fortaleza de Alcalá de Guadaíra. En su apogeo, los almohades estuvieron a punto de deshacer la reconquista de los reinos cristianos."
 
-  bookmark_louis1171: "Luis VII"
-  bookmark_louis1171_subheading: "Rey de Francia"
-  bookmark_louis1171_desc: "Una vez casado con la formidable Leonor de Aquitania, Luis VII se enfrenta a las consecuencias de su tumultuosa unión. La anulación de su matrimonio le ha dejado con un reino debilitado y ahora lucha por consolidar su poder dentro del reino, se enfrenta a las amenazas externas de la ambiciosa dinastía Plantagenet y a los desafíos internos de los vasallos descontentos. Los desafíos son múltiples, con disensiones internas y amenazas externas en ciernes. ¿Podrá Luis VII superar las sombras de su pasado y forjar un legado que resista las pruebas de la Europa medieval? El futuro de Francia descansa sobre sus hombros."
+ bookmark_louis1171: "Luis VII"
+ bookmark_louis1171_subheading: "Rey de Francia"
+ bookmark_louis1171_desc: "Una vez casado con la formidable Leonor de Aquitania, Luis VII se enfrenta a las consecuencias de su tumultuosa unión. La anulación de su matrimonio le ha dejado con un reino debilitado y ahora lucha por consolidar su poder dentro del reino, se enfrenta a las amenazas externas de la ambiciosa dinastía Plantagenet y a los desafíos internos de los vasallos descontentos. Los desafíos son múltiples, con disensiones internas y amenazas externas en ciernes. ¿Podrá Luis VII superar las sombras de su pasado y forjar un legado que resista las pruebas de la Europa medieval? El futuro de Francia descansa sobre sus hombros."
 
-  bookmark_henry1171: "Enrique II"
-  bookmark_henry1171_subheading: "Rey de Inglaterra"
-  bookmark_henry1171_desc: "Enrique II, el formidable soberano del Imperio angevino, se ve envuelto en la intrincada red de la política medieval y las luchas familiares. Subido al trono en 1154, hereda un vasto reino que se extiende desde Inglaterra hasta los Pirineos. Sin embargo, la búsqueda del poder es implacable y Enrique se enfrenta a desafíos en el seno de su propia familia. La tumultuosa relación con su esposa, Leonor de Aquitania, añade otra capa de complejidad a su reinado. Mientras intenta consolidar sus posesiones y establecer una autoridad central fuerte, Enrique debe navegar por las aguas traicioneras de hijos rebeldes y nobles ambiciosos. El espectro del reciente asesinato de Thomas Becket persiste, ensombreciendo su reinado. ¿Podrá Enrique II mantener el control y asegurar el legado de la dinastía Plantagenet en este momento crucial del siglo XII?"
+ bookmark_henry1171: "Enrique II"
+ bookmark_henry1171_subheading: "Rey de Inglaterra"
+ bookmark_henry1171_desc: "Enrique II, el formidable soberano del Imperio angevino, se ve envuelto en la intrincada red de la política medieval y las luchas familiares. Subido al trono en 1154, hereda un vasto reino que se extiende desde Inglaterra hasta los Pirineos. Sin embargo, la búsqueda del poder es implacable y Enrique se enfrenta a desafíos en el seno de su propia familia. La tumultuosa relación con su esposa, Leonor de Aquitania, añade otra capa de complejidad a su reinado. Mientras intenta consolidar sus posesiones y establecer una autoridad central fuerte, Enrique debe navegar por las aguas traicioneras de hijos rebeldes y nobles ambiciosos. El espectro del reciente asesinato de Thomas Becket persiste, ensombreciendo su reinado. ¿Podrá Enrique II mantener el control y asegurar el legado de la dinastía Plantagenet en este momento crucial del siglo XII?"
 
-  bookmark_alfonso1171: "Alfonso VIII"
-  bookmark_alfonso1171_subheading: "Rey de Castille"
-  bookmark_alfonso1171_desc: "A principios del siglo XII, Alfonso VIII asciende al trono de Castilla como un joven y ambicioso gobernante. Su reino se enfrenta a desafíos internos, ya que las familias nobles compiten por la influencia, y externamente, los moros presionan contra las fronteras. Alfonso debe navegar por las complejidades de la política medieval, tratando de fortalecer su reino contra la disidencia interna y la amenaza inminente de los reinos rivales. El destino de Castilla depende de su habilidad para equilibrar el poder, la diplomacia y la fuerza militar."
+ bookmark_alfonso1171: "Alfonso VIII"
+ bookmark_alfonso1171_subheading: "Rey de Castille"
+ bookmark_alfonso1171_desc: "A principios del siglo XII, Alfonso VIII asciende al trono de Castilla como un joven y ambicioso gobernante. Su reino se enfrenta a desafíos internos, ya que las familias nobles compiten por la influencia, y externamente, los moros presionan contra las fronteras. Alfonso debe navegar por las complejidades de la política medieval, tratando de fortalecer su reino contra la disidencia interna y la amenaza inminente de los reinos rivales. El destino de Castilla depende de su habilidad para equilibrar el poder, la diplomacia y la fuerza militar."
 
-  bookmark_shensong1171: "Xiaozong"
-  bookmark_shensong1171_subheading: "Emperador del Imperio Cancionero"
-  bookmark_shensong1171_desc: "El emperador Xiaozong de Song, de nombre personal Zhao Shen, fue el undécimo emperador de la dinastía Song de China y el segundo emperador de la dinastía Song del Sur. Comenzó su reinado en 1162, cuando su padre adoptivo y predecesor, el emperador Gaozong, abdicó y le cedió el trono. Aunque el emperador Gaozong se convirtió en Taishang Huang ("emperador retirado") tras su abdicación, siguió siendo el gobernante de facto, por lo que el emperador Xiaozong no asumió el poder total hasta 1187, tras la muerte del emperador Gaozong. Durante el reinado del emperador Xiaozong, los chinos aumentaron el número de misiones comerciales que atracaban en puertos de todo el océano Índico, donde antes predominaba la influencia árabe e hindú. Xiaozong también fue responsable de la rehabilitación póstuma de Yue Fei, de la limpieza de los restos de la facción de Qin Hui en la corte y de la estabilización de la economía, haciendo de su reinado la época más poderosa de la dinastía Song del Sur y se dice que fue el mejor gobernante de la dinastía Song del Sur."
+ bookmark_shensong1171: "Xiaozong"
+ bookmark_shensong1171_subheading: "Emperador del Imperio Cancionero"
+ bookmark_shensong1171_desc: "El emperador Xiaozong de Song, de nombre personal Zhao Shen, fue el undécimo emperador de la dinastía Song de China y el segundo emperador de la dinastía Song del Sur. Comenzó su reinado en 1162, cuando su padre adoptivo y predecesor, el emperador Gaozong, abdicó y le cedió el trono. Aunque el emperador Gaozong se convirtió en Taishang Huang ("emperador retirado") tras su abdicación, siguió siendo el gobernante de facto, por lo que el emperador Xiaozong no asumió el poder total hasta 1187, tras la muerte del emperador Gaozong. Durante el reinado del emperador Xiaozong, los chinos aumentaron el número de misiones comerciales que atracaban en puertos de todo el océano Índico, donde antes predominaba la influencia árabe e hindú. Xiaozong también fue responsable de la rehabilitación póstuma de Yue Fei, de la limpieza de los restos de la facción de Qin Hui en la corte y de la estabilización de la economía, haciendo de su reinado la época más poderosa de la dinastía Song del Sur y se dice que fue el mejor gobernante de la dinastía Song del Sur."
 
-  bookmark_urujin1171: "Shizong"
-  bookmark_urujin1171_subheading: "Emperador del Imperio Jin"
-  bookmark_urujin1171_desc: "El emperador Shizong de Jin, de nombre personal Wulu, fue el quinto emperador de la dinastía Jin de China, dirigida por los jurchen. Gobernó de 1161 a 1189 bajo el nombre de era "Dading", y su reinado fue el más largo y estable de los emperadores Jin. Una vez en el trono, Wulu -conocido históricamente como emperador Shizong- abandonó el plan de su predecesor de invadir la dinastía Song del Sur y abolió sus políticas internas de sinicización. Aunque conocedor de la cultura china Han, el emperador Shizong pensaba que la fuerza de los jurchens residía en mantener su cultura "simple y sincera", y a menudo atribuía la derrota de Digunai al abandono generalizado de ésta. Sus intentos de evitar la sinicización de su pueblo acabaron fracasando."
+ bookmark_urujin1171: "Shizong"
+ bookmark_urujin1171_subheading: "Emperador del Imperio Jin"
+ bookmark_urujin1171_desc: "El emperador Shizong de Jin, de nombre personal Wulu, fue el quinto emperador de la dinastía Jin de China, dirigida por los jurchen. Gobernó de 1161 a 1189 bajo el nombre de era "Dading", y su reinado fue el más largo y estable de los emperadores Jin. Una vez en el trono, Wulu -conocido históricamente como emperador Shizong- abandonó el plan de su predecesor de invadir la dinastía Song del Sur y abolió sus políticas internas de sinicización. Aunque conocedor de la cultura china Han, el emperador Shizong pensaba que la fuerza de los jurchens residía en mantener su cultura "simple y sincera", y a menudo atribuía la derrota de Digunai al abandono generalizado de ésta. Sus intentos de evitar la sinicización de su pueblo acabaron fracasando."
 
-  bookmark_manuel1171: "Manuel I"
-  bookmark_manuel1171_subheading: "Basileo del Imperio Bizantino"
-  bookmark_manuel1171_desc: "Manuel I Komnenos fue un emperador bizantino del siglo XII que reinó en un momento crucial de la historia de Bizancio y del Mediterráneo. Su reinado fue testigo del último florecimiento de la restauración komnena, durante la cual el Imperio bizantino había experimentado un resurgimiento de su poder militar y económico, y había disfrutado de un renacimiento cultural. Deseoso de devolver a su imperio sus glorias pasadas como superpotencia del mundo mediterráneo, Manuel llevó a cabo una ambiciosa política exterior. Manuel remodeló los mapas políticos de los Balcanes y el Mediterráneo oriental, sometiendo los reinos de Hungría y Ultramar a la hegemonía bizantina y emprendiendo agresivas campañas contra sus vecinos tanto en el oeste como en el este. Llamado ho Megas por los griegos, se sabe que Manuel inspiraba una intensa lealtad a quienes le servían."
+ bookmark_manuel1171: "Manuel I"
+ bookmark_manuel1171_subheading: "Basileo del Imperio Bizantino"
+ bookmark_manuel1171_desc: "Manuel I Komnenos fue un emperador bizantino del siglo XII que reinó en un momento crucial de la historia de Bizancio y del Mediterráneo. Su reinado fue testigo del último florecimiento de la restauración komnena, durante la cual el Imperio bizantino había experimentado un resurgimiento de su poder militar y económico, y había disfrutado de un renacimiento cultural. Deseoso de devolver a su imperio sus glorias pasadas como superpotencia del mundo mediterráneo, Manuel llevó a cabo una ambiciosa política exterior. Manuel remodeló los mapas políticos de los Balcanes y el Mediterráneo oriental, sometiendo los reinos de Hungría y Ultramar a la hegemonía bizantina y emprendiendo agresivas campañas contra sus vecinos tanto en el oeste como en el este. Llamado ho Megas por los griegos, se sabe que Manuel inspiraba una intensa lealtad a quienes le servían."
 
-  bookmark_ghaznavi1171: "Khusrau Malik"
-  bookmark_ghaznavi1171_subheading: "Sultán del Imperio Ghaznavid"
-  bookmark_ghaznavi1171_desc: "Khusrau Malik, el último gobernante del otrora poderoso Imperio Ghaznávida, se encuentra en una encrucijada. El imperio que antaño se extendía por vastos territorios ha quedado reducido a una mera sombra de lo que fue. A medida que aumentan las amenazas de enemigos externos y las luchas internas, Khusrau debe navegar por la compleja red de lealtades entre sus vasallos y los reinos vecinos, como los crecientes ghuríes. Con Ghazni como sede del poder, debe decidir si luchar por la supervivencia del legado gaznávida o sucumbir a la inevitable marea de cambio que recorre el mundo islámico. ¿Será él quien revitalice la desvanecida gloria de los gaznávidas o será recordado como el gobernante que presidió su desaparición?"
+ bookmark_ghaznavi1171: "Khusrau Malik"
+ bookmark_ghaznavi1171_subheading: "Sultán del Imperio Ghaznavid"
+ bookmark_ghaznavi1171_desc: "Khusrau Malik, el último gobernante del otrora poderoso Imperio Ghaznávida, se encuentra en una encrucijada. El imperio que antaño se extendía por vastos territorios ha quedado reducido a una mera sombra de lo que fue. A medida que aumentan las amenazas de enemigos externos y las luchas internas, Khusrau debe navegar por la compleja red de lealtades entre sus vasallos y los reinos vecinos, como los crecientes ghuríes. Con Ghazni como sede del poder, debe decidir si luchar por la supervivencia del legado gaznávida o sucumbir a la inevitable marea de cambio que recorre el mundo islámico. ¿Será él quien revitalice la desvanecida gloria de los gaznávidas o será recordado como el gobernante que presidió su desaparición?"
 
-  bookmark_ghurid21171: "Ghiyath al-Din Muhammad"
-  bookmark_ghurid21171_subheading: "Sultán del Sultanato gúrida"
-  bookmark_ghurid21171_desc: "Ghiyath al-Din Muhammad, fue sultán de la dinastía ghurí de 1163 a 1202. Durante su reinado, la dinastía ghurí se convirtió en una potencia mundial, que se extendía desde Gorgan hasta Bengala. A principios de su reinado, derrotó a los pretendientes ghuríes al trono y luchó con el imperio jwarazmí por el señorío de Jorasán. Ocupó Herat en 1176 y en 1200 se hizo con el control de la mayor parte de lo que hoy es Afganistán y sus alrededores, hasta Bastam y Gurgan. Su hermano, Mu'izz al-Din, ayudó a gestionar y expandir la parte oriental del imperio (hasta Bengala) y sirvió a Ghiyath con la mayor lealtad y deferencia. Ghiyath murió en 1202 y le sucedió su hermano Mu'izz al-Din"
+ bookmark_ghurid21171: "Ghiyath al-Din Muhammad"
+ bookmark_ghurid21171_subheading: "Sultán del Sultanato gúrida"
+ bookmark_ghurid21171_desc: "Ghiyath al-Din Muhammad, fue sultán de la dinastía ghurí de 1163 a 1202. Durante su reinado, la dinastía ghurí se convirtió en una potencia mundial, que se extendía desde Gorgan hasta Bengala. A principios de su reinado, derrotó a los pretendientes ghuríes al trono y luchó con el imperio jwarazmí por el señorío de Jorasán. Ocupó Herat en 1176 y en 1200 se hizo con el control de la mayor parte de lo que hoy es Afganistán y sus alrededores, hasta Bastam y Gurgan. Su hermano, Mu'izz al-Din, ayudó a gestionar y expandir la parte oriental del imperio (hasta Bengala) y sirvió a Ghiyath con la mayor lealtad y deferencia. Ghiyath murió en 1202 y le sucedió su hermano Mu'izz al-Din"
 
-  bookmark_aleppo1171: "Nur ad-Din"
-  bookmark_aleppo1171_subheading: "Sultan de Siria"
-  bookmark_aleppo1171_desc: "Nur ad-Din era el segundo hijo de Imad al-Din Zengi, atabeg turcomano de Alepo y Mosul, devoto enemigo de la presencia cruzada en Siria. Tras el asesinato de su padre en 1146, Nur ad-Din y su hermano mayor Saif ad-Din Ghazi I se repartieron el reino: Nur ad-Din gobernó Alepo y Saif ad-Din Ghazi se estableció en Mosul. Nur ad-Din intentó establecer alianzas con sus vecinos musulmanes del norte de Irak y Siria para reforzar el frente musulmán contra sus enemigos cruzados. El sueño de Nur ad-Din era unir a las distintas fuerzas musulmanas entre el Éufrates y el Nilo para hacer un frente común contra los cruzados, por lo que envió a Saladino al califato fatimí para dar paso al restablecimiento del dominio suní en Egipto."
+ bookmark_aleppo1171: "Nur ad-Din"
+ bookmark_aleppo1171_subheading: "Sultan de Siria"
+ bookmark_aleppo1171_desc: "Nur ad-Din era el segundo hijo de Imad al-Din Zengi, atabeg turcomano de Alepo y Mosul, devoto enemigo de la presencia cruzada en Siria. Tras el asesinato de su padre en 1146, Nur ad-Din y su hermano mayor Saif ad-Din Ghazi I se repartieron el reino: Nur ad-Din gobernó Alepo y Saif ad-Din Ghazi se estableció en Mosul. Nur ad-Din intentó establecer alianzas con sus vecinos musulmanes del norte de Irak y Siria para reforzar el frente musulmán contra sus enemigos cruzados. El sueño de Nur ad-Din era unir a las distintas fuerzas musulmanas entre el Éufrates y el Nilo para hacer un frente común contra los cruzados, por lo que envió a Saladino al califato fatimí para dar paso al restablecimiento del dominio suní en Egipto."
 
-  bookmark_baud31171: "Amaury"
-  bookmark_baud31171_subheading: "Rey de Jerusalén"
-  bookmark_baud31171_desc: "Amalric fue rey de Jerusalén desde 1163. Era el segundo hijo de Melisenda y Fulk de Jerusalén, y sucedió a su hermano mayor Balduino III. Durante el reinado de Balduino III, el condado de Edesa, el primer estado cruzado establecido durante la Primera Cruzada, fue conquistado por Zengi, el emir turco de Alepo. Zengi unió Alepo, Mosul y otras ciudades del norte de Siria, y pretendía imponer su control sobre Damasco en el sur. La Segunda Cruzada en 1148 había fracasado en conquistar Damasco, que pronto cayó ante el hijo de Zengi, Nur ad-Din. Jerusalén también perdió influencia ante Bizancio en el norte de Siria cuando el Imperio impuso su soberanía sobre el Principado de Antioquía. Así, Jerusalén volvió su atención hacia Egipto, donde la dinastía fatimí estaba sufriendo una serie de jóvenes califas y guerras civiles. Los bizantinos y Jerusalén luego lanzaron una invasión fallida de Egipto. Mientras tanto, los territorios musulmanes que rodeaban Jerusalén comenzaron a unirse bajo Nur ad-Din y más tarde Saladino, quien finalmente fijó su mirada en la Tierra Santa."
-
-
-  #1324
-
-  bm_1324: "Magnus IV"
-  bm_1324_desc: "Magnus IV, por elección rey de Suecia y por derecho de nacimiento rey de Noruega, ha unido temporalmente gran parte de Escandinavia bajo su mando. A menos que Magnus demuestre ser un rey excepcional, es poco probable que la unión sobreviva más allá de él, pero hay quienes susurran sobre un Imperio del Norte, con Magnus I a su cabeza.\n\nGran parte del norte de Italia se ha vuelto contra el emperador después de la revuelta de Milán. Duques pelean con condes, alcaldes con dogos. ¿Quién unirá Italia o Italia se unirá en absoluto?\n\n#bold -> Haz clic en 'Jugar como cualquier gobernante' en la esquina inferior izquierda para jugar este marcador <- #!"
-
-  #1157
-
-  bm_1157: "Colapso de los selyúcidas"
-  bm_1157_desc: "En lo que resultó ser un período efímero de resurgimiento, el Sultanato selyúcida bajo el sultán Sanjar ha caído en el desorden, desencadenado por la captura de Sanjar por las bandas rebeldes de Oghuz. Innumerables ex vasallos, miembros restantes de la familia selyúcida y oportunistas están listos para luchar por los restos. El califa sunita, antiguos atabegs y un sinfín de emires, algunos de ellos los últimos restos de la antigua élite persa, todos rodean el cadáver con hambre, ¿quién ganará el gran premio?\n\n#bold -> Haz clic en 'Jugar como cualquier gobernante' en la esquina inferior izquierda para jugar este marcador <- #!"
-
-  #1212
-
-  bm_1212: "Los sucesores selyúcidas"
-  bm_1212_desc: "El Shadom Anushtiginid ha restaurado un grado de orden en el norte de Persia al someter territorios una vez disputados entre antiguos vasallos selyúcidas y nómadas Oghuz durante más de 50 años. A pesar del gran éxito, el camino hacia la gloria no es seguro para los Anushtiginids. Antiguos atabegs selyúcidas, un califato resurgente y curiosos rumores de jinetes en el este son suficientes para mantener a cualquier sultán sabio despierto durante las largas noches.\n\n#bold -> Haz clic en 'Jugar como cualquier gobernante' en la esquina inferior izquierda para jugar este marcador <- #!"
-
-  bookmark_1211Khwar: "Muhammad II"
-  bookmark_1211Khwar_subheading: "Sah del Imperio corasmio"
-  bookmark_1211Khwar_desc: "Muhammad II de Khwarazm se encuentra en la altura del poder, habiendo construido un imperio que se extiende desde el Caspio a los Indus. Sin embargo, los rumores del este hablan de un nuevo poder que se levanta sobre las estepas, una figura llamada Temujin que ha unido a las tribus mongol. La confianza del Sha en sus vastos ejércitos y ciudades ricas puede ser aún su deshacer, ya que las nubes de tormenta se reúnen en el horizonte. ¿Puedes defender tu imperio contra la tentación venidera, o el orgullo del Sha conducirá a la destrucción?"
-
-  bookmark_1211Nikaea: "Theodore I Laskaris"
-  bookmark_1211Nikaea_subheading: "Emperador de Nicaea"
-  bookmark_1211Nikaea_desc: "Theodore Laskaris, que huyó de Constantinopla cuando la ciudad cayó a cruzados latinos, ha excavado un refugio para la civilización romana en Nicaea. Ahora se enfrenta a una lucha desesperada mientras el depuesto Alexios busca recuperar su trono con la ayuda de Seljuk. Con enemigos apremiantes de todos los lados, Theodore debe demostrar que es digno de llevar el manto de Roma. ¿Conservarás la embajada de la civilización romana en el exilio, o Nicaea se convertirá en otro sucesor caído del legado de Constantinopla?"
-
-  bookmark_1211Montfort: "Simon de Montfort"
-  bookmark_1211Montfort_subheading: "Conde de Carcassonne"
-  bookmark_1211Montfort_desc: "Simon de Montfort lleva a los ejércitos de Dios en una guerra santa contra los cátaros de Languedoc, su cruzada llevando fuego y espada a los herejes del sur de Francia. Aunque su proeza marcial es incuestionable, la compleja política de Occitania amenaza con enredarlo, ya que los nobles locales resisten la interferencia norteña en sus asuntos. ¿Puedes completar tu santa misión y establecer tu dinastía en estas tierras turbulentas, o serás deshecho por la cruzada que te trajo al poder?"
-
-  bookmark_1211Livonia: "Lembitu"
-  bookmark_1211Livonia_subheading: "Chieftain of Sakala"
-  bookmark_1211Livonia_desc: "El mayor de los ancianos estonios lidera la resistencia desesperada de su pueblo contra los invasores cristianos de Livonia. Aunque las tribus estonias dispares se han unido bajo su bandera, el tiempo se hace corto a medida que llegan más cruzados con cada temporada pasada. ¿Guardarás los viejos caminos y devolverás a los invasores cristianos, o será forzado a tu pueblo a doblar la rodilla para cruzar y espada?"
-
-  bookmark_1211Denmark: "Valdemar II"
-  bookmark_1211Denmark_subheading: "King of Denmark"
-  bookmark_1211Denmark_desc: "Valdemar II de Dinamarca los ojos se expanden hacia el sur hacia las tierras alemanas, mientras que las cruzadas también conducen a difundir el cristianismo entre los paganos del Báltico. Con el Imperio Romano Santo distraído por la lucha interna, el tiempo parece maduro para la ambición danesa. Sin embargo, tal expansión corre el riesgo de sacar el ire de los vecinos poderosos. ¿Puede establecer el dominio danés sobre el norte de Europa, o sus ambiciones superarán su alcance?"
-
-  bookmark_1211Jin: "Yongji"
-  bookmark_1211Jin_subheading: "Emperador del Imperio Jin"
-  bookmark_1211Jin_desc: "Yongji de Jin enfrenta una amenaza a diferencia de cualquier dinastía que haya encontrado antes. Los bárbaros del norte, una vez divididos y débiles, se han unido bajo un líder aterrador que se estilo a sí mismo Genghis Khan. Aunque el Jin ordena vastos ejércitos y ciudades ricas, los informes de la frontera crecen más alarmantes con cada día que pasa. ¿Encontrarás la fuerza para resistir a la embestida mongol, o tu antiguo imperio se desmoronará antes de esta nueva fuerza?"
-
-  bookmark_1211Delhi: "Iltutmish"
-  bookmark_1211Delhi_subheading: "Sultan of Delhi"
-  bookmark_1211Delhi_desc: "Iltutmish se ha apoderado del control de la Sultanía de Delhi, estableciendo a sí mismo a través de proezas militares y acumen político. Sin embargo, su posición sigue siendo precaria, amenazada por rivales internos y enemigos externos que buscan reclamar la riqueza de la India. ¿Puedes consolidar tu regla y establecer una dinastía que perdure, o Delhi se escapará de tu alcance?"
-
-  bookmark_1211Leon: "xxxx"
-  bookmark_1211Leon_subheading: "Rey de León"
-  bookmark_1211Leon_desc: "Traido entre su deber cristiano y la realidad política, Alfonso mantiene una paz incómoda con los Almohads incluso mientras otros reinos españoles empujan por la cruzada. Su propio matrimonio disuelto por el decreto papal, él debe navegar entre las exigencias de Roma y la supervivencia de su reino."
-
-  bookmark_1211Egypt: "Al-Adil I"
-  bookmark_1211Egypt_subheading: "Sultán del Sultanato ayubí"
-  bookmark_1211Egypt_desc: "Al-Adil, hermano del gran Saladino, gobierna un imperio que se extiende de Egipto a Siria. Aunque ha mantenido y expandido el legado de su hermano, el reino ayyubí enfrenta una presión creciente de miembros de la familia en disputa y las ambiciones de los reinos latinos. ¿Puede mantener unido el imperio de Saladino, o las rivalidades familiares destrozar lo que su hermano construyó?"
-
-  bookmark_1211Cyprus: "xxxx"
-  bookmark_1211Cyprus_subheading: "Rey de Chipre"
-  bookmark_1211Cyprus_desc: "Desde su reino insular, Hugues mantiene un delicado equilibrio entre latín y el griego, entre Tierra Santa y Constantinopla, entre comercio y cruzada. La caída de Constantinopla ha creado nuevas oportunidades, pero también nuevos peligros para su reino estratégico."
+ bookmark_baud31171: "Amaury"
+ bookmark_baud31171_subheading: "Rey de Jerusalén"
+ bookmark_baud31171_desc: "Amalric fue rey de Jerusalén desde 1163. Era el segundo hijo de Melisenda y Fulk de Jerusalén, y sucedió a su hermano mayor Balduino III. Durante el reinado de Balduino III, el condado de Edesa, el primer estado cruzado establecido durante la Primera Cruzada, fue conquistado por Zengi, el emir turco de Alepo. Zengi unió Alepo, Mosul y otras ciudades del norte de Siria, y pretendía imponer su control sobre Damasco en el sur. La Segunda Cruzada en 1148 había fracasado en conquistar Damasco, que pronto cayó ante el hijo de Zengi, Nur ad-Din. Jerusalén también perdió influencia ante Bizancio en el norte de Siria cuando el Imperio impuso su soberanía sobre el Principado de Antioquía. Así, Jerusalén volvió su atención hacia Egipto, donde la dinastía fatimí estaba sufriendo una serie de jóvenes califas y guerras civiles. Los bizantinos y Jerusalén luego lanzaron una invasión fallida de Egipto. Mientras tanto, los territorios musulmanes que rodeaban Jerusalén comenzaron a unirse bajo Nur ad-Din y más tarde Saladino, quien finalmente fijó su mirada en la Tierra Santa."
 
 
-  #813
+ #1324
 
-  bm_813: "El Imperio Carolingio"
-  bm_813_desc: "Carlomagno, una figura destacada de su era, se erige como un símbolo de fuerza y unidad en medio de la agitación. Habiendo forjado un imperio a través de la conquista y la diplomacia, ahora preside sobre un reino que se extiende desde las costas del Atlántico hasta las llanuras de Alemania, pero ¿permanecerá este imperio tras su muerte?\n\n#bold -> Haz clic en 'Jugar como cualquier gobernante' en la esquina inferior izquierda para jugar con este marcador <- #!"
+ bm_1324: "Magnus IV"
+ bm_1324_desc: "Magnus IV, por elección rey de Suecia y por derecho de nacimiento rey de Noruega, ha unido temporalmente gran parte de Escandinavia bajo su mando. A menos que Magnus demuestre ser un rey excepcional, es poco probable que la unión sobreviva más allá de él, pero hay quienes susurran sobre un Imperio del Norte, con Magnus I a su cabeza.\n\nGran parte del norte de Italia se ha vuelto contra el emperador después de la revuelta de Milán. Duques pelean con condes, alcaldes con dogos. ¿Quién unirá Italia o Italia se unirá en absoluto?\n\n#bold -> Haz clic en 'Jugar como cualquier gobernante' en la esquina inferior izquierda para jugar este marcador <- #!"
 
-  #bookmark_davit: "xxxxx"
-  #bookmark_davit_desc: "xxxx"
+ #1157
 
-  bm_1178: "Caminos al Poder"
-  bm_1178_desc: "La fecha del DLC. La descripción se actualizará cuando se lance el DLC. (Creo que 1171 o 1187 son mejores fechas) \n\n#bold -> Haz clic en 'Jugar como cualquier gobernante' en la esquina inferior izquierda para jugar con este marcador <- #!"
+ bm_1157: "Colapso de los selyúcidas"
+ bm_1157_desc: "En lo que resultó ser un período efímero de resurgimiento, el Sultanato selyúcida bajo el sultán Sanjar ha caído en el desorden, desencadenado por la captura de Sanjar por las bandas rebeldes de Oghuz. Innumerables ex vasallos, miembros restantes de la familia selyúcida y oportunistas están listos para luchar por los restos. El califa sunita, antiguos atabegs y un sinfín de emires, algunos de ellos los últimos restos de la antigua élite persa, todos rodean el cadáver con hambre, ¿quién ganará el gran premio?\n\n#bold -> Haz clic en 'Jugar como cualquier gobernante' en la esquina inferior izquierda para jugar este marcador <- #!"
 
-  bm_1250: "¡Lituania se Une!"
-  bm_1250_desc: "Con la Orden Teutónica ocupando sus tierras históricas en el Oeste y la Horda Dorada destruyendo a los Rurikovich en el Este, las numerosas tribus de Lituania finalmente han decidido unirse bajo un rey para su mejor protección, por necesidad. Mindaugas I es un gobernante fuerte, pero su reino no lo es. Careciendo de muchas de sus tierras históricas, las cuales han sido usurpadas por la Orden Teutónica, y estando a solo unos pocos ducados de una frontera completa con la Horda Dorada, su idoneidad será puesta a prueba en los días venideros. No solo Lituania tiene una vasallaje de religiones mixtas, algunas romuvanas y algunas católicas, los propios hijos de Mindaugas están divididos en su culto incluso de su propia fe, con su hijo y heredero Vaisvilkas siendo un cristiano ortodoxo y su segundo hijo Daumantas un romuvano. Para asegurar sus tierras y esculpir un futuro para el pueblo lituano, Mindaugas debe calmar la tensión religiosa en su reino mientras busca alianzas que lo ayuden a recuperar las tierras ancestrales de su pueblo. ¡Por Lietuva!\n\n#bold -> Haz clic en 'Jugar como cualquier gobernante' en la esquina inferior izquierda para jugar con este marcador <- #!"
+ #1212
 
-  bm_1295: "Ascenso de Mahmud Ghazan"
-  bm_1295_desc: "Destronando a su primo Baidu, Ghazan ha ascendido al trono del Iljanato. Como el primer Iljan que se convirtió públicamente al Islam, Ghazan hizo conocer su abrazo del Islam en todo su reino adoptando el nombre de Mahmud. Si Ghazan tendrá éxito en convertir el Iljanato en un importante reino musulmán permanece por verse."
+ bm_1212: "Los sucesores selyúcidas"
+ bm_1212_desc: "El Shadom Anushtiginid ha restaurado un grado de orden en el norte de Persia al someter territorios una vez disputados entre antiguos vasallos selyúcidas y nómadas Oghuz durante más de 50 años. A pesar del gran éxito, el camino hacia la gloria no es seguro para los Anushtiginids. Antiguos atabegs selyúcidas, un califato resurgente y curiosos rumores de jinetes en el este son suficientes para mantener a cualquier sultán sabio despierto durante las largas noches.\n\n#bold -> Haz clic en 'Jugar como cualquier gobernante' en la esquina inferior izquierda para jugar este marcador <- #!"
+
+ bookmark_1211Khwar: "Muhammad II"
+ bookmark_1211Khwar_subheading: "Sah del Imperio corasmio"
+ bookmark_1211Khwar_desc: "Muhammad II de Khwarazm se encuentra en la altura del poder, habiendo construido un imperio que se extiende desde el Caspio a los Indus. Sin embargo, los rumores del este hablan de un nuevo poder que se levanta sobre las estepas, una figura llamada Temujin que ha unido a las tribus mongol. La confianza del Sha en sus vastos ejércitos y ciudades ricas puede ser aún su deshacer, ya que las nubes de tormenta se reúnen en el horizonte. ¿Puedes defender tu imperio contra la tentación venidera, o el orgullo del Sha conducirá a la destrucción?"
+
+ bookmark_1211Nikaea: "Theodore I Laskaris"
+ bookmark_1211Nikaea_subheading: "Emperador de Nicaea"
+ bookmark_1211Nikaea_desc: "Theodore Laskaris, que huyó de Constantinopla cuando la ciudad cayó a cruzados latinos, ha excavado un refugio para la civilización romana en Nicaea. Ahora se enfrenta a una lucha desesperada mientras el depuesto Alexios busca recuperar su trono con la ayuda de Seljuk. Con enemigos apremiantes de todos los lados, Theodore debe demostrar que es digno de llevar el manto de Roma. ¿Conservarás la embajada de la civilización romana en el exilio, o Nicaea se convertirá en otro sucesor caído del legado de Constantinopla?"
+
+ bookmark_1211Montfort: "Simon de Montfort"
+ bookmark_1211Montfort_subheading: "Conde de Carcassonne"
+ bookmark_1211Montfort_desc: "Simon de Montfort lleva a los ejércitos de Dios en una guerra santa contra los cátaros de Languedoc, su cruzada llevando fuego y espada a los herejes del sur de Francia. Aunque su proeza marcial es incuestionable, la compleja política de Occitania amenaza con enredarlo, ya que los nobles locales resisten la interferencia norteña en sus asuntos. ¿Puedes completar tu santa misión y establecer tu dinastía en estas tierras turbulentas, o serás deshecho por la cruzada que te trajo al poder?"
+
+ bookmark_1211Livonia: "Lembitu"
+ bookmark_1211Livonia_subheading: "Chieftain of Sakala"
+ bookmark_1211Livonia_desc: "El mayor de los ancianos estonios lidera la resistencia desesperada de su pueblo contra los invasores cristianos de Livonia. Aunque las tribus estonias dispares se han unido bajo su bandera, el tiempo se hace corto a medida que llegan más cruzados con cada temporada pasada. ¿Guardarás los viejos caminos y devolverás a los invasores cristianos, o será forzado a tu pueblo a doblar la rodilla para cruzar y espada?"
+
+ bookmark_1211Denmark: "Valdemar II"
+ bookmark_1211Denmark_subheading: "King of Denmark"
+ bookmark_1211Denmark_desc: "Valdemar II de Dinamarca los ojos se expanden hacia el sur hacia las tierras alemanas, mientras que las cruzadas también conducen a difundir el cristianismo entre los paganos del Báltico. Con el Imperio Romano Santo distraído por la lucha interna, el tiempo parece maduro para la ambición danesa. Sin embargo, tal expansión corre el riesgo de sacar el ire de los vecinos poderosos. ¿Puede establecer el dominio danés sobre el norte de Europa, o sus ambiciones superarán su alcance?"
+
+ bookmark_1211Jin: "Yongji"
+ bookmark_1211Jin_subheading: "Emperador del Imperio Jin"
+ bookmark_1211Jin_desc: "Yongji de Jin enfrenta una amenaza a diferencia de cualquier dinastía que haya encontrado antes. Los bárbaros del norte, una vez divididos y débiles, se han unido bajo un líder aterrador que se estilo a sí mismo Genghis Khan. Aunque el Jin ordena vastos ejércitos y ciudades ricas, los informes de la frontera crecen más alarmantes con cada día que pasa. ¿Encontrarás la fuerza para resistir a la embestida mongol, o tu antiguo imperio se desmoronará antes de esta nueva fuerza?"
+
+ bookmark_1211Delhi: "Iltutmish"
+ bookmark_1211Delhi_subheading: "Sultan of Delhi"
+ bookmark_1211Delhi_desc: "Iltutmish se ha apoderado del control de la Sultanía de Delhi, estableciendo a sí mismo a través de proezas militares y acumen político. Sin embargo, su posición sigue siendo precaria, amenazada por rivales internos y enemigos externos que buscan reclamar la riqueza de la India. ¿Puedes consolidar tu regla y establecer una dinastía que perdure, o Delhi se escapará de tu alcance?"
+
+ bookmark_1211Leon: "xxxx"
+ bookmark_1211Leon_subheading: "Rey de León"
+ bookmark_1211Leon_desc: "Traido entre su deber cristiano y la realidad política, Alfonso mantiene una paz incómoda con los Almohads incluso mientras otros reinos españoles empujan por la cruzada. Su propio matrimonio disuelto por el decreto papal, él debe navegar entre las exigencias de Roma y la supervivencia de su reino."
+
+ bookmark_1211Egypt: "Al-Adil I"
+ bookmark_1211Egypt_subheading: "Sultán del Sultanato ayubí"
+ bookmark_1211Egypt_desc: "Al-Adil, hermano del gran Saladino, gobierna un imperio que se extiende de Egipto a Siria. Aunque ha mantenido y expandido el legado de su hermano, el reino ayyubí enfrenta una presión creciente de miembros de la familia en disputa y las ambiciones de los reinos latinos. ¿Puede mantener unido el imperio de Saladino, o las rivalidades familiares destrozar lo que su hermano construyó?"
+
+ bookmark_1211Cyprus: "xxxx"
+ bookmark_1211Cyprus_subheading: "Rey de Chipre"
+ bookmark_1211Cyprus_desc: "Desde su reino insular, Hugues mantiene un delicado equilibrio entre latín y el griego, entre Tierra Santa y Constantinopla, entre comercio y cruzada. La caída de Constantinopla ha creado nuevas oportunidades, pero también nuevos peligros para su reino estratégico."
+
+
+ #813
+
+ bm_813: "El Imperio Carolingio"
+ bm_813_desc: "Carlomagno, una figura destacada de su era, se erige como un símbolo de fuerza y unidad en medio de la agitación. Habiendo forjado un imperio a través de la conquista y la diplomacia, ahora preside sobre un reino que se extiende desde las costas del Atlántico hasta las llanuras de Alemania, pero ¿permanecerá este imperio tras su muerte?\n\n#bold -> Haz clic en 'Jugar como cualquier gobernante' en la esquina inferior izquierda para jugar con este marcador <- #!"
+
+ #bookmark_davit: "xxxxx"
+ #bookmark_davit_desc: "xxxx"
+
+ bm_1178: "Caminos al Poder"
+ bm_1178_desc: "La fecha del DLC. La descripción se actualizará cuando se lance el DLC. (Creo que 1171 o 1187 son mejores fechas) \n\n#bold -> Haz clic en 'Jugar como cualquier gobernante' en la esquina inferior izquierda para jugar con este marcador <- #!"
+
+ bm_1250: "¡Lituania se Une!"
+ bm_1250_desc: "Con la Orden Teutónica ocupando sus tierras históricas en el Oeste y la Horda Dorada destruyendo a los Rurikovich en el Este, las numerosas tribus de Lituania finalmente han decidido unirse bajo un rey para su mejor protección, por necesidad. Mindaugas I es un gobernante fuerte, pero su reino no lo es. Careciendo de muchas de sus tierras históricas, las cuales han sido usurpadas por la Orden Teutónica, y estando a solo unos pocos ducados de una frontera completa con la Horda Dorada, su idoneidad será puesta a prueba en los días venideros. No solo Lituania tiene una vasallaje de religiones mixtas, algunas romuvanas y algunas católicas, los propios hijos de Mindaugas están divididos en su culto incluso de su propia fe, con su hijo y heredero Vaisvilkas siendo un cristiano ortodoxo y su segundo hijo Daumantas un romuvano. Para asegurar sus tierras y esculpir un futuro para el pueblo lituano, Mindaugas debe calmar la tensión religiosa en su reino mientras busca alianzas que lo ayuden a recuperar las tierras ancestrales de su pueblo. ¡Por Lietuva!\n\n#bold -> Haz clic en 'Jugar como cualquier gobernante' en la esquina inferior izquierda para jugar con este marcador <- #!"
+
+ bm_1295: "Ascenso de Mahmud Ghazan"
+ bm_1295_desc: "Destronando a su primo Baidu, Ghazan ha ascendido al trono del Iljanato. Como el primer Iljan que se convirtió públicamente al Islam, Ghazan hizo conocer su abrazo del Islam en todo su reino adoptando el nombre de Mahmud. Si Ghazan tendrá éxito en convertir el Iljanato en un importante reino musulmán permanece por verse."
  bookmark_adventurers_almos_arpad_alt_linutika: "$LinU_tika$"
  bookmark_adventurers_almos_arpad_alt_son_arpad: "$A_rpA_d$"
  bookmark_adventurers_count_eudes: "Eudes"
@@ -1514,3 +1512,12 @@
  bookmark_northmen_sigurdr_snake_in_the_eye: "Sigurdr Serpiente en el Ojo"
  bookmark_northmen_sigurdr_snake_in_the_eye_alt_alof: "$Alof$"
  bookmark_northmen_sigurdr_snake_in_the_eye_alt_knud: "$Knud$"
+ bm_1066: "La Alta Edad Media"
+ bm_1066_desc: "El mundo musulmán se encuentra en plena transformación, con dinastías turcas que consolidan su poder en Persia. El Imperio bizantino aún resiste, mientras las potencias cristianas de Europa occidental y central se disputan la hegemonía. En la península ibérica, los reinos cristianos avanzan sobre los territorios de al-Ándalus, debilitados por sus divisiones internas. Escandinavia abraza el cristianismo, y los antiguos dominios vikingos de Rusia y Britania se integran en nuevos órdenes políticos y culturales. Mientras tanto, los normandos extienden su influencia por el Mediterráneo, y las rivalidades entre gobernantes, las ambiciones dinásticas y los conflictos religiosos anuncian una nueva era de conquistas y cruzadas..."
+ bookmark_iberia_king_alfonso_alt_sancha: "$Sancha$"
+ bookmark_iberia_king_alfonso_alt_nuno: "$NuN_o$"
+ bookmark_india1337_desc: "El sultanato de Delhi atraviesa un periodo de grandes transformaciones bajo el gobierno de Muhammad bin Tughluq. Sus ambiciosos proyectos, decisiones impredecibles y métodos de gobierno despiertan tanto admiración como temor entre sus súbditos. Su corte reúne a eruditos, viajeros y hombres de distintas tierras, aunque su autoridad se sostiene mediante una combinación de generosidad, severidad y voluntad inquebrantable. En un reino marcado por las tensiones internas y las aspiraciones de sus gobernantes, el sultán busca reafirmar su poder y mantener la unidad de sus dominios."
+ bookmark_hre1194_desc: "La dinastía Hohenstaufen aspira a consolidar su dominio sobre el Sacro Imperio Romano Germánico y extender su influencia por Italia. La unión con la casa real siciliana vincula las ambiciones imperiales con los derechos de una de las coronas más poderosas del Mediterráneo. Su autoridad, sin embargo, despierta recelos entre príncipes, ciudades y rivales que temen una concentración excesiva de poder. Entre disputas dinásticas, alianzas y pretensiones territoriales, el emperador deberá hacer frente a quienes se oponen a sus designios y decidir hasta dónde está dispuesto a llevar sus ambiciones.\n\n#bold La ambición imperial no conoce límites, pero tampoco la resistencia de sus enemigos. ¿Podrá la casa Hohenstaufen imponer su hegemonía sobre Europa?#!"
+ bookmark_merchants_1178_guido_guerra: "Guido Guerra II"
+ bookmark_merchants_1178_guido_guerra_desc: "Los Guidi figuran entre las casas más antiguas y poderosas de la Toscana, con dominios que se extienden por el valle del Arno y las tierras del Casentino. Sus castillos, derechos señoriales y recursos les otorgan una posición privilegiada en una región marcada por las rivalidades entre nobles, ciudades y autoridades imperiales. Guido Guerra ha mantenido la herencia familiar frente a las disputas que sacuden la región, pero el futuro de la casa depende ahora de sus sucesores. Con las posesiones repartidas a ambos lados de los Apeninos y numerosas ambiciones por satisfacer, los Guidi tienen la oportunidad de fortalecer su linaje y asegurar su lugar entre las grandes casas italianas.\n\n#bold ¿Podrás hacer que tu condado pase a la historia?#!"
+ bookmark_merchants_1178_guido_guerra_iii: "Guido Guerra"
