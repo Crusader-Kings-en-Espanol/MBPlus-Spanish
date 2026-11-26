@@ -675,7 +675,7 @@
  LEZGI_GLOSS: "Los geógrafos de la Antigüedad mencionaban a los legas entre las numerosas tribus que integraban la confederación de Albania caucásica, formada por pueblos con sus propios gobernantes y dialectos, unidos mediante vínculos políticos relativamente flexibles, según la descripción de Estrabón. Su nombre ha perdurado en denominaciones asociadas a los lezguinos, como el etnónimo georgiano leki, utilizado históricamente para referirse a diversos pueblos de Daguestán. Protegidos por un territorio montañoso mucho más difícil de conquistar y administrar que las llanuras de Albania caucásica, los legas conservaron su lengua y una considerable autonomía, incluso cuando las regiones más accesibles de la confederación quedaron sometidas a la influencia armenia, persa y, posteriormente, túrquica. Esta continuidad lingüística y cultural permitió preservar su herencia montañesa, transmitida a los antepasados de los actuales lezguinos."
 
  tsakonian_history_loc: "Conservó una tradición diferenciada de [CULTURE.GetName] [Glossary('en el Parnón', 'TSAKONIAN_GLOSS')] hacia el año [DATE.GetYear]"
- TSAKONIAN_GLOSS: "A diferencia de casi todas las demás comunidades griegas, los habitantes de Tsakonia no remontan los orígenes de su lengua al griego común o koiné, del que evolucionó el griego bizantino, sino directamente al antiguo dialecto dórico, hablado en Laconia, la tierra de Esparta. Las escarpadas montañas del Parnón protegieron a estas pequeñas comunidades costeras y montañesas del Peloponeso de las migraciones eslavas que transformaron gran parte de Grecia durante los siglos VI y VII. Este aislamiento permitió conservar una tradición lingüística y cultural de origen dórico que se remontaba a la época de los reyes espartanos, mientras que en el resto del mundo bizantino predominaba el griego derivado de la koiné."
+ TSAKONIAN_GLOSS: "Los laconios de Tsakonia se distinguen de otras comunidades griegas por conservar una lengua de origen dórico, emparentada con el antiguo dialecto de Laconia, la tierra de Esparta. Las escarpadas montañas del Parnón y el aislamiento de sus comunidades costeras y montañesas favorecieron la pervivencia de una tradición lingüística y cultural propia. Mientras el griego derivado de la koiné se extendió por el mundo bizantino, los tsakonios conservaron rasgos de su antigua herencia dórica, reflejados en su lengua, sus costumbres y su identidad local."
 
  griko_history_loc: "Se desarrolló entre los [CULTURE.GetCollectiveNoun] [Glossary('del sur de Italia', 'GRIKO_GLOSS')] hacia el año [DATE.GetYear]"
  GRIKO_GLOSS: "El dominio bizantino sobre el sur de Italia y Sicilia se prolongó durante siglos, incluso después de que el Imperio perdiera el control del resto de la península itálica. Esta presencia dejó comunidades de habla griega en Calabria y el Salento que perduraron mucho después de la desaparición de la autoridad política bizantina. Rodeadas por una Italia cada vez más latinizada y posteriormente sometida al dominio normando, estas comunidades conservaron su lengua y tradiciones religiosas de origen griego, constituyendo enclaves culturales diferenciados. La relación entre la herencia antigua de la Magna Grecia y las migraciones de época bizantina sigue siendo debatida; ambas forman parte de las interpretaciones sobre el origen de estas comunidades."
@@ -3942,9 +3942,9 @@
  trojan_collective_noun: "Troyanos"
  trojan_prefix: "Troyano"
 
- tsakonian: "Tsaconia"
- tsakonian_collective_noun: "Tsaconios"
- tsakonian_prefix: "Tsaconio"
+ tsakonian: "Laconica"
+ tsakonian_collective_noun: "Laconios"
+ tsakonian_prefix: "Laconio"
 
  tuareg: "Tuareg"
 
