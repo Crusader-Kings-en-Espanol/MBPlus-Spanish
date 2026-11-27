@@ -315,6 +315,7 @@
 # Reino de los Francos
  e_france_article: "la "
  e_france: "Francia"
+ e_france_frankish: "Francia"
  e_france_adj: "franco"
  e_france_pre: "franco"
  k_france: "France"
