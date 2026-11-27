@@ -1,4 +1,4 @@
-﻿﻿l_spanish:
+﻿﻿﻿l_spanish:
 #Landless Titles
  d_knights_of_montesa: "Orden de Montesa"
  d_knights_of_montesa_adj: "Montesina"
@@ -324,8 +324,8 @@
  WEST_FRANCIA_adj: "franco-occidental"
  NEUSTRIA: "Neustria"
  NEUSTRIA_adj: "Neustrio"
-  AUSTRASIA: "Austrasia"
-  AUSTRASIA_adj: "austrasio"
+ AUSTRASIA: "Austrasia"
+ AUSTRASIA_adj: "austrasio"
  k_lotharingia: "Lotaringia"
  k_lotharingia_adj: "lotaringio"
  k_lower_lorraine: "Baja Lorena"
